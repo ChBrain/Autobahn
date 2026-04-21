@@ -1,0 +1,56 @@
+name: Build PDFs
+
+on:
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Install dependencies
+        run: |
+          sudo apt-get update -q
+          sudo apt-get install -y pandoc
+          pip install weasyprint
+
+      - name: Build PDFs
+        run: |
+          mkdir -p dist
+
+          for section in people vehicles props; do
+            echo "Building ${section}..."
+            files=$(find ${section} -name "*.md" | sort)
+            cat $files > /tmp/${section}_combined.md
+            pandoc /tmp/${section}_combined.md \
+              --from markdown \
+              --to pdf \
+              --pdf-engine=weasyprint \
+              --metadata title="Autobahn - $(echo ${section} | sed 's/\b\(.\)/\u\1/g')" \
+              --metadata date="$(date +%Y-%m-%d)" \
+              -o dist/autobahn-${section}.pdf
+          done
+
+          for road in roads/a*; do
+            name=$(basename $road)
+            echo "Building ${name}..."
+            files=$(find ${road} -name "*.md" | sort)
+            if [ -n "$files" ]; then
+              cat $files > /tmp/${name}_combined.md
+              pandoc /tmp/${name}_combined.md \
+                --from markdown \
+                --to pdf \
+                --pdf-engine=weasyprint \
+                --metadata title="Autobahn - ${name}" \
+                --metadata date="$(date +%Y-%m-%d)" \
+                -o dist/autobahn-${name}.pdf
+            fi
+          done
+
+      - name: Upload as artifacts
+        uses: actions/upload-artifact@v4
+        with:
+          name: autobahn-pdfs
+          path: dist/*.pdf
+          retention-days: 14

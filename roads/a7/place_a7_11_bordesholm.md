@@ -1,0 +1,24 @@
+﻿# Bordesholm
+
+## Owner
+- Project: Autobahn
+- Place: [the A7](place_the_a7.md)
+
+## Shown
+The Bordesholm exit. The sign: Bordesholm. The Dreieck Bordesholm visible ahead - the A215 junction. The last exit before the interchange.
+
+- 6 km north: [Warder](place_a7_10_warder.md)
+- 1 km south: [Dreieck Bordesholm](place_a7_12_dreieck_bordesholm.md)
+
+## Holds
+[The Kilometerstein](piece_the_kilometerstein.md).
+
+## Offers
+Ausfahrt 11 - the exit ramp. The ordinary road below.
+
+## Withheld
+The Naturpark Westensee. The lake district begins immediately west - the Westensee, the Brahmsee, the Einfelder See. Glacial lakes in a moraine landscape, protected since 1985.
+
+---
+
+v0.1.0 - KAI Worlds

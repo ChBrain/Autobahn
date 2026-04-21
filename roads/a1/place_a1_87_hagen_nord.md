@@ -1,0 +1,27 @@
+# Hagen-Nord
+
+## Owner
+- Project: Autobahn
+- Place: the A1
+
+## Shown
+Ausfahrt 87. km 344,2. The sign: Hagen-Nord. The Vorhalle district below - a Hagen Stadtteil of 10,000 residents, until 1929 its own municipality. Industrial edges, the valley opening before the ramp.
+
+- Toward Dortmund: Westhofener Kreuz (A1/A45), 4 km
+- Toward Köln: [Hagen-West](place_a1_88_hagen_west.md), 3,4 km
+
+Between this exit and Hagen-West, in order: [Volmebrücke](place_a1_volmebruecke.md) (160m over the Volme), [Brücke Hengstey](place_a1_bruecke_hengstey.md) (rail crosses road - 88m bridge above / 121m underpass below).
+
+## Holds
+Nothing stored here.
+
+## Offers
+Ausfahrt 87 - the exit ramp. Toward Hagen city centre and toward Wetter and Witten. Coming from Dortmund: first Hagen exit. Drivers who know the city take this one.
+
+## Withheld
+The Hengsteysee. The reservoir lies directly west of this exit - reachable from the exit, not visible from the carriageway.
+
+---
+
+*place_a1_87_hagen_nord.md - 12.04.2026*
+*v0.1.0 - KAI Worlds / Autobahn Aktuell*

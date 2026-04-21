@@ -1,0 +1,24 @@
+﻿# Pinneberg-Mitte
+
+## Owner
+- Project: Autobahn
+- Place: [the A23](place_the_a23.md)
+
+## Shown
+The central Pinneberg exit. The sign: Pinneberg-Mitte. The town centre accessible from here. The road here fully suburban - the Hamburg metropolitan area absorbing the landscape.
+
+- 2 km north: [Pinneberg-Nord](place_a23_16_pinneberg_nord.md)
+- 2 km south: [Pinneberg-Süd](place_a23_18_pinneberg_sued.md)
+
+## Holds
+[The Kilometerstein](piece_the_kilometerstein.md).
+
+## Offers
+Ausfahrt 17 - the exit ramp. The ordinary road below.
+
+## Withheld
+The Drostei. The former Amt building in Pinneberg centre is one of the best-preserved baroque administrative buildings in Schleswig-Holstein. Built 1765. The seat of the Amt Pinneberg under Danish administration.
+
+---
+
+v0.1.0 - KAI Worlds

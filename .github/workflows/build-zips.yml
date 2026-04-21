@@ -1,0 +1,47 @@
+name: Build Claude.ai Zips
+
+on:
+  workflow_dispatch:
+  release:
+    types: [created]
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Build zips
+        run: |
+          mkdir -p dist
+
+          # engine only
+          zip -r dist/engine.zip engine/
+
+          # per section - no engine
+          zip -r dist/autobahn-people.zip people/
+          zip -r dist/autobahn-vehicles.zip vehicles/
+          zip -r dist/autobahn-props.zip props/
+
+          # per highway
+          for road in roads/a*; do
+            name=$(basename $road)
+            zip -r dist/autobahn-${name}.zip ${road}/
+          done
+
+          # full - all sections, no engine
+          zip -r dist/autobahn-full.zip people/ vehicles/ props/ roads/
+
+      - name: Upload to release
+        if: github.event_name == 'release'
+        uses: softprops/action-gh-release@v2
+        with:
+          files: dist/*.zip
+
+      - name: Upload as artifacts
+        if: github.event_name == 'workflow_dispatch'
+        uses: actions/upload-artifact@v4
+        with:
+          name: autobahn-zips
+          path: dist/*.zip
+          retention-days: 7

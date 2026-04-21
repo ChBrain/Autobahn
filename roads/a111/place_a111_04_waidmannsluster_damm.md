@@ -1,0 +1,28 @@
+# Waidmannsluster Damm / Hermsdorfer Damm
+
+## Owner
+- Project: Autobahn
+- Place: the A111
+
+## Shown
+Ausfahrt 4. km 14,9. Das Schild: Waidmannsluster Damm, Hermsdorfer Damm. Eine Straßenbrücke über die Fahrbahn - 50 Meter. Die Rampe nach rechts für Fahrtrichtung Charlottenburg.
+
+- Richtung Oranienburg: Schulzendorfer Straße (3), 3,7 km
+- Richtung Charlottenburg: [Tunnel Tegel](place_a111_tunnel_tegel.md) beginnt unmittelbar nach dieser Ausfahrt. Holzhauser Straße (5), 2,1 km.
+
+Die letzte Ausfahrt vor den Tunneln. Wer hier nicht rausfährt fährt durch.
+
+## Holds
+[The Kilometerstein](piece_the_kilometerstein.md).
+Die Rampe. Die Brücke über ihr.
+
+## Offers
+Ausfahrt 4 - die Rampe. Waidmannsluster Damm Richtung Tegel, Hermsdorf, Tegeler See. Die letzte Ausfahrt vor den Tunneln für Fahrer Richtung Charlottenburg.
+
+## Withheld
+Die Villa Borsig. Zehn Minuten von dieser Ausfahrt auf der Halbinsel Reiherwerder im Tegeler See. Gästehaus des Auswärtigen Amts. Nicht zugänglich. Die Koalitionsspitzen haben dort die Nacht durchverhandelt - Merz, Klingbeil, Reiche hinter verschlossenen Türen. Um halb eins sind sie rausgegangen. Kein Ergebnis wurde verkündet. Die Rampe zeigt Richtung Waidmannsluster Damm. Sie weiß nichts davon.
+
+---
+
+*place_a111_04_waidmannsluster_damm.md - 13.04.2026*
+*v0.1.0 - KAI Worlds / Autobahn Aktuell*
