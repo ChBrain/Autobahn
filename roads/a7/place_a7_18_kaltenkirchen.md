@@ -17,7 +17,7 @@ The Kaltenkirchen exit. The sign: Kaltenkirchen, B4. Hamburg 35 km on the overhe
 Ausfahrt 18 - the exit ramp. The ordinary road below.
 
 ## Withheld
-The B4. At the bottom of this exit: north to Bad Bramstedt, south to Norderstedt. Two towns visible on signs and invisible from here. The B4 was the main Hamburg-Flensburg route before this carriageway existed.
+The Hasenmoor. Directly west of Kaltenkirchen - one of the largest intact raised bogs in Schleswig-Holstein. Peat, cotton grass, rare waders. The ground unreliable underfoot away from the paths. What the land here looked like before it was drained for agriculture.
 
 ---
 

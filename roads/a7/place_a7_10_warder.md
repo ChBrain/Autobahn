@@ -17,7 +17,7 @@ Small exit south of Rendsburg. The sign: Warder, Nortorf. Rural. The road here f
 Ausfahrt 10 - the exit ramp. The ordinary road below.
 
 ## Withheld
-Nortorf. The town four kilometres west has no exit of its own. Warder serves it. Every driver going to Nortorf passes a sign that says Warder.
+Nortorf church. Four kilometres west, a 13th-century granite church in the town centre. The oldest building in the area by six centuries. Stone in flat land, the same stone the glaciers left here when they retreated.
 
 ---
 

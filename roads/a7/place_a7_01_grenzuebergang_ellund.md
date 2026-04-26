@@ -1,4 +1,4 @@
-# Grenzübergang Ellund
+# Grenzï¿½bergang Ellund
 
 ## Owner
 - Project: Autobahn
@@ -16,7 +16,7 @@ The northern terminus of the A7. The border between Germany and Denmark. The roa
 Entry to the German motorway network from Scandinavia and Jutland. The beginning of the A7 - or the end of it, depending on direction. No exit ramp here: the border is a transition, not a junction.
 
 ## Withheld
-Jutland. The peninsula above here is one of the defining geographical facts of Schleswig-Holstein - the land connection between Scandinavia and continental Europe. Every overland route between the two has crossed this terrain for ten thousand years.
+FrÃ¸slev-Padborglejren. Two kilometres north, across the border, the internment camp where the German occupation held Danish resistance members. The largest camp on Danish soil. Still standing.
 
 ---
 

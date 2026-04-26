@@ -17,7 +17,7 @@ The sign: Ellerau. The Hamburg commuter belt - the settlements south of Henstedt
 Ausfahrt 20 - the exit ramp.
 
 ## Withheld
-The Pinnau. The small river running west through the Hamburg commuter belt to the Elbe crosses near this exit - one of the network of small waterways draining the Geest into the tidal estuary. Unremarkable at this point but part of the same system that shapes the entire landscape south of here.
+The Rantzau estate at Barmstedt. Ten kilometres west, a moated Renaissance manor on the Krückau river - the seat of the Rantzau family, who shaped Holstein politics for three centuries. The manor grounds are now a public park around the water. The moat still filled.
 
 ---
 

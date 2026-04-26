@@ -5,7 +5,7 @@
 - Place: [the A7](place_a7.md)
 
 ## Shown
-The Stellingen exit. The sign: Hamburg-Stellingen. The Volkspark to the right. Six lanes, overhead signs, the speed limit dropping in stages. The Lärmschutztunnel Stellingen: the road briefly underground again. [Dreieck Hamburg-Nordwest](place_a7_25_dreieck_hamburg_nordwest.md) recently passed.
+The Stellingen exit. The sign: Hamburg-Stellingen. The Volkspark to the right. Six lanes, overhead signs, the speed limit dropping in stages. The LÃ¤rmschutztunnel Stellingen: the road briefly underground again.
 
 ## Holds
 

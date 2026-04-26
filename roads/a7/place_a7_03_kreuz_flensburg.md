@@ -17,7 +17,7 @@ Exit 3. A junction, not an ordinary exit. The A205 branches east toward Flensbur
 Ausfahrt 3 - the junction ramp. Access to Flensburg centre via the A205. The A7 continues without entering the city.
 
 ## Withheld
-The Kraftfahrt-Bundesamt. The national driving licence register sits in Flensburg - every point, every suspension, every revoked licence in Germany held in this building. The building is not visible from the verge.
+Glücksburg. Eight kilometres northeast, a white Renaissance water castle sitting on a lake connected to the Flensburg Förde. Built 1582-1587. Ancestral seat of the dynasties that became the royal houses of Denmark, Greece, and the United Kingdom. The lake still surrounds it.
 
 ---
 

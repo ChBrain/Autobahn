@@ -5,7 +5,7 @@
 - Place: [the A7](place_a7.md)
 
 ## Shown
-The Othmarschen exit. The sign: Hamburg-Othmarschen, Altona, Bahrenfeld. North of [the Elbtunnel](place_a7_elbtunnel.md). Currently serving as the alternative exit for [Hamburg-Bahrenfeld](place_a7_28_hamburg_bahrenfeld.md) traffic due to the closure. The road here four lanes, the city fully present.
+The Othmarschen exit. The sign: Hamburg-Othmarschen, Altona, Bahrenfeld. North of [the Elbtunnel](place_a7_elbtunnel.md). The road here four lanes, the city fully present.
 
 ## Holds
 
@@ -17,7 +17,7 @@ The Othmarschen exit. The sign: Hamburg-Othmarschen, Altona, Bahrenfeld. North o
 Ausfahrt 29 - the exit ramp. The ordinary road below.
 
 ## Withheld
-The Elbe proximity. Othmarschen sits between the Elbe and the higher ground of Altona - one of the wealthiest residential districts in Hamburg, its villas hidden behind the embankment. The river is 800 metres south.
+The Elbchaussee. The road running along the Elbe from Altona west through Othmarschen and Blankenese - lined with 19th-century merchant villas set back behind walls and trees. One of the most significant residential streets in Germany. The river visible between the houses. Two kilometres south.
 
 ---
 
