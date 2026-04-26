@@ -1,17 +1,17 @@
-﻿# Hamburg-Schnelsen
+# Hamburg-Schnelsen
 
 ## Owner
 - Project: Autobahn
-- Place: [the A7](place_the_a7.md)
+- Place: [the A7](place_a7.md)
 
 ## Shown
-The Hamburg-Schnelsen exit. The sign: Hamburg-Schnelsen, Niendorf. The road here fully urban - the Lärmschutztunnel Schnelsen built over the motorway in this section, the road briefly underground before [Hamburg-Stellingen](place_a7_26_hamburg_stellingen.md).
-
-- 1 km north: [Hamburg-Schnelsen-Nord](place_a7_23_hamburg_schnelsen_nord.md)
-- 2 km south: [Dreieck Hamburg-Nordwest](place_a7_25_dreieck_hamburg_nordwest.md)
+The Hamburg-Schnelsen exit. The sign: Hamburg-Schnelsen, Niendorf. The road here fully urban - the L�rmschutztunnel Schnelsen built over the motorway in this section.
 
 ## Holds
-[The Kilometerstein](piece_the_kilometerstein.md).
+
+* [km 146.2](piece_the_kilometerstein.md) on [the A7](place_a7.md).
+* 1 km north on [the A7](place_a7.md) to [Hamburg-Schnelsen-Nord](place_a7_23_hamburg_schnelsen_nord.md).
+* 2 km south on [the A7](place_a7.md) to [Dreieck Hamburg-Nordwest](place_a7_25_dreieck_hamburg_nordwest.md).
 
 ## Offers
 Ausfahrt 24 - the exit ramp. The ordinary road below.
