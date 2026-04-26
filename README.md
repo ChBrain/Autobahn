@@ -1,4 +1,4 @@
-# Autobahn [↓](https://github.com/ChBrain/KAIWorlds/releases/latest/download/autobahn.zip)
+# Autobahn [↓](https://github.com/ChBrain/Autobahn/releases/latest/download/autobahn-full.zip)
 
 *A7, A23, A1, A20, A21, A210, A215, A24, A25 - Schleswig-Holstein*
 
@@ -53,17 +53,22 @@ And others: Andrea, Elif, Erik, Kevin, Lena's partner.
 
 ---
 
-## The Roads
+## Roads
 
-**A7** - Flensburg to Hamburg, 31 exits plus junctions and Raststätten. The Elbtunnel between exits 27 and 28.
-
-**A23** - Heide to Dreieck Hamburg-Nordwest, 22 exits. Westküstenautobahn.
-
-**A1** - Vogelfluglinie, Heiligenhafen to Lübeck, Scandinavian ferry connection.
-
-**A21** - Nettelsee to Kreuz Bargteheide, 52 km, incomplete both ends.
-
-**A210, A215, A20, A24, A25** - connecting roads.
+| Road | Section | Zip | PDF |
+|------|---------|-----|-----|
+| **A1** | Heiligenhafen - Lübeck - Vogelfluglinie | [↓](https://github.com/ChBrain/Autobahn/releases/latest/download/autobahn-a1.zip) | [↓](https://github.com/ChBrain/Autobahn/releases/latest/download/autobahn-a1.pdf) |
+| **A7** | Flensburg - Hamburg - 31 exits, Elbtunnel | [↓](https://github.com/ChBrain/Autobahn/releases/latest/download/autobahn-a7.zip) | [↓](https://github.com/ChBrain/Autobahn/releases/latest/download/autobahn-a7.pdf) |
+| **A20** | Weede - Kreuz Lübeck | [↓](https://github.com/ChBrain/Autobahn/releases/latest/download/autobahn-a20.zip) | [↓](https://github.com/ChBrain/Autobahn/releases/latest/download/autobahn-a20.pdf) |
+| **A21** | Nettelsee - Kreuz Bargteheide - 52 km | [↓](https://github.com/ChBrain/Autobahn/releases/latest/download/autobahn-a21.zip) | [↓](https://github.com/ChBrain/Autobahn/releases/latest/download/autobahn-a21.pdf) |
+| **A23** | Heide - Dreieck Hamburg-Nordwest - Westküstenautobahn | [↓](https://github.com/ChBrain/Autobahn/releases/latest/download/autobahn-a23.zip) | [↓](https://github.com/ChBrain/Autobahn/releases/latest/download/autobahn-a23.pdf) |
+| **A24** | Hamburg-Horn - Gudow | [↓](https://github.com/ChBrain/Autobahn/releases/latest/download/autobahn-a24.zip) | [↓](https://github.com/ChBrain/Autobahn/releases/latest/download/autobahn-a24.pdf) |
+| **A25** | Dreieck Hamburg-Südost - Neuallermöhe-West | [↓](https://github.com/ChBrain/Autobahn/releases/latest/download/autobahn-a25.zip) | [↓](https://github.com/ChBrain/Autobahn/releases/latest/download/autobahn-a25.pdf) |
+| **A40** | Essen - Dortmund - Ruhrschnellweg | [↓](https://github.com/ChBrain/Autobahn/releases/latest/download/autobahn-a40.zip) | [↓](https://github.com/ChBrain/Autobahn/releases/latest/download/autobahn-a40.pdf) |
+| **A111** | Berlin Nordwest - Tunnel Tegel | [↓](https://github.com/ChBrain/Autobahn/releases/latest/download/autobahn-a111.zip) | [↓](https://github.com/ChBrain/Autobahn/releases/latest/download/autobahn-a111.pdf) |
+| **A115** | AVUS - Dreieck Funkturm - Dreieck Nuthetal | [↓](https://github.com/ChBrain/Autobahn/releases/latest/download/autobahn-a115.zip) | [↓](https://github.com/ChBrain/Autobahn/releases/latest/download/autobahn-a115.pdf) |
+| **A210** | Schacht-Audorf - Kreuz Kiel-West | [↓](https://github.com/ChBrain/Autobahn/releases/latest/download/autobahn-a210.zip) | [↓](https://github.com/ChBrain/Autobahn/releases/latest/download/autobahn-a210.pdf) |
+| **A215** | Kiel-Westring - Dreieck Bordesholm | [↓](https://github.com/ChBrain/Autobahn/releases/latest/download/autobahn-a215.zip) | [↓](https://github.com/ChBrain/Autobahn/releases/latest/download/autobahn-a215.pdf) |
 
 ---
 
