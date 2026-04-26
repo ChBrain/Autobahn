@@ -2,7 +2,7 @@
 
 ## Owner
 - Project: Autobahn
-- Place: [the A7](place_a7.md)
+- Place: [the A7](place_a7.md) in [Schleswig-Holstein](place_schleswig_holstein.md)
 
 ## Shown
 The Bordesholm exit. The sign: Bordesholm. The Dreieck Bordesholm visible ahead - the A215 junction. The last exit before the interchange.

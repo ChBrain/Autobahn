@@ -2,7 +2,7 @@
 
 ## Owner
 - Project: Autobahn
-- Place: [the A7](place_a7.md)
+- Place: [the A7](place_a7.md) in [Schleswig-Holstein](place_schleswig_holstein.md)
 - Position: [Rastst�tte Worker](position_raststaette_worker.md)
 
 ## Shown

@@ -2,7 +2,7 @@
 
 ## Owner
 - Project: Autobahn
-- Place: [the A7](place_a7.md)
+- Place: [the A7](place_a7.md) in [Schleswig-Holstein](place_schleswig_holstein.md)
 
 ## Shown
 The northern terminus of the A7. The border between Germany and Denmark. The road arrives from the north as the E45 - the Danish motorway running from Frederikshavn through Aalborg, Aarhus, Kolding, Aabenraa, Padborg. It crosses the line and becomes the A7. The signs change. The road does not. The former border control buildings still visible beside the carriageway - unused since Schengen. A few hundred metres of transition, then the German road system begins.

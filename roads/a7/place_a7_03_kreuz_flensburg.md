@@ -2,7 +2,7 @@
 
 ## Owner
 - Project: Autobahn
-- Place: [the A7](place_a7.md)
+- Place: [the A7](place_a7.md) in [Schleswig-Holstein](place_schleswig_holstein.md)
 
 ## Shown
 Exit 3. A junction, not an ordinary exit. The A205 branches east toward Flensburg city centre - the short motorway spur that connects the A7 to the city. The A7 continues south. The junction signed: A7 Hamburg, A205 Flensburg.

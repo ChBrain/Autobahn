@@ -2,7 +2,7 @@
 
 ## Owner
 - Project: Autobahn
-- Place: [the A7](place_a7.md)
+- Place: [the A7](place_a7.md) in [Hamburg](place_hamburg.md) in [Hamburg](place_hamburg.md)
 
 ## Shown
 The Waltershof exit. The sign: Hamburg-Waltershof, Hafen. South of [the Elbtunnel](place_a7_elbtunnel.md). The port visible - containers, cranes, the smell of the harbour if the window is open. The road here industrial. The A7 continuing south, leaving Hamburg, heading toward Hannover.

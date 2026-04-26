@@ -2,7 +2,7 @@
 
 ## Owner
 - Project: Autobahn
-- Place: [the A7](place_a7.md)
+- Place: [the A7](place_a7.md) in [Schleswig-Holstein](place_schleswig_holstein.md)
 
 ## Shown
 Exit 9. Not an ordinary exit - a junction. The A210 branching east toward Kiel. The A7 continuing south toward Hamburg. The junction signed clearly: A7 Hamburg, A210 Kiel. The road elevated here - the Rader Hochbr�cke crossing the Kiel Canal just north. The canal visible briefly from the junction area.

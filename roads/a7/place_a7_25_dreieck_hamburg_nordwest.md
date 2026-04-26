@@ -2,7 +2,7 @@
 
 ## Owner
 - Project: Autobahn
-- Place: [the A7](place_a7.md)
+- Place: [the A7](place_a7.md) in [Hamburg](place_hamburg.md) in [Hamburg](place_hamburg.md)
 
 ## Shown
 Exit 25. The largest junction on this stretch. The A23 branching west toward Heide and Itzehoe. The A7 continuing south toward the Elbtunnel. The junction signed: A7 Hamburg, A23 Heide/Itzehoe. The road here eight to ten lanes southbound - the widest section of the A7 between Flensburg and Hamburg. The junction lies in the Hamburg district of Eidelstedt. The Autobahn covered overhead in Schnelsen to the north, open here.

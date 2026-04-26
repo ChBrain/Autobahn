@@ -2,7 +2,7 @@
 
 ## Owner
 - Project: Autobahn
-- Place: [the A7](place_a7.md)
+- Place: [the A7](place_a7.md) in [Schleswig-Holstein](place_schleswig_holstein.md)
 
 ## Shown
 Small exit south of Rendsburg. The sign: Warder, Nortorf. Rural. The road here flat again after the bridge descent. A brief stretch where the Autobahn is unremarkable.

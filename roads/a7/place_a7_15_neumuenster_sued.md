@@ -2,7 +2,7 @@
 
 ## Owner
 - Project: Autobahn
-- Place: [the A7](place_a7.md)
+- Place: [the A7](place_a7.md) in [Schleswig-Holstein](place_schleswig_holstein.md)
 
 ## Shown
 The southern Neumünster exit. The sign: Neumünster-Süd, B205. The last exit for Neumünster. The road widening to six lanes ahead.
