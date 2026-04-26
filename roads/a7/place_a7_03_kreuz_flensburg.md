@@ -10,8 +10,8 @@ Exit 3. A junction, not an ordinary exit. The A205 branches east toward Flensbur
 ## Holds
 
 * [km 9.1](piece_the_kilometerstein.md) on [the A7](place_a7.md).
-* 4 km north on [the A7](place_a7.md) to [Flensburg/Harrislee](place_a7_02_flensburg_harrislee.md).
-* 8 km south on [the A7](place_a7.md) to [Tarp](place_a7_04_tarp.md).
+* 5.2 km north on [the A7](place_a7.md) to [Flensburg/Harrislee](place_a7_02_flensburg_harrislee.md).
+* 8.2 km south on [the A7](place_a7.md) to [Tarp](place_a7_04_tarp.md).
 
 ## Offers
 Ausfahrt 3 - the junction ramp. Access to Flensburg centre via the A205. The A7 continues without entering the city.

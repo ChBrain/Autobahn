@@ -10,8 +10,8 @@ The northern Schleswig exit. The sign: Schleswig, Schuby, B201. The city a few k
 ## Holds
 
 * [km 33.7](piece_the_kilometerstein.md) on [the A7](place_a7.md).
-* 9 km north on [the A7](place_a7.md) to [Tarp](place_a7_04_tarp.md).
-* 7 km south on [the A7](place_a7.md) to [Schleswig/Jagel](place_a7_06_schleswig_jagel.md).
+* 16.4 km north on [the A7](place_a7.md) to [Tarp](place_a7_04_tarp.md).
+* 5.5 km south on [the A7](place_a7.md) to [Schleswig/Jagel](place_a7_06_schleswig_jagel.md).
 
 ## Offers
 Ausfahrt 5 - the exit ramp. The ordinary road below.

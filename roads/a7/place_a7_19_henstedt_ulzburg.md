@@ -5,7 +5,7 @@
 - Place: [the A7](place_a7.md) in [Schleswig-Holstein](place_schleswig_holstein.md)
 
 ## Shown
-The Henstedt-Ulzburg exit. The sign: Henstedt-Ulzburg, Norderstedt. The exit before Ellerau. The ordinary road below.
+The Henstedt-Ulzburg exit. The sign: Henstedt-Ulzburg, Norderstedt. The exit between Kaltenkirchen and Ellerau. The ordinary road below.
 
 ## Holds
 

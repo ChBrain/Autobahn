@@ -1,17 +1,17 @@
-# Neum�nster-Nord
+﻿# Neumünster-Nord
 
 ## Owner
 - Project: Autobahn
 - Place: [the A7](place_a7.md) in [Schleswig-Holstein](place_schleswig_holstein.md)
 
 ## Shown
-The northern Neum�nster exit. The sign: Neum�nster-Nord. The city visible to the left.
+The northern Neumünster exit. The sign: Neumünster-Nord. The city visible to the left.
 
 ## Holds
 
 * [km 90.3](piece_the_kilometerstein.md) on [the A7](place_a7.md).
 * 6 km north on [the A7](place_a7.md) to [Dreieck Bordesholm](place_a7_12_dreieck_bordesholm.md).
-* 4 km south on [the A7](place_a7.md) to [Neum�nster-Mitte](place_a7_14_neumuenster_mitte.md).
+* 6.1 km south on [the A7](place_a7.md) to [Neumünster-Mitte](place_a7_14_neumuenster_mitte.md).
 
 ## Offers
 Ausfahrt 13 - the exit ramp. The ordinary road below.

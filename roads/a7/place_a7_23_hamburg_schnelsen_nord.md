@@ -2,7 +2,7 @@
 
 ## Owner
 - Project: Autobahn
-- Place: [the A7](place_a7.md) in [Hamburg](place_hamburg.md) in [Hamburg](place_hamburg.md)
+- Place: [the A7](place_a7.md) in [Hamburg](place_hamburg.md)
 
 ## Shown
 Hamburg. The city limit passed. The northern Schnelsen exit. The sign: Hamburg-Schnelsen-Nord, Flughafen. The road here dense - six lanes, overhead guidance boards. Hamburg Airport accessible from here. Exit 22 does not exist in the numbering.

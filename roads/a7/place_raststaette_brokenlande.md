@@ -13,11 +13,9 @@ Between [Neumünster-Süd](place_a7_15_neumuenster_sued.md) and [Großenaspe](pl
 * [km 102.6](piece_the_kilometerstein.md) on [the A7](place_a7.md).
 * 3.2 km north on [the A7](place_a7.md) to [Neumünster-Süd](place_a7_15_neumuenster_sued.md).
 * 1.4 km south on [the A7](place_a7.md) to [Großenaspe](place_a7_16_grossenaspe.md).
-* [The coffee](piece_the_coffee.md).
-* [The tank](piece_the_tank.md).
 
 ## Offers
-A stop between Neumünster-Süd and Großenaspe. [The coffee](piece_the_coffee.md) at a building lower and older than the Raststätten north and south of here. No McDonald's. The trucks mostly pass.
+A stop between Neumünster-Süd and Großenaspe. [The coffee](piece_the_coffee.md) and [the tank](piece_the_tank.md) at a building lower and older than the Raststätten north and south of here. No McDonald's. The trucks mostly pass.
 
 ## Withheld
 The Bramstedter Mühle. West of here on the Bramau - a water mill, grain ground on this stream since the medieval period. The mill building still standing. The same river that begins near Bad Bramstedt and runs north through the Aukrug hills passes under it.

@@ -1,11 +1,11 @@
-# Hamburg-Schnelsen
+﻿# Hamburg-Schnelsen
 
 ## Owner
 - Project: Autobahn
-- Place: [the A7](place_a7.md) in [Hamburg](place_hamburg.md) in [Hamburg](place_hamburg.md)
+- Place: [the A7](place_a7.md) in [Hamburg](place_hamburg.md)
 
 ## Shown
-The Hamburg-Schnelsen exit. The sign: Hamburg-Schnelsen, Niendorf. The road here fully urban - the L�rmschutztunnel Schnelsen built over the motorway in this section.
+The Hamburg-Schnelsen exit. The sign: Hamburg-Schnelsen, Niendorf. The road here fully urban - the Lärmschutztunnel Schnelsen built over the motorway in this section.
 
 ## Holds
 

@@ -1,4 +1,4 @@
-# Bad Bramstedt
+﻿# Bad Bramstedt
 
 ## Owner
 - Project: Autobahn
@@ -10,14 +10,14 @@ The Bad Bramstedt exit. The sign: Bad Bramstedt, B206. A town of some size - vis
 ## Holds
 
 * [km 115.1](piece_the_kilometerstein.md) on [the A7](place_a7.md).
-* 11 km north on [the A7](place_a7.md) to [Gro�enaspe](place_a7_16_grossenaspe.md).
+* 11 km north on [the A7](place_a7.md) to [Großenaspe](place_a7_16_grossenaspe.md).
 * 3 km south on [the A7](place_a7.md) to [Kreuz Bad Bramstedt](place_a7_kreuz_bad_bramstedt.md).
 
 ## Offers
 Ausfahrt 17 - the exit ramp. The ordinary road below.
 
 ## Withheld
-The Rolandsbrunnen. In Bad Bramstedt town centre stands a medieval Roland statue - the marker of a free city, the symbol of civic rights under the Holy Roman Empire. Bad Bramstedt was a significant market town before the railway era. Four kilometres from the verge.
+The Rolandsbrunnen. In Bad Bramstedt town centre stands a medieval Roland statue - the marker of a free city, the symbol of civic rights under the Holy Roman Empire. Bad Bramstedt was a significant market town until the railway era. Four kilometres from the verge.
 
 ---
 

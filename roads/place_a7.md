@@ -50,7 +50,7 @@ Four lanes for most of the stretch - two northbound, two southbound, the central
 Continuous movement in either direction. Every child place reachable from every other by staying on the road. The road does not require a reason to use it.
 
 ## Withheld
-The direction. The A7 runs both ways simultaneously. Which direction a Driver is travelling is not visible in the road - only in the car and the person in it.
+The construction history. The first section of what became the A7 opened in 1936 as Reichsautobahn - the same surface geometry, the same corridor through Schleswig-Holstein.
 
 ---
 
