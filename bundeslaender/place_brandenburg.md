@@ -9,7 +9,7 @@ The A115 crossing the state border 600 metres south of Kreuz Zehlendorf. No sign
 The Berliner Ring - the A10 - circling the invisible city through Brandenburg. Flat. Pine forests. Sandy soil visible at road cuts. The horizon large. The road straight through terrain that does not interrupt it.
 
 ## Holds
-- [the A115](../roads/place_the_a115.md) crosses briefly into Brandenburg at its southern end - Dreieck Nuthetal lies 600 metres beyond the Berlin border
+- [the A115](place_the_a115.md) crosses briefly into Brandenburg at its southern end - Dreieck Nuthetal lies 600 metres beyond the Berlin border
 
 ## Offers
 Mostly unrestricted speed outside the Berlin ring. Low traffic density compared to western states. Good road surface on the A10/A11 ring routes. The road quiet enough that the distance becomes abstract.
@@ -19,4 +19,4 @@ Mostly unrestricted speed outside the Berlin ring. Low traffic density compared 
 
 ---
 
-v0.1.0 - KAI Worlds
+v0.1.1 - KAI Worlds
