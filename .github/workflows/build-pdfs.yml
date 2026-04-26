@@ -37,7 +37,7 @@ jobs:
           for road in roads/a*; do
             name=$(basename $road)
             echo "Building ${name}..."
-            overview="roads/place_the_${name}.md"
+            overview="roads/place_${name}.md"
             files=$(find ${road} -name "*.md" | sort)
             if [ -n "$files" ]; then
               > /tmp/${name}_combined.md

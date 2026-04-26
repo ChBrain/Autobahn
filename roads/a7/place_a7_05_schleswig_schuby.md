@@ -1,17 +1,17 @@
-﻿# Schleswig/Schuby
+# Schleswig/Schuby
 
 ## Owner
 - Project: Autobahn
-- Place: [the A7](place_the_a7.md)
+- Place: [the A7](place_a7.md)
 
 ## Shown
 The northern Schleswig exit. The sign: Schleswig, Schuby, B201. The city a few kilometres west. The Schlei somewhere beyond the fields.
 
-- 9 km north: [Tarp](place_a7_04_tarp.md)
-- 7 km south: [Schleswig/Jagel](place_a7_06_schleswig_jagel.md)
-
 ## Holds
-[The Kilometerstein](piece_the_kilometerstein.md).
+
+* [km 33.7](piece_the_kilometerstein.md) on [the A7](place_a7.md).
+* 9 km north on [the A7](place_a7.md) to [Tarp](place_a7_04_tarp.md).
+* 7 km south on [the A7](place_a7.md) to [Schleswig/Jagel](place_a7_06_schleswig_jagel.md).
 
 ## Offers
 Ausfahrt 5 - the exit ramp. The ordinary road below.

@@ -1,23 +1,23 @@
-﻿# Hamburg-Bahrenfeld
+# Hamburg-Bahrenfeld
 
 ## Owner
 - Project: Autobahn
-- Place: [the A7](place_the_a7.md)
+- Place: [the A7](place_a7.md)
 
 ## Shown
-The Bahrenfeld exit. The sign: Hamburg-Bahrenfeld. North of [the Elbtunnel](place_a7_elbtunnel.md). Currently closed: Lärmschutztunnel construction until 2028. The ramp is there. The signs are there. The exit is not available.
-
-- 1 km north: [Westkreuz Hamburg](place_a7_westkreuz_hamburg.md)
-- 2 km south: [Hamburg-Othmarschen](place_a7_29_hamburg_othmarschen.md)
+The Bahrenfeld exit. The sign: Hamburg-Bahrenfeld. North of [the Elbtunnel](place_a7_elbtunnel.md). Currently closed: L�rmschutztunnel construction until 2028. The ramp is there. The signs are there. The exit is not available.
 
 ## Holds
-[The Kilometerstein](piece_the_kilometerstein.md).
+
+* [km 154.6](piece_the_kilometerstein.md) on [the A7](place_a7.md).
+* 2.2 km north on [the A7](place_a7.md) to [Hamburg-Volkspark](place_a7_27_hamburg_volkspark.md).
+* 2 km south on [the A7](place_a7.md) to [Hamburg-Othmarschen](place_a7_29_hamburg_othmarschen.md).
 
 ## Offers
-Ausfahrt 28 - the exit ramp. The ordinary road below.
+Ausfahrt 28 - not available. The exit is closed for L�rmschutztunnel construction until 2028. Use [Hamburg-Othmarschen](place_a7_29_hamburg_othmarschen.md) as the alternative.
 
 ## Withheld
-The Lärmschutztunnel Altona under construction. When complete in 2028, 2,230 metres of this section will be underground and the Ottensen and Altona districts above will reconnect across the surface that was severed in the 1970s.
+The L�rmschutztunnel Altona under construction. When complete in 2028, 2,230 metres of this section will be underground and the Ottensen and Altona districts above will reconnect across the surface that was severed in the 1970s.
 
 ---
 

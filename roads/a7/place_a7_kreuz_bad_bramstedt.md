@@ -1,17 +1,17 @@
-﻿# Kreuz Bad Bramstedt
+# Kreuz Bad Bramstedt
 
 ## Owner
 - Project: Autobahn
-- Place: [the A7](place_the_a7.md)
+- Place: [the A7](place_a7.md)
 
 ## Shown
-An unnumbered junction between exits 17 and 18. The future A20 will branch west here toward the planned Elbe crossing at Glückstadt and eventually the North Sea coast. Currently not built - the junction exists as infrastructure preparation, not as a functioning motorway connection.
-
-- 3 km north: [Bad Bramstedt](place_a7_17_bad_bramstedt.md)
-- 4 km south: [Kaltenkirchen](place_a7_18_kaltenkirchen.md)
+An unnumbered junction between exits 17 and 18. The future A20 will branch west here toward the planned Elbe crossing at Gl�ckstadt and eventually the North Sea coast. Currently not built - the junction exists as infrastructure preparation, not as a functioning motorway connection.
 
 ## Holds
-[The Kilometerstein](piece_the_kilometerstein.md).
+
+* [km 117.6](piece_the_kilometerstein.md) on [the A7](place_a7.md).
+* 3 km north on [the A7](place_a7.md) to [Bad Bramstedt](place_a7_17_bad_bramstedt.md).
+* 4 km south on [the A7](place_a7.md) to [Kaltenkirchen](place_a7_18_kaltenkirchen.md).
 
 ## Offers
 Ausfahrt unnumbered - the exit ramp.

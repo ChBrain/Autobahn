@@ -1,17 +1,17 @@
-﻿# Bordesholm
+# Bordesholm
 
 ## Owner
 - Project: Autobahn
-- Place: [the A7](place_the_a7.md)
+- Place: [the A7](place_a7.md)
 
 ## Shown
 The Bordesholm exit. The sign: Bordesholm. The Dreieck Bordesholm visible ahead - the A215 junction. The last exit before the interchange.
 
-- 6 km north: [Warder](place_a7_10_warder.md)
-- 1 km south: [Dreieck Bordesholm](place_a7_12_dreieck_bordesholm.md)
-
 ## Holds
-[The Kilometerstein](piece_the_kilometerstein.md).
+
+* [km 83.5](piece_the_kilometerstein.md) on [the A7](place_a7.md).
+* 6 km north on [the A7](place_a7.md) to [Warder](place_a7_10_warder.md).
+* 1 km south on [the A7](place_a7.md) to [Dreieck Bordesholm](place_a7_12_dreieck_bordesholm.md).
 
 ## Offers
 Ausfahrt 11 - the exit ramp. The ordinary road below.
