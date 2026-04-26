@@ -9,10 +9,10 @@ The city-state announced by signs before it is visible. The road narrows to 100 
 The Elbtunnel: the descent from Hamburg-Othmarschen. Daylight gone. Tile walls. 60 km/h. The Elbe 28 metres above. The ascent at the south end into Hamburg south of the river. The port cranes visible briefly from the A7 approach to Waltershof.
 
 ## Holds
-- [the A7](../roads/place_a7.md) - Hamburg-Schnelsen-Nord to Hamburg-Waltershof, including the Elbtunnel
-- [the A23](../roads/place_the_a23.md) - southern terminus at Dreieck Hamburg-Nordwest
-- [the A24](../roads/place_the_a24.md) - Hamburg-Horn, Hamburg-Jenfeld, Kreuz Hamburg-Ost
-- [the A25](../roads/place_the_a25.md) - Dreieck Hamburg-Südost to Hamburg-Neuallermöhe-West
+- [the A7](place_a7.md) - Hamburg-Schnelsen-Nord to Hamburg-Waltershof, including the Elbtunnel
+- [the A23](place_the_a23.md) - southern terminus at Dreieck Hamburg-Nordwest
+- [the A24](place_the_a24.md) - Hamburg-Horn, Hamburg-Jenfeld, Kreuz Hamburg-Ost
+- [the A25](place_the_a25.md) - Dreieck Hamburg-Südost to Hamburg-Neuallermöhe-West
 
 ## Offers
 100 km/h throughout. Dense junctions with short weaving distances. The Elbtunnel mandatory for the A7 crossing - no alternative, 60 km/h, one of the highest-traffic tunnels in Germany. The Lärmschutztunnel sections: the road acoustically contained, exits spaced for urban density.
@@ -22,4 +22,4 @@ The port - the third largest in Europe. Reachable from A7 Waltershof. The contai
 
 ---
 
-v0.1.0 - KAI Worlds
+v0.1.1 - KAI Worlds
