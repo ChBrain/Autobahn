@@ -17,7 +17,7 @@ Small exit. Rural. The sign: Tarp. Fields on both sides. The road here flat and 
 Ausfahrt 4 - the exit ramp. The ordinary road below.
 
 ## Withheld
-The runway. The central reservation here is concreted and the crash barriers sit in ground sockets for fast removal. The parking areas on both sides are sized for aircraft. An emergency airfield, built for military use, still officially registered.
+Kappeln. Twenty kilometres east, where the Schlei meets the Baltic. The last herring smokehouse in Germany still operating there - the Räucherei on the harbour, unchanged since the 19th century. The fish smoked over beechwood, the same way it has been done here for two hundred years.
 
 ---
 

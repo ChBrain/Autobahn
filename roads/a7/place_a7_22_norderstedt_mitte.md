@@ -5,7 +5,7 @@
 - Place: [the A7](place_a7.md)
 
 ## Shown
-Exit 22. A junction. The A25 branches east toward Hamburg-Norderstedt. The sign: Norderstedt-Mitte, Dreieck Garstedt. The Schleswig-Holstein/Hamburg state border is 2 km south.
+Exit 22. The sign: Norderstedt-Mitte, Garstedt. The exit ramp leads east into Norderstedt. The Schleswig-Holstein/Hamburg state border is 2 km south.
 
 ## Holds
 
@@ -17,7 +17,7 @@ Exit 22. A junction. The A25 branches east toward Hamburg-Norderstedt. The sign:
 Ausfahrt 22 - the exit ramp.
 
 ## Withheld
-Norderstedt. The city of 80,000 that sits directly on Hamburg's northern border - administratively Schleswig-Holstein, functionally a Hamburg suburb. More people live here than in many cities with their own identity.
+The Schmuggelstieg. An old smuggling path running north from Norderstedt toward the Danish border, used when the Schleswig-Holstein customs boundary ran through this territory in the 18th century. The path still traceable in the landscape. The border it served dissolved long ago.
 
 ---
 

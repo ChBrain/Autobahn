@@ -17,7 +17,7 @@ The Neumünster-Mitte exit. The sign: Neumünster-Mitte. The city traffic joinin
 Ausfahrt 14 - the exit ramp. The ordinary road below.
 
 ## Withheld
-The Designer Outlets Neum�nster. Two million visitors a year - the largest outlet centre in northern Germany. The car park is visible from the verge but the scale is not apparent at speed.
+The Stadtpark. Two kilometres east, a formal park laid out in the 1860s with a lake and planted woodland - the oldest surviving civic infrastructure in the city. Neumünster built it when the textile industry made the city wealthy. The industry is gone. The park remains.
 
 ---
 

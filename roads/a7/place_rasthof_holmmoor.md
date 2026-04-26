@@ -3,10 +3,10 @@
 ## Owner
 - Project: Autobahn
 - Place: [the A7](place_a7.md)
-- Position: [Rastst‰tte Worker](position_raststaette_worker.md)
+- Position: [Rastst√§tte Worker](position_raststaette_worker.md)
 
 ## Shown
-Between [Quickborn](place_a7_21_quickborn.md) and [Hamburg-Schnelsen-Nord](place_a7_23_hamburg_schnelsen_nord.md). No exit number. Small. A petrol station, toilets, [the coffee](piece_the_coffee.md). The Hamburg skyline visible to the south on clear days. The Autobahn very close - the traffic sound constant, louder than at [Rastst‰tte H¸ttener Berge](place_raststaette_huettener_berge.md) or [Rastst‰tte Brokenlande](place_raststaette_brokenlande.md).
+Between [Quickborn](place_a7_21_quickborn.md) and [Norderstedt-Mitte](place_a7_22_norderstedt_mitte.md). No exit number. Small. A petrol station, toilets, [the coffee](piece_the_coffee.md). The Hamburg skyline visible to the south on clear days. The Autobahn very close - the traffic sound constant, louder than at [Rastst√§tte H√ºttener Berge](place_raststaette_huettener_berge.md) or [Rastst√§tte Brokenlande](place_raststaette_brokenlande.md).
 
 ## Holds
 
@@ -17,10 +17,10 @@ Between [Quickborn](place_a7_21_quickborn.md) and [Hamburg-Schnelsen-Nord](place
 * [The tank](piece_the_tank.md).
 
 ## Offers
-The last stop before Hamburg absorbs the road. [The coffee](piece_the_coffee.md) before the city. [The tank](piece_the_tank.md) if the orange light has been on since [Rastst‰tte Brokenlande](place_raststaette_brokenlande.md).
+The last stop before Hamburg absorbs the road. [The coffee](piece_the_coffee.md) before the city. [The tank](piece_the_tank.md) if the orange light has been on since [Rastst√§tte Brokenlande](place_raststaette_brokenlande.md).
 
 ## Withheld
-Whether stopping here is a pause or a delay. [The Rastst‰tte Worker](position_raststaette_worker.md) cannot tell the difference from the counter. The Driver usually can.
+The Quickborner See. Two kilometres north - a glacial lake, the local swimming lake for the northern Hamburg suburbs. Cold, still, the basin left by the ice sheet. The last open water before the city closes in.
 
 ---
 
