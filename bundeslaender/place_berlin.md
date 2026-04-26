@@ -1,5 +1,4 @@
 # Berlin
-## Die Stadt, deren Identität auf Volatilität gebaut ist.
 
 ## Owner
 - Project: Autobahn

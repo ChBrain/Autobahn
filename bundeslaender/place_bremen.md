@@ -1,5 +1,4 @@
 # Bremen
-## Die Sturheit, die die Stadt frei gehalten hat.
 
 ## Owner
 - Project: Autobahn

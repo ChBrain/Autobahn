@@ -1,5 +1,4 @@
 # Bayern
-## Der Freistaat, der beigetreten ist - und nicht vergessen hat, dass es eine Wahl war.
 
 ## Owner
 - Project: Autobahn

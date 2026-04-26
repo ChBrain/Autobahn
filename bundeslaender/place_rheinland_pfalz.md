@@ -1,5 +1,4 @@
 # Rheinland-Pfalz
-## Das Land, das aus drei Stücken zusammengesetzt wurde, die der Fluss immer zusammengehalten hat.
 
 ## Owner
 - Project: Autobahn

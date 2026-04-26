@@ -1,5 +1,4 @@
 # Sachsen
-## Die Menschen, die Geschichte verändert haben und noch warten, dass Geschichte es bemerkt.
 
 ## Owner
 - Project: Autobahn

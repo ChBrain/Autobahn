@@ -1,5 +1,4 @@
 # Mecklenburg-Vorpommern
-## Das Land, das blieb, als die Menschen gingen.
 
 ## Owner
 - Project: Autobahn

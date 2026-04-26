@@ -1,5 +1,4 @@
 # Brandenburg
-## Das Land, das Preußen baute und sich dann entschied, nicht Berlin zu werden.
 
 ## Owner
 - Project: Autobahn

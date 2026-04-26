@@ -1,5 +1,4 @@
 # Sachsen-Anhalt
-## Das Land, das veränderte, wie Europa betet - und dann aufhörte zu beten.
 
 ## Owner
 - Project: Autobahn

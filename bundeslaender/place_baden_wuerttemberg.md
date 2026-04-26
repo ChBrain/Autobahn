@@ -1,5 +1,4 @@
 # Baden-Württemberg
-## Die Sparsamkeit, die Wohlstand wurde und kein Überfluss.
 
 ## Owner
 - Project: Autobahn

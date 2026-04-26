@@ -1,5 +1,4 @@
 # Schleswig-Holstein
-## Die Region, die blieb, als die Grenze sich bewegte.
 
 ## Owner
 - Project: Autobahn

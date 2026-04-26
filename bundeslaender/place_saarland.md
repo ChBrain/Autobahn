@@ -1,5 +1,4 @@
 # Saarland
-## Das Land, das Deutschland so klar gewählt hat, dass es zweimal wählen musste.
 
 ## Owner
 - Project: Autobahn

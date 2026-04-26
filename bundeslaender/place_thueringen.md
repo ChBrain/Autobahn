@@ -1,5 +1,4 @@
 # Thüringen
-## Das Erbe, das alles enthält, was die Kultur am meisten schätzt und am meisten fürchtet - auf demselben Hügel.
 
 ## Owner
 - Project: Autobahn

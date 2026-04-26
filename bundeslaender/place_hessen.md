@@ -1,5 +1,4 @@
 # Hessen
-## Das Land, durch das die Welt auf dem Weg woanders hin fährt.
 
 ## Owner
 - Project: Autobahn

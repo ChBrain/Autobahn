@@ -1,5 +1,4 @@
 # Nordrhein-Westfalen
-## Die Solidarität, die die Republik gebaut hat und sich jetzt selbst neu aufbaut.
 
 ## Owner
 - Project: Autobahn

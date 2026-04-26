@@ -1,5 +1,4 @@
 # Niedersachsen
-## Das Land, das die Mitte hält ohne es anzukündigen.
 
 ## Owner
 - Project: Autobahn
