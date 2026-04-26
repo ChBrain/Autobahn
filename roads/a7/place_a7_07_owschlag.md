@@ -1,4 +1,4 @@
-﻿# Owschlag
+# Owschlag
 
 ## Owner
 - Project: Autobahn

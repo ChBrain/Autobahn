@@ -10,8 +10,8 @@ No Ausfahrt number. Between [Hamburg-Othmarschen](place_a7_29_hamburg_othmarsche
 ## Holds
 
 * [km 156](piece_the_kilometerstein.md) on [the A7](place_a7.md) - markers continue through the tunnel on the right wall, renumbered in the tunnel format.
-* 1 km north on [the A7](place_a7.md) to [Hamburg-Othmarschen](place_a7_29_hamburg_othmarschen.md).
-* 1 km south on [the A7](place_a7.md) to [Hamburg-Waltershof](place_a7_30_hamburg_waltershof.md).
+* 0.5 km north on [the A7](place_a7.md) to [Hamburg-Othmarschen](place_a7_29_hamburg_othmarschen.md).
+* 5.6 km south on [the A7](place_a7.md) to [Hamburg-Waltershof](place_a7_30_hamburg_waltershof.md).
 
 ## Offers
 The crossing. The only way the A7 crosses the Elbe. No alternative. Every Driver on the A7 between Flensburg and Hamburg south of the river passes through here. The passage is mandatory - it cannot be skipped, only avoided by exiting the A7 at [Hamburg-Othmarschen](place_a7_29_hamburg_othmarschen.md) or north of it and rejoining south of the river by another route.

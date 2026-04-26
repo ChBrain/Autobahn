@@ -10,7 +10,7 @@ The Waltershof exit. The sign: Hamburg-Waltershof, Hafen. South of [the Elbtunne
 ## Holds
 
 * [km 161.6](piece_the_kilometerstein.md) on [the A7](place_a7.md).
-* 4 km north on [the A7](place_a7.md) to [Hamburg-Othmarschen](place_a7_29_hamburg_othmarschen.md).
+* 5.6 km north on [the A7](place_a7.md) to [the Elbtunnel](place_a7_elbtunnel.md).
 * South on [the A7](place_a7.md) — not yet built in this world.
 
 ## Offers

@@ -1,4 +1,4 @@
-﻿# Bad Bramstedt
+# Bad Bramstedt
 
 ## Owner
 - Project: Autobahn

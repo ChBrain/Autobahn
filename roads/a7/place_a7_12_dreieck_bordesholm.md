@@ -1,4 +1,4 @@
-﻿# Dreieck Bordesholm
+# Dreieck Bordesholm
 
 ## Owner
 - Project: Autobahn

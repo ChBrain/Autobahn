@@ -1,4 +1,4 @@
-﻿# Kreuz Bad Bramstedt
+# Kreuz Bad Bramstedt
 
 ## Owner
 - Project: Autobahn

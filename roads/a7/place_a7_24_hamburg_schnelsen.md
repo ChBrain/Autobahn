@@ -1,4 +1,4 @@
-﻿# Hamburg-Schnelsen
+# Hamburg-Schnelsen
 
 ## Owner
 - Project: Autobahn

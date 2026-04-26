@@ -1,4 +1,4 @@
-﻿# Großenaspe
+# Großenaspe
 
 ## Owner
 - Project: Autobahn
