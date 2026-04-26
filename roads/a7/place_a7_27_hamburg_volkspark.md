@@ -2,7 +2,7 @@
 
 ## Owner
 - Project: Autobahn
-- Place: [the A7](place_a7.md) in [Hamburg](place_hamburg.md) in [Hamburg](place_hamburg.md)
+- Place: [the A7](place_a7.md) in [Hamburg](place_hamburg.md)
 
 ## Shown
 The Volkspark exit. The sign: Hamburg-Volkspark, Schnackenburgallee. The stadium visible to the right.

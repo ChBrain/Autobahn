@@ -2,7 +2,7 @@
 
 ## Owner
 - Project: Autobahn
-- Place: [the A7](place_a7.md) in [Hamburg](place_hamburg.md) in [Hamburg](place_hamburg.md)
+- Place: [the A7](place_a7.md) in [Hamburg](place_hamburg.md)
 
 ## Shown
 No Ausfahrt number. Between [Hamburg-Othmarschen](place_a7_29_hamburg_othmarschen.md) and [Hamburg-Waltershof](place_a7_30_hamburg_waltershof.md). Four tubes - two northbound, two southbound. The descent from the surface: the daylight narrowing and then gone. The tile walls close on both sides. The ceiling low. The engine sound changed - louder, closer, the road noise different. The emergency telephones mounted at intervals on the right wall. The speed limit 60 km/h. The Elbe above: 28 metres of water at mean high tide. The ascent at the far end: daylight returning, Hamburg south of the river arriving.

@@ -1,16 +1,16 @@
-# Gro�enaspe
+﻿﻿# Großenaspe
 
 ## Owner
 - Project: Autobahn
 - Place: [the A7](place_a7.md) in [Schleswig-Holstein](place_schleswig_holstein.md)
 
 ## Shown
-Small exit south of Neum�nster. The sign: Gro�enaspe. The road here six lanes - the expansion complete. Open country. The first exit in the Hamburg approach zone where the road starts to feel like it is committed to somewhere.
+Small exit south of Neumünster. The sign: Großenaspe. The road here six lanes - the expansion complete. Open country. The first exit in the Hamburg approach zone where the road starts to feel like it is committed to somewhere.
 
 ## Holds
 
 * [km 104.0](piece_the_kilometerstein.md) on [the A7](place_a7.md).
-* 7 km north on [the A7](place_a7.md) to [Neum�nster-S�d](place_a7_15_neumuenster_sued.md).
+* 7 km north on [the A7](place_a7.md) to [Neumünster-Süd](place_a7_15_neumuenster_sued.md).
 * 11 km south on [the A7](place_a7.md) to [Bad Bramstedt](place_a7_17_bad_bramstedt.md).
 
 ## Offers

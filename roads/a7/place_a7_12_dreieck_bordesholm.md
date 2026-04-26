@@ -1,4 +1,4 @@
-# Dreieck Bordesholm
+﻿# Dreieck Bordesholm
 
 ## Owner
 - Project: Autobahn
@@ -11,7 +11,7 @@ Exit 12. A junction, not an ordinary exit. The A215 branching north toward Kiel.
 
 * [km 84.4](piece_the_kilometerstein.md) on [the A7](place_a7.md).
 * 1 km north on [the A7](place_a7.md) to [Bordesholm](place_a7_11_bordesholm.md).
-* 6 km south on [the A7](place_a7.md) to [Neum�nster-Nord](place_a7_13_neumuenster_nord.md).
+* 6 km south on [the A7](place_a7.md) to [Neumünster-Nord](place_a7_13_neumuenster_nord.md).
 
 ## Offers
 The A7 south, now six lanes, toward Hamburg. The A215 north, toward Kiel. For a Driver who missed a Schleswig or Rendsburg exit and needs to reroute: the A215 connects back toward Kiel and the north.

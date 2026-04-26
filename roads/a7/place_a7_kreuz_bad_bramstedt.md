@@ -1,11 +1,11 @@
-# Kreuz Bad Bramstedt
+﻿# Kreuz Bad Bramstedt
 
 ## Owner
 - Project: Autobahn
 - Place: [the A7](place_a7.md) in [Schleswig-Holstein](place_schleswig_holstein.md)
 
 ## Shown
-An unnumbered junction between exits 17 and 18. The future A20 will branch west here toward the planned Elbe crossing at Gl�ckstadt and eventually the North Sea coast. Currently not built - the junction exists as infrastructure preparation, not as a functioning motorway connection.
+An unnumbered junction between exits 17 and 18. The future A20 will branch west here toward the planned Elbe crossing at Glückstadt and eventually the North Sea coast. Currently not built - the junction exists as infrastructure preparation, not as a functioning motorway connection.
 
 ## Holds
 
