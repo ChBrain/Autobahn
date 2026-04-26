@@ -10,8 +10,8 @@ Small exit between Schleswig and Rendsburg. The sign: Owschlag. Unremarkable. Th
 ## Holds
 
 * [km 50.9](piece_the_kilometerstein.md) on [the A7](place_a7.md).
-* 8 km north on [the A7](place_a7.md) to [Schleswig/Jagel](place_a7_06_schleswig_jagel.md).
-* 21 km south on [the A7](place_a7.md) to [Rendsburg/Büdelsdorf](place_a7_08_rendsburg_buedelsdorf.md).
+* 11.7 km north on [the A7](place_a7.md) to [Schleswig/Jagel](place_a7_06_schleswig_jagel.md).
+* 7.2 km south on [the A7](place_a7.md) to [Rendsburg/Büdelsdorf](place_a7_08_rendsburg_buedelsdorf.md).
 
 ## Offers
 Ausfahrt 7 - the exit ramp. The ordinary road below.

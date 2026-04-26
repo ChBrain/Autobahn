@@ -10,7 +10,7 @@ Small exit south of Rendsburg. The sign: Warder, Nortorf. Rural. The road here f
 ## Holds
 
 * [km 76.3](piece_the_kilometerstein.md) on [the A7](place_a7.md).
-* 5 km north on [the A7](place_a7.md) to [Kreuz Rendsburg](place_a7_09_kreuz_rendsburg.md).
+* 12.4 km north on [the A7](place_a7.md) to [Kreuz Rendsburg](place_a7_09_kreuz_rendsburg.md).
 * 6 km south on [the A7](place_a7.md) to [Bordesholm](place_a7_11_bordesholm.md).
 
 ## Offers

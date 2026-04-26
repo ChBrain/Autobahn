@@ -11,7 +11,7 @@ Exit 9. Not an ordinary exit - a junction. The A210 branching east toward Kiel. 
 
 * [km 63.9](piece_the_kilometerstein.md) on [the A7](place_a7.md).
 * 6 km north on [the A7](place_a7.md) to [Rendsburg/Büdelsdorf](place_a7_08_rendsburg_buedelsdorf.md).
-* 5 km south on [the A7](place_a7.md) to [Warder](place_a7_10_warder.md).
+* 12.4 km south on [the A7](place_a7.md) to [Warder](place_a7_10_warder.md).
 
 ## Offers
 The A7 south, continuing toward Hamburg. The A210 east, toward Rendsburg city and Kiel. The junction is a genuine choice - two motorways, two directions, one moment.

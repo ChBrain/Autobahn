@@ -1,4 +1,4 @@
-﻿﻿# Neumünster-Mitte
+﻿# Neumünster-Mitte
 
 ## Owner
 - Project: Autobahn
@@ -10,7 +10,7 @@ The Neumünster-Mitte exit. The sign: Neumünster-Mitte. The city traffic joinin
 ## Holds
 
 * [km 96.4](piece_the_kilometerstein.md) on [the A7](place_a7.md).
-* 4 km north on [the A7](place_a7.md) to [Neumünster-Nord](place_a7_13_neumuenster_nord.md).
+* 6.1 km north on [the A7](place_a7.md) to [Neumünster-Nord](place_a7_13_neumuenster_nord.md).
 * 3 km south on [the A7](place_a7.md) to [Neumünster-Süd](place_a7_15_neumuenster_sued.md).
 
 ## Offers

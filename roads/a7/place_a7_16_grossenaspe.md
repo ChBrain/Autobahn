@@ -1,4 +1,4 @@
-﻿﻿# Großenaspe
+﻿# Großenaspe
 
 ## Owner
 - Project: Autobahn
@@ -10,7 +10,7 @@ Small exit south of Neumünster. The sign: Großenaspe. The road here six lanes 
 ## Holds
 
 * [km 104.0](piece_the_kilometerstein.md) on [the A7](place_a7.md).
-* 7 km north on [the A7](place_a7.md) to [Neumünster-Süd](place_a7_15_neumuenster_sued.md).
+* 4.6 km north on [the A7](place_a7.md) to [Neumünster-Süd](place_a7_15_neumuenster_sued.md).
 * 11 km south on [the A7](place_a7.md) to [Bad Bramstedt](place_a7_17_bad_bramstedt.md).
 
 ## Offers
