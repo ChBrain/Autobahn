@@ -2,7 +2,7 @@
 
 ## Owner
 - Project: Autobahn
-- Place: [the A7](place_a7.md)
+- Place: [the A7](place_a7.md) in [Schleswig-Holstein](place_schleswig_holstein.md)
 
 ## Shown
 Small exit south of Neum�nster. The sign: Gro�enaspe. The road here six lanes - the expansion complete. Open country. The first exit in the Hamburg approach zone where the road starts to feel like it is committed to somewhere.

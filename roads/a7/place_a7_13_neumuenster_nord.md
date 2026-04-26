@@ -2,7 +2,7 @@
 
 ## Owner
 - Project: Autobahn
-- Place: [the A7](place_a7.md)
+- Place: [the A7](place_a7.md) in [Schleswig-Holstein](place_schleswig_holstein.md)
 
 ## Shown
 The northern Neum�nster exit. The sign: Neum�nster-Nord. The city visible to the left.

@@ -2,7 +2,7 @@
 
 ## Owner
 - Project: Autobahn
-- Place: [the A7](place_a7.md)
+- Place: [the A7](place_a7.md) in [Schleswig-Holstein](place_schleswig_holstein.md)
 
 ## Shown
 The sign: Schleswig, Jagel, B76. Fields to the west. The road flat here, open sky.

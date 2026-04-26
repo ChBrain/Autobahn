@@ -2,7 +2,7 @@
 
 ## Owner
 - Project: Autobahn
-- Place: [the A7](place_a7.md)
+- Place: [the A7](place_a7.md) in [Hamburg](place_hamburg.md) in [Hamburg](place_hamburg.md)
 
 ## Shown
 The Bahrenfeld exit. The sign: Hamburg-Bahrenfeld. North of [the Elbtunnel](place_a7_elbtunnel.md). Currently closed: L�rmschutztunnel construction until 2028. The ramp is there. The signs are there. The exit is not available.
