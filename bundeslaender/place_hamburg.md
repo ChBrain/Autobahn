@@ -11,7 +11,7 @@ The Elbtunnel: the descent from Hamburg-Othmarschen. Daylight gone. Tile walls. 
 
 ## Holds
 - [the A7](../roads/place_a7.md) - Hamburg-Schnelsen-Nord to Hamburg-Waltershof, including the Elbtunnel
-- [the A23](../roads/place_the_a23.md) - southern terminus at Dreieck Hamburg-Nordwest
+- [the A23](../roads/place_a23.md) - southern terminus at Dreieck Hamburg-Nordwest
 - [the A24](../roads/place_the_a24.md) - Hamburg-Horn, Hamburg-Jenfeld, Kreuz Hamburg-Ost
 - [the A25](../roads/place_the_a25.md) - Dreieck Hamburg-Südost to Hamburg-Neuallermöhe-West
 
@@ -23,4 +23,4 @@ The port - the third largest in Europe. Reachable from A7 Waltershof. The contai
 
 ---
 
-v0.1.0 - KAI Worlds
+v0.1.1 - KAI Worlds
