@@ -17,8 +17,8 @@ The southern Pinneberg exit. The sign: Pinneberg-Süd. The last exit for Pinnebe
 Ausfahrt 18 - the exit ramp. The ordinary road below.
 
 ## Withheld
-The Pinneberg Drostei. The baroque administrative building in Pinneberg centre - built 1765, one of the best-preserved Amt buildings in Schleswig-Holstein - is three kilometres east. It was the seat of the Amt Pinneberg under Danish administration. The building survives intact in the middle of a town that grew up around it.
+Until 1864, Pinneberg was inside the Duchy of Holstein under the Danish crown. The war of that year ended seven centuries of Danish rule over Holstein. The town changed hands without moving. The road passes through the southernmost town that was Danish within living memory of the people who built its oldest surviving buildings.
 
 ---
 
-v0.1.1 - KAI Worlds
+v0.1.2 - KAI Worlds

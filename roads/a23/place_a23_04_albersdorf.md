@@ -17,8 +17,8 @@ Small exit. The sign: Albersdorf. Fields on both sides. The landscape unchanged 
 Ausfahrt 4 - the exit ramp. The ordinary road below.
 
 ## Withheld
-The Albersdorf megalithic site. A Bronze Age burial mound and megalithic tomb are a few kilometres from here - among the largest preserved Neolithic monuments in Schleswig-Holstein. The Großsteingrab Brutkamp dates to approximately 3500 BCE.
+The Albersdorf megalithic site. A Neolithic burial mound and megalithic tomb are a few kilometres from here — among the largest preserved Neolithic monuments in Schleswig-Holstein. The Großsteingrab Brutkamp dates to approximately 3500 BCE.
 
 ---
 
-v0.1.1 - KAI Worlds
+v0.1.2 - KAI Worlds

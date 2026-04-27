@@ -17,8 +17,8 @@ Small exit. The sign: Hohenfelde. The road here in open country - the Hamburg me
 Ausfahrt 12 - the exit ramp. The ordinary road below.
 
 ## Withheld
-The Krückau. The river running east through Elmshorn to the Elbe crosses near Hohenfelde - part of the network of small rivers draining the Geest into the tidal zone. The Krückau gave Elmshorn its character as a small port town before the railways.
+The road here runs along the boundary between the Geest — the slightly elevated glacial sand and gravel plateau — and the low-lying marsh below. The line is visible in the landscape: higher ground to the east, flat to the west. Every settlement on this stretch chose the Geest edge for the same reason, a thousand years ago and before.
 
 ---
 
-v0.1.1 - KAI Worlds
+v0.1.2 - KAI Worlds

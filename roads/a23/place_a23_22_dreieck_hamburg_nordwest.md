@@ -16,8 +16,8 @@ Exit 22. The junction where the A23 meets the A7. The A23 ends here - or begins 
 Ausfahrt 22 - the exit ramp. The ordinary road below.
 
 ## Withheld
-The Schnelsen tunnel south. The Lärmschutztunnel Schnelsen runs south of here - 550 metres of covered carriageway, completed 2002, the neighbourhood above returned to itself. Invisible from this approach.
+The Eidelstedter Feldmark. An ancient farming landscape that survived the city growing around it — wet meadows, old hedgerows, the Mühlenau running through it. The A7 was cut through it in 1972. Around 2000 developers planned to build on the western section; residents fought it off. The Ramcke family has farmed part of it since 1802. They still deliver fodder beets to Hagenbeck's elephant house, as they have for over sixty years. The road that ends here bisects it.
 
 ---
 
-v0.1.1 - KAI Worlds
+v0.1.2 - KAI Worlds

@@ -17,8 +17,8 @@ Small exit. Rural. The sign: Hanerau-Hademarschen. The road south of the canal -
 Ausfahrt 6 - the exit ramp. The ordinary road below.
 
 ## Withheld
-Theodor Storm. The writer was born in Husum, north of here, but his novella Immensee is set in this landscape - the grey marshes, the low light, the water.
+Wacken is three kilometres south. For four days in August the bass from the main stage carries across the flat marsh for kilometres — there is nothing to stop it. The rest of the year the village produces the same ambient silence as every other settlement on this stretch of the A23. Both states are absolute.
 
 ---
 
-v0.1.1 - KAI Worlds
+v0.1.2 - KAI Worlds

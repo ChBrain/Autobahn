@@ -17,8 +17,8 @@ The sign: Itzehoe-Süd. The southern end of the Itzehoe crossing. The road conti
 Ausfahrt 10 - the exit ramp. The ordinary road below.
 
 ## Withheld
-The Stör. The river runs through Itzehoe and meets the Elbe downstream - the same estuary system that Hamburg is built around.
+Krempe, twelve kilometres south-southwest. A town of 1,500 with a complete medieval street plan, a market square, and a Renaissance town hall from 1570. It received its town charter in the late 13th century. The A23 passes without a sign for it.
 
 ---
 
-v0.1.1 - KAI Worlds
+v0.1.2 - KAI Worlds

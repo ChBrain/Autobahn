@@ -17,8 +17,8 @@ The northern Elmshorn exit. The sign: Horst, Elmshorn. The first large town on t
 Ausfahrt 13 - the exit ramp. The ordinary road below.
 
 ## Withheld
-The Krückau. The river runs through Elmshorn to the Elbe - part of the same estuary system as the Stör, the same system that reaches Hamburg.
+The Krückau runs through Elmshorn to the Elbe, four kilometres east. Before the railways it carried river barges — grain, timber, cattle — down to Hamburg. The Elmshorn quays are gone. The river still runs. Most drivers on this road take the exit for the industrial estate and never see it.
 
 ---
 
-v0.1.1 - KAI Worlds
+v0.1.2 - KAI Worlds

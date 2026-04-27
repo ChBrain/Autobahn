@@ -17,8 +17,8 @@ The sign: Halstenbek-Krupunder. The last exit before Hamburg. The state line of 
 Ausfahrt 20 - the exit ramp. The ordinary road below.
 
 ## Withheld
-The rose industry. Halstenbek and Rellingen together form the centre of German ornamental plant production - more roses, more nursery plants, more cut flowers per square kilometre than anywhere else in Germany. The greenhouses and nursery fields visible from the verge.
+The Klövensteen. The forest begins a few kilometres south — 580 hectares of mixed woodland on an ancient inland dune, afforested in the 19th century, straddling the Hamburg boundary. It is Hamburg's largest green recreation area west of the city, with a Wildgehege holding deer and wild boar. The dune it grows on dates from the last ice age. The trees are newer.
 
 ---
 
-v0.1.1 - KAI Worlds
+v0.1.2 - KAI Worlds

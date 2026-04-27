@@ -17,8 +17,8 @@ The sign: Lägerdorf. The landscape here: chalk deposits visible in the fields, 
 Ausfahrt 11 - the exit ramp. The ordinary road below.
 
 ## Withheld
-The chalk. Lägerdorf sits on one of the largest chalk deposits in Germany - the Lägerdorfer Kreidegrube. The white stone visible in the landscape. The deposit has been quarried since the 19th century and supplies cement production.
+The chalk. Lägerdorf sits on one of the largest chalk deposits in Germany — the Lägerdorfer Kreidegrube. The white stone visible in the landscape. The deposit has been quarried since the 19th century and supplies cement production.
 
 ---
 
-v0.1.1 - KAI Worlds
+v0.1.2 - KAI Worlds

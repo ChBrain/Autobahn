@@ -17,8 +17,8 @@ The northern Pinneberg exit. The sign: Pinneberg-Nord. The district capital of P
 Ausfahrt 16 - the exit ramp. The ordinary road below.
 
 ## Withheld
-The rose growers. Pinneberg is the centre of German rose cultivation - the majority of roses sold in Germany come from the greenhouses and nurseries here. The industry is worth hundreds of millions of euros annually.
+The rose gardens. Two of them within a few kilometres of this road — the Rosarium in Uetersen, opened 1934, seven hectares, 900 varieties, built by Tantau and Kordes on a drained millpond; and the Rosengarten in Pinneberg, opened a year later, smaller, Art Deco, nearly lost after the war when the town turned it into a potato field. Both still open. The region around them produces around 20 million rose plants a year.
 
 ---
 
-v0.1.1 - KAI Worlds
+v0.1.2 - KAI Worlds

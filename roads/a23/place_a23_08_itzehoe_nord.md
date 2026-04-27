@@ -17,8 +17,8 @@ The sign: Itzehoe-Nord. The approach to the Störbrücke section. Itzehoe visibl
 Ausfahrt 8 - the exit ramp. The ordinary road below.
 
 ## Withheld
-The Störbrücke ahead. The 1,160-metre bridge over the Stör is the spine of the Itzehoe crossing - road and rail combined.
+Itzehoe had a small river port on the Stör through the 19th century — grain warehouses, timber trade, river barges working down to the Elbe. The railway ended it. The warehouses are mostly gone. The town the road bypasses was built where it is because of a river that no longer carries trade.
 
 ---
 
-v0.1.1 - KAI Worlds
+v0.1.2 - KAI Worlds
