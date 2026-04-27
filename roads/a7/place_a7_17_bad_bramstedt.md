@@ -2,7 +2,7 @@
 
 ## Owner
 - Project: Autobahn
-- Place: [the A7](place_a7.md) in [Schleswig-Holstein](place_schleswig_holstein.md)
+- Place: [A7](place_a7.md) in [Schleswig-Holstein](place_schleswig_holstein.md)
 
 ## Shown
 The Bad Bramstedt exit. The sign: Bad Bramstedt, B206. A town of some size - visible to the west. The road here fast. The distance to Hamburg under 60 km on the overhead signs.
@@ -21,4 +21,4 @@ The Rolandsbrunnen. In Bad Bramstedt town centre stands a medieval Roland statue
 
 ---
 
-v0.1.1 - KAI Worlds
+v0.1.2 - KAI Worlds

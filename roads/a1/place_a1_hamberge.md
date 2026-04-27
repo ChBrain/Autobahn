@@ -2,7 +2,7 @@
 
 ## Owner
 - Project: Autobahn
-- Place: [the A1](place_the_a1.md)
+- Place: [A1](place_the_a1.md) in [Schleswig-Holstein](place_schleswig_holstein.md)
 
 ## Shown
 An unnumbered exit between Kreuz Lübeck (24) and Reinfeld (25). The sign: Hamberge. A small community east of the A1 served by a local connection. The road here south of Lübeck - the city behind, the open country of eastern Schleswig-Holstein ahead.
@@ -21,4 +21,4 @@ The Trave again. The river that flows through Lübeck rises near the Holsteinisc
 
 ---
 
-v0.1.1 - KAI Worlds
+v0.1.2 - KAI Worlds

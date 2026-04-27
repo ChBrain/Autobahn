@@ -2,7 +2,7 @@
 
 ## Owner
 - Project: Autobahn
-- Place: [the A7](place_a7.md) in [Schleswig-Holstein](place_schleswig_holstein.md)
+- Place: [A7](place_a7.md) in [Schleswig-Holstein](place_schleswig_holstein.md)
 
 ## Shown
 The Quickborn exit. The sign: Quickborn, B4. Hamburg visible on the horizon on clear days. The road beginning to feel urban - more cars, the gaps smaller. The signs multiplying. Exit 20 does not exist - the numbering jumps here from 19.
@@ -21,4 +21,4 @@ Hamburg Airport. Four kilometres east, the approach path for runway 23 passes al
 
 ---
 
-v0.1.1 - KAI Worlds
+v0.1.2 - KAI Worlds

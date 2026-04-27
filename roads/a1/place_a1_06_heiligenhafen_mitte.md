@@ -2,7 +2,7 @@
 
 ## Owner
 - Project: Autobahn
-- Place: [the A1](place_the_a1.md)
+- Place: [A1](place_the_a1.md) in [Schleswig-Holstein](place_schleswig_holstein.md)
 
 ## Shown
 The sign: Heiligenhafen-Mitte. The town of Heiligenhafen accessible from here - the Ostsee resort town visible to the east on clear days. The road here open, the Wagrien peninsula around it.
@@ -21,4 +21,4 @@ The Heiligenhafener Binnensee. The lagoon east of the town is a nature reserve -
 
 ---
 
-v0.1.1 - KAI Worlds
+v0.1.2 - KAI Worlds

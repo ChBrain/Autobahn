@@ -2,7 +2,7 @@
 
 ## Owner
 - Project: Autobahn
-- Place: [the A1](place_the_a1.md)
+- Place: [A1](place_the_a1.md) in [Schleswig-Holstein](place_schleswig_holstein.md)
 
 ## Shown
 Exit 24. A junction. The A20 branching east toward Wismar, Rostock, and the Baltic coast of Mecklenburg-Vorpommern. The A1 continuing south toward Hamburg. The junction signed: A1 Hamburg, A20 Wismar/Rostock.
@@ -22,4 +22,4 @@ The eastern Baltic coast. East of here: Wismar, Rostock, Stralsund, Greifswald, 
 
 ---
 
-v0.1.1 - KAI Worlds
+v0.1.2 - KAI Worlds

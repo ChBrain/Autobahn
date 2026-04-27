@@ -2,7 +2,7 @@
 
 ## Owner
 - Project: Autobahn
-- Place: [the A7](place_a7.md) in [Schleswig-Holstein](place_schleswig_holstein.md)
+- Place: [A7](place_a7.md) in [Schleswig-Holstein](place_schleswig_holstein.md)
 
 ## Shown
 The sign: Schleswig, Jagel, B76. Fields to the west. The road flat here, open sky.
@@ -21,4 +21,4 @@ The Schlei. The fjord begins at Schleswig and reaches the Baltic forty kilometre
 
 ---
 
-v0.1.1 - KAI Worlds
+v0.1.2 - KAI Worlds

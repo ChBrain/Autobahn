@@ -2,7 +2,7 @@
 
 ## Owner
 - Project: Autobahn
-- Place: [the A7](place_a7.md) in [Hamburg](place_hamburg.md)
+- Place: [A7](place_a7.md) in [Hamburg](place_hamburg.md)
 
 ## Shown
 The Stellingen exit. The sign: Hamburg-Stellingen. The Volkspark to the right. Six lanes, overhead signs, the speed limit dropping in stages. The Lärmschutztunnel Stellingen: the road briefly underground.
@@ -21,4 +21,4 @@ Hagenbeck. The zoo is 800 metres east - founded 1907, the first to keep animals 
 
 ---
 
-v0.1.1 - KAI Worlds
+v0.1.2 - KAI Worlds

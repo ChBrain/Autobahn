@@ -2,7 +2,7 @@
 
 ## Owner
 - Project: Autobahn
-- Place: [the A1](place_the_a1.md)
+- Place: [A1](place_the_a1.md) in [Schleswig-Holstein](place_schleswig_holstein.md)
 
 ## Shown
 The Lübeck-Zentrum exit. The sign: Lübeck-Zentrum. The Altstadt on the Trave island - the seven towers visible from the approach. The Holstentor. The road entering the Hanseatic city.
@@ -21,4 +21,4 @@ The Hanse. Lübeck was the capital of the Hanseatic League - the medieval tradin
 
 ---
 
-v0.1.1 - KAI Worlds
+v0.1.2 - KAI Worlds

@@ -2,7 +2,7 @@
 
 ## Owner
 - Project: Autobahn
-- Place: [the A21](place_the_a21.md)
+- Place: [A21](place_the_a21.md) in [Schleswig-Holstein](place_schleswig_holstein.md)
 
 ## Shown
 The sign: Leezen. Rural. The road passing through the Stormarner Hügelland - the gently rolling countryside south of Bad Segeberg.
@@ -21,4 +21,4 @@ The Trave source. The Trave river - the same river that flows through Lübeck an
 
 ---
 
-v0.1.1 - KAI Worlds
+v0.1.2 - KAI Worlds

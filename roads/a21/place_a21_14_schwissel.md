@@ -2,7 +2,7 @@
 
 ## Owner
 - Project: Autobahn
-- Place: [the A21](place_the_a21.md)
+- Place: [A21](place_the_a21.md) in [Schleswig-Holstein](place_schleswig_holstein.md)
 
 ## Shown
 Small exit. The sign: Schwissel. The road through forest and farmland. The Segeberger Forst giving way to the Hamburg commuter belt beginning to the south.
@@ -21,4 +21,4 @@ The Bebenseer Moor. The bog and heath immediately east near Schwissel is a remna
 
 ---
 
-v0.1.1 - KAI Worlds
+v0.1.2 - KAI Worlds

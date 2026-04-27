@@ -2,7 +2,7 @@
 
 ## Owner
 - Project: Autobahn
-- Place: [the A21](place_the_a21.md)
+- Place: [A21](place_the_a21.md) in [Schleswig-Holstein](place_schleswig_holstein.md)
 
 ## Shown
 Small exit. The sign: Rümpel. The Hamburg commuter belt proper. The road here dense with settlements - the villages connecting into a continuous suburban fabric.
@@ -21,4 +21,4 @@ The Bille river. The Bille rises in the Stormarn hills and flows west through th
 
 ---
 
-v0.1.1 - KAI Worlds
+v0.1.2 - KAI Worlds

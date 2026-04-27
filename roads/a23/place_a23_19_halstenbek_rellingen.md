@@ -2,7 +2,7 @@
 
 ## Owner
 - Project: Autobahn
-- Place: [the A23](place_a23.md) in [Schleswig-Holstein](place_schleswig_holstein.md)
+- Place: [A23](place_a23.md) in [Schleswig-Holstein](place_schleswig_holstein.md)
 
 ## Shown
 The sign: Halstenbek, Rellingen. The road fully suburban. Nurseries and garden centres visible from the road - the Pinneberg rose-growing district extending this far south.
@@ -21,4 +21,4 @@ The Willkomm-Höft. At the Schulauer Fährhaus in Wedel, a few kilometres southw
 
 ---
 
-v0.1.4 - KAI Worlds
+v0.1.5 - KAI Worlds

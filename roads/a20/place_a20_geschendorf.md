@@ -2,7 +2,7 @@
 
 ## Owner
 - Project: Autobahn
-- Place: [the A20](place_the_a20.md)
+- Place: [A20](place_the_a20.md) in [Schleswig-Holstein](place_schleswig_holstein.md)
 
 ## Shown
 The sign: Geschendorf. The only ordinary exit in the SH section between Kreuz Lübeck and Weede. The road here crossing the Segeberger Forst - the forest between Bad Segeberg and Lübeck.
@@ -21,4 +21,4 @@ The Segeberger Forst. One of the largest contiguous forests in Schleswig-Holstei
 
 ---
 
-v0.1.1 - KAI Worlds
+v0.1.2 - KAI Worlds

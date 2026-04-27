@@ -2,7 +2,7 @@
 
 ## Owner
 - Project: Autobahn
-- Place: [the A7](place_a7.md) in [Schleswig-Holstein](place_schleswig_holstein.md)
+- Place: [A7](place_a7.md) in [Schleswig-Holstein](place_schleswig_holstein.md)
 
 ## Shown
 Exit 12. A junction, not an ordinary exit. The A215 branching north toward Kiel. The A7 continuing south toward Hamburg. The junction signs: A7 Hamburg, A215 Kiel. The road widening to six lanes south of this point - the expansion from Bordesholm to Hamburg-Nordwest begins here. The Naturpark Westensee visible briefly to the west.
@@ -21,4 +21,4 @@ The Eider source. The river begins in the lake district west of here - the morai
 
 ---
 
-v0.1.1 - KAI Worlds
+v0.1.2 - KAI Worlds

@@ -2,7 +2,7 @@
 
 ## Owner
 - Project: Autobahn
-- Place: [the A7](place_a7.md) in [Schleswig-Holstein](place_schleswig_holstein.md)
+- Place: [A7](place_a7.md) in [Schleswig-Holstein](place_schleswig_holstein.md)
 
 ## Shown
 The northern Neumünster exit. The sign: Neumünster-Nord. The city visible to the left.
@@ -21,4 +21,4 @@ The Vicelinkirche. Three kilometres east in Neumünster city centre - standing o
 
 ---
 
-v0.1.1 - KAI Worlds
+v0.1.2 - KAI Worlds

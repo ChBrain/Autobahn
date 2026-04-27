@@ -2,7 +2,7 @@
 
 ## Owner
 - Project: Autobahn
-- Place: [the A24](place_the_a24.md)
+- Place: [A24](place_the_a24.md) in [Hamburg](place_hamburg.md)
 
 ## Shown
 The western entry point of the A24 in the Hamburg area. The sign: Hamburg-Horn. The road heading east toward Berlin - 230 kilometres to go.
@@ -20,4 +20,4 @@ Horn. The Hamburg district here was for centuries the site of the Hamburger Dom 
 
 ---
 
-v0.1.1 - KAI Worlds
+v0.1.2 - KAI Worlds

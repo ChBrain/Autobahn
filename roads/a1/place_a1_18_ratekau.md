@@ -2,7 +2,7 @@
 
 ## Owner
 - Project: Autobahn
-- Place: [the A1](place_the_a1.md)
+- Place: [A1](place_the_a1.md) in [Schleswig-Holstein](place_schleswig_holstein.md)
 
 ## Shown
 The sign: Ratekau. Lübeck visible to the south - the spires of the Marienkirche and the Holstentor possible on clear days. The road approaching the city.
@@ -21,4 +21,4 @@ The spires. On clear days from near this exit, the seven towers of Lübeck are v
 
 ---
 
-v0.1.1 - KAI Worlds
+v0.1.2 - KAI Worlds

@@ -2,7 +2,7 @@
 
 ## Owner
 - Project: Autobahn
-- Place: [the A7](place_a7.md) in [Schleswig-Holstein](place_schleswig_holstein.md)
+- Place: [A7](place_a7.md) in [Schleswig-Holstein](place_schleswig_holstein.md)
 
 ## Shown
 The northern Schleswig exit. The sign: Schleswig, Schuby, B201. The city a few kilometres west. The Schlei somewhere beyond the fields.
@@ -21,4 +21,4 @@ Haithabu. Three kilometres east - the Viking-age settlement occupied from the ea
 
 ---
 
-v0.1.1 - KAI Worlds
+v0.1.2 - KAI Worlds

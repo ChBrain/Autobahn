@@ -2,7 +2,7 @@
 
 ## Owner
 - Project: Autobahn
-- Place: [the A20](place_the_a20.md)
+- Place: [A20](place_the_a20.md) in [Schleswig-Holstein](place_schleswig_holstein.md)
 
 ## Shown
 The sign: Groß Sarau. A small exit east of Lübeck - the A20 heading into Mecklenburg-Vorpommern. The last exit in Schleswig-Holstein before the state line.
@@ -20,4 +20,4 @@ The Wakenitz. The river running north from the Ratzeburger See to Lübeck forms 
 
 ---
 
-v0.1.1 - KAI Worlds
+v0.1.2 - KAI Worlds

@@ -2,7 +2,7 @@
 
 ## Owner
 - Project: Autobahn
-- Place: [the A21](place_the_a21.md)
+- Place: [A21](place_the_a21.md) in [Schleswig-Holstein](place_schleswig_holstein.md)
 
 ## Shown
 The sign: Wahlstedt. The town is a satellite of Bad Segeberg - grew rapidly after the war as a settlement for expellees from the eastern territories. Now a small town of 10,000 with no particular character that the A21 exit captures.
@@ -21,4 +21,4 @@ The postwar settlement. Wahlstedt was essentially built in the late 1940s by peo
 
 ---
 
-v0.1.1 - KAI Worlds
+v0.1.2 - KAI Worlds

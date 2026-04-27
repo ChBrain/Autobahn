@@ -2,7 +2,7 @@
 
 ## Owner
 - Project: Autobahn
-- Place: [the A21](place_the_a21.md)
+- Place: [A21](place_the_a21.md) in [Schleswig-Holstein](place_schleswig_holstein.md)
 
 ## Shown
 Exit 6. The sign: Nettelsee. The current northern terminus of the A21 as a completed motorway. North of here the road continues as B404 toward Kiel - the extension under construction, completion to Barkauer Kreuz planned for mid-2026. The A21 proper ends here. The B404 continues.
@@ -20,4 +20,4 @@ The Nettelau renaturalisation. During construction of the extension through this
 
 ---
 
-v0.1.1 - KAI Worlds
+v0.1.2 - KAI Worlds

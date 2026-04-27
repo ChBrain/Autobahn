@@ -2,7 +2,7 @@
 
 ## Owner
 - Project: Autobahn
-- Place: [the A215](place_the_a215.md)
+- Place: [A215](place_the_a215.md) in [Schleswig-Holstein](place_schleswig_holstein.md)
 
 ## Shown
 Exit 5. The southern terminus of the A215. The A7 junction. The A7 runs north to Flensburg and south to Hamburg. On the A7 this is exit 12.
@@ -20,4 +20,4 @@ The Bordesholm monastery island. The Augustinian monastery founded 1330 and diss
 
 ---
 
-v0.1.1 - KAI Worlds
+v0.1.2 - KAI Worlds

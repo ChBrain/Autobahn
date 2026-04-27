@@ -2,7 +2,7 @@
 
 ## Owner
 - Project: Autobahn
-- Place: [the A1](place_the_a1.md)
+- Place: [A1](place_the_a1.md) in [Schleswig-Holstein](place_schleswig_holstein.md)
 
 ## Shown
 The northern Oldenburg exit. The sign: Oldenburg in Holstein-Nord. Three exits for one town - the road bypasses Oldenburg to the west. The town a few kilometres east.
@@ -21,4 +21,4 @@ The old Wagrien capital. Oldenburg in Holstein was the seat of the Bishopric of 
 
 ---
 
-v0.1.1 - KAI Worlds
+v0.1.2 - KAI Worlds

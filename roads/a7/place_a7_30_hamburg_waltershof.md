@@ -2,7 +2,7 @@
 
 ## Owner
 - Project: Autobahn
-- Place: [the A7](place_a7.md) in [Hamburg](place_hamburg.md)
+- Place: [A7](place_a7.md) in [Hamburg](place_hamburg.md)
 
 ## Shown
 The Waltershof exit. The sign: Hamburg-Waltershof, Hafen. South of [the Elbtunnel](place_a7_elbtunnel.md). The port visible - containers, cranes, the smell of the harbour if the window is open. The road here industrial. The A7 south toward Hannover.
@@ -21,4 +21,4 @@ Finkenwerder. The island directly south - a former fishing village, the characte
 
 ---
 
-v0.1.1 - KAI Worlds
+v0.1.2 - KAI Worlds

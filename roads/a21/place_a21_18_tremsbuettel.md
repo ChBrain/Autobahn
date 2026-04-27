@@ -2,7 +2,7 @@
 
 ## Owner
 - Project: Autobahn
-- Place: [the A21](place_the_a21.md)
+- Place: [A21](place_the_a21.md) in [Schleswig-Holstein](place_schleswig_holstein.md)
 
 ## Shown
 The sign: Tremsbüttel. The road approaching the Kreuz Bargteheide. The A1 visible on the overhead signs ahead. The final exit before the junction.
@@ -21,4 +21,4 @@ Schloss Tremsbüttel. The baroque castle in the village - now a hotel - is hidde
 
 ---
 
-v0.1.1 - KAI Worlds
+v0.1.2 - KAI Worlds

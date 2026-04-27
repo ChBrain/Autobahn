@@ -2,7 +2,7 @@
 
 ## Owner
 - Project: Autobahn
-- Place: [the A210](place_the_a210.md)
+- Place: [A210](place_the_a210.md) in [Schleswig-Holstein](place_schleswig_holstein.md)
 
 ## Shown
 Exit 7. The eastern terminus of the A210. The A215 branches south toward Dreieck Bordesholm and the A7. The A210 ends here. Kiel centre accessible via the urban road network.
@@ -20,4 +20,4 @@ The Kieler Woche. Each June, the Kieler Förde becomes the venue for the largest
 
 ---
 
-v0.1.1 - KAI Worlds
+v0.1.2 - KAI Worlds

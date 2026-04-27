@@ -2,7 +2,7 @@
 
 ## Owner
 - Project: Autobahn
-- Place: [the A215](place_the_a215.md)
+- Place: [A215](place_the_a215.md) in [Schleswig-Holstein](place_schleswig_holstein.md)
 
 ## Shown
 Small exit. The sign: Blumenthal. Rural - the A215 passing through open country south of Kiel. The Kiel urban area behind, the A7 corridor ahead.
@@ -21,4 +21,4 @@ The Knicks. The raised earth and hedge boundaries crossing the fields here are a
 
 ---
 
-v0.1.1 - KAI Worlds
+v0.1.2 - KAI Worlds

@@ -2,7 +2,7 @@
 
 ## Owner
 - Project: Autobahn
-- Place: [the A24](place_the_a24.md)
+- Place: [A24](place_the_a24.md) in [Hamburg](place_hamburg.md)
 
 ## Shown
 The sign: Hamburg-Jenfeld. Eastern Hamburg suburb. The A1 junction approaching - where the Hamburg–Lübeck route crosses the Hamburg–Berlin route.
@@ -21,4 +21,4 @@ Jenfeld housing estate. The large postwar settlement immediately north was built
 
 ---
 
-v0.1.1 - KAI Worlds
+v0.1.2 - KAI Worlds

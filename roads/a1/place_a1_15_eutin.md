@@ -2,7 +2,7 @@
 
 ## Owner
 - Project: Autobahn
-- Place: [the A1](place_the_a1.md)
+- Place: [A1](place_the_a1.md) in [Schleswig-Holstein](place_schleswig_holstein.md)
 
 ## Shown
 The sign: Eutin, B76. The B76 connects here - east toward Lübeck-Travemünde, west toward Plön, Kiel, and Schleswig. The Holsteinische Schweiz begins here: the lake district east of Kiel.
@@ -21,4 +21,4 @@ Carl Maria von Weber. The composer was born in Eutin in 1786. The town has a cas
 
 ---
 
-v0.1.1 - KAI Worlds
+v0.1.2 - KAI Worlds

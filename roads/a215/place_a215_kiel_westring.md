@@ -2,7 +2,7 @@
 
 ## Owner
 - Project: Autobahn
-- Place: [the A215](place_the_a215.md)
+- Place: [A215](place_the_a215.md) in [Schleswig-Holstein](place_schleswig_holstein.md)
 
 ## Shown
 The northern terminus of the A215. The sign: Kiel-Westring. The road begins here - north of this point the urban road network of Kiel. The Kieler Förde a short distance east.
@@ -20,4 +20,4 @@ The Marinestützpunkt Kiel. Germany's principal naval port is a few kilometres f
 
 ---
 
-v0.1.1 - KAI Worlds
+v0.1.2 - KAI Worlds

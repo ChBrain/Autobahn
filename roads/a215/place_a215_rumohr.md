@@ -2,7 +2,7 @@
 
 ## Owner
 - Project: Autobahn
-- Place: [the A215](place_the_a215.md)
+- Place: [A215](place_the_a215.md) in [Schleswig-Holstein](place_schleswig_holstein.md)
 
 ## Shown
 An unnumbered exit between Kreuz Kiel-West (3) and Blumenthal (4). The sign: Rumohr. A small village served by a local connection. The road here in the open country south of Kiel - the city behind, the A7 corridor ahead.
@@ -21,4 +21,4 @@ The Eider headwaters. The Eider rises in the lakes south of Kiel - the same rive
 
 ---
 
-v0.1.1 - KAI Worlds
+v0.1.2 - KAI Worlds

@@ -2,7 +2,7 @@
 
 ## Owner
 - Project: Autobahn
-- Place: [the A1](place_the_a1.md)
+- Place: [A1](place_the_a1.md) in [Schleswig-Holstein](place_schleswig_holstein.md)
 
 ## Shown
 The sign: Bad Schwartau. The Lübeck suburb. The city of Lübeck begins here for practical purposes.
@@ -21,4 +21,4 @@ The spa. Bad Schwartau is a Kurort - a designated spa town - for its brine sprin
 
 ---
 
-v0.1.1 - KAI Worlds
+v0.1.2 - KAI Worlds

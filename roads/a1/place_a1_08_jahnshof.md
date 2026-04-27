@@ -2,7 +2,7 @@
 
 ## Owner
 - Project: Autobahn
-- Place: [the A1](place_the_a1.md)
+- Place: [A1](place_the_a1.md) in [Schleswig-Holstein](place_schleswig_holstein.md)
 
 ## Shown
 Very small exit. The sign: Jahnshof. A hamlet. The road here unremarkable - the A1 crossing the agricultural interior of the peninsula.
@@ -21,4 +21,4 @@ The name. Jahnshof is named for Friedrich Ludwig Jahn - the father of German gym
 
 ---
 
-v0.1.1 - KAI Worlds
+v0.1.2 - KAI Worlds

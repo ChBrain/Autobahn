@@ -2,7 +2,7 @@
 
 ## Owner
 - Project: Autobahn
-- Place: [the A210](place_the_a210.md)
+- Place: [A210](place_the_a210.md) in [Schleswig-Holstein](place_schleswig_holstein.md)
 
 ## Shown
 Small exit. The sign: Bredenbek. The road crossing the Schleswig-Holstein interior - farmland and forest between Rendsburg and Kiel.
@@ -21,4 +21,4 @@ The Eider at its narrowest. The river here is still a young stream - it rises in
 
 ---
 
-v0.1.1 - KAI Worlds
+v0.1.2 - KAI Worlds

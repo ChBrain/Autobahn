@@ -2,7 +2,7 @@
 
 ## Owner
 - Project: Autobahn
-- Place: [the A24](place_the_a24.md)
+- Place: [A24](place_the_a24.md) in [Schleswig-Holstein](place_schleswig_holstein.md)
 
 ## Shown
 Exit 8b. The sign: Gudow. The last Schleswig-Holstein exit on the A24. The state border is 1.4 kilometres east. The road approaching the end of Schleswig-Holstein and the beginning of Mecklenburg-Vorpommern.
@@ -20,4 +20,4 @@ The Schaalsee. Germany's deepest lake lies a few kilometres south - a glacial la
 
 ---
 
-v0.1.1 - KAI Worlds
+v0.1.2 - KAI Worlds

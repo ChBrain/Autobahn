@@ -2,7 +2,7 @@
 
 ## Owner
 - Project: Autobahn
-- Place: [the A7](place_a7.md) in [Schleswig-Holstein](place_schleswig_holstein.md)
+- Place: [A7](place_a7.md) in [Schleswig-Holstein](place_schleswig_holstein.md)
 
 ## Shown
 Small exit. Rural. The sign: Tarp. Fields on both sides. The road here flat and open - the deep flat of the Schleswig plain.
@@ -21,4 +21,4 @@ Angeln. The land east of here, between the Flensburg Förde and the Schlei, is t
 
 ---
 
-v0.1.1 - KAI Worlds
+v0.1.2 - KAI Worlds

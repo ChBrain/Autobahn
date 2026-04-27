@@ -2,7 +2,7 @@
 
 ## Owner
 - Project: Autobahn
-- Place: [the A7](place_a7.md) in [Hamburg](place_hamburg.md)
+- Place: [A7](place_a7.md) in [Hamburg](place_hamburg.md)
 
 ## Shown
 The Hamburg-Schnelsen exit. The sign: Hamburg-Schnelsen, Niendorf. The road here fully urban - the Lärmschutztunnel Schnelsen built over the motorway in this section.
@@ -21,4 +21,4 @@ The allotments. Above the tunnel lid: 25 hectares of green space, 3,000 new apar
 
 ---
 
-v0.1.1 - KAI Worlds
+v0.1.2 - KAI Worlds

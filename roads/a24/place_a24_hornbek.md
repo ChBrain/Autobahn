@@ -2,7 +2,7 @@
 
 ## Owner
 - Project: Autobahn
-- Place: [the A24](place_the_a24.md)
+- Place: [A24](place_the_a24.md) in [Schleswig-Holstein](place_schleswig_holstein.md)
 
 ## Shown
 Exit 8a. The sign: Hornbek. Eastern Schleswig-Holstein - the road approaching the state border. The landscape flat, agricultural, the Elbe-Lübeck canal crossing somewhere near here.
@@ -21,4 +21,4 @@ The Elbe-Lübeck-Kanal. The canal connecting the Elbe to Lübeck crosses near he
 
 ---
 
-v0.1.1 - KAI Worlds
+v0.1.2 - KAI Worlds

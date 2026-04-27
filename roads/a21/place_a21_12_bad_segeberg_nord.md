@@ -2,7 +2,7 @@
 
 ## Owner
 - Project: Autobahn
-- Place: [the A21](place_the_a21.md)
+- Place: [A21](place_the_a21.md) in [Schleswig-Holstein](place_schleswig_holstein.md)
 
 ## Shown
 The northern Bad Segeberg exit. The sign: Bad Segeberg-Nord. The A20 junction ahead - the Ostseeautobahn meets the A21 here. The town visible to the west. The Kalkberg visible on the horizon.
@@ -21,4 +21,4 @@ The Kalkberg. The limestone hill in Bad Segeberg - a few hundred metres from thi
 
 ---
 
-v0.1.1 - KAI Worlds
+v0.1.2 - KAI Worlds

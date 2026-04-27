@@ -2,7 +2,7 @@
 
 ## Owner
 - Project: Autobahn
-- Place: [the A25](place_the_a25.md)
+- Place: [A25](place_the_a25.md) in [Hamburg](place_hamburg.md)
 
 ## Shown
 The eastern terminus of the A25 in SH. The sign: Hamburg-Neuallermöhe-West. The road ends here - the A25 continuing east into Hamburg proper toward Geesthacht and Bergedorf.
@@ -20,4 +20,4 @@ The Elbe. A few kilometres south the Elbe runs east-west - one of Germany's grea
 
 ---
 
-v0.1.1 - KAI Worlds
+v0.1.2 - KAI Worlds

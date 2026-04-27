@@ -2,7 +2,7 @@
 
 ## Owner
 - Project: Autobahn
-- Place: [the A1](place_the_a1.md)
+- Place: [A1](place_the_a1.md) in [Schleswig-Holstein](place_schleswig_holstein.md)
 
 ## Shown
 The sign: Lübeck-Moisling. Industrial western Lübeck. The road here dense - Lübeck's port and logistics area visible to the left. The A20 junction approaching.
@@ -21,4 +21,4 @@ The Trave. The river runs through Lübeck from the Ratzeburger See to the Baltic
 
 ---
 
-v0.1.1 - KAI Worlds
+v0.1.2 - KAI Worlds

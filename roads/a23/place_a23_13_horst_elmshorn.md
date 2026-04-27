@@ -2,7 +2,7 @@
 
 ## Owner
 - Project: Autobahn
-- Place: [the A23](place_a23.md) in [Schleswig-Holstein](place_schleswig_holstein.md)
+- Place: [A23](place_a23.md) in [Schleswig-Holstein](place_schleswig_holstein.md)
 
 ## Shown
 The northern Elmshorn exit. The sign: Horst, Elmshorn. The first large town on this road south of Itzehoe. The road denser, industrial areas visible to the east.
@@ -21,4 +21,4 @@ The Krückau runs through Elmshorn to the Elbe, four kilometres east. Before the
 
 ---
 
-v0.1.4 - KAI Worlds
+v0.1.5 - KAI Worlds

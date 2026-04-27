@@ -2,7 +2,7 @@
 
 ## Owner
 - Project: Autobahn
-- Place: [the A21](place_the_a21.md)
+- Place: [A21](place_the_a21.md) in [Schleswig-Holstein](place_schleswig_holstein.md)
 
 ## Shown
 Small exit. The sign: Daldorf. The road here crossing the Segeberger Forst - the forest that runs south of Bad Segeberg. The landscape wooded, the road cutting through it.
@@ -21,4 +21,4 @@ The Segeberger Höhlen. The Bad Segeberg limestone caves are a few kilometres so
 
 ---
 
-v0.1.1 - KAI Worlds
+v0.1.2 - KAI Worlds

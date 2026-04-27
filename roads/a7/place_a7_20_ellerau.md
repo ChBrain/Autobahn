@@ -2,7 +2,7 @@
 
 ## Owner
 - Project: Autobahn
-- Place: [the A7](place_a7.md) in [Schleswig-Holstein](place_schleswig_holstein.md)
+- Place: [A7](place_a7.md) in [Schleswig-Holstein](place_schleswig_holstein.md)
 
 ## Shown
 The sign: Ellerau. The Hamburg commuter belt - the settlements south of Henstedt-Ulzburg merging into each other. The road still open but the density increasing.
@@ -21,4 +21,4 @@ The Rantzau estate at Barmstedt. Ten kilometres west, a moated Renaissance manor
 
 ---
 
-v0.1.1 - KAI Worlds
+v0.1.2 - KAI Worlds

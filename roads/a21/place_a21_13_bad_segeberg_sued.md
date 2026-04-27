@@ -2,7 +2,7 @@
 
 ## Owner
 - Project: Autobahn
-- Place: [the A21](place_the_a21.md)
+- Place: [A21](place_the_a21.md) in [Schleswig-Holstein](place_schleswig_holstein.md)
 
 ## Shown
 The southern Bad Segeberg exit. The sign: Bad Segeberg-Süd. The last exit for Bad Segeberg. The road continuing south through the Segeberger Forst.
@@ -21,4 +21,4 @@ Karl May. The Karl-May-Spiele have been performed outside the Segeberger Höhlen
 
 ---
 
-v0.1.1 - KAI Worlds
+v0.1.2 - KAI Worlds

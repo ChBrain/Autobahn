@@ -2,7 +2,7 @@
 
 ## Owner
 - Project: Autobahn
-- Place: [the A1](place_the_a1.md)
+- Place: [A1](place_the_a1.md) in [Schleswig-Holstein](place_schleswig_holstein.md)
 
 ## Shown
 The sign: Neustadt in Holstein-Mitte. The town accessible from here. The Priwall peninsula and the entrance to the Neustädter Bucht nearby.
@@ -21,4 +21,4 @@ The Cap Arcona. On 3 May 1945, the passenger ship Cap Arcona was sunk in the Neu
 
 ---
 
-v0.1.1 - KAI Worlds
+v0.1.2 - KAI Worlds

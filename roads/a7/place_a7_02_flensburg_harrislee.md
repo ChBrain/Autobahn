@@ -2,7 +2,7 @@
 
 ## Owner
 - Project: Autobahn
-- Place: [the A7](place_a7.md) in [Schleswig-Holstein](place_schleswig_holstein.md)
+- Place: [A7](place_a7.md) in [Schleswig-Holstein](place_schleswig_holstein.md)
 
 ## Shown
 The first exit south of the Danish border. The sign: Flensburg, Harrislee, B199. The acceleration lane for northbound drivers entering from Flensburg. The city of Flensburg visible to the east.
@@ -21,4 +21,4 @@ The Flensburg Förde. The fjord runs east of the city - the water visible from h
 
 ---
 
-v0.1.1 - KAI Worlds
+v0.1.2 - KAI Worlds

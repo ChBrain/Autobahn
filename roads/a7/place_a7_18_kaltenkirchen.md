@@ -2,7 +2,7 @@
 
 ## Owner
 - Project: Autobahn
-- Place: [the A7](place_a7.md) in [Schleswig-Holstein](place_schleswig_holstein.md)
+- Place: [A7](place_a7.md) in [Schleswig-Holstein](place_schleswig_holstein.md)
 
 ## Shown
 The Kaltenkirchen exit. The sign: Kaltenkirchen, B4. Hamburg 35 km on the overhead sign. The road here fast - not yet Stadteinfahrt density. The exit easy to miss at speed if the Driver is not watching. The sign at 300 metres, 200 metres, the ramp.
@@ -21,4 +21,4 @@ The Himmelmoor. South-west of Kaltenkirchen, between Quickborn and Hasloh - one 
 
 ---
 
-v0.1.1 - KAI Worlds
+v0.1.2 - KAI Worlds

@@ -2,7 +2,7 @@
 
 ## Owner
 - Project: Autobahn
-- Place: [the A24](place_the_a24.md)
+- Place: [A24](place_the_a24.md) in [Schleswig-Holstein](place_schleswig_holstein.md)
 
 ## Shown
 The sign: Reinbek. The Hamburg commuter belt. The road leaving the city - the last dense suburban exit before the A24 enters the open country of eastern Schleswig-Holstein.
@@ -21,4 +21,4 @@ Schloss Reinbek. The Renaissance palace on the Bille river - built 1568 for Duke
 
 ---
 
-v0.1.1 - KAI Worlds
+v0.1.2 - KAI Worlds

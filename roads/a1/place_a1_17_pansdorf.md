@@ -2,7 +2,7 @@
 
 ## Owner
 - Project: Autobahn
-- Place: [the A1](place_the_a1.md)
+- Place: [A1](place_the_a1.md) in [Schleswig-Holstein](place_schleswig_holstein.md)
 
 ## Shown
 The sign: Pansdorf. The road entering the Lübeck urban fringe - the holiday character of the coast giving way to commuter settlements.
@@ -21,4 +21,4 @@ Timmendorfer Strand and the Lübecker Bucht coast. The bay curves east from this
 
 ---
 
-v0.1.1 - KAI Worlds
+v0.1.2 - KAI Worlds

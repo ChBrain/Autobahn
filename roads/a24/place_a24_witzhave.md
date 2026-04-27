@@ -2,7 +2,7 @@
 
 ## Owner
 - Project: Autobahn
-- Place: [the A24](place_the_a24.md)
+- Place: [A24](place_the_a24.md) in [Schleswig-Holstein](place_schleswig_holstein.md)
 
 ## Shown
 Small exit. The sign: Witzhave. The road now in open country - the Hamburg metropolitan area left behind. Eastern Holstein: flat, agricultural, the motorway cutting through it.
@@ -21,4 +21,4 @@ The Sachsenwald. The forest begins a few kilometres south - 7,000 hectares of ma
 
 ---
 
-v0.1.1 - KAI Worlds
+v0.1.2 - KAI Worlds

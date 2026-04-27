@@ -2,7 +2,7 @@
 
 ## Owner
 - Project: Autobahn
-- Place: [the A215](place_the_a215.md)
+- Place: [A215](place_the_a215.md) in [Schleswig-Holstein](place_schleswig_holstein.md)
 
 ## Shown
 Exit 3. The junction of the A215 and the A210. The A210 runs west to Kreuz Rendsburg and the A7. The A215 continues south toward Bordesholm.
@@ -21,4 +21,4 @@ Kiel-Mettenhof. The large postwar housing estate a kilometre north was built in 
 
 ---
 
-v0.1.1 - KAI Worlds
+v0.1.2 - KAI Worlds

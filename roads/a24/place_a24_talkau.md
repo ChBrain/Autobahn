@@ -2,7 +2,7 @@
 
 ## Owner
 - Project: Autobahn
-- Place: [the A24](place_the_a24.md)
+- Place: [A24](place_the_a24.md) in [Schleswig-Holstein](place_schleswig_holstein.md)
 
 ## Shown
 Small exit. The sign: Talkau. The exit before Hornbek. The A24 continues through eastern Schleswig-Holstein toward the state border.
@@ -21,4 +21,4 @@ The Sachsenwald edge. The eastern boundary of the Sachsenwald runs close to Talk
 
 ---
 
-v0.1.1 - KAI Worlds
+v0.1.2 - KAI Worlds

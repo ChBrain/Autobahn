@@ -2,7 +2,7 @@
 
 ## Owner
 - Project: Autobahn
-- Place: [the A7](place_a7.md) in [Schleswig-Holstein](place_schleswig_holstein.md)
+- Place: [A7](place_a7.md) in [Schleswig-Holstein](place_schleswig_holstein.md)
 
 ## Shown
 Small exit south of Neumünster. The sign: Großenaspe. The road here six lanes - the expansion complete. Open country. The first exit in the Hamburg approach zone where the road starts to feel like it is committed to somewhere.
@@ -21,4 +21,4 @@ Schmalfeld church. Three kilometres west, a 13th-century village church, the old
 
 ---
 
-v0.1.1 - KAI Worlds
+v0.1.2 - KAI Worlds

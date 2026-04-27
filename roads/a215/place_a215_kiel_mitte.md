@@ -2,7 +2,7 @@
 
 ## Owner
 - Project: Autobahn
-- Place: [the A215](place_the_a215.md)
+- Place: [A215](place_the_a215.md) in [Schleswig-Holstein](place_schleswig_holstein.md)
 
 ## Shown
 The sign: Kiel-Mitte. The city centre accessible from here. The A215 passing through the western suburbs - the Förde not visible from the road.
@@ -21,4 +21,4 @@ The bombings. Kiel was one of the most heavily bombed German cities in the Secon
 
 ---
 
-v0.1.1 - KAI Worlds
+v0.1.2 - KAI Worlds

@@ -2,7 +2,7 @@
 
 ## Owner
 - Project: Autobahn
-- Place: [the A7](place_a7.md) in [Schleswig-Holstein](place_schleswig_holstein.md)
+- Place: [A7](place_a7.md) in [Schleswig-Holstein](place_schleswig_holstein.md)
 
 ## Shown
 The Rendsburg exit. The sign: Rendsburg, Büdelsdorf, B77. The Rader Hochbrücke visible ahead - the A7 climbing over the Kiel Canal. The road beginning its elevation. The canal below: wide, dark water.
@@ -21,4 +21,4 @@ The Schwebefähre. The transporter ferry hangs below the Rendsburg railway bridg
 
 ---
 
-v0.1.1 - KAI Worlds
+v0.1.2 - KAI Worlds

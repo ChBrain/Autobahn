@@ -2,7 +2,7 @@
 
 ## Owner
 - Project: Autobahn
-- Place: [the A7](place_a7.md) in [Schleswig-Holstein](place_schleswig_holstein.md)
+- Place: [A7](place_a7.md) in [Schleswig-Holstein](place_schleswig_holstein.md)
 
 ## Shown
 The Bordesholm exit. The sign: Bordesholm. The Dreieck Bordesholm visible ahead - the A215 junction. The exit at the edge of the interchange.
@@ -21,4 +21,4 @@ The Naturpark Westensee. The lake district begins immediately west - the Westens
 
 ---
 
-v0.1.1 - KAI Worlds
+v0.1.2 - KAI Worlds

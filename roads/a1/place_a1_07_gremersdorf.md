@@ -2,7 +2,7 @@
 
 ## Owner
 - Project: Autobahn
-- Place: [the A1](place_the_a1.md)
+- Place: [A1](place_the_a1.md) in [Schleswig-Holstein](place_schleswig_holstein.md)
 
 ## Shown
 Small exit. The sign: Gremersdorf. Rural Wagrien - the peninsula between the Ostsee and the Kieler Förde. Flat agricultural land, the sky wide.
@@ -21,4 +21,4 @@ Wagrien. The peninsula is a distinct geographical unit - the easternmost part of
 
 ---
 
-v0.1.1 - KAI Worlds
+v0.1.2 - KAI Worlds

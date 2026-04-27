@@ -2,7 +2,7 @@
 
 ## Owner
 - Project: Autobahn
-- Place: [the A7](place_a7.md) in [Hamburg](place_hamburg.md)
+- Place: [A7](place_a7.md) in [Hamburg](place_hamburg.md)
 
 ## Shown
 The Othmarschen exit. The sign: Hamburg-Othmarschen, Altona, Bahrenfeld. North of [the Elbtunnel](place_a7_elbtunnel.md). The road here four lanes, the city fully present.
@@ -21,4 +21,4 @@ The Elbchaussee. The road running along the Elbe from Altona west through Othmar
 
 ---
 
-v0.1.1 - KAI Worlds
+v0.1.2 - KAI Worlds

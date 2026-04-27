@@ -2,7 +2,7 @@
 
 ## Owner
 - Project: Autobahn
-- Place: [the A7](place_a7.md) in [Hamburg](place_hamburg.md)
+- Place: [A7](place_a7.md) in [Hamburg](place_hamburg.md)
 
 ## Shown
 The Bahrenfeld exit. The sign: Hamburg-Bahrenfeld. North of [the Elbtunnel](place_a7_elbtunnel.md). Currently closed: Lärmschutztunnel construction until 2028. The ramp is there. The signs are there. The exit is not available.
@@ -21,4 +21,4 @@ The Trabrennbahn. Hamburg's trotting track in Bahrenfeld - harness racing on thi
 
 ---
 
-v0.1.1 - KAI Worlds
+v0.1.2 - KAI Worlds

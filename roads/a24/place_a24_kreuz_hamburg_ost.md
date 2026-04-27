@@ -2,7 +2,7 @@
 
 ## Owner
 - Project: Autobahn
-- Place: [the A24](place_the_a24.md)
+- Place: [A24](place_the_a24.md) in [Hamburg](place_hamburg.md)
 
 ## Shown
 Exit 31. The junction of the A24 and the A1. The A1 runs north to Lübeck and Fehmarn, south to Hamburg-Billstedt. The A24 continues east toward Berlin. On the A1 this is exit 31.
@@ -21,4 +21,4 @@ The Sachsenwald. Germany's largest privately owned forest begins a few kilometre
 
 ---
 
-v0.1.1 - KAI Worlds
+v0.1.2 - KAI Worlds

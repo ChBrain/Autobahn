@@ -2,7 +2,7 @@
 
 ## Owner
 - Project: Autobahn
-- Place: [the A23](place_a23.md) in [Hamburg](place_hamburg.md)
+- Place: [A23](place_a23.md) in [Hamburg](place_hamburg.md)
 
 ## Shown
 Hamburg. The first Hamburg exit on the A23. The sign: Hamburg-Eidelstedt. This exit serves the missing relation at the Dreieck - drivers from the A7 northbound who cannot take the direct A23 ramp come here instead.
@@ -21,4 +21,4 @@ The Eidelstedter Mühle on the Mühlenau was first recorded in 1350 - a water mi
 
 ---
 
-v0.1.4 - KAI Worlds
+v0.1.5 - KAI Worlds

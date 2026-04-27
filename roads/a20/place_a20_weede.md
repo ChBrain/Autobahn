@@ -2,7 +2,7 @@
 
 ## Owner
 - Project: Autobahn
-- Place: [the A20](place_the_a20.md)
+- Place: [A20](place_the_a20.md) in [Schleswig-Holstein](place_schleswig_holstein.md)
 
 ## Shown
 The current western terminus of the A20 in Schleswig-Holstein. The road ends here - to the west the B206 continues toward Bad Segeberg. Extension to Bad Segeberg and beyond planned and contested for decades. The A20 stops here and the traffic disperses.
@@ -20,4 +20,4 @@ The Kalkberg at Bad Segeberg. The limestone hill a few kilometres south - unique
 
 ---
 
-v0.1.1 - KAI Worlds
+v0.1.2 - KAI Worlds

@@ -2,7 +2,7 @@
 
 ## Owner
 - Project: Autobahn
-- Place: [the A21](place_the_a21.md)
+- Place: [A21](place_the_a21.md) in [Schleswig-Holstein](place_schleswig_holstein.md)
 
 ## Shown
 Exit 19. The southern terminus of the A21. The A1 junction. The A21 ends here - or begins here, depending on direction. The A1 continues north to Lübeck and south to Hamburg. The junction signed: A1 Lübeck, A1 Hamburg, A21 Kiel.
@@ -20,4 +20,4 @@ Bargteheide. The town east grew rapidly in the postwar decades as a dormitory se
 
 ---
 
-v0.1.1 - KAI Worlds
+v0.1.2 - KAI Worlds

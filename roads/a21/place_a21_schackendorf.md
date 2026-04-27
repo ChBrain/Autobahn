@@ -2,7 +2,7 @@
 
 ## Owner
 - Project: Autobahn
-- Place: [the A21](place_the_a21.md)
+- Place: [A21](place_the_a21.md) in [Schleswig-Holstein](place_schleswig_holstein.md)
 
 ## Shown
 Small exit. The sign: Schackendorf. The road approaching Bad Segeberg from the northwest.
@@ -21,4 +21,4 @@ The gypsum. The Segeberger Kalkberg - the limestone hill that gives Bad Segeberg
 
 ---
 
-v0.1.1 - KAI Worlds
+v0.1.2 - KAI Worlds

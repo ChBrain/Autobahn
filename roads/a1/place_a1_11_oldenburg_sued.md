@@ -2,7 +2,7 @@
 
 ## Owner
 - Project: Autobahn
-- Place: [the A1](place_the_a1.md)
+- Place: [A1](place_the_a1.md) in [Schleswig-Holstein](place_schleswig_holstein.md)
 
 ## Shown
 The southern Oldenburg exit. The sign: Oldenburg in Holstein-Süd, B202. The B202 connects here toward Rendsburg - linking Wagrien to the west coast of Schleswig-Holstein. Last chance for Oldenburg.
@@ -21,4 +21,4 @@ The B202. At the bottom of this ramp two coastlines connect - the Baltic coast t
 
 ---
 
-v0.1.1 - KAI Worlds
+v0.1.2 - KAI Worlds

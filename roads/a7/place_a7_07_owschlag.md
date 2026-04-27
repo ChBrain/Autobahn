@@ -2,7 +2,7 @@
 
 ## Owner
 - Project: Autobahn
-- Place: [the A7](place_a7.md) in [Schleswig-Holstein](place_schleswig_holstein.md)
+- Place: [A7](place_a7.md) in [Schleswig-Holstein](place_schleswig_holstein.md)
 
 ## Shown
 Small exit between Schleswig and Rendsburg. The sign: Owschlag. Unremarkable. The road here in open country - open land between the last Schleswig exit and the Rendsburg bridge.
@@ -21,4 +21,4 @@ The Dannevirke. The earthwork system runs east-west through Schleswig-Holstein -
 
 ---
 
-v0.1.1 - KAI Worlds
+v0.1.2 - KAI Worlds

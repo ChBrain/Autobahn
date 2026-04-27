@@ -2,7 +2,7 @@
 
 ## Owner
 - Project: Autobahn
-- Place: [the A1](place_the_a1.md)
+- Place: [A1](place_the_a1.md) in [Schleswig-Holstein](place_schleswig_holstein.md)
 
 ## Shown
 Exit 20. A junction, not an ordinary exit. The A226 branching east toward Lübeck-Travemünde. The A1 continuing south toward Lübeck-Zentrum and Hamburg. The junction signed: A1 Hamburg/Lübeck, A226 Travemünde.
@@ -21,4 +21,4 @@ The moment the A226 ramp commits the Driver toward Travemünde. The Baltic ferri
 
 ---
 
-v0.1.1 - KAI Worlds
+v0.1.2 - KAI Worlds

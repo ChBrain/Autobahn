@@ -2,7 +2,7 @@
 
 ## Owner
 - Project: Autobahn
-- Place: [the A23](place_a23.md) in [Schleswig-Holstein](place_schleswig_holstein.md)
+- Place: [A23](place_a23.md) in [Schleswig-Holstein](place_schleswig_holstein.md)
 
 ## Shown
 The northern Pinneberg exit. The sign: Pinneberg-Nord. The district capital of Pinneberg - the most densely populated district in Schleswig-Holstein. Three exits for one town.
@@ -21,4 +21,4 @@ The rose gardens. Two of them within a few kilometres of this road - the Rosariu
 
 ---
 
-v0.1.4 - KAI Worlds
+v0.1.5 - KAI Worlds

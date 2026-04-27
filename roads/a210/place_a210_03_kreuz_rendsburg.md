@@ -2,7 +2,7 @@
 
 ## Owner
 - Project: Autobahn
-- Place: [the A210](place_the_a210.md)
+- Place: [A210](place_the_a210.md) in [Schleswig-Holstein](place_schleswig_holstein.md)
 
 ## Shown
 Exit 3. The junction of the A210 and the A7. The A7 runs north to Flensburg and south to Hamburg. The A210 continues east toward Kiel. On the A7 this is exit 9.
@@ -21,4 +21,4 @@ The Rader Hochbrücke two kilometres north. The bridge carries a carriageway ove
 
 ---
 
-v0.1.1 - KAI Worlds
+v0.1.2 - KAI Worlds

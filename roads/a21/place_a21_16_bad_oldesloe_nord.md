@@ -2,7 +2,7 @@
 
 ## Owner
 - Project: Autobahn
-- Place: [the A21](place_the_a21.md)
+- Place: [A21](place_the_a21.md) in [Schleswig-Holstein](place_schleswig_holstein.md)
 
 ## Shown
 The northern Bad Oldesloe exit. The sign: Bad Oldesloe-Nord. The town bypassed to the east. A spa town on the Trave.
@@ -21,4 +21,4 @@ The Trave again. The river has grown. By Bad Oldesloe it is wide enough for smal
 
 ---
 
-v0.1.1 - KAI Worlds
+v0.1.2 - KAI Worlds

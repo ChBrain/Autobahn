@@ -2,7 +2,7 @@
 
 ## Owner
 - Project: Autobahn
-- Place: [the A23](place_a23.md) in [Schleswig-Holstein](place_schleswig_holstein.md)
+- Place: [A23](place_a23.md) in [Schleswig-Holstein](place_schleswig_holstein.md)
 
 ## Shown
 The sign: Itzehoe-Süd. The southern end of the Itzehoe crossing. The road continuing south through Holstein toward Elmshorn.
@@ -21,4 +21,4 @@ Krempe, twelve kilometres south-southwest. A town of 1,500 with a complete medie
 
 ---
 
-v0.1.4 - KAI Worlds
+v0.1.5 - KAI Worlds

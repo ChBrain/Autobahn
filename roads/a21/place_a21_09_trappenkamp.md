@@ -2,7 +2,7 @@
 
 ## Owner
 - Project: Autobahn
-- Place: [the A21](place_the_a21.md)
+- Place: [A21](place_the_a21.md) in [Schleswig-Holstein](place_schleswig_holstein.md)
 
 ## Shown
 The sign: Trappenkamp. Small exit. The Holsteinische Schweiz nature park to the east. The road passing through the moraine landscape - hills and lakes, the A21 cutting through terrain the ice sheet shaped.
@@ -21,4 +21,4 @@ The Wardersee. The lake is visible briefly from near this exit - one of the larg
 
 ---
 
-v0.1.1 - KAI Worlds
+v0.1.2 - KAI Worlds

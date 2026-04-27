@@ -2,7 +2,7 @@
 
 ## Owner
 - Project: Autobahn
-- Place: [the A21](place_the_a21.md)
+- Place: [A21](place_the_a21.md) in [Schleswig-Holstein](place_schleswig_holstein.md)
 
 ## Shown
 The sign: Bornhöved. Rural Ostholstein. The Holsteinische Schweiz to the east - the lake district beginning here. The Bornhöveder Seenkette: a chain of glacial lakes running north to south.
@@ -21,4 +21,4 @@ The battle. The Battle of Bornhöved in 1227 ended Danish supremacy over norther
 
 ---
 
-v0.1.1 - KAI Worlds
+v0.1.2 - KAI Worlds

@@ -2,7 +2,7 @@
 
 ## Owner
 - Project: Autobahn
-- Place: [the A23](place_a23.md) in [Schleswig-Holstein](place_schleswig_holstein.md)
+- Place: [A23](place_a23.md) in [Schleswig-Holstein](place_schleswig_holstein.md)
 
 ## Shown
 The southern Heide exit. The sign: Heide, Heide-Süd. The town accessible from here. The road flattening into the Dithmarschen plain - the flattest agricultural land in Germany.
@@ -21,4 +21,4 @@ The Wattenmeer. Fifteen kilometres west the land ends at the tidal flat that run
 
 ---
 
-v0.1.4 - KAI Worlds
+v0.1.5 - KAI Worlds

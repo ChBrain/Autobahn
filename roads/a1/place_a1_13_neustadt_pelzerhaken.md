@@ -2,7 +2,7 @@
 
 ## Owner
 - Project: Autobahn
-- Place: [the A1](place_the_a1.md)
+- Place: [A1](place_the_a1.md) in [Schleswig-Holstein](place_schleswig_holstein.md)
 
 ## Shown
 The northern Neustadt exit. The sign: Neustadt in Holstein, Pelzerhaken, B501. The B501 connects to the coastal resort area - Pelzerhaken, Rettin, Sierksdorf. The Ostsee holiday coast beginning here.
@@ -21,4 +21,4 @@ Pelzerhaken. The beach at the end of the B501 is one of the most visited Ostsee 
 
 ---
 
-v0.1.1 - KAI Worlds
+v0.1.2 - KAI Worlds

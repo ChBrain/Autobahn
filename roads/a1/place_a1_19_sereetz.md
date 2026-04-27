@@ -2,7 +2,7 @@
 
 ## Owner
 - Project: Autobahn
-- Place: [the A1](place_the_a1.md)
+- Place: [A1](place_the_a1.md) in [Schleswig-Holstein](place_schleswig_holstein.md)
 
 ## Shown
 The sign: Sereetz. The last exit before the Dreieck. Lübeck fully present - the road dense, the signs multiplying. The A226 approach visible ahead.
@@ -21,4 +21,4 @@ Travemünde. The ferry port for Scandinavia is a few kilometres east - the Balti
 
 ---
 
-v0.1.1 - KAI Worlds
+v0.1.2 - KAI Worlds

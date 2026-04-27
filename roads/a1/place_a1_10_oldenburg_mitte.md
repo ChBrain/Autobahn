@@ -2,7 +2,7 @@
 
 ## Owner
 - Project: Autobahn
-- Place: [the A1](place_the_a1.md)
+- Place: [A1](place_the_a1.md) in [Schleswig-Holstein](place_schleswig_holstein.md)
 
 ## Shown
 The central Oldenburg exit. The sign: Oldenburg in Holstein-Mitte. The town accessible from here. The road continues its bypass of the town - three exits, none of them quite right for reaching the centre.
@@ -21,4 +21,4 @@ The Wallanlage. The medieval fortification earthworks on the Oldenburger Wall ar
 
 ---
 
-v0.1.1 - KAI Worlds
+v0.1.2 - KAI Worlds

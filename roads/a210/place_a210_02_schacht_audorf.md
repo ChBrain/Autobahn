@@ -2,7 +2,7 @@
 
 ## Owner
 - Project: Autobahn
-- Place: [the A210](place_the_a210.md)
+- Place: [A210](place_the_a210.md) in [Schleswig-Holstein](place_schleswig_holstein.md)
 
 ## Shown
 The western terminus of the A210. The sign: Schacht-Audorf. The road beginning here - west of this point no motorway. The Nord-Ostsee-Kanal a few kilometres north: the Rader Hochbrücke on the A7 carries the road over it.
@@ -20,4 +20,4 @@ The Nord-Ostsee-Kanal proximity. The canal runs a few kilometres north - the wor
 
 ---
 
-v0.1.1 - KAI Worlds
+v0.1.2 - KAI Worlds

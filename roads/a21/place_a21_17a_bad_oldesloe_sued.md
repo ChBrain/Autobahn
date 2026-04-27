@@ -2,7 +2,7 @@
 
 ## Owner
 - Project: Autobahn
-- Place: [the A21](place_the_a21.md)
+- Place: [A21](place_the_a21.md) in [Schleswig-Holstein](place_schleswig_holstein.md)
 
 ## Shown
 The southern Bad Oldesloe exit. The sign: Bad Oldesloe-Süd. The town accessible from here. The B75 connecting east toward Lübeck.
@@ -21,4 +21,4 @@ The Trave saltworks. Bad Oldesloe was a salt town - the Trave brine springs that
 
 ---
 
-v0.1.1 - KAI Worlds
+v0.1.2 - KAI Worlds

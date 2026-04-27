@@ -2,7 +2,7 @@
 
 ## Owner
 - Project: Autobahn
-- Place: [the A1](place_the_a1.md)
+- Place: [A1](place_the_a1.md) in [Schleswig-Holstein](place_schleswig_holstein.md)
 
 ## Shown
 The sign: Lensahn. Rural Ostholstein. The road here passing through the agricultural interior - the Ostsee beaches of the Lübecker Bucht still east of the road but approaching.
@@ -21,4 +21,4 @@ The Lensahner See. The small lake just east is one of dozens in the Ostholstein 
 
 ---
 
-v0.1.1 - KAI Worlds
+v0.1.2 - KAI Worlds

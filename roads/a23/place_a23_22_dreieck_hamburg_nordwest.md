@@ -2,7 +2,7 @@
 
 ## Owner
 - Project: Autobahn
-- Place: [the A23](place_a23.md) in [Hamburg](place_hamburg.md)
+- Place: [A23](place_a23.md) in [Hamburg](place_hamburg.md)
 
 ## Shown
 Exit 22. The junction where the A23 meets the A7. The A23 ends here - or begins here, depending on the direction. The A7 continues north to Flensburg and south through the Elbtunnel to Hannover. The overhead signs: A7 Nord Flensburg, A7 Süd Hamburg/Hannover, A23 Heide.
@@ -20,4 +20,4 @@ The Eidelstedter Feldmark. An ancient farming landscape that survived the city g
 
 ---
 
-v0.1.4 - KAI Worlds
+v0.1.5 - KAI Worlds

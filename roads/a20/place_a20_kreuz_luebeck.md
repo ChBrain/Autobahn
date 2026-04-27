@@ -2,7 +2,7 @@
 
 ## Owner
 - Project: Autobahn
-- Place: [the A20](place_the_a20.md)
+- Place: [A20](place_the_a20.md) in [Schleswig-Holstein](place_schleswig_holstein.md)
 
 ## Shown
 Exit 1. The junction of the A20 and the A1. The A1 runs north to Heiligenhafen and south to Hamburg. The A20 continues east toward Wismar, Rostock, Stralsund - the Ostseeautobahn running the length of the Baltic coast. The junction signed: A1 Hamburg, A1 Fehmarn, A20 Rostock.
@@ -21,4 +21,4 @@ The Herreninsel in the Ratzeburger See. A few kilometres south, the island monas
 
 ---
 
-v0.1.1 - KAI Worlds
+v0.1.2 - KAI Worlds

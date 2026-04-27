@@ -2,7 +2,7 @@
 
 ## Owner
 - Project: Autobahn
-- Place: [the A210](place_the_a210.md)
+- Place: [A210](place_the_a210.md) in [Schleswig-Holstein](place_schleswig_holstein.md)
 
 ## Shown
 The sign: Melsdorf. The last ordinary exit before Kiel. The city fully present - the Kieler Förde approaching to the east.
@@ -21,4 +21,4 @@ The Kieler Förde ice age origin. The fjord is not a true fjord but a glacially 
 
 ---
 
-v0.1.1 - KAI Worlds
+v0.1.2 - KAI Worlds
