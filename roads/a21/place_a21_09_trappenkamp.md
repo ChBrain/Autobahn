@@ -1,4 +1,4 @@
-﻿# Trappenkamp
+# Trappenkamp
 
 ## Owner
 - Project: Autobahn
@@ -21,4 +21,4 @@ The Wardersee. The lake is visible briefly from near this exit - one of the larg
 
 ---
 
-v0.1.0 - KAI Worlds
+v0.1.1 - KAI Worlds
