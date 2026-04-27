@@ -1,4 +1,4 @@
-﻿# Halstenbek-Krupunder
+# Halstenbek-Krupunder
 
 ## Owner
 - Project: Autobahn
@@ -21,4 +21,4 @@ The Klövensteen. The forest begins a few kilometres south - 580 hectares of mix
 
 ---
 
-v0.1.3 - KAI Worlds
+v0.1.4 - KAI Worlds
