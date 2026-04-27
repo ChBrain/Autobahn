@@ -1,4 +1,4 @@
-﻿# Scharbeutz
+# Scharbeutz
 
 ## Owner
 - Project: Autobahn
@@ -21,4 +21,4 @@ Timmendorfer Strand. The resort town on the B432 is one of the most expensive ad
 
 ---
 
-v0.1.0 - KAI Worlds
+v0.1.1 - KAI Worlds
