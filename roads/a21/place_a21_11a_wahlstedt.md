@@ -1,4 +1,4 @@
-﻿# Wahlstedt
+# Wahlstedt
 
 ## Owner
 - Project: Autobahn
@@ -21,4 +21,4 @@ The postwar settlement. Wahlstedt was essentially built in the late 1940s by peo
 
 ---
 
-v0.1.0 - KAI Worlds
+v0.1.1 - KAI Worlds
