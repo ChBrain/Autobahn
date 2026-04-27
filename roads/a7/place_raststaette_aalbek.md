@@ -1,4 +1,4 @@
-﻿# Raststätte Aalbek
+# Raststätte Aalbek
 
 ## Owner
 - Project: Autobahn
@@ -22,4 +22,4 @@ The Stör. The river passes through the outer districts of Neumünster, close to
 
 ---
 
-v0.1.0 - KAI Worlds
+v0.1.1 - KAI Worlds

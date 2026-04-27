@@ -1,4 +1,4 @@
-﻿# Rendsburg/Büdelsdorf
+# Rendsburg/Büdelsdorf
 
 ## Owner
 - Project: Autobahn
@@ -21,4 +21,4 @@ The Schwebefähre. The transporter ferry hangs below the Rendsburg railway bridg
 
 ---
 
-v0.1.0 - KAI Worlds
+v0.1.1 - KAI Worlds

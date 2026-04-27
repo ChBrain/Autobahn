@@ -21,4 +21,4 @@ The Eidelstedter Dorfkirche. A small church in the old village core of Eidelsted
 
 ---
 
-v0.1.0 - KAI Worlds
+v0.1.1 - KAI Worlds

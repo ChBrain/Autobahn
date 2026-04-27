@@ -1,4 +1,4 @@
-﻿# Owschlag
+# Owschlag
 
 ## Owner
 - Project: Autobahn
@@ -21,4 +21,4 @@ The Dannevirke. The earthwork system runs east-west through Schleswig-Holstein -
 
 ---
 
-v0.1.0 - KAI Worlds
+v0.1.1 - KAI Worlds

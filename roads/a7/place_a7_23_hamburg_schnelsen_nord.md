@@ -21,4 +21,4 @@ The Niendorfer Gehege. One kilometre east - around 560 hectares of urban forest.
 
 ---
 
-v0.1.0 - KAI Worlds
+v0.1.1 - KAI Worlds

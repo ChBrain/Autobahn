@@ -1,4 +1,4 @@
-﻿# Grenzübergang Ellund
+# Grenzübergang Ellund
 
 ## Owner
 - Project: Autobahn
@@ -20,4 +20,4 @@ Frøslev-Padborglejren. Two kilometres north, across the border, the internment 
 
 ---
 
-v0.1.0 - KAI Worlds
+v0.1.1 - KAI Worlds

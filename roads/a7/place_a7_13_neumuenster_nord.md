@@ -1,4 +1,4 @@
-﻿# Neumünster-Nord
+# Neumünster-Nord
 
 ## Owner
 - Project: Autobahn
@@ -21,4 +21,4 @@ The Vicelinkirche. Three kilometres east in Neumünster city centre - standing o
 
 ---
 
-v0.1.0 - KAI Worlds
+v0.1.1 - KAI Worlds

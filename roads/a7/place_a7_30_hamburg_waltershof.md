@@ -21,4 +21,4 @@ Finkenwerder. The island directly south - a former fishing village, the characte
 
 ---
 
-v0.1.0 - KAI Worlds
+v0.1.1 - KAI Worlds
