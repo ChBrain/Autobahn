@@ -1,4 +1,4 @@
-﻿# Horst/Elmshorn
+# Horst/Elmshorn
 
 ## Owner
 - Project: Autobahn
@@ -21,4 +21,4 @@ The Krückau runs through Elmshorn to the Elbe, four kilometres east. Before the
 
 ---
 
-v0.1.3 - KAI Worlds
+v0.1.4 - KAI Worlds

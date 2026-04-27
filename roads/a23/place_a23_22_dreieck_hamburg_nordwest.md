@@ -1,4 +1,4 @@
-﻿# Dreieck Hamburg-Nordwest
+# Dreieck Hamburg-Nordwest
 
 ## Owner
 - Project: Autobahn
@@ -20,4 +20,4 @@ The Eidelstedter Feldmark. An ancient farming landscape that survived the city g
 
 ---
 
-v0.1.3 - KAI Worlds
+v0.1.4 - KAI Worlds

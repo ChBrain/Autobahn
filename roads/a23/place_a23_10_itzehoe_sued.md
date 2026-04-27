@@ -1,4 +1,4 @@
-﻿# Itzehoe-Süd
+# Itzehoe-Süd
 
 ## Owner
 - Project: Autobahn
@@ -21,4 +21,4 @@ Krempe, twelve kilometres south-southwest. A town of 1,500 with a complete medie
 
 ---
 
-v0.1.3 - KAI Worlds
+v0.1.4 - KAI Worlds
