@@ -1,4 +1,4 @@
-﻿# Weede
+# Weede
 
 ## Owner
 - Project: Autobahn
@@ -20,4 +20,4 @@ The Kalkberg at Bad Segeberg. The limestone hill a few kilometres south - unique
 
 ---
 
-v0.1.0 - KAI Worlds
+v0.1.1 - KAI Worlds
