@@ -1,4 +1,4 @@
-﻿# Ratekau
+# Ratekau
 
 ## Owner
 - Project: Autobahn
@@ -21,4 +21,4 @@ The spires. On clear days from near this exit, the seven towers of Lübeck are v
 
 ---
 
-v0.1.0 - KAI Worlds
+v0.1.1 - KAI Worlds
