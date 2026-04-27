@@ -1,4 +1,4 @@
-﻿# Groß Sarau
+# Groß Sarau
 
 ## Owner
 - Project: Autobahn
@@ -20,4 +20,4 @@ The Wakenitz. The river running north from the Ratzeburger See to Lübeck forms 
 
 ---
 
-v0.1.0 - KAI Worlds
+v0.1.1 - KAI Worlds
