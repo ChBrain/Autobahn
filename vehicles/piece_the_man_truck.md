@@ -1,4 +1,4 @@
-﻿# The MAN Truck
+# The MAN Truck
 
 ## Owner
 - Project: Autobahn
@@ -21,4 +21,4 @@ The TGX: flagship long-haul. D26 and D38 engines, 430 to 640 HP. TipMatic automa
 
 ---
 
-v0.1.0 - KAI Worlds
+v0.1.1 - KAI Worlds
