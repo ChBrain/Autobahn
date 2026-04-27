@@ -17,7 +17,7 @@ Hamburg. The city limit passed. The northern Schnelsen exit. The sign: Hamburg-S
 Ausfahrt 23 - the exit ramp. The ordinary road below.
 
 ## Withheld
-The Niendorfer Gehege. One kilometre east - 200 hectares of urban forest, Hamburg's largest inner-city woodland. A lake, walking trails, a small wildlife enclosure. Accessible from this exit. The forest older than the motorway, the motorway built through the edge of the land it occupied.
+The Niendorfer Gehege. One kilometre east - around 560 hectares of urban forest. A lake, walking trails, a small wildlife enclosure. Accessible from this exit. The forest older than the motorway, the motorway built through the edge of the land it occupied.
 
 ---
 

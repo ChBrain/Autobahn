@@ -17,7 +17,7 @@ The Bordesholm exit. The sign: Bordesholm. The Dreieck Bordesholm visible ahead 
 Ausfahrt 11 - the exit ramp. The ordinary road below.
 
 ## Withheld
-The Naturpark Westensee. The lake district begins immediately west - the Westensee, the Brahmsee, the Einfelder See. Glacial lakes in a moraine landscape, protected since 1985.
+The Naturpark Westensee. The lake district begins immediately west - the Westensee, the Brahmsee, the Einfelder See. Glacial lakes in a moraine landscape, protected since 1986.
 
 ---
 

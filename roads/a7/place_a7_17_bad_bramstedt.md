@@ -17,7 +17,7 @@ The Bad Bramstedt exit. The sign: Bad Bramstedt, B206. A town of some size - vis
 Ausfahrt 17 - the exit ramp. The ordinary road below.
 
 ## Withheld
-The Rolandsbrunnen. In Bad Bramstedt town centre stands a medieval Roland statue - the marker of a free city, the symbol of civic rights under the Holy Roman Empire. Bad Bramstedt was a significant market town until the railway era. Four kilometres from the verge.
+The Rolandsbrunnen. In Bad Bramstedt town centre stands a medieval Roland statue - the marker of market rights, the symbol of a town's authority to hold a market under the Holy Roman Empire. Bad Bramstedt was a significant market town until the railway era. Four kilometres from the verge.
 
 ---
 

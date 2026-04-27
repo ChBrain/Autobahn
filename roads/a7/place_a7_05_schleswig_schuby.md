@@ -17,7 +17,7 @@ The northern Schleswig exit. The sign: Schleswig, Schuby, B201. The city a few k
 Ausfahrt 5 - the exit ramp. The ordinary road below.
 
 ## Withheld
-Haithabu. The Viking settlement three kilometres east was one of the most significant trading towns in northern Europe between 800 and 1050 CE. The same land route that traders used to cross between the North Sea and the Baltic passes through this exact terrain.
+Haithabu. Three kilometres east - the Viking-age settlement occupied from the early ninth century to the mid-eleventh, at the crossing point where Jutland narrows to its base and the overland route between the North Sea and the Baltic is shortest. Merchants, craftsmen, the most active harbour between Scandinavia and the Frankish south. The same land route crosses this terrain.
 
 ---
 

@@ -17,7 +17,7 @@ The Kaltenkirchen exit. The sign: Kaltenkirchen, B4. Hamburg 35 km on the overhe
 Ausfahrt 18 - the exit ramp. The ordinary road below.
 
 ## Withheld
-The Hasenmoor. Directly west of Kaltenkirchen - one of the largest intact raised bogs in Schleswig-Holstein. Peat, cotton grass, rare waders. The ground unreliable underfoot away from the paths. What the land here looked like undrained.
+The Himmelmoor. Directly west of Kaltenkirchen - one of the largest intact raised bogs in Schleswig-Holstein. Peat, cotton grass, rare waders. The ground unreliable underfoot away from the paths. What the land here looked like undrained.
 
 ---
 

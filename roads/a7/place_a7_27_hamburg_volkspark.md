@@ -17,7 +17,7 @@ The Volkspark exit. The sign: Hamburg-Volkspark, Schnackenburgallee. The stadium
 Ausfahrt 27 - the exit ramp. The ordinary road below.
 
 ## Withheld
-The Volkspark and the Volksparkstadion. The park immediately west was laid out in the 1920s as a public green space for the working-class western districts of Hamburg. The stadium - now the Volksparkstadion, home of Hamburger SV - was built in the same era. Both were designed as amenities for a part of the city that had little else.
+The Volkspark and the Volksparkstadion. The park immediately west was laid out in the 1920s as a public green space for the working-class western districts of Hamburg. The stadium - now the Volksparkstadion, home of Hamburger SV - was built in 1953, three decades later. The park was the amenity. The stadium came after.
 
 ---
 
