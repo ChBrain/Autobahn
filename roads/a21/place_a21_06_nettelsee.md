@@ -1,4 +1,4 @@
-﻿# Nettelsee
+# Nettelsee
 
 ## Owner
 - Project: Autobahn
@@ -20,4 +20,4 @@ The Nettelau renaturalisation. During construction of the extension through this
 
 ---
 
-v0.1.0 - KAI Worlds
+v0.1.1 - KAI Worlds
