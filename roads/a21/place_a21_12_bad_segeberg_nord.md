@@ -1,4 +1,4 @@
-﻿# Bad Segeberg-Nord
+# Bad Segeberg-Nord
 
 ## Owner
 - Project: Autobahn
@@ -21,4 +21,4 @@ The Kalkberg. The limestone hill in Bad Segeberg - a few hundred metres from thi
 
 ---
 
-v0.1.0 - KAI Worlds
+v0.1.1 - KAI Worlds
