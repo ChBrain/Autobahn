@@ -1,4 +1,4 @@
-﻿# Schacht-Audorf
+# Schacht-Audorf
 
 ## Owner
 - Project: Autobahn
@@ -20,4 +20,4 @@ The Nord-Ostsee-Kanal proximity. The canal runs a few kilometres north - the wor
 
 ---
 
-v0.1.0 - KAI Worlds
+v0.1.1 - KAI Worlds
