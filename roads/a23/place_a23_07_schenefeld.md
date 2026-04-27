@@ -1,4 +1,4 @@
-﻿# Schenefeld
+# Schenefeld
 
 ## Owner
 - Project: Autobahn
@@ -21,4 +21,4 @@ The Bonifatiuskirche. Founded in 826 on Ansgar's initiative - the first Christia
 
 ---
 
-v0.1.3 - KAI Worlds
+v0.1.4 - KAI Worlds
