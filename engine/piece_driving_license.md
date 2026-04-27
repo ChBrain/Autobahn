@@ -1,4 +1,4 @@
-﻿# Driving License
+# Driving License
 
 ## Owner
 - Project: Autobahn
@@ -17,4 +17,4 @@ Issued once per persona. Carried in a wallet, a bag, a glovebox. Produced at bor
 
 ---
 
-v0.1.0 - KAI Worlds
+v0.1.1 - KAI Worlds
