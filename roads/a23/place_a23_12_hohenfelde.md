@@ -1,8 +1,8 @@
-﻿# Hohenfelde
+# Hohenfelde
 
 ## Owner
 - Project: Autobahn
-- Place: [the A23](place_the_a23.md)
+- Place: [the A23](place_a23.md)
 
 ## Shown
 Small exit. The sign: Hohenfelde. The road here in open country - the Hamburg metropolitan area still distant. The A23 character here: rural, two-lane, unhurried compared to the A7.
@@ -21,4 +21,4 @@ The Krückau. The river running east through Elmshorn to the Elbe crosses near H
 
 ---
 
-v0.1.0 - KAI Worlds
+v0.1.1 - KAI Worlds
