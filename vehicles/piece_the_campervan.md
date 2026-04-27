@@ -1,4 +1,4 @@
-﻿# The Campervan
+# The Campervan
 
 ## Owner
 - Project: Autobahn
@@ -21,4 +21,4 @@ Purchased when someone decided the hotel years were over. On the Autobahn today 
 
 ---
 
-v0.1.0 - KAI Worlds
+v0.1.1 - KAI Worlds
