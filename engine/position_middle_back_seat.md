@@ -1,4 +1,4 @@
-﻿# Middle Back Seat
+# Middle Back Seat
 
 ## Owner
 - Project: Autobahn
@@ -20,4 +20,4 @@ On the loss of standing - asks are we nearly there.
 
 ---
 
-v0.1.0 - KAI Worlds
+v0.1.1 - KAI Worlds
