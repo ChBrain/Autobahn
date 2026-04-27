@@ -1,0 +1,17 @@
+# Project-wide defaults to keep markdown sources clean.
+# `charset = utf-8` (NOT `utf-8-bom`) signals editors to save without a
+# byte-order mark. Combined with `.gitattributes` and the validator workflow,
+# this prevents the BOM regressions seen in earlier A23 passes.
+
+root = true
+
+[*]
+charset = utf-8
+end_of_line = lf
+insert_final_newline = true
+trim_trailing_whitespace = true
+indent_style = space
+indent_size = 2
+
+[Makefile]
+indent_style = tab
