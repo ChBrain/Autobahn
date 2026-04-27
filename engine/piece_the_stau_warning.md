@@ -1,4 +1,4 @@
-﻿# the Stau warning
+# the Stau warning
 
 ## Owner
 - Project: Autobahn
@@ -21,4 +21,4 @@ One driver does not need it. He knew the Stau was there. He reduced speed early.
 
 ---
 
-v0.1.0 - KAI Worlds
+v0.1.1 - KAI Worlds
