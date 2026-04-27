@@ -1,4 +1,4 @@
-﻿# the coffee
+# the coffee
 
 ## Owner
 - Project: Autobahn
@@ -21,4 +21,4 @@ One driver brought a thermos from home. He refills it each morning. He does not 
 
 ---
 
-v0.1.0 - KAI Worlds
+v0.1.1 - KAI Worlds
