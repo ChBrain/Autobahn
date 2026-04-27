@@ -1,8 +1,8 @@
-﻿# Hamburg-Eidelstedt
+# Hamburg-Eidelstedt
 
 ## Owner
 - Project: Autobahn
-- Place: [the A23](place_the_a23.md)
+- Place: [the A23](place_a23.md)
 
 ## Shown
 Hamburg. The first Hamburg exit on the A23. The sign: Hamburg-Eidelstedt. This exit serves the missing relation at the Dreieck - drivers from the A7 northbound who cannot take the direct A23 ramp come here instead.
@@ -21,4 +21,4 @@ The Eidelstedt Moor. Before Hamburg expanded westward, Eidelstedt was surrounded
 
 ---
 
-v0.1.0 - KAI Worlds
+v0.1.1 - KAI Worlds
