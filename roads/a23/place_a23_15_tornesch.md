@@ -1,4 +1,4 @@
-﻿# Tornesch
+# Tornesch
 
 ## Owner
 - Project: Autobahn
@@ -21,4 +21,4 @@ Tornesch is where the Hamburg commuter belt begins in earnest - the point where 
 
 ---
 
-v0.1.3 - KAI Worlds
+v0.1.4 - KAI Worlds
