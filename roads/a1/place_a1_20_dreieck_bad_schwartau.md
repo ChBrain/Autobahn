@@ -1,4 +1,4 @@
-﻿# Dreieck Bad Schwartau
+# Dreieck Bad Schwartau
 
 ## Owner
 - Project: Autobahn
@@ -21,4 +21,4 @@ The moment the A226 ramp commits the Driver toward Travemünde. The Baltic ferri
 
 ---
 
-v0.1.0 - KAI Worlds
+v0.1.1 - KAI Worlds
