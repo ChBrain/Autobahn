@@ -1,8 +1,8 @@
-﻿# Pinneberg-Nord
+# Pinneberg-Nord
 
 ## Owner
 - Project: Autobahn
-- Place: [the A23](place_the_a23.md)
+- Place: [the A23](place_a23.md)
 
 ## Shown
 The northern Pinneberg exit. The sign: Pinneberg-Nord. The district capital of Pinneberg - the most densely populated district in Schleswig-Holstein. Three exits for one town.
@@ -21,4 +21,4 @@ The rose growers. Pinneberg is the centre of German rose cultivation - the major
 
 ---
 
-v0.1.0 - KAI Worlds
+v0.1.1 - KAI Worlds
