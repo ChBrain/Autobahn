@@ -1,4 +1,4 @@
-﻿# Lübeck-Zentrum
+# Lübeck-Zentrum
 
 ## Owner
 - Project: Autobahn
@@ -21,4 +21,4 @@ The Hanse. Lübeck was the capital of the Hanseatic League - the medieval tradin
 
 ---
 
-v0.1.0 - KAI Worlds
+v0.1.1 - KAI Worlds
