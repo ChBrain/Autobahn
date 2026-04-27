@@ -1,4 +1,4 @@
-﻿# Daldorf
+# Daldorf
 
 ## Owner
 - Project: Autobahn
@@ -21,4 +21,4 @@ The Segeberger Höhlen. The Bad Segeberg limestone caves are a few kilometres so
 
 ---
 
-v0.1.0 - KAI Worlds
+v0.1.1 - KAI Worlds
