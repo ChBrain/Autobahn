@@ -1,4 +1,4 @@
-﻿# Bad Oldesloe-Nord
+# Bad Oldesloe-Nord
 
 ## Owner
 - Project: Autobahn
@@ -21,4 +21,4 @@ The Trave again. The river has grown. By Bad Oldesloe it is wide enough for smal
 
 ---
 
-v0.1.0 - KAI Worlds
+v0.1.1 - KAI Worlds
