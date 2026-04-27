@@ -1,4 +1,4 @@
-﻿# Neumünster-Mitte
+# Neumünster-Mitte
 
 ## Owner
 - Project: Autobahn

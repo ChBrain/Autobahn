@@ -1,4 +1,4 @@
-﻿# Neumünster-Nord
+# Neumünster-Nord
 
 ## Owner
 - Project: Autobahn
