@@ -1,4 +1,4 @@
-﻿# Bad Schwartau
+# Bad Schwartau
 
 ## Owner
 - Project: Autobahn
@@ -21,4 +21,4 @@ The spa. Bad Schwartau is a Kurort - a designated spa town - for its brine sprin
 
 ---
 
-v0.1.0 - KAI Worlds
+v0.1.1 - KAI Worlds
