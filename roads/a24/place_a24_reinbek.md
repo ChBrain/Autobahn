@@ -1,4 +1,4 @@
-﻿# Reinbek
+# Reinbek
 
 ## Owner
 - Project: Autobahn
@@ -21,4 +21,4 @@ Schloss Reinbek. The Renaissance palace on the Bille river - built 1568 for Duke
 
 ---
 
-v0.1.0 - KAI Worlds
+v0.1.1 - KAI Worlds
