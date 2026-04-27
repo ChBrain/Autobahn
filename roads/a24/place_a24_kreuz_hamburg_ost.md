@@ -1,4 +1,4 @@
-﻿# Kreuz Hamburg-Ost
+# Kreuz Hamburg-Ost
 
 ## Owner
 - Project: Autobahn
@@ -21,4 +21,4 @@ The Sachsenwald. Germany's largest privately owned forest begins a few kilometre
 
 ---
 
-v0.1.0 - KAI Worlds
+v0.1.1 - KAI Worlds
