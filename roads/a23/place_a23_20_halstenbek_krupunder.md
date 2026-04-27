@@ -1,8 +1,8 @@
-﻿# Halstenbek-Krupunder
+# Halstenbek-Krupunder
 
 ## Owner
 - Project: Autobahn
-- Place: [the A23](place_the_a23.md)
+- Place: [the A23](place_a23.md)
 
 ## Shown
 The sign: Halstenbek-Krupunder. The last exit before Hamburg. The state line of Hamburg crossed here - the road now in the city-state without announcement.
@@ -21,4 +21,4 @@ The rose industry. Halstenbek and Rellingen together form the centre of German o
 
 ---
 
-v0.1.0 - KAI Worlds
+v0.1.1 - KAI Worlds
