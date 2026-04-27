@@ -1,4 +1,4 @@
-# Heide-Süd
+﻿# Heide-Süd
 
 ## Owner
 - Project: Autobahn
@@ -17,8 +17,8 @@ The southern Heide exit. The sign: Heide, Heide-Süd. The town accessible from h
 Ausfahrt 3 - the exit ramp. The ordinary road below.
 
 ## Withheld
-Dithmarschen. The district stretching west to the North Sea coast is one of the most fertile agricultural areas in Germany - the cabbage fields of Dithmarschen supply a significant portion of Germany's white cabbage harvest. The flat land here was mostly tidal marsh before dyking began in the medieval period.
+The Wattenmeer. Eight kilometres west the land ends at the tidal flat that runs from Den Helder to Esbjerg - UNESCO World Heritage, one of the largest intertidal zones on earth. At low tide the sea retreats kilometres. At high tide it returns. The road never gets close enough to see it.
 
 ---
 
-v0.1.1 - KAI Worlds
+v0.1.2 - KAI Worlds
