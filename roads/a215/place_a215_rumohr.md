@@ -1,4 +1,4 @@
-﻿# Rumohr
+# Rumohr
 
 ## Owner
 - Project: Autobahn
@@ -21,4 +21,4 @@ The Eider headwaters. The Eider rises in the lakes south of Kiel - the same rive
 
 ---
 
-v0.1.0 - KAI Worlds
+v0.1.1 - KAI Worlds
