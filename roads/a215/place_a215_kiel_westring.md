@@ -1,4 +1,4 @@
-﻿# Kiel-Westring
+# Kiel-Westring
 
 ## Owner
 - Project: Autobahn
@@ -20,4 +20,4 @@ The Marinestützpunkt Kiel. Germany's principal naval port is a few kilometres f
 
 ---
 
-v0.1.0 - KAI Worlds
+v0.1.1 - KAI Worlds
