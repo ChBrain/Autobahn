@@ -1,4 +1,4 @@
-﻿# The Audi A6
+# The Audi A6
 
 ## Owner
 - Project: Autobahn
@@ -21,4 +21,4 @@ The car that sales directors drive. That consultants lease. Arrives at the airpo
 
 ---
 
-v0.1.0 - KAI Worlds
+v0.1.1 - KAI Worlds
