@@ -21,4 +21,4 @@ The Kiel Canal at Rendsburg. Standing at the bank, the ships pass at eye level -
 
 ---
 
-v0.1.0 - KAI Worlds
+v0.1.1 - KAI Worlds
