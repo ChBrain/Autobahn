@@ -1,4 +1,4 @@
-﻿# Hamberge
+# Hamberge
 
 ## Owner
 - Project: Autobahn
@@ -21,4 +21,4 @@ The Trave again. The river that flows through Lübeck rises near the Holsteinisc
 
 ---
 
-v0.1.0 - KAI Worlds
+v0.1.1 - KAI Worlds
