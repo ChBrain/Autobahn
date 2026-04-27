@@ -1,4 +1,4 @@
-﻿# Geschendorf
+# Geschendorf
 
 ## Owner
 - Project: Autobahn
@@ -21,4 +21,4 @@ The Segeberger Forst. One of the largest contiguous forests in Schleswig-Holstei
 
 ---
 
-v0.1.0 - KAI Worlds
+v0.1.1 - KAI Worlds
