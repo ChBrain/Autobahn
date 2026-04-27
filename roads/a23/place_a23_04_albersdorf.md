@@ -2,7 +2,7 @@
 
 ## Owner
 - Project: Autobahn
-- Place: [the A23](place_a23.md)
+- Place: [the A23](place_a23.md) in [Schleswig-Holstein](place_schleswig_holstein.md)
 
 ## Shown
 Small exit. The sign: Albersdorf. Fields on both sides. The landscape unchanged from Heide - open, flat, the sky large.
@@ -21,4 +21,4 @@ The Albersdorf megalithic site. A Neolithic burial mound and megalithic tomb are
 
 ---
 
-v0.1.2 - KAI Worlds
+v0.1.3 - KAI Worlds

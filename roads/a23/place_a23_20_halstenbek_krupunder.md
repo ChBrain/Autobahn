@@ -2,7 +2,7 @@
 
 ## Owner
 - Project: Autobahn
-- Place: [the A23](place_a23.md)
+- Place: [the A23](place_a23.md) in [Schleswig-Holstein](place_schleswig_holstein.md)
 
 ## Shown
 The sign: Halstenbek-Krupunder. The last exit before Hamburg. The state line of Hamburg crossed here - the road now in the city-state without announcement.
@@ -21,4 +21,4 @@ The Klövensteen. The forest begins a few kilometres south - 580 hectares of mix
 
 ---
 
-v0.1.2 - KAI Worlds
+v0.1.3 - KAI Worlds

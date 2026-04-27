@@ -2,7 +2,7 @@
 
 ## Owner
 - Project: Autobahn
-- Place: [the A23](place_a23.md)
+- Place: [the A23](place_a23.md) in [Schleswig-Holstein](place_schleswig_holstein.md)
 
 ## Shown
 The sign: Itzehoe-Nord. The approach to the Störbrücke section. Itzehoe visible to the east - the road bypassing the town to the west.
@@ -21,4 +21,4 @@ Itzehoe had a small river port on the Stör through the 19th century - grain war
 
 ---
 
-v0.1.2 - KAI Worlds
+v0.1.3 - KAI Worlds

@@ -41,7 +41,26 @@ Entering from Hamburg south: the Maschen marshalling yard visible from the A7. T
   - [Norderstedt-Mitte / Dreieck Garstedt](place_a7_22_norderstedt_mitte.md)
 - [the A20](place_the_a20.md) - Weede to Kreuz Lübeck
 - [the A21](place_the_a21.md) - Nettelsee to Kreuz Bargteheide
-- [the A23](place_a23.md) - Heide to Dreieck Hamburg-Nordwest
+- [A23](place_a23.md) - Heide to Hamburg
+  - [Heide-West](place_a23_02_heide_west.md)
+  - [Heide-Süd](place_a23_03_heide_sued.md)
+  - [Albersdorf](place_a23_04_albersdorf.md)
+  - [Schafstedt](place_a23_05_schafstedt.md)
+  - [Hanerau-Hademarschen](place_a23_06_hanerau_hademarschen.md)
+  - [Schenefeld](place_a23_07_schenefeld.md)
+  - [Itzehoe-Nord](place_a23_08_itzehoe_nord.md)
+  - [Itzehoe-Mitte](place_a23_09_itzehoe_mitte.md)
+  - [Itzehoe-Süd](place_a23_10_itzehoe_sued.md)
+  - [Lägerdorf](place_a23_11_laegerdorf.md)
+  - [Hohenfelde](place_a23_12_hohenfelde.md)
+  - [Horst/Elmshorn](place_a23_13_horst_elmshorn.md)
+  - [Elmshorn](place_a23_14_elmshorn.md)
+  - [Tornesch](place_a23_15_tornesch.md)
+  - [Pinneberg-Nord](place_a23_16_pinneberg_nord.md)
+  - [Pinneberg-Mitte](place_a23_17_pinneberg_mitte.md)
+  - [Pinneberg-Süd](place_a23_18_pinneberg_sued.md)
+  - [Halstenbek/Rellingen](place_a23_19_halstenbek_rellingen.md)
+  - [Halstenbek-Krupunder](place_a23_20_halstenbek_krupunder.md)
 - [the A24](place_the_a24.md) - Hamburg-Horn to Gudow
 - [the A210](place_the_a210.md) - Schacht-Audorf to Kreuz Kiel-West
 - [the A215](place_the_a215.md) - Kiel-Westring to Dreieck Bordesholm
@@ -54,4 +73,4 @@ Two state languages: German and Danish. The Danish minority - recognised, school
 
 ---
 
-v0.1.1 - KAI Worlds
+v0.1.2 - KAI Worlds
