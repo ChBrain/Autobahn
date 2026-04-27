@@ -1,4 +1,4 @@
-﻿# Heiligenhafen-Ost
+# Heiligenhafen-Ost
 
 ## Owner
 - Project: Autobahn
@@ -20,4 +20,4 @@ Scandinavia. The B207 north of here connects to the ferry - to Denmark, to Swede
 
 ---
 
-v0.1.0 - KAI Worlds
+v0.1.1 - KAI Worlds
