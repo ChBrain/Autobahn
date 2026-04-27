@@ -1,8 +1,8 @@
-﻿# Schenefeld
+# Schenefeld
 
 ## Owner
 - Project: Autobahn
-- Place: [the A23](place_the_a23.md)
+- Place: [the A23](place_a23.md)
 
 ## Shown
 The sign: Schenefeld. The approach to Itzehoe. The road beginning to show more traffic - the A23 absorbing regional movement from the west.
@@ -21,4 +21,4 @@ The Stör valley. The river running through Itzehoe reaches the Elbe at Glückst
 
 ---
 
-v0.1.0 - KAI Worlds
+v0.1.1 - KAI Worlds
