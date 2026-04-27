@@ -1,4 +1,4 @@
-# Itzehoe-Mitte
+﻿# Itzehoe-Mitte
 
 ## Owner
 - Project: Autobahn
@@ -17,7 +17,7 @@ Exit 9. The sign: Itzehoe-Mitte. The road here crossing the Störbrücke section
 Ausfahrt 9 - the exit ramp. The ordinary road below.
 
 ## Withheld
-West of here, between the Stör and the Elbe, the Wilstermarsch — some of the lowest-lying farmland in Germany, parts of it more than three metres below sea level. Held in place by dykes since the medieval period. The farms visible from this approach sit on land the North Sea would reclaim within decades without the infrastructure maintaining it.
+West of here, between the Stör and the Elbe, the Wilstermarsch - some of the lowest-lying farmland in Germany, parts of it more than three metres below sea level. Held in place by dykes since the medieval period. The farms visible from this approach sit on land the North Sea would reclaim within decades without the infrastructure maintaining it.
 
 ---
 

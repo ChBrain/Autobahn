@@ -1,4 +1,4 @@
-# Halstenbek/Rellingen
+﻿# Halstenbek/Rellingen
 
 ## Owner
 - Project: Autobahn
@@ -17,7 +17,7 @@ The sign: Halstenbek, Rellingen. The road fully suburban. Nurseries and garden c
 Ausfahrt 19 - the exit ramp. The ordinary road below.
 
 ## Withheld
-The Willkomm-Höft. At the Schulauer Fährhaus in Wedel, a few kilometres southwest, every ship over 1,000 gross tonnes entering or leaving Hamburg is greeted by name — national anthem, flag dipped, a message in the ship's language. Around fifty ships a day. The station has been doing this since 1952 and is marked on nautical charts worldwide. Wedel is the first point where the Elbe feels like a port approach.
+The Willkomm-Höft. At the Schulauer Fährhaus in Wedel, a few kilometres southwest, every ship over 1,000 gross tonnes entering or leaving Hamburg is greeted by name - national anthem, flag dipped, a message in the ship's language. Around fifty ships a day. The station has been doing this since 1952 and is marked on nautical charts worldwide. Wedel is the first point where the Elbe feels like a port approach.
 
 ---
 

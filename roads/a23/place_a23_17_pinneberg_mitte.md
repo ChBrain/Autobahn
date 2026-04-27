@@ -1,4 +1,4 @@
-# Pinneberg-Mitte
+﻿# Pinneberg-Mitte
 
 ## Owner
 - Project: Autobahn
@@ -17,7 +17,7 @@ The central Pinneberg exit. The sign: Pinneberg-Mitte. The town centre accessibl
 Ausfahrt 17 - the exit ramp. The ordinary road below.
 
 ## Withheld
-The Drostei was built in 1765 for Heinrich Carl von Schimmelmann — Danish finance minister and one of the wealthiest men in 18th-century northern Europe, whose fortune was built substantially on the Atlantic slave trade. He owned around a thousand enslaved people on his Caribbean plantations and was Denmark's largest slave trader. The building is one of the best-preserved baroque manor houses in Schleswig-Holstein. The man who built it is a more complicated story.
+The Drostei was built in 1765 for Heinrich Carl von Schimmelmann - Danish finance minister and one of the wealthiest men in 18th-century northern Europe, whose fortune was built substantially on the Atlantic slave trade. He owned around a thousand enslaved people on his Caribbean plantations and was Denmark's largest slave trader. The building is one of the best-preserved baroque manor houses in Schleswig-Holstein. The man who built it is a more complicated story.
 
 ---
 

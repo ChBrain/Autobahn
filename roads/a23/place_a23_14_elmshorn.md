@@ -1,4 +1,4 @@
-# Elmshorn
+﻿# Elmshorn
 
 ## Owner
 - Project: Autobahn
@@ -17,7 +17,7 @@ The Elmshorn exit. The sign: Elmshorn, B431. The town bypassed - the A23 circumn
 Ausfahrt 14 - the exit ramp. The ordinary road below.
 
 ## Withheld
-The great flood of February 1962 sent the Elbe five metres above normal into the rivers feeding it. In Elmshorn, the Krückau overflowed into the streets — boats in the Königstraße, cellars full of river mud. The Sperrwerk built afterwards has held since. The 2022 storm pushed the Elbe to 5.48 metres again. The gates closed. The town stayed dry.
+The great flood of February 1962 sent the Elbe five metres above normal into the rivers feeding it. In Elmshorn, the Krückau overflowed into the streets - boats in the Königstraße, cellars full of river mud. The Sperrwerk built afterwards has held since. The 2022 storm pushed the Elbe to 5.48 metres again. The gates closed. The town stayed dry.
 
 ---
 

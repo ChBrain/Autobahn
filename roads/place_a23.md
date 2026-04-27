@@ -1,4 +1,4 @@
-# place_a23
+﻿# place_a23
 
 ## Owner
 - Project: Autobahn
@@ -13,7 +13,7 @@ Two lanes per direction for the full length - narrower than the A7. The Westküs
 Continuous movement between Heide and Hamburg-Nordwest. The west coast of Schleswig-Holstein connected to the Hamburg motorway network. An alternative to the A7 for drivers coming from or going to the Nordsee coast.
 
 ## Withheld
-The name. The A23 is the Westküstenautobahn — the only motorway that runs the west coast of Schleswig-Holstein. North of Heide it does not end; it becomes the B5 and continues to Husum and the North Frisian coast without changing the landscape or the logic of the road. The Autobahn designation stops. The road does not.
+The name. The A23 is the Westküstenautobahn - the only motorway that runs the west coast of Schleswig-Holstein. North of Heide it does not end; it becomes the B5 and continues to Husum and the North Frisian coast without changing the landscape or the logic of the road. The Autobahn designation stops. The road does not.
 
 ---
 

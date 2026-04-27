@@ -1,4 +1,4 @@
-# Pinneberg-Nord
+﻿# Pinneberg-Nord
 
 ## Owner
 - Project: Autobahn
@@ -17,7 +17,7 @@ The northern Pinneberg exit. The sign: Pinneberg-Nord. The district capital of P
 Ausfahrt 16 - the exit ramp. The ordinary road below.
 
 ## Withheld
-The rose gardens. Two of them within a few kilometres of this road — the Rosarium in Uetersen, opened 1934, seven hectares, 900 varieties, built by Tantau and Kordes on a drained millpond; and the Rosengarten in Pinneberg, opened a year later, smaller, Art Deco, nearly lost after the war when the town turned it into a potato field. Both still open. The region around them produces around 20 million rose plants a year.
+The rose gardens. Two of them within a few kilometres of this road - the Rosarium in Uetersen, opened 1934, seven hectares, 900 varieties, built by Tantau and Kordes on a drained millpond; and the Rosengarten in Pinneberg, opened a year later, smaller, Art Deco, nearly lost after the war when the town turned it into a potato field. Both still open. The region around them produces around 20 million rose plants a year.
 
 ---
 

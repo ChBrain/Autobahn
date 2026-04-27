@@ -1,4 +1,4 @@
-# Horst/Elmshorn
+﻿# Horst/Elmshorn
 
 ## Owner
 - Project: Autobahn
@@ -17,7 +17,7 @@ The northern Elmshorn exit. The sign: Horst, Elmshorn. The first large town on t
 Ausfahrt 13 - the exit ramp. The ordinary road below.
 
 ## Withheld
-The Krückau runs through Elmshorn to the Elbe, four kilometres east. Before the railways it carried river barges — grain, timber, cattle — down to Hamburg. The Elmshorn quays are gone. The river still runs. Most drivers on this road take the exit for the industrial estate and never see it.
+The Krückau runs through Elmshorn to the Elbe, four kilometres east. Before the railways it carried river barges - grain, timber, cattle - down to Hamburg. The Elmshorn quays are gone. The river still runs. Most drivers on this road take the exit for the industrial estate and never see it.
 
 ---
 

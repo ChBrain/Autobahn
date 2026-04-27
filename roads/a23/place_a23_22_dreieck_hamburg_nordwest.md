@@ -1,4 +1,4 @@
-# Dreieck Hamburg-Nordwest
+﻿# Dreieck Hamburg-Nordwest
 
 ## Owner
 - Project: Autobahn
@@ -16,7 +16,7 @@ Exit 22. The junction where the A23 meets the A7. The A23 ends here - or begins 
 Ausfahrt 22 - the exit ramp. The ordinary road below.
 
 ## Withheld
-The Eidelstedter Feldmark. An ancient farming landscape that survived the city growing around it — wet meadows, old hedgerows, the Mühlenau running through it. The A7 was cut through it in 1972. Around 2000 developers planned to build on the western section; residents fought it off. The Ramcke family has farmed part of it since 1802. They still deliver fodder beets to Hagenbeck's elephant house, as they have for over sixty years. The road that ends here bisects it.
+The Eidelstedter Feldmark. An ancient farming landscape that survived the city growing around it - wet meadows, old hedgerows, the Mühlenau running through it. The A7 was cut through it in 1972. Around 2000 developers planned to build on the western section; residents fought it off. The Ramcke family has farmed part of it since 1802. They still deliver fodder beets to Hagenbeck's elephant house, as they have for over sixty years. The road that ends here bisects it.
 
 ---
 

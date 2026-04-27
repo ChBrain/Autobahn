@@ -1,4 +1,4 @@
-# Hamburg-Eidelstedt
+﻿# Hamburg-Eidelstedt
 
 ## Owner
 - Project: Autobahn
@@ -17,7 +17,7 @@ Hamburg. The first Hamburg exit on the A23. The sign: Hamburg-Eidelstedt. This e
 Ausfahrt 21 - the exit ramp. The ordinary road below.
 
 ## Withheld
-The Eidelstedter Mühle on the Mühlenau was first recorded in 1350 — a water mill serving the surrounding villages under obligatory milling rights. A windmill was added in 1707 when the stream ran dry. The water wheel was retired in 1900, the mill burned in 1943. The stream that powered it still runs through the suburb, partly renaturalised, mostly invisible.
+The Eidelstedter Mühle on the Mühlenau was first recorded in 1350 - a water mill serving the surrounding villages under obligatory milling rights. A windmill was added in 1707 when the stream ran dry. The water wheel was retired in 1900, the mill burned in 1943. The stream that powered it still runs through the suburb, partly renaturalised, mostly invisible.
 
 ---
 

@@ -1,4 +1,4 @@
-# Itzehoe-Nord
+﻿# Itzehoe-Nord
 
 ## Owner
 - Project: Autobahn
@@ -17,7 +17,7 @@ The sign: Itzehoe-Nord. The approach to the Störbrücke section. Itzehoe visibl
 Ausfahrt 8 - the exit ramp. The ordinary road below.
 
 ## Withheld
-Itzehoe had a small river port on the Stör through the 19th century — grain warehouses, timber trade, river barges working down to the Elbe. The railway ended it. The warehouses are mostly gone. The town the road bypasses was built where it is because of a river that no longer carries trade.
+Itzehoe had a small river port on the Stör through the 19th century - grain warehouses, timber trade, river barges working down to the Elbe. The railway ended it. The warehouses are mostly gone. The town the road bypasses was built where it is because of a river that no longer carries trade.
 
 ---
 

@@ -1,4 +1,4 @@
-# Schafstedt
+﻿# Schafstedt
 
 ## Owner
 - Project: Autobahn
@@ -17,7 +17,7 @@ The Kiel Canal crossing. The Hochbrücke Hohenhörn: high enough for ocean-going
 Ausfahrt 5 - the exit ramp. The ordinary road below.
 
 ## Withheld
-Friedrichstadt. A Dutch city on the Eider, twenty kilometres west. Built 1621 by Remonstrant refugees who chose the site where the Treene meets the Eider — the same river system the road has been running alongside since Heide. They recognised the marsh and built on it the way they knew: canals, gables, controlled water. Four hundred years later it still looks like a corner of the Netherlands that got left behind.
+Friedrichstadt. A Dutch city on the Eider, twenty kilometres west. Built 1621 by Remonstrant refugees who chose the site where the Treene meets the Eider - the same river system the road has been running alongside since Heide. They recognised the marsh and built on it the way they knew: canals, gables, controlled water. Four hundred years later it still looks like a corner of the Netherlands that got left behind.
 
 ---
 

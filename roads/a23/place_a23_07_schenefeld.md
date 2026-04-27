@@ -1,4 +1,4 @@
-# Schenefeld
+﻿# Schenefeld
 
 ## Owner
 - Project: Autobahn
@@ -17,7 +17,7 @@ The sign: Schenefeld. The approach to Itzehoe. The road beginning to show more t
 Ausfahrt 7 - the exit ramp. The ordinary road below.
 
 ## Withheld
-The Bonifatiuskirche. Founded in 826 on Ansgar's initiative — the first Christian building in Holstein, the Mutterkirche from which the faith spread through the region. Slavic Abodrites burned it in 1032. Vizelin rebuilt it around 1120 on the ruined walls. The 1628 fire took that structure; the present building rose the following year. The north wall still carries the two older phases in the stone — Carolingian masonry in the lower course, Vizelin's Romanesque above. Four kilometres from here. Still in use.
+The Bonifatiuskirche. Founded in 826 on Ansgar's initiative - the first Christian building in Holstein, the Mutterkirche from which the faith spread through the region. Slavic Abodrites burned it in 1032. Vizelin rebuilt it around 1120 on the ruined walls. The 1628 fire took that structure; the present building rose the following year. The north wall still carries the two older phases in the stone - Carolingian masonry in the lower course, Vizelin's Romanesque above. Four kilometres from here. Still in use.
 
 ---
 

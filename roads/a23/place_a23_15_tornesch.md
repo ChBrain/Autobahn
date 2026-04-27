@@ -1,4 +1,4 @@
-# Tornesch
+﻿# Tornesch
 
 ## Owner
 - Project: Autobahn
@@ -17,7 +17,7 @@ The sign: Tornesch. The Hamburg commuter belt beginning. The road increasingly s
 Ausfahrt 15 - the exit ramp. The ordinary road below.
 
 ## Withheld
-Tornesch is where the Hamburg commuter belt begins in earnest — the point where the villages stop being Holstein market towns and start being places people sleep between Hamburg shifts. The landscape changes here: the fields narrowing, the settlements merging, the road signs adding S-Bahn connections.
+Tornesch is where the Hamburg commuter belt begins in earnest - the point where the villages stop being Holstein market towns and start being places people sleep between Hamburg shifts. The landscape changes here: the fields narrowing, the settlements merging, the road signs adding S-Bahn connections.
 
 ---
 

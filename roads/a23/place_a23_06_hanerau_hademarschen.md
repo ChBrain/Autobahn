@@ -1,4 +1,4 @@
-# Hanerau-Hademarschen
+﻿# Hanerau-Hademarschen
 
 ## Owner
 - Project: Autobahn
@@ -17,7 +17,7 @@ Small exit. Rural. The sign: Hanerau-Hademarschen. The road south of the canal -
 Ausfahrt 6 - the exit ramp. The ordinary road below.
 
 ## Withheld
-Wacken is three kilometres south. For four days in August the bass from the main stage carries across the flat marsh for kilometres — there is nothing to stop it. The rest of the year the village produces the same ambient silence as every other settlement on this stretch of the A23. Both states are absolute.
+Wacken is three kilometres south. For four days in August the bass from the main stage carries across the flat marsh for kilometres - there is nothing to stop it. The rest of the year the village produces the same ambient silence as every other settlement on this stretch of the A23. Both states are absolute.
 
 ---
 

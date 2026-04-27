@@ -1,4 +1,4 @@
-# Hohenfelde
+﻿# Hohenfelde
 
 ## Owner
 - Project: Autobahn
@@ -17,7 +17,7 @@ Small exit. The sign: Hohenfelde. The road here in open country - the Hamburg me
 Ausfahrt 12 - the exit ramp. The ordinary road below.
 
 ## Withheld
-The road here runs along the boundary between the Geest — the slightly elevated glacial sand and gravel plateau — and the low-lying marsh below. The line is visible in the landscape: higher ground to the east, flat to the west. Every settlement on this stretch chose the Geest edge for the same reason, a thousand years ago and before.
+The road here runs along the boundary between the Geest - the slightly elevated glacial sand and gravel plateau - and the low-lying marsh below. The line is visible in the landscape: higher ground to the east, flat to the west. Every settlement on this stretch chose the Geest edge for the same reason, a thousand years ago and before.
 
 ---
 
