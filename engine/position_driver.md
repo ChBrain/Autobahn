@@ -1,4 +1,4 @@
-﻿# Driver
+# Driver
 
 ## Owner
 - Project: Autobahn
@@ -25,4 +25,4 @@ On the loss of the decision - accelerates.
 
 ---
 
-v0.1.0 - KAI Worlds
+v0.1.1 - KAI Worlds
