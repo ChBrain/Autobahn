@@ -17,7 +17,7 @@ The Stellingen exit. The sign: Hamburg-Stellingen. The Volkspark to the right. S
 Ausfahrt 26 - the exit ramp. The ordinary road below.
 
 ## Withheld
-Hagenbeck. The zoo is 800 metres east - the oldest in Germany, founded 1907, the first to use open enclosures without bars. The animals are closer than most people passing here know.
+Hagenbeck. The zoo is 800 metres east - founded 1907, the first to keep animals in open landscape enclosures with no bars between them and the visitor. The animals are closer than most people passing here know.
 
 ---
 

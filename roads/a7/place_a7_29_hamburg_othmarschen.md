@@ -17,7 +17,7 @@ The Othmarschen exit. The sign: Hamburg-Othmarschen, Altona, Bahrenfeld. North o
 Ausfahrt 29 - the exit ramp. The ordinary road below.
 
 ## Withheld
-The Elbchaussee. The road running along the Elbe from Altona west through Othmarschen and Blankenese - lined with 19th-century merchant villas set back behind walls and trees. One of the most significant residential streets in Germany. The river visible between the houses. Two kilometres south.
+The Elbchaussee. The road running along the Elbe from Altona west through Othmarschen and Blankenese - the Hamburg merchant families of the 19th century built their houses here, behind high walls, looking south over the river. The water visible between them. Two kilometres south.
 
 ---
 

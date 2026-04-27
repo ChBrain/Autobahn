@@ -18,7 +18,7 @@ Between [Owschlag](place_a7_07_owschlag.md) and [Rendsburg/Büdelsdorf](place_a7
 The stop. [The coffee](piece_the_coffee.md). [The tank](piece_the_tank.md). The first Raststätte southbound for drivers from Flensburg. The four minutes of not moving the body has been requesting since the border.
 
 ## Withheld
-The Hüttener Berg summit. Four kilometres west - 86 metres, the highest point between the Danish border and Hamburg. A viewpoint. On a clear day: the Schlei to the east, the Kieler Förde to the northeast, the North Sea coast to the west. The Raststätte is named for these hills. The hills are not visible from the car park.
+The Hüttener Berg summit. Four kilometres west - 86 metres, the highest point between the Danish border and Hamburg. A viewpoint. On a clear day: the Schlei to the east, the Kieler Förde to the northeast. The Raststätte is named for these hills. The hills are not visible from the car park.
 
 ---
 

@@ -17,7 +17,7 @@ Small exit between Schleswig and Rendsburg. The sign: Owschlag. Unremarkable. Th
 Ausfahrt 7 - the exit ramp. The ordinary road below.
 
 ## Withheld
-The Dannevirke. The earth rampart runs east-west through Schleswig-Holstein, built by the Danish kings to defend against Frankish invasion, first raised in the 8th century. Some of the best-preserved sections stand in the terrain west of here. The wall that defined where Denmark ended and the empire began.
+The Dannevirke. The earthwork system runs east-west through Schleswig-Holstein - the Danish polity began raising it around 808, under the king Godfred, against the Carolingian empire to the south. Some of the best-preserved sections stand in the terrain west of here. The line that held where Denmark ended and the Frankish world began.
 
 ---
 

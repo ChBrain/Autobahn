@@ -17,7 +17,7 @@ An unnumbered junction between exits 17 and 18. The future A20 will branch west 
 Ausfahrt unnumbered - the exit ramp.
 
 ## Withheld
-Bad Bramstedt castle. Two kilometres east - a moated Wasserburg from the 13th century, the moat still water. The oldest fortification in the immediate area, predating the Roland statue by two centuries. The castle and the Roland both in the town centre, within walking distance of each other.
+Bad Bramstedt castle. Two kilometres east - a moated castle on a 13th-century site, the moat still water. The standing building dates from the 16th century. The castle and the Roland both in the town centre, within walking distance of each other.
 
 ---
 

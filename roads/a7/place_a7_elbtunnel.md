@@ -17,7 +17,7 @@ No Ausfahrt number. Between [Hamburg-Othmarschen](place_a7_29_hamburg_othmarsche
 The crossing. The only way the A7 crosses the Elbe. No alternative. Every Driver on the A7 between Flensburg and Hamburg south of the river passes through here. The passage is mandatory - it cannot be skipped, only avoided by exiting the A7 at [Hamburg-Othmarschen](place_a7_29_hamburg_othmarschen.md) or north of it and rejoining south of the river by another route.
 
 ## Withheld
-The Alter Elbtunnel. At the St. Pauli Landungsbrücken, two kilometres northeast of the northern portal - a cast-iron pedestrian tunnel from 1911, under the same river. Two hydraulic lifts lower pedestrians and cyclists sixteen metres to the tunnel floor. Built sixty-two years prior to this crossing. Still in use.
+The Alter Elbtunnel. At the St. Pauli Landungsbrücken, six kilometres northeast of the northern portal - a cast-iron pedestrian tunnel from 1911, under the same river. Four hydraulic lift shafts lower pedestrians and cyclists around twenty-four metres to the tunnel floor. Built sixty-four years prior to this crossing. Still in use.
 
 ---
 

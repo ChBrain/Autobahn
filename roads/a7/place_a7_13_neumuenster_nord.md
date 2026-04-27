@@ -17,7 +17,7 @@ The northern Neumünster exit. The sign: Neumünster-Nord. The city visible to t
 Ausfahrt 13 - the exit ramp. The ordinary road below.
 
 ## Withheld
-The Vicelinkirche. Three kilometres east in Neumünster city centre - a Romanesque church from the 12th century, built by the missionary Vicelinus who Christianised the Wagrians. The oldest visible structure in the city. The city grew around it and has largely forgotten why.
+The Vicelinkirche. Three kilometres east in Neumünster city centre - standing on the site where the missionary Vicelinus founded a church around 1127. The current building dates from 1834. The site is the oldest in the city. The city grew around it and has largely forgotten why.
 
 ---
 
