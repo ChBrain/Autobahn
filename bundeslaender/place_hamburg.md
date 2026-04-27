@@ -1,4 +1,4 @@
-﻿# Hamburg
+# Hamburg
 ## Die Republik, die der Nation beigetreten ist - ohne sie zu werden.
 
 ## Owner
@@ -25,4 +25,4 @@ The port - the third largest in Europe. Reachable from A7 Waltershof. The contai
 
 ---
 
-v0.1.2 - KAI Worlds
+v0.1.3 - KAI Worlds
