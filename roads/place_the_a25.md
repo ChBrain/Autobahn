@@ -1,4 +1,4 @@
-﻿# place_the_a25
+# place_the_a25
 
 ## Owner
 - Project: Autobahn
@@ -17,4 +17,4 @@ The direction.
 
 ---
 
-v0.1.0 - KAI Worlds
+v0.1.1 - KAI Worlds
