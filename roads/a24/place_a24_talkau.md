@@ -1,4 +1,4 @@
-﻿# Talkau
+# Talkau
 
 ## Owner
 - Project: Autobahn
@@ -21,4 +21,4 @@ The Sachsenwald edge. The eastern boundary of the Sachsenwald runs close to Talk
 
 ---
 
-v0.1.0 - KAI Worlds
+v0.1.1 - KAI Worlds
