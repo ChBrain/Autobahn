@@ -1,8 +1,8 @@
-# Pinneberg-Süd
+﻿# Pinneberg-Süd
 
 ## Owner
 - Project: Autobahn
-- Place: [the A23](place_a23.md)
+- Place: [the A23](place_a23.md) in [Schleswig-Holstein](place_schleswig_holstein.md)
 
 ## Shown
 The southern Pinneberg exit. The sign: Pinneberg-Süd. The last exit for Pinneberg. Hamburg close now - the road denser, the signs more frequent.
@@ -21,4 +21,4 @@ Until 1864, Pinneberg was inside the Duchy of Holstein under the Danish crown. T
 
 ---
 
-v0.1.2 - KAI Worlds
+v0.1.3 - KAI Worlds

@@ -2,7 +2,7 @@
 
 ## Owner
 - Project: Autobahn
-- Place: [the A23](place_a23.md)
+- Place: [the A23](place_a23.md) in [Schleswig-Holstein](place_schleswig_holstein.md)
 
 ## Shown
 Small exit. Rural. The sign: Hanerau-Hademarschen. The road south of the canal - the landscape changing slightly, the flat marsh giving way to gentle hills.
@@ -21,4 +21,4 @@ Wacken is three kilometres south. For four days in August the bass from the main
 
 ---
 
-v0.1.2 - KAI Worlds
+v0.1.3 - KAI Worlds

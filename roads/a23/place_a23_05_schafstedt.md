@@ -2,7 +2,7 @@
 
 ## Owner
 - Project: Autobahn
-- Place: [the A23](place_a23.md)
+- Place: [the A23](place_a23.md) in [Schleswig-Holstein](place_schleswig_holstein.md)
 
 ## Shown
 The Kiel Canal crossing. The Hochbrücke Hohenhörn: high enough for ocean-going ships to pass below. The water below - wide, controlled, the canal running east to west connecting the North Sea to the Baltic. A container ship or tanker possibly visible. The A23 the only motorway to cross the Nord-Ostsee-Kanal.
@@ -21,4 +21,4 @@ Friedrichstadt. A Dutch city on the Eider, twenty kilometres west. Built 1621 by
 
 ---
 
-v0.1.2 - KAI Worlds
+v0.1.3 - KAI Worlds

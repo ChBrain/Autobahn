@@ -2,7 +2,7 @@
 
 ## Owner
 - Project: Autobahn
-- Place: [the A23](place_a23.md)
+- Place: [the A23](place_a23.md) in [Schleswig-Holstein](place_schleswig_holstein.md)
 
 ## Shown
 The sign: Tornesch. The Hamburg commuter belt beginning. The road increasingly suburban - the villages merging into each other, the fields narrowing between the settlements.
@@ -21,4 +21,4 @@ Tornesch is where the Hamburg commuter belt begins in earnest - the point where 
 
 ---
 
-v0.1.2 - KAI Worlds
+v0.1.3 - KAI Worlds

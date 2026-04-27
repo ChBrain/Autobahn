@@ -2,7 +2,7 @@
 
 ## Owner
 - Project: Autobahn
-- Place: [the A23](place_a23.md)
+- Place: [the A23](place_a23.md) in [Schleswig-Holstein](place_schleswig_holstein.md)
 
 ## Shown
 Small exit. The sign: Hohenfelde. The road here in open country - the Hamburg metropolitan area still distant. The A23 character here: rural, two-lane, unhurried compared to the A7.
@@ -21,4 +21,4 @@ The road here runs along the boundary between the Geest - the slightly elevated 
 
 ---
 
-v0.1.2 - KAI Worlds
+v0.1.3 - KAI Worlds
