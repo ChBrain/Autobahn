@@ -1,8 +1,8 @@
-﻿# Lägerdorf
+# Lägerdorf
 
 ## Owner
 - Project: Autobahn
-- Place: [the A23](place_the_a23.md)
+- Place: [the A23](place_a23.md)
 
 ## Shown
 The sign: Lägerdorf. The landscape here: chalk deposits visible in the fields, the white of the soil unusual against the green. The Holstein hills beginning to the east.
@@ -21,4 +21,4 @@ The chalk. Lägerdorf sits on one of the largest chalk deposits in Germany - the
 
 ---
 
-v0.1.0 - KAI Worlds
+v0.1.1 - KAI Worlds
