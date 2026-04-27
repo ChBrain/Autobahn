@@ -18,7 +18,7 @@ Between [Neumünster-Nord](place_a7_13_neumuenster_nord.md) and [Neumünster-Mit
 [The coffee](piece_the_coffee.md). [The tank](piece_the_tank.md). A stop between the two northern Neumünster exits.
 
 ## Withheld
-The Wittorfer Motte. Directly north in the village of Wittorf - a medieval castle mound, earthwork only, no stone above ground. The mound still clearly visible in the flat field. The fortification it supported is gone. The ground it raised remains.
+The Stör. The river passes through the outer districts of Neumünster, close to here - beginning fifteen kilometres southeast at Willingrade and reaching the Elbe at Itzehoe after a hundred kilometres. It is unremarkable in the city fabric, invisible from the car park.
 
 ---
 

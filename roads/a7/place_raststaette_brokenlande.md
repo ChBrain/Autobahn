@@ -18,7 +18,7 @@ Between [Neumünster-Süd](place_a7_15_neumuenster_sued.md) and [Großenaspe](pl
 A stop between Neumünster-Süd and Großenaspe. [The coffee](piece_the_coffee.md) and [the tank](piece_the_tank.md) at a building lower and older than the Raststätten north and south of here. No McDonald's. The trucks mostly pass.
 
 ## Withheld
-The Bramstedter Mühle. West of here on the Bramau - a water mill, grain ground on this stream since the medieval period. The mill building still standing. The same river that begins near Bad Bramstedt and runs north through the Aukrug hills passes under it.
+The Bramstedter Mühle. West of here on the Bramau - a water mill, grain ground on this stream since the medieval period. The mill building still standing. The same river that begins near Bad Bramstedt and runs northwest to the Stör passes under it.
 
 ---
 

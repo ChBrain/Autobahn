@@ -17,7 +17,7 @@ The southern Neumünster exit. The sign: Neumünster-Süd, B205. The last exit f
 Ausfahrt 15 - the exit ramp. The ordinary road below.
 
 ## Withheld
-The Cimbrische Heide. The heath south of Neumünster was historically the meeting ground of the Cimbri - the Germanic tribe whose migration south in the 2nd century BC eventually clashed with Rome. The name survives in the landscape south of this exit.
+The Cimbrische Heide. The heath south of Neumünster carries the name of the Cimbri - the tribe whose migration south in the 2nd century BC eventually clashed with Rome. The naming is early-modern, not archaeological: no evidence places the Cimbri here. The name outlasted the claim.
 
 ---
 
