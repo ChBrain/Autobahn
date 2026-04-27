@@ -1,4 +1,4 @@
-﻿# Kreuz Rendsburg
+# Kreuz Rendsburg
 
 ## Owner
 - Project: Autobahn

@@ -1,4 +1,4 @@
-﻿# Grenzübergang Ellund
+# Grenzübergang Ellund
 
 ## Owner
 - Project: Autobahn

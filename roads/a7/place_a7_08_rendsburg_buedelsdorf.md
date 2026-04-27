@@ -1,4 +1,4 @@
-﻿# Rendsburg/Büdelsdorf
+# Rendsburg/Büdelsdorf
 
 ## Owner
 - Project: Autobahn

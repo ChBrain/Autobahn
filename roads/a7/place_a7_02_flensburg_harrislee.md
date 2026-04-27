@@ -1,4 +1,4 @@
-﻿# Flensburg/Harrislee
+# Flensburg/Harrislee
 
 ## Owner
 - Project: Autobahn
