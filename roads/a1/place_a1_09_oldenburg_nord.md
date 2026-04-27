@@ -2,23 +2,25 @@
 
 ## Owner
 - Project: Autobahn
-- Place: [the A1](place_the_a1.md)
+- Place: [A1](place_the_a1.md) in [Schleswig-Holstein](place_schleswig_holstein.md)
 
 ## Shown
 The northern Oldenburg exit. The sign: Oldenburg in Holstein-Nord. Three exits for one town - the road bypasses Oldenburg to the west. The town a few kilometres east.
 
-- 3 km north: [Jahnshof](place_a1_08_jahnshof.md)
-- 2 km south: [Oldenburg in Holstein-Mitte](place_a1_10_oldenburg_mitte.md)
 
 ## Holds
-[The Kilometerstein](piece_the_kilometerstein.md).
+
+* [km 33.8](piece_the_kilometerstein.md) on [the A1](place_the_a1.md).
+* 1.5 km north on [the A1](place_the_a1.md) to [Jahnshof](place_a1_08_jahnshof.md).
+* 1.4 km south on [the A1](place_the_a1.md) to [Oldenburg in Holstein-Mitte](place_a1_10_oldenburg_mitte.md).
+
 
 ## Offers
 Ausfahrt 9 - the exit ramp. The ordinary road below.
 
 ## Withheld
-The old Wagrien capital. Oldenburg in Holstein was the seat of the Bishopric of Oldenburg in the medieval period - one of the oldest episcopal sees in northern Germany.
+Starigard in Slavic, Oldenburg in Low German, Brandehuse in Norse — three names for the same place, all still legible. The first two mean the same thing: old castle. The third means burned houses. One culture translated the name they found. Another remembered something different entirely.
 
 ---
 
-v0.1.1 - KAI Worlds
+v0.1.2 - KAI Worlds

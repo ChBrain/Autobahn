@@ -2,23 +2,25 @@
 
 ## Owner
 - Project: Autobahn
-- Place: [the A1](place_the_a1.md)
+- Place: [A1](place_the_a1.md) in [Schleswig-Holstein](place_schleswig_holstein.md)
 
 ## Shown
 The sign: Scharbeutz, B432. The B432 leads east to the coast - Scharbeutz, Haffkrug, Timmendorfer Strand. The most popular beach resort on the Lübecker Bucht. In summer: the approach to this exit backs up toward Lensahn.
 
-- 9 km north: [Eutin](place_a1_15_eutin.md)
-- 5 km south: [Pansdorf](place_a1_17_pansdorf.md)
 
 ## Holds
-[The Kilometerstein](piece_the_kilometerstein.md).
+
+* [km 68.9](piece_the_kilometerstein.md) on [the A1](place_the_a1.md).
+* 2.3 km north on [the A1](place_the_a1.md) to [Eutin](place_a1_15_eutin.md).
+* 3.2 km south on [the A1](place_the_a1.md) to [Pansdorf](place_a1_17_pansdorf.md).
+
 
 ## Offers
 Ausfahrt 16 - the exit ramp. The ordinary road below.
 
 ## Withheld
-Timmendorfer Strand. The resort town on the B432 is one of the most expensive addresses in Schleswig-Holstein - the beach, the casino, the hotels. Three kilometres from this exit.
+Timmendorfer Strand's first visitor arrived in 1865 — a pastor named Friedrich August Gleiss who bought a plot of land in the empty coastal strip between Niendorf and Scharbeutz and built himself a house in three months. He found the fishing village of Niendorf too noisy and wanted to be left alone. The house still stands. The resort grew up around his desire for solitude.
 
 ---
 
-v0.1.1 - KAI Worlds
+v0.1.2 - KAI Worlds

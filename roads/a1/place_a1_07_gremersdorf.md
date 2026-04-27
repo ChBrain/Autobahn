@@ -2,23 +2,25 @@
 
 ## Owner
 - Project: Autobahn
-- Place: [the A1](place_the_a1.md)
+- Place: [A1](place_the_a1.md) in [Schleswig-Holstein](place_schleswig_holstein.md)
 
 ## Shown
 Small exit. The sign: Gremersdorf. Rural Wagrien - the peninsula between the Ostsee and the Kieler Förde. Flat agricultural land, the sky wide.
 
-- 5 km north: [Heiligenhafen-Mitte](place_a1_06_heiligenhafen_mitte.md)
-- 3 km south: [Jahnshof](place_a1_08_jahnshof.md)
 
 ## Holds
-[The Kilometerstein](piece_the_kilometerstein.md).
+
+* [km 29.0](piece_the_kilometerstein.md) on [the A1](place_the_a1.md).
+* 3.7 km north on [the A1](place_the_a1.md) to [Heiligenhafen-Mitte](place_a1_06_heiligenhafen_mitte.md).
+* 3.3 km south on [the A1](place_the_a1.md) to [Jahnshof](place_a1_08_jahnshof.md).
+
 
 ## Offers
 Ausfahrt 7 - the exit ramp. The ordinary road below.
 
 ## Withheld
-Wagrien. The peninsula is a distinct geographical unit - the easternmost part of Schleswig-Holstein, bounded by water on three sides. The Baltic coast is within ten kilometres in every direction here but not visible from the verge.
+A few kilometres east of this exit, inside the Bundeswehr training range at Putlos, the Wienberg hill holds the largest concentration of Bronze Age long barrows in northern Germany — thirty to a hundred and fifty metres long, dating to around 2,500 BC. The military exclusion zone that keeps the coast empty here has also kept the graves intact. They have survived because no one is allowed near them.
 
 ---
 
-v0.1.1 - KAI Worlds
+v0.1.2 - KAI Worlds

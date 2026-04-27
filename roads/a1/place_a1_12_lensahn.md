@@ -2,23 +2,25 @@
 
 ## Owner
 - Project: Autobahn
-- Place: [the A1](place_the_a1.md)
+- Place: [A1](place_the_a1.md) in [Schleswig-Holstein](place_schleswig_holstein.md)
 
 ## Shown
 The sign: Lensahn. Rural Ostholstein. The road here passing through the agricultural interior - the Ostsee beaches of the Lübecker Bucht still east of the road but approaching.
 
-- 8 km north: [Oldenburg in Holstein-Süd](place_a1_11_oldenburg_sued.md)
-- 9 km south: [Neustadt in Holstein-Pelzerhaken](place_a1_13_neustadt_pelzerhaken.md)
 
 ## Holds
-[The Kilometerstein](piece_the_kilometerstein.md).
+
+* [km 44.4](piece_the_kilometerstein.md) on [the A1](place_the_a1.md).
+* 8.3 km north on [the A1](place_the_a1.md) to [Oldenburg in Holstein-Süd](place_a1_11_oldenburg_sued.md).
+* 11.4 km south on [the A1](place_the_a1.md) to [Neustadt in Holstein-Pelzerhaken](place_a1_13_neustadt_pelzerhaken.md).
+
 
 ## Offers
 Ausfahrt 12 - the exit ramp. The ordinary road below.
 
 ## Withheld
-The Lensahner See. The small lake just east is one of dozens in the Ostholstein lake district - the moraine landscape left by the last ice age. The district is marketed as the Holsteinische Schweiz. The peninsula opens up here and the glacial topography becomes visible in the low hills.
+In 1760 the pastor here, a man named Hartmann, made Lensahn a wedding destination — advertising the village across the region and marrying couples who came from elsewhere. For a period Lensahn was the Heiratsparadies of Holstein. The same pastor also promoted the introduction of the potato.
 
 ---
 
-v0.1.1 - KAI Worlds
+v0.1.2 - KAI Worlds
