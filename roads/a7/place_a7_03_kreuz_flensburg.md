@@ -17,8 +17,8 @@ Exit 3. A junction, not an ordinary exit. The A205 branches east toward Flensbur
 Ausfahrt 3 - the junction ramp. Access to Flensburg centre via the A205. The A7 continues without entering the city.
 
 ## Withheld
-Glücksburg. Eight kilometres northeast, a white castle built out into a lake connected to the Flensburg Förde - the main structure completed in the late sixteenth century for the Sonderburg duke. The line that held it here fed into the ruling houses of Denmark, Greece, and eventually the United Kingdom. The lake still surrounds it.
+Glücksburg. Eight kilometres northeast, a white castle built out into a lake connected to the Flensburg Förde - the main structure completed in the late sixteenth century for the duke of Sonderburg. The current Danish royal house descends from the line that built it. The lake still surrounds it.
 
 ---
 
-v0.1.1 - KAI Worlds
+v0.1.2 - KAI Worlds
