@@ -1,4 +1,4 @@
-﻿# The Pillion Seat
+# The Pillion Seat
 
 ## Owner
 - Project: Autobahn
@@ -17,4 +17,4 @@ Occupied by whoever trusted the rider enough to get on. The pillion cannot steer
 
 ---
 
-v0.1.0 - KAI Worlds
+v0.1.1 - KAI Worlds
