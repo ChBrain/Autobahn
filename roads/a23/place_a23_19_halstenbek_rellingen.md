@@ -1,4 +1,4 @@
-﻿# Halstenbek/Rellingen
+# Halstenbek/Rellingen
 
 ## Owner
 - Project: Autobahn
@@ -21,4 +21,4 @@ The Willkomm-Höft. At the Schulauer Fährhaus in Wedel, a few kilometres southw
 
 ---
 
-v0.1.3 - KAI Worlds
+v0.1.4 - KAI Worlds
