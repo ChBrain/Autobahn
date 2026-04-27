@@ -10,7 +10,7 @@ The sign at the Danish border: Bundesrepublik Deutschland. Then the A7 begins an
 Entering from Hamburg south: the Maschen marshalling yard visible from the A7. The density drops immediately. The signs thin. The road continues.
 
 ## Holds
-- [the A1](place_the_a1.md) - Heiligenhafen to Lübeck, Vogelfluglinie
+- [A1](place_the_a1.md) - Heiligenhafen to Lübeck, Vogelfluglinie
 - [A7](place_a7.md) - Ellund to Hamburg
   - [Grenzübergang Ellund](place_a7_01_grenzuebergang_ellund.md)
   - [Flensburg/Harrislee](place_a7_02_flensburg_harrislee.md)
@@ -39,8 +39,8 @@ Entering from Hamburg south: the Maschen marshalling yard visible from the A7. T
   - [Ellerau](place_a7_20_ellerau.md)
   - [Quickborn](place_a7_21_quickborn.md)
   - [Norderstedt-Mitte / Dreieck Garstedt](place_a7_22_norderstedt_mitte.md)
-- [the A20](place_the_a20.md) - Weede to Kreuz Lübeck
-- [the A21](place_the_a21.md) - Nettelsee to Kreuz Bargteheide
+- [A20](place_the_a20.md) - Weede to Kreuz Lübeck
+- [A21](place_the_a21.md) - Nettelsee to Kreuz Bargteheide
 - [A23](place_a23.md) - Heide to Hamburg
   - [Heide-West](place_a23_02_heide_west.md)
   - [Heide-Süd](place_a23_03_heide_sued.md)
@@ -61,9 +61,9 @@ Entering from Hamburg south: the Maschen marshalling yard visible from the A7. T
   - [Pinneberg-Süd](place_a23_18_pinneberg_sued.md)
   - [Halstenbek/Rellingen](place_a23_19_halstenbek_rellingen.md)
   - [Halstenbek-Krupunder](place_a23_20_halstenbek_krupunder.md)
-- [the A24](place_the_a24.md) - Hamburg-Horn to Gudow
-- [the A210](place_the_a210.md) - Schacht-Audorf to Kreuz Kiel-West
-- [the A215](place_the_a215.md) - Kiel-Westring to Dreieck Bordesholm
+- [A24](place_the_a24.md) - Hamburg-Horn to Gudow
+- [A210](place_the_a210.md) - Schacht-Audorf to Kreuz Kiel-West
+- [A215](place_the_a215.md) - Kiel-Westring to Dreieck Bordesholm
 
 ## Offers
 130 recommended on most sections - no blanket limit on many stretches. The road wet frequently. Wind crossings notable between junctions on exposed sections. Rest stops sparse north of Rendsburg. The Rader Hochbrücke over the Kiel Canal at 42 metres - the high point of the A7 in this state.
@@ -73,4 +73,4 @@ Two state languages: German and Danish. The Danish minority - recognised, school
 
 ---
 
-v0.1.2 - KAI Worlds
+v0.1.3 - KAI Worlds
