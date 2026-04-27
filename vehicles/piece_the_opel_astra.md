@@ -1,4 +1,4 @@
-﻿# The Opel Astra
+# The Opel Astra
 
 ## Owner
 - Project: Autobahn
@@ -21,4 +21,4 @@ On the Autobahn today because it was the right price at the right time. The driv
 
 ---
 
-v0.1.0 - KAI Worlds
+v0.1.1 - KAI Worlds
