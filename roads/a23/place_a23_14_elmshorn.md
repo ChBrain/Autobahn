@@ -1,8 +1,8 @@
-﻿# Elmshorn
+# Elmshorn
 
 ## Owner
 - Project: Autobahn
-- Place: [the A23](place_the_a23.md)
+- Place: [the A23](place_a23.md)
 
 ## Shown
 The Elmshorn exit. The sign: Elmshorn, B431. The town bypassed - the A23 circumnavigates the centre. The rail line Hamburg–Westerland visible briefly crossing the road.
@@ -21,4 +21,4 @@ The Marschbahn. The railway line crossing here connects Hamburg to Westerland on
 
 ---
 
-v0.1.0 - KAI Worlds
+v0.1.1 - KAI Worlds
