@@ -1,4 +1,4 @@
-﻿# Kreuz Kiel-West
+# Kreuz Kiel-West
 
 ## Owner
 - Project: Autobahn
@@ -20,4 +20,4 @@ The Kieler Woche. Each June, the Kieler Förde becomes the venue for the largest
 
 ---
 
-v0.1.0 - KAI Worlds
+v0.1.1 - KAI Worlds
