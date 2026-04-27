@@ -1,4 +1,4 @@
-﻿# place_a23
+# place_a23
 
 ## Owner
 - Project: Autobahn
@@ -17,4 +17,4 @@ The name. The A23 is the Westküstenautobahn - the only motorway that runs the w
 
 ---
 
-v0.1.2 - KAI Worlds
+v0.1.3 - KAI Worlds
