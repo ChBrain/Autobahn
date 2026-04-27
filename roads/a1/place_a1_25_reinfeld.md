@@ -1,4 +1,4 @@
-﻿# Reinfeld
+# Reinfeld
 
 ## Owner
 - Project: Autobahn
@@ -20,4 +20,4 @@ The eHighway. Between Kreuz Lübeck and Reinfeld a test section of overhead elec
 
 ---
 
-v0.1.0 - KAI Worlds
+v0.1.1 - KAI Worlds
