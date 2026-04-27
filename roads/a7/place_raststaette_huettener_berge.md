@@ -22,4 +22,4 @@ The Hüttener Berg summit. Four kilometres west - 86 metres, the highest point b
 
 ---
 
-v0.1.0 - KAI Worlds
+v0.1.1 - KAI Worlds
