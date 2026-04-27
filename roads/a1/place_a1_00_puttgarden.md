@@ -10,7 +10,7 @@ The ferry terminal at the northern tip of Fehmarn. The sign: Puttgarden. The Sca
 ## Holds
 
 * [km 0.0](piece_the_kilometerstein.md) on [the A1](place_the_a1.md).
-* [Heiligenhafen-Ost](place_a1_05_heiligenhafen_ost.md) is next on [the A1](place_the_a1.md) going south.
+* 22 km on [the A1](place_the_a1.md) to [Heiligenhafen-Ost](place_a1_05_heiligenhafen_ost.md).
 
 ## Offers
 The ferry to Rødby. The Vogelfluglinie crossing. The shortest sea route between Germany and Denmark.
