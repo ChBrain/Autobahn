@@ -1,4 +1,4 @@
-﻿# The Stau
+# The Stau
 
 ## Owner
 - Project: Autobahn
@@ -18,4 +18,4 @@ The traffic moves. The cause passes or is passed. [Cruising](process_the_cruisin
 
 ---
 
-v0.1.0 - KAI Worlds
+v0.1.1 - KAI Worlds
