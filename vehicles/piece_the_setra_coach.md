@@ -1,4 +1,4 @@
-﻿# The Setra Coach
+# The Setra Coach
 
 ## Owner
 - Project: Autobahn
@@ -21,4 +21,4 @@ On the Autobahn today on a scheduled route. Forty-three passengers who did not c
 
 ---
 
-v0.1.0 - KAI Worlds
+v0.1.1 - KAI Worlds
