@@ -1,4 +1,4 @@
-﻿# place_the_a1
+# place_the_a1
 
 ## Owner
 - Project: Autobahn
@@ -17,4 +17,4 @@ The direction. The A1 runs both ways. North leads toward the ferry, toward Denma
 
 ---
 
-v0.1.0 - KAI Worlds
+v0.1.1 - KAI Worlds

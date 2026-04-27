@@ -1,4 +1,4 @@
-﻿# The BMW 3 Series
+# The BMW 3 Series
 
 ## Owner
 - Project: Autobahn
@@ -21,4 +21,4 @@ The car that wants to be driven. Rear-wheel drive as default — the handling ba
 
 ---
 
-v0.1.0 - KAI Worlds
+v0.1.1 - KAI Worlds

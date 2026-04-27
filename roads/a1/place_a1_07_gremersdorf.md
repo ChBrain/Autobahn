@@ -1,4 +1,4 @@
-﻿# Gremersdorf
+# Gremersdorf
 
 ## Owner
 - Project: Autobahn
@@ -21,4 +21,4 @@ Wagrien. The peninsula is a distinct geographical unit - the easternmost part of
 
 ---
 
-v0.1.0 - KAI Worlds
+v0.1.1 - KAI Worlds

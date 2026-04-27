@@ -1,4 +1,4 @@
-﻿# Hamburg-Jenfeld
+# Hamburg-Jenfeld
 
 ## Owner
 - Project: Autobahn
@@ -21,4 +21,4 @@ Jenfeld housing estate. The large postwar settlement immediately north was built
 
 ---
 
-v0.1.0 - KAI Worlds
+v0.1.1 - KAI Worlds

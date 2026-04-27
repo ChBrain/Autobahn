@@ -1,4 +1,4 @@
-﻿# Schwarzenbek/Grande
+# Schwarzenbek/Grande
 
 ## Owner
 - Project: Autobahn
@@ -21,4 +21,4 @@ Schwarzenbek Kloster. The former Benedictine convent at Schwarzenbek - founded i
 
 ---
 
-v0.1.0 - KAI Worlds
+v0.1.1 - KAI Worlds

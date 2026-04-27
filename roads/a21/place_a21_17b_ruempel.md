@@ -1,4 +1,4 @@
-﻿# Rümpel
+# Rümpel
 
 ## Owner
 - Project: Autobahn
@@ -21,4 +21,4 @@ The Bille river. The Bille rises in the Stormarn hills and flows west through th
 
 ---
 
-v0.1.0 - KAI Worlds
+v0.1.1 - KAI Worlds

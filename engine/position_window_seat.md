@@ -1,4 +1,4 @@
-﻿# Window Seat
+# Window Seat
 
 ## Owner
 - Project: Autobahn
@@ -20,4 +20,4 @@ On the loss of the ability to stop - presses closer to the glass.
 
 ---
 
-v0.1.0 - KAI Worlds
+v0.1.1 - KAI Worlds

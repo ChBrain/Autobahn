@@ -1,4 +1,4 @@
-﻿# Bornhöved
+# Bornhöved
 
 ## Owner
 - Project: Autobahn
@@ -21,4 +21,4 @@ The battle. The Battle of Bornhöved in 1227 ended Danish supremacy over norther
 
 ---
 
-v0.1.0 - KAI Worlds
+v0.1.1 - KAI Worlds

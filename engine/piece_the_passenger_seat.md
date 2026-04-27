@@ -1,4 +1,4 @@
-﻿# The Passenger Seat
+# The Passenger Seat
 
 ## Owner
 - Project: Autobahn
@@ -17,4 +17,4 @@ Occupied by whoever was not driving and was not in the back. Always beside the w
 
 ---
 
-v0.1.0 - KAI Worlds
+v0.1.1 - KAI Worlds

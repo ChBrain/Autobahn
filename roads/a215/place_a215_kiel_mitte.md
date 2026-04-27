@@ -1,4 +1,4 @@
-﻿# Kiel-Mitte
+# Kiel-Mitte
 
 ## Owner
 - Project: Autobahn
@@ -21,4 +21,4 @@ The bombings. Kiel was one of the most heavily bombed German cities in the Secon
 
 ---
 
-v0.1.0 - KAI Worlds
+v0.1.1 - KAI Worlds

@@ -1,4 +1,4 @@
-﻿# Oldenburg in Holstein-Süd
+# Oldenburg in Holstein-Süd
 
 ## Owner
 - Project: Autobahn
@@ -21,4 +21,4 @@ The B202. At the bottom of this ramp two coastlines connect - the Baltic coast t
 
 ---
 
-v0.1.0 - KAI Worlds
+v0.1.1 - KAI Worlds

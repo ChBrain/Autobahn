@@ -1,4 +1,4 @@
-﻿# Lübeck-Moisling
+# Lübeck-Moisling
 
 ## Owner
 - Project: Autobahn
@@ -21,4 +21,4 @@ The Trave. The river runs through Lübeck from the Ratzeburger See to the Baltic
 
 ---
 
-v0.1.0 - KAI Worlds
+v0.1.1 - KAI Worlds

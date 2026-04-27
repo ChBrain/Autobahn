@@ -1,4 +1,4 @@
-﻿# Sereetz
+# Sereetz
 
 ## Owner
 - Project: Autobahn
@@ -21,4 +21,4 @@ Travemünde. The ferry port for Scandinavia is a few kilometres east - the Balti
 
 ---
 
-v0.1.0 - KAI Worlds
+v0.1.1 - KAI Worlds

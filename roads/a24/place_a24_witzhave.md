@@ -1,4 +1,4 @@
-﻿# Witzhave
+# Witzhave
 
 ## Owner
 - Project: Autobahn
@@ -21,4 +21,4 @@ The Sachsenwald. The forest begins a few kilometres south - 7,000 hectares of ma
 
 ---
 
-v0.1.0 - KAI Worlds
+v0.1.1 - KAI Worlds

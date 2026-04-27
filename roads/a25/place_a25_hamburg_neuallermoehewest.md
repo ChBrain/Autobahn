@@ -1,4 +1,4 @@
-﻿# Hamburg-Neuallermöhe-West
+# Hamburg-Neuallermöhe-West
 
 ## Owner
 - Project: Autobahn
@@ -20,4 +20,4 @@ The Elbe. A few kilometres south the Elbe runs east-west - one of Germany's grea
 
 ---
 
-v0.1.0 - KAI Worlds
+v0.1.1 - KAI Worlds

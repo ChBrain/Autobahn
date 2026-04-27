@@ -1,4 +1,4 @@
-﻿# The Golf
+# The Golf
 
 ## Owner
 - Project: Autobahn
@@ -23,4 +23,4 @@ The Golf does not know which journey it is on. It is always on one.
 
 ---
 
-v0.1.0 - KAI Worlds
+v0.1.1 - KAI Worlds

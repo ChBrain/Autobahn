@@ -1,4 +1,4 @@
-﻿# Gudow
+# Gudow
 
 ## Owner
 - Project: Autobahn
@@ -20,4 +20,4 @@ The Schaalsee. Germany's deepest lake lies a few kilometres south - a glacial la
 
 ---
 
-v0.1.0 - KAI Worlds
+v0.1.1 - KAI Worlds

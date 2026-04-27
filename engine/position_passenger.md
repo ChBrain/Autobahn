@@ -1,4 +1,4 @@
-﻿# Passenger
+# Passenger
 
 ## Owner
 - Project: Autobahn
@@ -21,4 +21,4 @@ On the loss of agency - the Shadow amplifies.
 
 ---
 
-v0.1.0 - KAI Worlds
+v0.1.1 - KAI Worlds

@@ -1,4 +1,4 @@
-﻿# Bredenbek
+# Bredenbek
 
 ## Owner
 - Project: Autobahn
@@ -21,4 +21,4 @@ The Eider at its narrowest. The river here is still a young stream - it rises in
 
 ---
 
-v0.1.0 - KAI Worlds
+v0.1.1 - KAI Worlds

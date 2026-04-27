@@ -1,4 +1,4 @@
-﻿# The Driver Seat
+# The Driver Seat
 
 ## Owner
 - Project: Autobahn
@@ -17,4 +17,4 @@ Occupied by whoever held the driving license and the decision. Adjusted and read
 
 ---
 
-v0.1.0 - KAI Worlds
+v0.1.1 - KAI Worlds

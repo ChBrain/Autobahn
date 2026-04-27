@@ -1,4 +1,4 @@
-﻿# Neustadt in Holstein-Pelzerhaken
+# Neustadt in Holstein-Pelzerhaken
 
 ## Owner
 - Project: Autobahn
@@ -21,4 +21,4 @@ Pelzerhaken. The beach at the end of the B501 is one of the most visited Ostsee 
 
 ---
 
-v0.1.0 - KAI Worlds
+v0.1.1 - KAI Worlds

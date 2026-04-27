@@ -1,4 +1,4 @@
-﻿# Achterwehr
+# Achterwehr
 
 ## Owner
 - Project: Autobahn
@@ -21,4 +21,4 @@ The Eider-Treene-Sorge lowlands to the west. The flat wetland stretching from he
 
 ---
 
-v0.1.0 - KAI Worlds
+v0.1.1 - KAI Worlds

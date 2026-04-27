@@ -1,4 +1,4 @@
-﻿# The Middle Back Seat
+# The Middle Back Seat
 
 ## Owner
 - Project: Autobahn
@@ -17,4 +17,4 @@ Assigned. Rarely chosen. Occupied by whoever was youngest, smallest, last in, le
 
 ---
 
-v0.1.0 - KAI Worlds
+v0.1.1 - KAI Worlds

@@ -1,4 +1,4 @@
-﻿# Kreuz Rendsburg
+# Kreuz Rendsburg
 
 ## Owner
 - Project: Autobahn
@@ -21,4 +21,4 @@ The Rader Hochbrücke two kilometres north. The bridge carries a carriageway ove
 
 ---
 
-v0.1.0 - KAI Worlds
+v0.1.1 - KAI Worlds

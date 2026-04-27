@@ -1,4 +1,4 @@
-﻿# Lensahn
+# Lensahn
 
 ## Owner
 - Project: Autobahn
@@ -21,4 +21,4 @@ The Lensahner See. The small lake just east is one of dozens in the Ostholstein 
 
 ---
 
-v0.1.0 - KAI Worlds
+v0.1.1 - KAI Worlds

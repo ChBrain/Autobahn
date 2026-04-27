@@ -1,4 +1,4 @@
-﻿# Heiligenhafen-Mitte
+# Heiligenhafen-Mitte
 
 ## Owner
 - Project: Autobahn
@@ -21,4 +21,4 @@ The Heiligenhafener Binnensee. The lagoon east of the town is a nature reserve -
 
 ---
 
-v0.1.0 - KAI Worlds
+v0.1.1 - KAI Worlds

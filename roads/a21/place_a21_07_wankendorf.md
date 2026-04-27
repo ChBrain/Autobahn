@@ -1,4 +1,4 @@
-﻿# Wankendorf
+# Wankendorf
 
 ## Owner
 - Project: Autobahn
@@ -20,4 +20,4 @@ The Depenauer Moor. The bog immediately south is crossed via a purpose-built wil
 
 ---
 
-v0.1.0 - KAI Worlds
+v0.1.1 - KAI Worlds

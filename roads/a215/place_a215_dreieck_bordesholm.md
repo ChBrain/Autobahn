@@ -1,4 +1,4 @@
-﻿# Dreieck Bordesholm
+# Dreieck Bordesholm
 
 ## Owner
 - Project: Autobahn
@@ -20,4 +20,4 @@ The Bordesholm monastery island. The Augustinian monastery founded 1330 and diss
 
 ---
 
-v0.1.0 - KAI Worlds
+v0.1.1 - KAI Worlds

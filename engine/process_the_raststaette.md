@@ -1,4 +1,4 @@
-﻿# The Raststätte Stop
+# The Raststätte Stop
 
 ## Owner
 - Project: Autobahn
@@ -18,4 +18,4 @@ Resistance: the time - the destination not getting closer while the car is still
 
 ---
 
-v0.1.0 - KAI Worlds
+v0.1.1 - KAI Worlds

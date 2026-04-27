@@ -1,4 +1,4 @@
-﻿# The BMW R1250GS
+# The BMW R1250GS
 
 ## Owner
 - Project: Autobahn
@@ -21,4 +21,4 @@ Built in Berlin since 1969. The most successful motorcycle in BMW Motorrad's lin
 
 ---
 
-v0.1.0 - KAI Worlds
+v0.1.1 - KAI Worlds

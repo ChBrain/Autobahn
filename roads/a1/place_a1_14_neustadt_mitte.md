@@ -1,4 +1,4 @@
-﻿# Neustadt in Holstein-Mitte
+# Neustadt in Holstein-Mitte
 
 ## Owner
 - Project: Autobahn
@@ -21,4 +21,4 @@ The Cap Arcona. On 3 May 1945, the passenger ship Cap Arcona was sunk in the Neu
 
 ---
 
-v0.1.0 - KAI Worlds
+v0.1.1 - KAI Worlds

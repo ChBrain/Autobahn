@@ -1,4 +1,4 @@
-﻿# Blumenthal
+# Blumenthal
 
 ## Owner
 - Project: Autobahn
@@ -21,4 +21,4 @@ The Knicks. The raised earth and hedge boundaries crossing the fields here are a
 
 ---
 
-v0.1.0 - KAI Worlds
+v0.1.1 - KAI Worlds

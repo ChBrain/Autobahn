@@ -1,4 +1,4 @@
-﻿# Kreuz Kiel-West
+# Kreuz Kiel-West
 
 ## Owner
 - Project: Autobahn
@@ -21,4 +21,4 @@ Kiel-Mettenhof. The large postwar housing estate a kilometre north was built in 
 
 ---
 
-v0.1.0 - KAI Worlds
+v0.1.1 - KAI Worlds

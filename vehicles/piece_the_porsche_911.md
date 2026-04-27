@@ -1,4 +1,4 @@
-﻿# The Porsche 911
+# The Porsche 911
 
 ## Owner
 - Project: Autobahn
@@ -21,4 +21,4 @@ The shape barely changed. The silhouette identifiable from 200 metres across six
 
 ---
 
-v0.1.0 - KAI Worlds
+v0.1.1 - KAI Worlds

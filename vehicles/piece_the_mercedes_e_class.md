@@ -1,4 +1,4 @@
-﻿# The Mercedes E-Class
+# The Mercedes E-Class
 
 ## Owner
 - Project: Autobahn
@@ -21,4 +21,4 @@ On the Autobahn today in the hands of someone who is either very comfortable or 
 
 ---
 
-v0.1.0 - KAI Worlds
+v0.1.1 - KAI Worlds

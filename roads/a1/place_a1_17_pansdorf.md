@@ -1,4 +1,4 @@
-﻿# Pansdorf
+# Pansdorf
 
 ## Owner
 - Project: Autobahn
@@ -21,4 +21,4 @@ Timmendorfer Strand and the Lübecker Bucht coast. The bay curves east from this
 
 ---
 
-v0.1.0 - KAI Worlds
+v0.1.1 - KAI Worlds

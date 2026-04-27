@@ -1,4 +1,4 @@
-﻿# The Abfahrt
+# The Abfahrt
 
 ## Owner
 - Project: Autobahn
@@ -18,4 +18,4 @@ The vehicle is on the exit ramp. The Autobahn is behind it. The speed is droppin
 
 ---
 
-v0.1.0 - KAI Worlds
+v0.1.1 - KAI Worlds

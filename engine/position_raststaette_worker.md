@@ -1,4 +1,4 @@
-﻿# Raststätte Worker
+# Raststätte Worker
 
 ## Owner
 - Project: Autobahn
@@ -18,4 +18,4 @@ On the loss of the journey - refills the coffee machine.
 
 ---
 
-v0.1.0 - KAI Worlds
+v0.1.1 - KAI Worlds

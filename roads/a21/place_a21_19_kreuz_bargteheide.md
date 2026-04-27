@@ -1,4 +1,4 @@
-﻿# Kreuz Bargteheide
+# Kreuz Bargteheide
 
 ## Owner
 - Project: Autobahn
@@ -20,4 +20,4 @@ Bargteheide. The town east grew rapidly in the postwar decades as a dormitory se
 
 ---
 
-v0.1.0 - KAI Worlds
+v0.1.1 - KAI Worlds

@@ -1,4 +1,4 @@
-﻿# Jahnshof
+# Jahnshof
 
 ## Owner
 - Project: Autobahn
@@ -21,4 +21,4 @@ The name. Jahnshof is named for Friedrich Ludwig Jahn - the father of German gym
 
 ---
 
-v0.1.0 - KAI Worlds
+v0.1.1 - KAI Worlds

@@ -1,4 +1,4 @@
-﻿# Oldenburg in Holstein-Mitte
+# Oldenburg in Holstein-Mitte
 
 ## Owner
 - Project: Autobahn
@@ -21,4 +21,4 @@ The Wallanlage. The medieval fortification earthworks on the Oldenburger Wall ar
 
 ---
 
-v0.1.0 - KAI Worlds
+v0.1.1 - KAI Worlds

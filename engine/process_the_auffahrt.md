@@ -1,4 +1,4 @@
-﻿# The Auffahrt
+# The Auffahrt
 
 ## Owner
 - Project: Autobahn
@@ -18,4 +18,4 @@ The vehicle is on the Autobahn. The ramp is behind it. [Cruising](process_the_cr
 
 ---
 
-v0.1.0 - KAI Worlds
+v0.1.1 - KAI Worlds

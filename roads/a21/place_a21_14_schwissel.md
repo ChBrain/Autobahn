@@ -1,4 +1,4 @@
-﻿# Schwissel
+# Schwissel
 
 ## Owner
 - Project: Autobahn
@@ -21,4 +21,4 @@ The Bebenseer Moor. The bog and heath immediately east near Schwissel is a remna
 
 ---
 
-v0.1.0 - KAI Worlds
+v0.1.1 - KAI Worlds

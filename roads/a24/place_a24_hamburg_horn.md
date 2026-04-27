@@ -1,4 +1,4 @@
-﻿# Hamburg-Horn
+# Hamburg-Horn
 
 ## Owner
 - Project: Autobahn
@@ -20,4 +20,4 @@ Horn. The Hamburg district here was for centuries the site of the Hamburger Dom 
 
 ---
 
-v0.1.0 - KAI Worlds
+v0.1.1 - KAI Worlds
