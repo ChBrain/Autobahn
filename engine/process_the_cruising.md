@@ -1,4 +1,4 @@
-﻿# Cruising
+# Cruising
 
 ## Owner
 - Project: Autobahn
@@ -19,4 +19,4 @@ The distance is shorter. [the tank](piece_the_tank.md) is lower. The next proces
 
 ---
 
-v0.1.0 - KAI Worlds
+v0.1.1 - KAI Worlds
