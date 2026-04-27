@@ -1,4 +1,4 @@
-﻿# Dreieck Hamburg-Südost
+# Dreieck Hamburg-Südost
 
 ## Owner
 - Project: Autobahn
@@ -20,4 +20,4 @@ The Norderelbe. The southern arm of the Elbe delta runs a few kilometres south -
 
 ---
 
-v0.1.0 - KAI Worlds
+v0.1.1 - KAI Worlds
