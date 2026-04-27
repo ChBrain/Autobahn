@@ -1,4 +1,4 @@
-﻿# Hamburg-Eidelstedt
+# Hamburg-Eidelstedt
 
 ## Owner
 - Project: Autobahn
@@ -21,4 +21,4 @@ The Eidelstedter Mühle on the Mühlenau was first recorded in 1350 - a water mi
 
 ---
 
-v0.1.3 - KAI Worlds
+v0.1.4 - KAI Worlds
