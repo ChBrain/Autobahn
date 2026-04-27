@@ -1,4 +1,4 @@
-﻿# The Mercedes Actros
+# The Mercedes Actros
 
 ## Owner
 - Project: Autobahn
@@ -21,4 +21,4 @@ On the Autobahn today with a load that will be somewhere else tomorrow. The driv
 
 ---
 
-v0.1.0 - KAI Worlds
+v0.1.1 - KAI Worlds
