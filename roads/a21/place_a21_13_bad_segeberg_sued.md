@@ -1,4 +1,4 @@
-﻿# Bad Segeberg-Süd
+# Bad Segeberg-Süd
 
 ## Owner
 - Project: Autobahn
@@ -21,4 +21,4 @@ Karl May. The Karl-May-Spiele have been performed outside the Segeberger Höhlen
 
 ---
 
-v0.1.0 - KAI Worlds
+v0.1.1 - KAI Worlds
