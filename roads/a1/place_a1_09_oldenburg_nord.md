@@ -1,4 +1,4 @@
-﻿# Oldenburg in Holstein-Nord
+# Oldenburg in Holstein-Nord
 
 ## Owner
 - Project: Autobahn
@@ -21,4 +21,4 @@ The old Wagrien capital. Oldenburg in Holstein was the seat of the Bishopric of 
 
 ---
 
-v0.1.0 - KAI Worlds
+v0.1.1 - KAI Worlds
