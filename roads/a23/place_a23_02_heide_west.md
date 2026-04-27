@@ -1,4 +1,4 @@
-﻿# Heide-West
+# Heide-West
 
 ## Owner
 - Project: Autobahn
@@ -20,4 +20,4 @@ The North Frisian islands. North of here the B5 continues to Husum and the ferry
 
 ---
 
-v0.1.3 - KAI Worlds
+v0.1.4 - KAI Worlds
