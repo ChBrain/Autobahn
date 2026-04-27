@@ -1,4 +1,4 @@
-﻿# place_a7
+# place_a7
 
 ## Owner
 - Project: Autobahn
@@ -50,8 +50,8 @@ Four lanes for most of the stretch - two northbound, two southbound, the central
 Continuous movement in either direction. Every child place reachable from every other by staying on the road. The road does not require a reason to use it.
 
 ## Withheld
-The construction history. The first section of what became the A7 opened in 1936 as Reichsautobahn - the same surface geometry, the same corridor through Schleswig-Holstein.
+The southern terminus. Füssen, in the Bavarian Alps at the Austrian border — eight hundred kilometres south of [Hamburg-Waltershof](roads/a7/place_a7_30_hamburg_waltershof.md), at the other end of the same numbered road. The overhead signs north of Hamburg already count down to Hannover and Würzburg. Most Drivers know only one end.
 
 ---
 
-v0.1.0 - KAI Worlds
+v0.1.1 - KAI Worlds
