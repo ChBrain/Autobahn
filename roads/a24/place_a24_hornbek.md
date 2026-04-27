@@ -1,4 +1,4 @@
-﻿# Hornbek
+# Hornbek
 
 ## Owner
 - Project: Autobahn
@@ -21,4 +21,4 @@ The Elbe-Lübeck-Kanal. The canal connecting the Elbe to Lübeck crosses near he
 
 ---
 
-v0.1.0 - KAI Worlds
+v0.1.1 - KAI Worlds
