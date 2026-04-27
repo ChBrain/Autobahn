@@ -1,4 +1,4 @@
-﻿# Itzehoe-Nord
+# Itzehoe-Nord
 
 ## Owner
 - Project: Autobahn
@@ -21,4 +21,4 @@ Itzehoe had a small river port on the Stör through the 19th century - grain war
 
 ---
 
-v0.1.3 - KAI Worlds
+v0.1.4 - KAI Worlds
