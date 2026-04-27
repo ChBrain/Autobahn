@@ -1,8 +1,8 @@
-﻿# Dreieck Hamburg-Nordwest
+# Dreieck Hamburg-Nordwest
 
 ## Owner
 - Project: Autobahn
-- Place: [the A23](place_the_a23.md)
+- Place: [the A23](place_a23.md)
 
 ## Shown
 Exit 22. The junction where the A23 meets the A7. The A23 ends here - or begins here, depending on the direction. The A7 continues north to Flensburg and south through the Elbtunnel to Hannover. The overhead signs: A7 Nord Flensburg, A7 Süd Hamburg/Hannover, A23 Heide.
@@ -20,4 +20,4 @@ The Schnelsen tunnel south. The Lärmschutztunnel Schnelsen runs south of here -
 
 ---
 
-v0.1.0 - KAI Worlds
+v0.1.1 - KAI Worlds

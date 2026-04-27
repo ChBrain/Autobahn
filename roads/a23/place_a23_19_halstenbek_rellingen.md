@@ -1,8 +1,8 @@
-﻿# Halstenbek/Rellingen
+# Halstenbek/Rellingen
 
 ## Owner
 - Project: Autobahn
-- Place: [the A23](place_the_a23.md)
+- Place: [the A23](place_a23.md)
 
 ## Shown
 The sign: Halstenbek, Rellingen. The road fully suburban. Nurseries and garden centres visible from the road - the Pinneberg rose-growing district extending this far south.
@@ -21,4 +21,4 @@ The nurseries. Halstenbek is a centre of ornamental plant production - the large
 
 ---
 
-v0.1.0 - KAI Worlds
+v0.1.1 - KAI Worlds

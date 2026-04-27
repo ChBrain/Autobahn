@@ -1,8 +1,8 @@
-﻿# Itzehoe-Mitte
+# Itzehoe-Mitte
 
 ## Owner
 - Project: Autobahn
-- Place: [the A23](place_the_a23.md)
+- Place: [the A23](place_a23.md)
 
 ## Shown
 Exit 9. The sign: Itzehoe-Mitte. The road here crossing the Störbrücke section - the 1,160-metre bridge over the Stör river. Two lanes in each direction. The road is motorway standard here despite what the gap in the original numbering implied. Itzehoe visible to the east.
@@ -21,4 +21,4 @@ The Stör. The river running under the bridge connects the Holstein interior to 
 
 ---
 
-v0.1.0 - KAI Worlds
+v0.1.1 - KAI Worlds

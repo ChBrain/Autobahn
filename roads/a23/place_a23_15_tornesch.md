@@ -1,8 +1,8 @@
-﻿# Tornesch
+# Tornesch
 
 ## Owner
 - Project: Autobahn
-- Place: [the A23](place_the_a23.md)
+- Place: [the A23](place_a23.md)
 
 ## Shown
 The sign: Tornesch. The Hamburg commuter belt beginning. The road increasingly suburban - the villages merging into each other, the fields narrowing between the settlements.
@@ -21,4 +21,4 @@ The Pinnau. The river flows west through the Hamburg commuter belt toward the El
 
 ---
 
-v0.1.0 - KAI Worlds
+v0.1.1 - KAI Worlds

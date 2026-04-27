@@ -1,8 +1,8 @@
-﻿# Schafstedt
+# Schafstedt
 
 ## Owner
 - Project: Autobahn
-- Place: [the A23](place_the_a23.md)
+- Place: [the A23](place_a23.md)
 
 ## Shown
 The Kiel Canal crossing. The Hochbrücke Hohenhörn: 360 metres long, 56 metres above the canal. The water below - wide, controlled, the canal running east to west connecting the North Sea to the Baltic. A container ship or tanker possibly visible. The A23 the only motorway to cross the Nord-Ostsee-Kanal.
@@ -21,4 +21,4 @@ The canal traffic below. The Kiel Canal is the busiest artificial waterway in th
 
 ---
 
-v0.1.0 - KAI Worlds
+v0.1.1 - KAI Worlds

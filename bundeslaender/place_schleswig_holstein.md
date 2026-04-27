@@ -41,7 +41,7 @@ Entering from Hamburg south: the Maschen marshalling yard visible from the A7. T
   - [Norderstedt-Mitte / Dreieck Garstedt](place_a7_22_norderstedt_mitte.md)
 - [the A20](place_the_a20.md) - Weede to Kreuz Lübeck
 - [the A21](place_the_a21.md) - Nettelsee to Kreuz Bargteheide
-- [the A23](place_the_a23.md) - Heide to Dreieck Hamburg-Nordwest
+- [the A23](place_a23.md) - Heide to Dreieck Hamburg-Nordwest
 - [the A24](place_the_a24.md) - Hamburg-Horn to Gudow
 - [the A210](place_the_a210.md) - Schacht-Audorf to Kreuz Kiel-West
 - [the A215](place_the_a215.md) - Kiel-Westring to Dreieck Bordesholm
@@ -54,4 +54,4 @@ Two state languages: German and Danish. The Danish minority - recognised, school
 
 ---
 
-v0.1.0 - KAI Worlds
+v0.1.1 - KAI Worlds

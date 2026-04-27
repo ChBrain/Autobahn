@@ -1,8 +1,8 @@
-﻿# Pinneberg-Mitte
+# Pinneberg-Mitte
 
 ## Owner
 - Project: Autobahn
-- Place: [the A23](place_the_a23.md)
+- Place: [the A23](place_a23.md)
 
 ## Shown
 The central Pinneberg exit. The sign: Pinneberg-Mitte. The town centre accessible from here. The road here fully suburban - the Hamburg metropolitan area absorbing the landscape.
@@ -21,4 +21,4 @@ The Drostei. The former Amt building in Pinneberg centre is one of the best-pres
 
 ---
 
-v0.1.0 - KAI Worlds
+v0.1.1 - KAI Worlds

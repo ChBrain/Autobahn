@@ -1,8 +1,8 @@
-﻿# Pinneberg-Süd
+# Pinneberg-Süd
 
 ## Owner
 - Project: Autobahn
-- Place: [the A23](place_the_a23.md)
+- Place: [the A23](place_a23.md)
 
 ## Shown
 The southern Pinneberg exit. The sign: Pinneberg-Süd. The last exit for Pinneberg. Hamburg close now - the road denser, the signs more frequent.
@@ -21,4 +21,4 @@ The Pinneberg Drostei. The baroque administrative building in Pinneberg centre -
 
 ---
 
-v0.1.0 - KAI Worlds
+v0.1.1 - KAI Worlds

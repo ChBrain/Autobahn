@@ -1,8 +1,8 @@
-﻿# Hanerau-Hademarschen
+# Hanerau-Hademarschen
 
 ## Owner
 - Project: Autobahn
-- Place: [the A23](place_the_a23.md)
+- Place: [the A23](place_a23.md)
 
 ## Shown
 Small exit. Rural. The sign: Hanerau-Hademarschen. The road south of the canal - the landscape changing slightly, the flat marsh giving way to gentle hills.
@@ -21,4 +21,4 @@ Theodor Storm. The writer was born in Husum, north of here, but his novella Imme
 
 ---
 
-v0.1.0 - KAI Worlds
+v0.1.1 - KAI Worlds

@@ -1,8 +1,8 @@
-﻿# Heide-West
+# Heide-West
 
 ## Owner
 - Project: Autobahn
-- Place: [the A23](place_the_a23.md)
+- Place: [the A23](place_a23.md)
 
 ## Shown
 The northern terminus of the A23. The sign: Heide-West. The road from the north: the B5 arrives from Husum and the North Frisian coast and becomes the A23 here. Fields to the west. The town of Heide not visible - bypassed to the south.
@@ -20,4 +20,4 @@ The North Frisian islands. North of here the B5 continues to Husum and the ferry
 
 ---
 
-v0.1.0 - KAI Worlds
+v0.1.1 - KAI Worlds
