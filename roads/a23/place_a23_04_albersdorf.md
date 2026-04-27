@@ -1,4 +1,4 @@
-﻿# Albersdorf
+# Albersdorf
 
 ## Owner
 - Project: Autobahn
@@ -21,4 +21,4 @@ The Albersdorf megalithic site. A Neolithic burial mound and megalithic tomb are
 
 ---
 
-v0.1.3 - KAI Worlds
+v0.1.4 - KAI Worlds

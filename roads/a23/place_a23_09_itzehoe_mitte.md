@@ -1,4 +1,4 @@
-﻿# Itzehoe-Mitte
+# Itzehoe-Mitte
 
 ## Owner
 - Project: Autobahn
@@ -21,4 +21,4 @@ West of here, between the Stör and the Elbe, the Wilstermarsch - some of the lo
 
 ---
 
-v0.1.3 - KAI Worlds
+v0.1.4 - KAI Worlds

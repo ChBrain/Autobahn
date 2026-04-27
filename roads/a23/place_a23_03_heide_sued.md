@@ -1,4 +1,4 @@
-﻿# Heide-Süd
+# Heide-Süd
 
 ## Owner
 - Project: Autobahn
@@ -17,8 +17,8 @@ The southern Heide exit. The sign: Heide, Heide-Süd. The town accessible from h
 Ausfahrt 3 - the exit ramp. The ordinary road below.
 
 ## Withheld
-The Wattenmeer. Eight kilometres west the land ends at the tidal flat that runs from Den Helder to Esbjerg - UNESCO World Heritage, one of the largest intertidal zones on earth. At low tide the sea retreats kilometres. At high tide it returns. The road never gets close enough to see it.
+The Wattenmeer. Fifteen kilometres west the land ends at the tidal flat that runs from Den Helder to Esbjerg - UNESCO World Heritage, one of the largest intertidal zones on earth. At low tide the sea retreats kilometres. At high tide it returns. The road never gets close enough to see it.
 
 ---
 
-v0.1.3 - KAI Worlds
+v0.1.4 - KAI Worlds

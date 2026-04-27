@@ -1,4 +1,4 @@
-﻿# Hohenfelde
+# Hohenfelde
 
 ## Owner
 - Project: Autobahn
@@ -21,4 +21,4 @@ The road here runs along the boundary between the Geest - the slightly elevated 
 
 ---
 
-v0.1.3 - KAI Worlds
+v0.1.4 - KAI Worlds
