@@ -1,4 +1,4 @@
-﻿# Bad Oldesloe-Süd
+# Bad Oldesloe-Süd
 
 ## Owner
 - Project: Autobahn
@@ -21,4 +21,4 @@ The Trave saltworks. Bad Oldesloe was a salt town - the Trave brine springs that
 
 ---
 
-v0.1.0 - KAI Worlds
+v0.1.1 - KAI Worlds
