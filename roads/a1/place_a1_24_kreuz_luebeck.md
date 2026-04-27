@@ -1,4 +1,4 @@
-﻿# Kreuz Lübeck
+# Kreuz Lübeck
 
 ## Owner
 - Project: Autobahn
@@ -22,4 +22,4 @@ The eastern Baltic coast. East of here: Wismar, Rostock, Stralsund, Greifswald, 
 
 ---
 
-v0.1.0 - KAI Worlds
+v0.1.1 - KAI Worlds
