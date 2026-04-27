@@ -1,4 +1,4 @@
-﻿# Pinneberg-Süd
+# Pinneberg-Süd
 
 ## Owner
 - Project: Autobahn
@@ -17,8 +17,8 @@ The southern Pinneberg exit. The sign: Pinneberg-Süd. The last exit for Pinnebe
 Ausfahrt 18 - the exit ramp. The ordinary road below.
 
 ## Withheld
-Until 1864, Pinneberg was inside the Duchy of Holstein under the Danish crown. The war of that year ended seven centuries of Danish rule over Holstein. The town changed hands without moving. The road passes through the southernmost town that was Danish within living memory of the people who built its oldest surviving buildings.
+Until 1864, Pinneberg was inside the Duchy of Holstein under the Danish crown. The war of that year ended four centuries of Danish rule over Holstein. The town changed hands without moving. The road passes through the southernmost town that was Danish within living memory of the people who built its oldest surviving buildings.
 
 ---
 
-v0.1.3 - KAI Worlds
+v0.1.4 - KAI Worlds
