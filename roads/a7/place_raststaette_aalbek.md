@@ -1,4 +1,4 @@
-﻿# Raststätte Aalbek
+# Raststätte Aalbek
 
 ## Owner
 - Project: Autobahn

@@ -1,4 +1,4 @@
-﻿# Raststätte Hüttener Berge
+# Raststätte Hüttener Berge
 
 ## Owner
 - Project: Autobahn
