@@ -57,6 +57,8 @@ Files are UTF-8, no byte-order mark.
 
 A road and all its child places are modelled using the Place component from KAI HACKS AI Architecture. The road index is a Place that holds Places.
 
+Every road has its own folder at `roads/<road>/`. The road index file lives in this folder alongside its nodes, rest stops, and passages.
+
 It holds child places in sequence along a kilometre chain. Each child place is a specific point or stretch on the road, connected to its neighbours and to the road that contains it. The result is a directed graph - each Place a node, the kilometre chain the edge set, direction encoded in the sequence.
 
 Road index files carry only `- Project: Autobahn` in Owner. Node files carry: `- Place: [Road](place_road.md) in [Bundesland](place_bundesland.md)` - the road index as structural parent, the bundesland as geographic container.
@@ -73,7 +75,7 @@ A road index is the parent file for a motorway. It holds the complete kilometre 
 
 **Withheld** is what requires leaving the road to find - what the road passes but does not show.
 
-**Naming:** `place_{road}.md`
+**Naming:** `roads/{road}/place_{road}.md`
 
 ---
 
