@@ -14,7 +14,7 @@ Exit 12. A junction, not an ordinary exit. The A215 branching north toward Kiel.
 * 6 km south on [the A7](place_a7.md) to [Neumünster-Nord](place_a7_13_neumuenster_nord.md).
 
 ## Offers
-The A7 south, now six lanes, toward Hamburg. The A215 north, toward Kiel. For a Driver who missed a Schleswig or Rendsburg exit and needs to reroute: the A215 connects back toward Kiel and the north.
+The A7 south, now six lanes, toward Hamburg. [The A215](place_the_a215.md) north, toward Kiel. For a Driver who missed a Schleswig or Rendsburg exit and needs to reroute: [the A215](place_the_a215.md) connects back toward Kiel and the north.
 
 ## Withheld
 The Eider source. The river begins in the lake district west of here - the morainic landscape where the watershed runs between rivers draining east to the Baltic and west to the North Sea. The Eider flows west through Rendsburg and reaches the sea at Tönning. It starts here, small and unremarkable, in the hills behind the junction.

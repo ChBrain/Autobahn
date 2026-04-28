@@ -36,7 +36,7 @@ The Vogelfluglinie. The A1 enters Schleswig-Holstein at Heiligenhafen-Ost and ru
 * [km 127.0](piece_the_kilometerstein.md): [Ahrensburg](place_a1_28_ahrensburg.md).
 * [km 131.0](piece_the_kilometerstein.md): [Stapelfeld](place_a1_29_stapelfeld.md).
 * [km 136.0](piece_the_kilometerstein.md): [Barsbüttel](place_a1_30_barsbüttel.md).
-* [km 138.0](piece_the_kilometerstein.md): [Dreieck Hamburg-Ost](place_a1_31_dreieck_hamburg_ost.md).
+* [km 139.0](piece_the_kilometerstein.md): [Dreieck Hamburg-Ost](place_a1_31_dreieck_hamburg_ost.md).
 
 ## Offers
 The Vogelfluglinie - the fastest land route between Hamburg and Scandinavia. The Baltic coast from Fehmarn to Lübeck. The transition between the Scandinavian world and the German interior.

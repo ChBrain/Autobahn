@@ -14,7 +14,7 @@ Exit 25. The largest junction on this stretch. The A23 branching west toward Hei
 * 3 km south on [the A7](place_a7.md) to [Hamburg-Stellingen](place_a7_26_hamburg_stellingen.md).
 
 ## Offers
-The A7 south, toward [Hamburg-Stellingen](place_a7_26_hamburg_stellingen.md) and [the Elbtunnel](place_a7_elbtunnel.md). The A23 west, toward Heide and the Westküste.
+The A7 south, toward [Hamburg-Stellingen](place_a7_26_hamburg_stellingen.md) and [the Elbtunnel](place_a7_elbtunnel.md). [The A23](place_a23.md) west, toward Heide and the Westküste.
 
 ## Withheld
 The Eidelstedter Dorfkirche. A small church in the old village core of Eidelstedt, preserved inside what is now a Hamburg suburb. Built in 1880. The village around it absorbed by the city. The church still standing where the village was.

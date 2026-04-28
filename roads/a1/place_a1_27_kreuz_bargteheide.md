@@ -14,7 +14,7 @@ The Kreuz Bargteheide junction. The A21 splitting east toward Bad Segeberg and K
 * 2.0 km south on [the A1](place_a1.md) to [Raststätte Buddikate Ost](place_a1_28_raststaette_buddikate_ost.md).
 
 ## Offers
-The A21 east. Bad Segeberg. Kiel.
+[The A21](place_the_a21.md) east. Bad Segeberg. Kiel.
 
 ## Withheld
 The church in Bargteheide has stood for more than 700 years — longer than the town has had its current name. It predates the junction, the motorway, the town rights, and the district of Stormarn in its current form. The junction named after the town is named after a place named after a heath. The church was there before any of that.

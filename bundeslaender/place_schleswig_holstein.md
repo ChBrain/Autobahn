@@ -67,7 +67,7 @@ Entering from Hamburg south: the Maschen marshalling yard visible from the A7. T
   - [Ellerau](place_a7_20_ellerau.md)
   - [Quickborn](place_a7_21_quickborn.md)
   - [Norderstedt-Mitte / Dreieck Garstedt](place_a7_22_norderstedt_mitte.md)
-- [A20](place_the_a20.md) - Weede to Kreuz Lübeck
+- [A20](place_a20.md) - Weede to Kreuz Lübeck
 - [A21](place_the_a21.md) - Nettelsee to Kreuz Bargteheide
 - [A23](place_a23.md) - Heide to Hamburg
   - [Heide-West](place_a23_02_heide_west.md)

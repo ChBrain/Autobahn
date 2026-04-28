@@ -11,7 +11,7 @@ The Barsbüttel exit. The sign: Barsbüttel. The Hamburg state border close to t
 
 * [km 136.0](piece_the_kilometerstein.md) on [the A1](place_a1.md).
 * 5.0 km north on [the A1](place_a1.md) to [Stapelfeld](place_a1_30_stapelfeld.md).
-* 2.0 km south on [the A1](place_a1.md) to [Dreieck Hamburg-Ost](place_a1_32_dreieck_hamburg_ost.md).
+* 3.0 km south on [the A1](place_a1.md) to [Dreieck Hamburg-Ost](place_a1_32_dreieck_hamburg_ost.md).
 
 ## Offers
 Ausfahrt 31 - the exit ramp. The ordinary road below.
