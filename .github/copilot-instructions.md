@@ -27,7 +27,7 @@ Never commit or edit directly on `main`.
 
 ## Versioning
 
-- **File footer patch** - LLM increments per file during content edits. No release needed.
+- **File footer patch** - LLM increments per file during content edits, by editing the footer in place. No release needed. `bump_version.py` does not offer this; it is per-file.
 - **Patch release** - user-triggered GitHub tag bump only. No file footer changes.
 - **Minor release** - user-triggered. Run `bump_version.py --minor` to update all file footers, then PR + tag.
 - **Major release** - user-triggered. Run `bump_version.py --major` for structural changes, then PR + tag.
@@ -36,8 +36,8 @@ Never run `bump_version.py` unless the user explicitly asks for a release.
 
 ## Style
 
-- Do not use em dashes (--). Use a hyphen (-) instead.
+- In `place_*.md` content, do not use em dashes. Use a hyphen (`-`) or rephrase. Em dashes in prose-only docs (`ARCHITECTURE.md`, `README.md`, etc.) are fine.
 
 ## File standards
 
-Footer in place files: `v0.1.0 - KAI Worlds`
+Footer in place files: `vX.Y.Z - KAI Worlds`, where `X.Y.Z` is the current world version (set by `scripts/bump_version.py` on release, or per-file by an LLM during a content edit).

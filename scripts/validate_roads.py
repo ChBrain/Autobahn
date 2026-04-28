@@ -26,7 +26,8 @@ import re
 import sys
 from pathlib import Path
 
-OWNER_BLOCK_RE = re.compile(r"## Owner\n(.*?)(?=\n##|\Z)", re.DOTALL)
+# `\r?\n` so the regex still matches if a file slipped in with CRLF endings.
+OWNER_BLOCK_RE = re.compile(r"## Owner\r?\n(.*?)(?=\r?\n##|\Z)", re.DOTALL)
 PLACE_LINE_RE = re.compile(
     r"^\s*-\s*Place:\s*\[.+?\]\(place_[^)]+\.md\)\s+in\s+\[.+?\]\(place_[^)]+\.md\)",
     re.MULTILINE,
