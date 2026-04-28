@@ -67,8 +67,31 @@ Entering from Hamburg south: the Maschen marshalling yard visible from the A7. T
   - [Ellerau](place_a7_20_ellerau.md)
   - [Quickborn](place_a7_21_quickborn.md)
   - [Norderstedt-Mitte / Dreieck Garstedt](place_a7_22_norderstedt_mitte.md)
-- [A20](place_a20.md) - Weede to Kreuz Lübeck
-- [A21](place_the_a21.md) - Nettelsee to Kreuz Bargteheide
+- [A20](place_a20.md) - Weede to Groß Sarau, Ostseeautobahn
+  - [Weede](place_a20_weede.md)
+  - [Raststätte Kronberg](place_a20_raststaette_kronberg.md)
+  - [Geschendorf](place_a20_geschendorf.md)
+  - [Mönkhagen](place_a20_moenkhagen.md)
+  - [Kreuz Lübeck](place_a20_kreuz_luebeck.md)
+  - [Lübeck-Genin](place_a20_luebeck_genin.md)
+  - [Lübeck-Süd](place_a20_luebeck_sued.md)
+  - [Groß Sarau](place_a20_gross_sarau.md)
+- [A21](place_a21.md) - Nettelsee to Kreuz Bargteheide
+  - [Nettelsee](place_a21_06_nettelsee.md)
+  - [Wankendorf](place_a21_07_wankendorf.md)
+  - [Bornhöved](place_a21_08_bornhoeved.md)
+  - [Trappenkamp](place_a21_09_trappenkamp.md)
+  - [Daldorf](place_a21_10_daldorf.md)
+  - [Wahlstedt](place_a21_11a_wahlstedt.md)
+  - [Bad Segeberg-Nord](place_a21_12_bad_segeberg_nord.md)
+  - [Bad Segeberg-Süd](place_a21_13_bad_segeberg_sued.md)
+  - [Schwissel](place_a21_14_schwissel.md)
+  - [Leezen](place_a21_15_leezen.md)
+  - [Bad Oldesloe-Nord](place_a21_16_bad_oldesloe_nord.md)
+  - [Bad Oldesloe-Süd](place_a21_17a_bad_oldesloe_sued.md)
+  - [Rümpel](place_a21_17b_ruempel.md)
+  - [Tremsbüttel](place_a21_18_tremsbuettel.md)
+  - [Kreuz Bargteheide](place_a21_19_kreuz_bargteheide.md)
 - [A23](place_a23.md) - Heide to Hamburg
   - [Heide-West](place_a23_02_heide_west.md)
   - [Heide-Süd](place_a23_03_heide_sued.md)
@@ -101,4 +124,4 @@ Two state languages: German and Danish. The Danish minority - recognised, school
 
 ---
 
-v0.1.3 - KAI Worlds
+v0.1.4 - KAI Worlds

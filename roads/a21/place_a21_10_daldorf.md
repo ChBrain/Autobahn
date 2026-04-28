@@ -2,7 +2,7 @@
 
 ## Owner
 - Project: Autobahn
-- Place: [the A21](place_the_a21.md)
+- Place: [the A21](place_a21.md)
 
 ## Shown
 Small exit. The sign: Daldorf. The road here crossing the Segeberger Forst - the forest that runs south of Bad Segeberg. The landscape wooded, the road cutting through it.

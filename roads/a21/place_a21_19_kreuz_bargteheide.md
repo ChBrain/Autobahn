@@ -2,7 +2,7 @@
 
 ## Owner
 - Project: Autobahn
-- Place: [the A21](place_the_a21.md)
+- Place: [the A21](place_a21.md)
 
 ## Shown
 Exit 19. The southern terminus of the A21. The A1 junction. The A21 ends here - or begins here, depending on direction. The A1 continues north to Lübeck and south to Hamburg. The junction signed: A1 Lübeck, A1 Hamburg, A21 Kiel.

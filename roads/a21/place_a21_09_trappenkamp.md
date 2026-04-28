@@ -2,7 +2,7 @@
 
 ## Owner
 - Project: Autobahn
-- Place: [the A21](place_the_a21.md)
+- Place: [the A21](place_a21.md)
 
 ## Shown
 The sign: Trappenkamp. Small exit. The Holsteinische Schweiz nature park to the east. The road passing through the moraine landscape - hills and lakes, the A21 cutting through terrain the ice sheet shaped.
