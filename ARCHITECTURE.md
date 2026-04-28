@@ -20,6 +20,39 @@ Each file has a `## Owner` block. It anchors the file to the world and identifie
 
 ---
 
+### Sections
+
+Every file contains the following sections in this fixed order: `Owner`, `Shown`, `Holds`, `Offers`, `Withheld`. No section may be omitted or reordered.
+
+---
+
+### Footer
+
+Every file closes with a version footer: `vX.Y.Z - KAI Worlds`.
+
+---
+
+### Version
+
+Versioning follows semantic versioning: `major.minor.patch`.
+
+File footer versions and release tag versions are separate concerns:
+
+- **File footer patch** - incremented by an LLM for content edits to a single file (corrections, additions, rewrites within one place). Does not require a release.
+- **Patch release** - a GitHub release tag bump (`v0.1.X`). No file footer changes. User-triggered.
+- **Minor release** - bumps all file footers world-wide via `scripts/bump_version.py --minor`, then PR + tag.
+- **Major release** - bumps all file footers world-wide via `scripts/bump_version.py --major` for structural changes, then PR + tag.
+
+All releases (patch, minor, major) are user-triggered.
+
+---
+
+### Encoding
+
+Files are UTF-8, no byte-order mark.
+
+---
+
 ## Roads
 
 A road and all its child places are modelled using the Place component from KAI HACKS AI Architecture. The road index is a Place that holds Places.
@@ -194,7 +227,7 @@ The point where the motorway crosses a national border. The road continues; the 
 
 ## To document
 
-- **Bundesland files** - the 16 federal state files in `bundeslaender/`, their structure, subtitle tagline pattern, and how they aggregate roads and nodes
+- **Bundesland files** - the 16 federal state files in `bundeslaender/`, their structure, subtitle tagline pattern, and how they aggregate roads and nodes. Needs its own `## Bundesland` chapter and `validate_bundeslaender.py` script.
 - **Naming conventions in use** - actual files use German-language infixes that do not match the English spec: `_bruecke_` and compound forms (e.g. `place_a1_volmebruecke.md`) instead of `_bridge_`; `_raststaette_` instead of `_rest_` / `_service_`; compound tunnel names (e.g. `place_a7_elbtunnel.md`) instead of `_tunnel_`
 - **Standalone Raststätte files** - files like `place_raststaette_aalbek.md` carry no road prefix; naming rule not yet defined
 - **Numbered rest stop pattern** - Raststätten can carry an exit number mid-chain (e.g. `place_a1_28_raststaette_buddikate_ost.md`); not covered by the current spec
