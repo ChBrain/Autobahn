@@ -2,7 +2,7 @@
 
 ## Owner
 - Project: Autobahn
-- Place: [A1](place_the_a1.md) in [Schleswig-Holstein](place_schleswig_holstein.md)
+- Place: [A1](place_a1.md) in [Schleswig-Holstein](place_schleswig_holstein.md)
 
 ## Shown
 The sign: Scharbeutz, B432. The B432 leads east to the coast - Scharbeutz, Haffkrug, Timmendorfer Strand. The most popular beach resort on the Lübecker Bucht. In summer: the approach to this exit backs up toward Lensahn.
@@ -10,9 +10,9 @@ The sign: Scharbeutz, B432. The B432 leads east to the coast - Scharbeutz, Haffk
 
 ## Holds
 
-* [km 68.9](piece_the_kilometerstein.md) on [the A1](place_the_a1.md).
-* 2.3 km north on [the A1](place_the_a1.md) to [Eutin](place_a1_15_eutin.md).
-* 3.2 km south on [the A1](place_the_a1.md) to [Pansdorf](place_a1_17_pansdorf.md).
+* [km 68.9](piece_the_kilometerstein.md) on [the A1](place_a1.md).
+* 2.3 km north on [the A1](place_a1.md) to [Eutin](place_a1_15_eutin.md).
+* 3.2 km south on [the A1](place_a1.md) to [Pansdorf](place_a1_17_pansdorf.md).
 
 
 ## Offers

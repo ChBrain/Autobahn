@@ -2,7 +2,7 @@
 
 ## Owner
 - Project: Autobahn
-- Place: [A1](place_the_a1.md) in [Schleswig-Holstein](place_schleswig_holstein.md)
+- Place: [A1](place_a1.md) in [Schleswig-Holstein](place_schleswig_holstein.md)
 
 ## Shown
 The central Oldenburg exit. The sign: Oldenburg in Holstein-Mitte. The town accessible from here. The road continues its bypass of the town - three exits, none of them quite right for reaching the centre.
@@ -10,9 +10,9 @@ The central Oldenburg exit. The sign: Oldenburg in Holstein-Mitte. The town acce
 
 ## Holds
 
-* [km 35.2](piece_the_kilometerstein.md) on [the A1](place_the_a1.md).
-* 1.4 km north on [the A1](place_the_a1.md) to [Oldenburg in Holstein-Nord](place_a1_09_oldenburg_nord.md).
-* 0.9 km south on [the A1](place_the_a1.md) to [Oldenburg in Holstein-Süd](place_a1_11_oldenburg_sued.md).
+* [km 35.2](piece_the_kilometerstein.md) on [the A1](place_a1.md).
+* 1.4 km north on [the A1](place_a1.md) to [Oldenburg in Holstein-Nord](place_a1_09_oldenburg_nord.md).
+* 0.9 km south on [the A1](place_a1.md) to [Oldenburg in Holstein-Süd](place_a1_11_oldenburg_sued.md).
 
 
 ## Offers

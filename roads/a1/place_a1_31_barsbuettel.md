@@ -2,16 +2,16 @@
 
 ## Owner
 - Project: Autobahn
-- Place: [A1](place_the_a1.md) in [Schleswig-Holstein](place_schleswig_holstein.md)
+- Place: [A1](place_a1.md) in [Schleswig-Holstein](place_schleswig_holstein.md)
 
 ## Shown
 The Barsbüttel exit. The sign: Barsbüttel. The Hamburg state border close to the west. The road leaving the A1 toward the industrial estate and the city edge.
 
 ## Holds
 
-* [km 136.0](piece_the_kilometerstein.md) on [the A1](place_the_a1.md).
-* 5.0 km north on [the A1](place_the_a1.md) to [Stapelfeld](place_a1_30_stapelfeld.md).
-* 2.0 km south on [the A1](place_the_a1.md) to [Dreieck Hamburg-Ost](place_a1_32_dreieck_hamburg_ost.md).
+* [km 136.0](piece_the_kilometerstein.md) on [the A1](place_a1.md).
+* 5.0 km north on [the A1](place_a1.md) to [Stapelfeld](place_a1_30_stapelfeld.md).
+* 2.0 km south on [the A1](place_a1.md) to [Dreieck Hamburg-Ost](place_a1_32_dreieck_hamburg_ost.md).
 
 ## Offers
 Ausfahrt 31 - the exit ramp. The ordinary road below.

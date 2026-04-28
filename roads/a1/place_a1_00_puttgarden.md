@@ -2,15 +2,15 @@
 
 ## Owner
 - Project: Autobahn
-- Place: [A1](place_the_a1.md) in [Schleswig-Holstein](place_schleswig_holstein.md)
+- Place: [A1](place_a1.md) in [Schleswig-Holstein](place_schleswig_holstein.md)
 
 ## Shown
 The ferry terminal at the northern tip of Fehmarn. The sign: Puttgarden. The Scandlines ferries at the dock - one crossing every thirty minutes, 24 hours a day. The Fehmarnbelt ahead: 18 kilometres of water to Rødby on the Danish island of Lolland. The B207 south across Fehmarn and over the Fehmarnsund toward Heiligenhafen and the A1.
 
 ## Holds
 
-* [km 0.0](piece_the_kilometerstein.md) on [the A1](place_the_a1.md).
-* 22 km on [the A1](place_the_a1.md) to [Heiligenhafen-Ost](place_a1_05_heiligenhafen_ost.md).
+* [km 0.0](piece_the_kilometerstein.md) on [the A1](place_a1.md).
+* 22 km on [the A1](place_a1.md) to [Heiligenhafen-Ost](place_a1_05_heiligenhafen_ost.md).
 
 ## Offers
 The ferry to Rødby. The Vogelfluglinie crossing. The shortest sea route between Germany and Denmark.

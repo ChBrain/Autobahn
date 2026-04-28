@@ -2,16 +2,16 @@
 
 ## Owner
 - Project: Autobahn
-- Place: [A1](place_the_a1.md) in [Schleswig-Holstein](place_schleswig_holstein.md)
+- Place: [A1](place_a1.md) in [Schleswig-Holstein](place_schleswig_holstein.md)
 
 ## Shown
 The Stapelfeld exit. The sign: Stapelfeld. The Hamburg ring road visible to the west. The state border close on both sides.
 
 ## Holds
 
-* [km 131.0](piece_the_kilometerstein.md) on [the A1](place_the_a1.md).
-* 4.0 km north on [the A1](place_the_a1.md) to [Ahrensburg](place_a1_29_ahrensburg.md).
-* 5.0 km south on [the A1](place_the_a1.md) to [Barsbüttel](place_a1_31_barsbuettel.md).
+* [km 131.0](piece_the_kilometerstein.md) on [the A1](place_a1.md).
+* 4.0 km north on [the A1](place_a1.md) to [Ahrensburg](place_a1_29_ahrensburg.md).
+* 5.0 km south on [the A1](place_a1.md) to [Barsbüttel](place_a1_31_barsbuettel.md).
 
 ## Offers
 Ausfahrt 30 - the exit ramp. The ordinary road below.

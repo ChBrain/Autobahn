@@ -2,7 +2,7 @@
 
 ## Owner
 - Project: Autobahn
-- Place: [A1](place_the_a1.md) in [Schleswig-Holstein](place_schleswig_holstein.md)
+- Place: [A1](place_a1.md) in [Schleswig-Holstein](place_schleswig_holstein.md)
 
 ## Shown
 Exit 24. A junction. The A20 branching east toward Wismar, Rostock, and the Baltic coast of Mecklenburg-Vorpommern. The A1 continuing south toward Hamburg. The junction signed: A1 Hamburg, A20 Wismar/Rostock.
@@ -10,9 +10,9 @@ Exit 24. A junction. The A20 branching east toward Wismar, Rostock, and the Balt
 
 ## Holds
 
-* [km 94.2](piece_the_kilometerstein.md) on [the A1](place_the_a1.md).
-* 2.4 km north on [the A1](place_the_a1.md) to [Lübeck-Moisling](place_a1_23_luebeck_moisling.md).
-* 6.8 km south on [the A1](place_the_a1.md) to [Reinfeld](place_a1_25_reinfeld.md).
+* [km 94.2](piece_the_kilometerstein.md) on [the A1](place_a1.md).
+* 2.4 km north on [the A1](place_a1.md) to [Lübeck-Moisling](place_a1_23_luebeck_moisling.md).
+* 6.8 km south on [the A1](place_a1.md) to [Reinfeld](place_a1_25_reinfeld.md).
 
 
 ## Offers

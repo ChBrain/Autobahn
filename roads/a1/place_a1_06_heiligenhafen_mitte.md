@@ -2,7 +2,7 @@
 
 ## Owner
 - Project: Autobahn
-- Place: [A1](place_the_a1.md) in [Schleswig-Holstein](place_schleswig_holstein.md)
+- Place: [A1](place_a1.md) in [Schleswig-Holstein](place_schleswig_holstein.md)
 
 ## Shown
 The sign: Heiligenhafen-Mitte. The town of Heiligenhafen accessible from here - the Ostsee resort town visible to the east on clear days. The road here open, the Wagrien peninsula around it.
@@ -10,9 +10,9 @@ The sign: Heiligenhafen-Mitte. The town of Heiligenhafen accessible from here - 
 
 ## Holds
 
-* [km 25.3](piece_the_kilometerstein.md) on [the A1](place_the_a1.md).
-* 3.3 km north on [the A1](place_the_a1.md) to [Heiligenhafen-Ost](place_a1_05_heiligenhafen_ost.md).
-* 3.7 km south on [the A1](place_the_a1.md) to [Gremersdorf](place_a1_07_gremersdorf.md).
+* [km 25.3](piece_the_kilometerstein.md) on [the A1](place_a1.md).
+* 3.3 km north on [the A1](place_a1.md) to [Heiligenhafen-Ost](place_a1_05_heiligenhafen_ost.md).
+* 3.7 km south on [the A1](place_a1.md) to [Gremersdorf](place_a1_07_gremersdorf.md).
 
 
 ## Offers

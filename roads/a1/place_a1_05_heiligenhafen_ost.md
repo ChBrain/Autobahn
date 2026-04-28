@@ -2,7 +2,7 @@
 
 ## Owner
 - Project: Autobahn
-- Place: [A1](place_the_a1.md) in [Schleswig-Holstein](place_schleswig_holstein.md)
+- Place: [A1](place_a1.md) in [Schleswig-Holstein](place_schleswig_holstein.md)
 
 ## Shown
 The northern terminus of the A1. The sign: Heiligenhafen-Ost. The B207 arrives from the north - from Puttgarden and the Fehmarn ferry. The road narrows here: the A1 continues south, the B207 continues north to the island of Fehmarn and the ferry to Rødby, Denmark. The Fehmarnbelt tunnel under construction.
@@ -10,9 +10,9 @@ The northern terminus of the A1. The sign: Heiligenhafen-Ost. The B207 arrives f
 
 ## Holds
 
-* [km 22.0](piece_the_kilometerstein.md) on [the A1](place_the_a1.md).
-* 22.0 km north on [the A1](place_the_a1.md) to [Puttgarden](place_a1_00_puttgarden.md).
-* 3.3 km south on [the A1](place_the_a1.md) to [Heiligenhafen-Mitte](place_a1_06_heiligenhafen_mitte.md).
+* [km 22.0](piece_the_kilometerstein.md) on [the A1](place_a1.md).
+* 22.0 km north on [the A1](place_a1.md) to [Puttgarden](place_a1_00_puttgarden.md).
+* 3.3 km south on [the A1](place_a1.md) to [Heiligenhafen-Mitte](place_a1_06_heiligenhafen_mitte.md).
 
 
 ## Offers

@@ -2,7 +2,7 @@
 
 ## Owner
 - Project: Autobahn
-- Place: [A1](place_the_a1.md) in [Schleswig-Holstein](place_schleswig_holstein.md)
+- Place: [A1](place_a1.md) in [Schleswig-Holstein](place_schleswig_holstein.md)
 
 ## Shown
 The sign: Sereetz. The last exit before the Dreieck. Lübeck fully present - the road dense, the signs multiplying. The A226 approach visible ahead.
@@ -10,9 +10,9 @@ The sign: Sereetz. The last exit before the Dreieck. Lübeck fully present - the
 
 ## Holds
 
-* [km 82.3](piece_the_kilometerstein.md) on [the A1](place_the_a1.md).
-* 3.7 km north on [the A1](place_the_a1.md) to [Ratekau](place_a1_18_ratekau.md).
-* 0.7 km south on [the A1](place_the_a1.md) to [Dreieck Bad Schwartau](place_a1_20_dreieck_bad_schwartau.md).
+* [km 82.3](piece_the_kilometerstein.md) on [the A1](place_a1.md).
+* 3.7 km north on [the A1](place_a1.md) to [Ratekau](place_a1_18_ratekau.md).
+* 0.7 km south on [the A1](place_a1.md) to [Dreieck Bad Schwartau](place_a1_20_dreieck_bad_schwartau.md).
 
 
 ## Offers

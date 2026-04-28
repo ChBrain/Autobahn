@@ -2,16 +2,16 @@
 
 ## Owner
 - Project: Autobahn
-- Place: [A1](place_the_a1.md) in [Schleswig-Holstein](place_schleswig_holstein.md)
+- Place: [A1](place_a1.md) in [Schleswig-Holstein](place_schleswig_holstein.md)
 
 ## Shown
 The Kreuz Bargteheide junction. The A21 splitting east toward Bad Segeberg and Kiel. The A1 continuing south toward Hamburg.
 
 ## Holds
 
-* [km 118.0](piece_the_kilometerstein.md) on [the A1](place_the_a1.md).
-* 10.0 km north on [the A1](place_the_a1.md) to [Bad Oldesloe](place_a1_26_bad_oldesloe.md).
-* 2.0 km south on [the A1](place_the_a1.md) to [Raststätte Buddikate Ost](place_a1_28_raststaette_buddikate_ost.md).
+* [km 118.0](piece_the_kilometerstein.md) on [the A1](place_a1.md).
+* 10.0 km north on [the A1](place_a1.md) to [Bad Oldesloe](place_a1_26_bad_oldesloe.md).
+* 2.0 km south on [the A1](place_a1.md) to [Raststätte Buddikate Ost](place_a1_28_raststaette_buddikate_ost.md).
 
 ## Offers
 The A21 east. Bad Segeberg. Kiel.

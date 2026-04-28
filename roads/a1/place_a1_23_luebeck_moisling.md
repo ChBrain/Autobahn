@@ -2,7 +2,7 @@
 
 ## Owner
 - Project: Autobahn
-- Place: [A1](place_the_a1.md) in [Schleswig-Holstein](place_schleswig_holstein.md)
+- Place: [A1](place_a1.md) in [Schleswig-Holstein](place_schleswig_holstein.md)
 
 ## Shown
 The sign: L체beck-Moisling. Industrial western L체beck. The road here dense - L체beck's port and logistics area visible to the left. The A20 junction approaching.
@@ -10,9 +10,9 @@ The sign: L체beck-Moisling. Industrial western L체beck. The road here dense - L�
 
 ## Holds
 
-* [km 91.8](piece_the_kilometerstein.md) on [the A1](place_the_a1.md).
-* 3.3 km north on [the A1](place_the_a1.md) to [L체beck-Zentrum](place_a1_22_luebeck_zentrum.md).
-* 2.4 km south on [the A1](place_the_a1.md) to [Kreuz L체beck](place_a1_24_kreuz_luebeck.md).
+* [km 91.8](piece_the_kilometerstein.md) on [the A1](place_a1.md).
+* 3.3 km north on [the A1](place_a1.md) to [L체beck-Zentrum](place_a1_22_luebeck_zentrum.md).
+* 2.4 km south on [the A1](place_a1.md) to [Kreuz L체beck](place_a1_24_kreuz_luebeck.md).
 
 
 ## Offers

@@ -2,7 +2,7 @@
 
 ## Owner
 - Project: Autobahn
-- Place: [A1](place_the_a1.md) in [Schleswig-Holstein](place_schleswig_holstein.md)
+- Place: [A1](place_a1.md) in [Schleswig-Holstein](place_schleswig_holstein.md)
 
 ## Shown
 The sign: Ratekau. Lübeck visible to the south - the spires of the Marienkirche and the Holstentor possible on clear days. The road approaching the city.
@@ -10,9 +10,9 @@ The sign: Ratekau. Lübeck visible to the south - the spires of the Marienkirche
 
 ## Holds
 
-* [km 78.6](piece_the_kilometerstein.md) on [the A1](place_the_a1.md).
-* 6.5 km north on [the A1](place_the_a1.md) to [Pansdorf](place_a1_17_pansdorf.md).
-* 3.7 km south on [the A1](place_the_a1.md) to [Sereetz](place_a1_19_sereetz.md).
+* [km 78.6](piece_the_kilometerstein.md) on [the A1](place_a1.md).
+* 6.5 km north on [the A1](place_a1.md) to [Pansdorf](place_a1_17_pansdorf.md).
+* 3.7 km south on [the A1](place_a1.md) to [Sereetz](place_a1_19_sereetz.md).
 
 
 ## Offers

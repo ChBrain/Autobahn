@@ -2,7 +2,7 @@
 
 ## Owner
 - Project: Autobahn
-- Place: [A1](place_the_a1.md) in [Schleswig-Holstein](place_schleswig_holstein.md)
+- Place: [A1](place_a1.md) in [Schleswig-Holstein](place_schleswig_holstein.md)
 
 ## Shown
 Small exit. The sign: Gremersdorf. Rural Wagrien - the peninsula between the Ostsee and the Kieler Förde. Flat agricultural land, the sky wide.
@@ -10,9 +10,9 @@ Small exit. The sign: Gremersdorf. Rural Wagrien - the peninsula between the Ost
 
 ## Holds
 
-* [km 29.0](piece_the_kilometerstein.md) on [the A1](place_the_a1.md).
-* 3.7 km north on [the A1](place_the_a1.md) to [Heiligenhafen-Mitte](place_a1_06_heiligenhafen_mitte.md).
-* 3.3 km south on [the A1](place_the_a1.md) to [Jahnshof](place_a1_08_jahnshof.md).
+* [km 29.0](piece_the_kilometerstein.md) on [the A1](place_a1.md).
+* 3.7 km north on [the A1](place_a1.md) to [Heiligenhafen-Mitte](place_a1_06_heiligenhafen_mitte.md).
+* 3.3 km south on [the A1](place_a1.md) to [Jahnshof](place_a1_08_jahnshof.md).
 
 
 ## Offers

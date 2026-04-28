@@ -10,7 +10,7 @@ The sign at the Danish border: Bundesrepublik Deutschland. Then the A7 begins an
 Entering from Hamburg south: the Maschen marshalling yard visible from the A7. The density drops immediately. The signs thin. The road continues.
 
 ## Holds
-- [A1](place_the_a1.md) - Puttgarden to Dreieck Hamburg-Ost, Vogelfluglinie
+- [A1](place_a1.md) - Puttgarden to Dreieck Hamburg-Ost, Vogelfluglinie
   - [Puttgarden](place_a1_00_puttgarden.md)
   - [Heiligenhafen-Ost](place_a1_05_heiligenhafen_ost.md)
   - [Heiligenhafen-Mitte](place_a1_06_heiligenhafen_mitte.md)

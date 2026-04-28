@@ -2,7 +2,7 @@
 
 ## Owner
 - Project: Autobahn
-- Place: [A1](place_the_a1.md) in [Schleswig-Holstein](place_schleswig_holstein.md)
+- Place: [A1](place_a1.md) in [Schleswig-Holstein](place_schleswig_holstein.md)
 
 ## Shown
 Exit 25. The sign: Reinfeld, B75. The B75 connects here toward Lübeck east and Bad Oldesloe west - the old road parallel to the A1. The Schleswig-Holstein/Hamburg border approaching from the south. The road still in open country.
@@ -10,10 +10,10 @@ Exit 25. The sign: Reinfeld, B75. The B75 connects here toward Lübeck east and 
 
 ## Holds
 
-* [km 101.0](piece_the_kilometerstein.md) on [the A1](place_the_a1.md).
-* 6.8 km north on [the A1](place_the_a1.md) to [Kreuz Lübeck](place_a1_24_kreuz_luebeck.md).
-* 7.0 km south on [the A1](place_the_a1.md) to [Bad Oldesloe](place_a1_26_bad_oldesloe.md).
-* [Hamberge](place_a1_hamberge.md) is next on [the A1](place_the_a1.md) going south.
+* [km 101.0](piece_the_kilometerstein.md) on [the A1](place_a1.md).
+* 6.8 km north on [the A1](place_a1.md) to [Kreuz Lübeck](place_a1_24_kreuz_luebeck.md).
+* 7.0 km south on [the A1](place_a1.md) to [Bad Oldesloe](place_a1_26_bad_oldesloe.md).
+* [Hamberge](place_a1_hamberge.md) is next on [the A1](place_a1.md) going south.
 
 
 ## Offers
