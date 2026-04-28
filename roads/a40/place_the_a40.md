@@ -21,8 +21,8 @@ Lärmschutzwände. Fast durchgehend im Stadtbereich. Graffiti auf Beton.
 100 km/h im städtischen Bereich. Auf freier Strecke 130 km/h, selten erreicht.
 
 ## Holds
-- [Essen-Zentrum (23)](a40/place_a40_23_essen_zentrum.md)
-- [Essen-Huttrop (24)](a40/place_a40_24_essen_huttrop.md)
+- [Essen-Zentrum (23)](place_a40_23_essen_zentrum.md)
+- [Essen-Huttrop (24)](place_a40_24_essen_huttrop.md)
 
 ## Offers
 Das Ruhrgebiet von innen. Nicht die Zechen — die sind Museen. Die Infrastruktur, die weiterläuft, nachdem die Infrastruktur aufgehört hat.

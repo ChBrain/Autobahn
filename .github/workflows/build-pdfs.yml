@@ -40,15 +40,19 @@ jobs:
           for road in roads/a*; do
             name=$(basename $road)
             echo "Building ${name}..."
-            overview="roads/place_${name}.md"
-            files=$(find ${road} -name "*.md" | sort)
-            if [ -n "$files" ]; then
+
+            # Index file lives inside the road folder. Canonical first, legacy fallback.
+            index=""
+            [ -f "$road/place_${name}.md" ] && index="$road/place_${name}.md"
+            [ -z "$index" ] && [ -f "$road/place_the_${name}.md" ] && index="$road/place_the_${name}.md"
+
+            if [ -n "$index" ]; then
+              # Every other md file in the road folder, alphabetical, index excluded.
+              nodes=$(find $road -name "*.md" -not -path "$index" | sort)
               > /tmp/${name}_combined.md
-              if [ -f "$overview" ]; then
-                cat "$overview" >> /tmp/${name}_combined.md
-                echo -e "\n---\n" >> /tmp/${name}_combined.md
-              fi
-              cat $files >> /tmp/${name}_combined.md
+              cat "$index" >> /tmp/${name}_combined.md
+              echo -e "\n---\n" >> /tmp/${name}_combined.md
+              [ -n "$nodes" ] && cat $nodes >> /tmp/${name}_combined.md
               pandoc /tmp/${name}_combined.md \
                 --from markdown \
                 --to pdf \

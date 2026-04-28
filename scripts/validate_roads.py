@@ -3,15 +3,18 @@
 
 Checks compliance with ARCHITECTURE.md ## Roads:
   - Every file Owner block contains `- Project: Autobahn`
-  - Road node files  (roads/<road>/place_*.md):
-      Owner must contain `- Place: [Road](place_road.md) in [Bundesland](place_bundesland.md)`
-  - Road index files (roads/place_*.md):
-      Owner must NOT contain a `- Place:` line
+  - Road node files: Owner must contain
+      `- Place: [Road](place_road.md) in [Bundesland](place_bundesland.md)`
+  - Road index files: Owner must NOT contain a `- Place:` line
 
-File classification by path:
-  roads/place_*.md              -> road index
-  roads/<road>/place_*.md       -> road node
-  bundeslaender/place_*.md      -> bundesland (not checked here - see future validate_bundeslaender.py)
+File classification by path. Every road has its own folder at
+`roads/<road>/`. The road index file lives in that folder alongside its
+nodes; everything else `place_*.md` in the folder is a node.
+
+  roads/<road>/place_<road>.md         -> road index
+  roads/<road>/place_the_<road>.md     -> road index (legacy form)
+  roads/<road>/place_*.md (other)      -> road node
+  bundeslaender/place_*.md             -> bundesland (not checked here)
 
 Exit status:
   0 if every file passes, 1 otherwise.
@@ -35,7 +38,12 @@ PLACE_LINE_RE = re.compile(
 
 
 def classify(path: Path, root: Path) -> str:
-    """Return 'road_index', 'road_node', 'bundesland', or 'other'."""
+    """Return 'road_index', 'road_node', 'bundesland', or 'other'.
+
+    A file inside `roads/<road>/` is the road index iff its basename is
+    `place_<road>.md` or the legacy `place_the_<road>.md`. Anything else
+    matching `place_*.md` in that folder is a node.
+    """
     try:
         rel = path.relative_to(root)
     except ValueError:
@@ -43,11 +51,12 @@ def classify(path: Path, root: Path) -> str:
     parts = rel.parts
     if parts[0] == "bundeslaender":
         return "bundesland"
-    if parts[0] == "roads":
-        if len(parts) == 2:
+    if parts[0] == "roads" and len(parts) >= 3:
+        road = parts[1]
+        stem = path.stem
+        if stem == f"place_{road}" or stem == f"place_the_{road}":
             return "road_index"
-        if len(parts) >= 3:
-            return "road_node"
+        return "road_node"
     return "other"
 
 
