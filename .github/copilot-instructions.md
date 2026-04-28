@@ -36,7 +36,7 @@ Never run `bump_version.py` unless the user explicitly asks for a release.
 
 ## Style
 
-- In `place_*.md` content, do not use em dashes. Use a hyphen (`-`) or rephrase. Em dashes in prose-only docs (`ARCHITECTURE.md`, `README.md`, etc.) are fine.
+- Do not use em dashes anywhere in this repository (place files, ARCHITECTURE, README, copilot-instructions, anything else). Use a hyphen (`-`) or rephrase.
 
 ## File standards
 
