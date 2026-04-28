@@ -21,8 +21,19 @@ jobs:
       - name: Get changed place_*.md files
         id: changed
         run: |
-          FILES=$(git diff --name-only origin/${{ github.base_ref }}...HEAD | grep 'place_.*\.md$' || true)
-          echo "files=$FILES" >> $GITHUB_OUTPUT
+          if [ "${{ github.event_name }}" = "pull_request" ]; then
+            RANGE="origin/${{ github.base_ref }}...HEAD"
+          else
+            BEFORE="${{ github.event.before }}"
+            if [ "$BEFORE" = "0000000000000000000000000000000000000000" ] || ! git cat-file -e "$BEFORE" 2>/dev/null; then
+              BEFORE="HEAD~1"
+            fi
+            RANGE="$BEFORE..HEAD"
+          fi
+          # --diff-filter=ACMRT skips deletions; the validator must not be handed paths that no longer exist.
+          RAW=$(git diff --name-only --diff-filter=ACMRT "$RANGE" | { grep 'place_.*\.md$' || true; })
+          FILES=$(printf '%s\n' "$RAW" | tr '\n' ' ' | sed 's/ *$//')
+          echo "files=$FILES" >> "$GITHUB_OUTPUT"
       - name: Validate changed files
         if: steps.changed.outputs.files != ''
         run: python3 scripts/validate.py ${{ steps.changed.outputs.files }}

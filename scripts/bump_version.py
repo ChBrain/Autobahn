@@ -4,14 +4,19 @@
 Reads the current highest version across all files, increments the requested
 part, then rewrites every file's footer to the new version.
 
+This is the release tool. It is for minor and major bumps only - operations
+that intentionally collapse all per-file footers onto one shared release
+version. Per-file patch increments (the LLM-driven case in ARCHITECTURE.md)
+are made by editing the footer directly in the affected file; running this
+script with a patch flag would clobber every other file's footer too, so
+that flag is not offered.
+
 Usage:
-  scripts/bump_version.py --patch    # 0.1.2 -> 0.1.3
-  scripts/bump_version.py --minor    # 0.1.2 -> 0.2.0
-  scripts/bump_version.py --major    # 0.1.2 -> 1.0.0
-  scripts/bump_version.py --dry-run --minor   # preview without writing
+  scripts/bump_version.py --minor              # 0.1.2 -> 0.2.0
+  scripts/bump_version.py --major              # 0.1.2 -> 1.0.0
+  scripts/bump_version.py --dry-run --minor    # preview without writing
 
 Rules (ARCHITECTURE.md):
-  --patch  LLM-level edit to a single file; this script applies it world-wide
   --minor  Release-level bump; resets patch to 0
   --major  Structural release; resets minor and patch to 0
 """
@@ -23,7 +28,7 @@ import sys
 from pathlib import Path
 
 FOOTER_RE = re.compile(
-    r"(v)(\d+)\.(\d+)\.(\d+)(\s*[-\u2013\u2014]\s*KAI Worlds)"
+    r"(v)(\d+)\.(\d+)\.(\d+)(\s*[-–—]\s*KAI Worlds)"
 )
 ROOT = Path(__file__).resolve().parent.parent
 
@@ -49,7 +54,7 @@ def bump(version: tuple[int, int, int], part: str) -> tuple[int, int, int]:
         return (major + 1, 0, 0)
     if part == "minor":
         return (major, minor + 1, 0)
-    return (major, minor, patch + 1)
+    raise ValueError(f"unsupported part: {part!r}")
 
 
 def apply_version(text: str, new: tuple[int, int, int]) -> str:
@@ -62,9 +67,10 @@ def apply_version(text: str, new: tuple[int, int, int]) -> str:
 
 
 def main(argv: list[str]) -> int:
-    parser = argparse.ArgumentParser(description="Bump version in all place_*.md files")
+    parser = argparse.ArgumentParser(
+        description="Bump version in all place_*.md files (release tool, minor/major only)."
+    )
     group = parser.add_mutually_exclusive_group(required=True)
-    group.add_argument("--patch", dest="part", action="store_const", const="patch")
     group.add_argument("--minor", dest="part", action="store_const", const="minor")
     group.add_argument("--major", dest="part", action="store_const", const="major")
     parser.add_argument("--dry-run", action="store_true", help="Print changes without writing")
