@@ -14,26 +14,22 @@ jobs:
     steps:
       - uses: actions/checkout@v4
 
-      - name: Build zips
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Build deployable bundles
         run: |
           mkdir -p dist
-
-          # engine only
-          zip -r dist/engine.zip engine/
-
-          # per section - no engine
-          zip -r dist/autobahn-people.zip people/
-          zip -r dist/autobahn-vehicles.zip vehicles/
-          zip -r dist/autobahn-props.zip props/
-
-          # per highway
-          for road in roads/a*; do
-            name=$(basename $road)
-            zip -r dist/autobahn-${name}.zip ${road}/
+          shopt -s nullglob
+          # Every manifest produces one zip. Globs cover the three current
+          # scopes; new manifests at these paths auto-build with no workflow change.
+          for manifest in autobahn.md roads/*/place_*.md bundeslaender/place_*.md; do
+            [ -f "$manifest" ] || continue
+            python3 scripts/deploy.py --strict "$manifest"
           done
-
-          # full - all sections, no engine
-          zip -r dist/autobahn-full.zip people/ vehicles/ props/ roads/
+          ls -la dist
 
       - name: Upload to release
         if: github.event_name == 'release'
