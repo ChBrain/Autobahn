@@ -227,6 +227,26 @@ The point where the motorway crosses a national border. The road continues; the 
 
 ---
 
+## Deployment
+
+The world deploys flat to Claude.ai: every file lands in one folder. Build a deployable bundle with `scripts/deploy.py <manifest>`:
+
+```
+python scripts/deploy.py autobahn.md                            # all-bundle
+python scripts/deploy.py roads/a7/place_a7.md                   # per-road bundle
+python scripts/deploy.py bundeslaender/place_schleswig_holstein.md  # per-Bundesland bundle
+```
+
+The bundle is exactly the manifest plus every `*.md` file linked from it. Single-hop closure: links from inside bundled files are not followed. The manifest is the source of truth - if a deployment needs the world frame (`instructions.md`, `stack.md`, the engine pieces, personas, vehicles, props), the manifest must link to them. The frame is a choice.
+
+The deployer asserts every basename in the bundle is unique, rewrites every internal link to its bare filename, and emits `dist/<derived>.zip`. Cross-bundle links (a bundled file linking to a target outside the bundle) are warned by default; `--strict` upgrades the warning to a failure.
+
+The road index files in `roads/<road>/`, the Bundesland files in `bundeslaender/`, and `autobahn.md` at the repo root are the manifests authors maintain. Adding a new deployment scope means adding a new manifest file at the appropriate path.
+
+The single author-facing rule: **every file basename in the world is unique**.
+
+---
+
 ## To document
 
 - **Bundesland files** - the 16 federal state files in `bundeslaender/`, their structure, subtitle tagline pattern, and how they aggregate roads and nodes. Needs its own `## Bundesland` chapter and `validate_bundeslaender.py` script.
