@@ -2,7 +2,7 @@
 
 ## Owner
 - Project: Autobahn
-- Place: [the A20](place_the_a20.md)
+- Place: [A20](place_a20.md)
 
 ## Shown
 AS 9. Junction of the A20 and the A14. The A14 runs south toward Schwerin. The A20 continues west toward Lübeck. From here: signs for Insel Poel / Wismar. Route to Poel: A14 south, then B105, then L12 through Groß Strömkendorf, then the Poeldamm.

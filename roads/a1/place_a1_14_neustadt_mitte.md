@@ -2,23 +2,25 @@
 
 ## Owner
 - Project: Autobahn
-- Place: [the A1](place_the_a1.md)
+- Place: [A1](place_a1.md) in [Schleswig-Holstein](place_schleswig_holstein.md)
 
 ## Shown
 The sign: Neustadt in Holstein-Mitte. The town accessible from here. The Priwall peninsula and the entrance to the Neustädter Bucht nearby.
 
-- 3 km north: [Neustadt in Holstein-Pelzerhaken](place_a1_13_neustadt_pelzerhaken.md)
-- 8 km south: [Eutin](place_a1_15_eutin.md)
 
 ## Holds
-[The Kilometerstein](piece_the_kilometerstein.md).
+
+* [km 61.3](piece_the_kilometerstein.md) on [the A1](place_a1.md).
+* 5.5 km north on [the A1](place_a1.md) to [Neustadt in Holstein-Pelzerhaken](place_a1_13_neustadt_pelzerhaken.md).
+* 5.3 km south on [the A1](place_a1.md) to [Eutin](place_a1_15_eutin.md).
+
 
 ## Offers
 Ausfahrt 14 - the exit ramp. The ordinary road below.
 
 ## Withheld
-The Cap Arcona. On 3 May 1945, the passenger ship Cap Arcona was sunk in the Neustädter Bucht by British aircraft - with several thousand concentration camp prisoners aboard. One of the worst maritime disasters of the war. The bay is visible on clear days from near this exit.
+On 3 May 1945, the day the Cap Arcona was bombed in the bay visible from this exit, Hitler had been dead for three days. The German surrender in northwestern Germany came the following day. The prisoners aboard were one day from liberation. The RAF pilots who bombed the ships did not know they were carrying prisoners.
 
 ---
 
-v0.1.1 - KAI Worlds
+v0.1.2 - KAI Worlds

@@ -2,22 +2,21 @@
 
 ## Owner
 - Project: Autobahn
-- Place: [the A20](place_the_a20.md)
+- Place: [A20](place_a20.md) in [Schleswig-Holstein](place_schleswig_holstein.md)
 
 ## Shown
-The sign: Groß Sarau. A small exit east of Lübeck - the A20 heading into Mecklenburg-Vorpommern. The last exit in Schleswig-Holstein before the state line.
-
-- 8 km west/north: [Kreuz Lübeck](place_a20_kreuz_luebeck.md)
+The sign: Groß Sarau. A small exit east of Lübeck - the last in Schleswig-Holstein before the A20 crosses into Mecklenburg-Vorpommern.
 
 ## Holds
-[The Kilometerstein](piece_the_kilometerstein.md).
+* [km 42.7](piece_the_kilometerstein.md) on [A20](place_a20.md).
+* [Kreuz Lübeck](place_a20_kreuz_luebeck.md) is next on [A20](place_a20.md) going west.
 
 ## Offers
 Ausfahrt 3 - the exit ramp.
 
 ## Withheld
-The Wakenitz. The river running north from the Ratzeburger See to Lübeck forms the boundary between Schleswig-Holstein and Mecklenburg-Vorpommern near here. It is one of the cleanest rivers in northern Germany - a nature reserve for its entire length.
+The Wakenitz. The river running north from the Ratzeburger See to Lübeck is less than ten metres wide in places. For forty years it was the inner-German border - one of the most heavily fortified frontiers in Europe running along a river you could almost jump across. The death strip kept people out and wildlife in. The Wakenitz is now a nature reserve for its entire length. The stillness came first from the guns, then stayed.
 
 ---
 
-v0.1.1 - KAI Worlds
+v0.1.2 - KAI Worlds

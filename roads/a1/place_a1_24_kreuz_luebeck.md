@@ -2,24 +2,22 @@
 
 ## Owner
 - Project: Autobahn
-- Place: [the A1](place_the_a1.md)
+- Place: [A1](place_a1.md) in [Schleswig-Holstein](place_schleswig_holstein.md)
 
 ## Shown
-Exit 24. A junction. The A20 branching east toward Wismar, Rostock, and the Baltic coast of Mecklenburg-Vorpommern. The A1 continuing south toward Hamburg. The junction signed: A1 Hamburg, A20 Wismar/Rostock.
-
-- 3 km north: [Lübeck-Moisling](place_a1_23_luebeck_moisling.md)
-- 11 km south: [Reinfeld](place_a1_25_reinfeld.md)
-- 2 km south: [Hamberge](place_a1_hamberge.md)
+The junction of the A1 and the A20. The A20 branching east toward Wismar, Rostock, and the Baltic coast of Mecklenburg-Vorpommern. The A1 continuing south toward Hamburg. The junction signed: A1 Hamburg, A20 Wismar/Rostock.
 
 ## Holds
-[The Kilometerstein](piece_the_kilometerstein.md).
+* [km 94.2](piece_the_kilometerstein.md) on [A1](place_a1.md).
+* [Lübeck-Moisling](place_a1_23_luebeck_moisling.md) is next on [A1](place_a1.md) going north.
+* [Reinfeld](place_a1_25_reinfeld.md) is next on [A1](place_a1.md) going south.
 
 ## Offers
-Ausfahrt 24 - the exit ramp. The ordinary road below.
+Kreuz Lübeck - the junction with [A20](place_a20.md).
 
 ## Withheld
-The eastern Baltic coast. East of here: Wismar, Rostock, Stralsund, Greifswald, Neubrandenburg, Prenzlau - 330 kilometres to the Polish border. Schleswig-Holstein connects to that entire coastline at this point.
+The road south goes to Hamburg. Hamburg adopted the Lübisches Recht - Lübeck's municipal law code - and built its commerce on the same legal foundations as the city that invented them. Then Hamburg outgrew Lübeck entirely. The Kaiser-Wilhelm-Kanal opened in 1895 connecting North Sea to Baltic directly, cutting out Lübeck's role as the transit point. Hamburg became the dominant port of northern Europe. Lübeck watched the city that had learned its law become its replacement.
 
 ---
 
-v0.1.1 - KAI Worlds
+v0.1.2 - KAI Worlds

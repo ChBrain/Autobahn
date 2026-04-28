@@ -2,23 +2,22 @@
 
 ## Owner
 - Project: Autobahn
-- Place: [the A1](place_the_a1.md)
+- Place: [A1](place_a1.md) in [Schleswig-Holstein](place_schleswig_holstein.md)
 
 ## Shown
-The Lübeck-Zentrum exit. The sign: Lübeck-Zentrum. The Altstadt on the Trave island - the seven towers visible from the approach. The Holstentor. The road entering the Hanseatic city.
-
-- 3 km north: [Bad Schwartau](place_a1_21_bad_schwartau.md)
-- 3 km south: [Lübeck-Moisling](place_a1_23_luebeck_moisling.md)
+The Lübeck-Zentrum exit. The sign: Lübeck-Zentrum. The Altstadt on the Trave island - the seven towers visible from the road. The Hanseatic city.
 
 ## Holds
-[The Kilometerstein](piece_the_kilometerstein.md).
+* [km 88.5](piece_the_kilometerstein.md) on [A1](place_a1.md).
+* [Bad Schwartau](place_a1_21_bad_schwartau.md) is next on [A1](place_a1.md) going north.
+* [Lübeck-Moisling](place_a1_23_luebeck_moisling.md) is next on [A1](place_a1.md) going south.
 
 ## Offers
 Ausfahrt 22 - the exit ramp. The ordinary road below.
 
 ## Withheld
-The Hanse. Lübeck was the capital of the Hanseatic League - the medieval trading network that dominated Baltic commerce for three centuries. The Alte Stadt is a UNESCO World Heritage Site.
+On Palm Sunday night 1942, RAF bombers struck Lübeck - the first major area bombing raid on a German city. The Marienkirche's two largest bells fell from the south tower and crashed into the stone floor below. They were left where they landed. They are still there.
 
 ---
 
-v0.1.1 - KAI Worlds
+v0.1.2 - KAI Worlds

@@ -2,7 +2,7 @@
 
 ## Owner
 - Project: Autobahn
-- Place: the A1
+- Place: [A1](place_a1.md) in [Nordrhein-Westfalen](place_nordrhein_westfalen.md)
 
 ## Shown
 Exit for Hagen from the north. The sign: Hagen-Nord, B54. The Vorhalle district below - industrial, the canal visible between buildings before the ramp. The road begins to feel urban here after the open plain from Westhofener Kreuz. Two lanes on the approach, then the ramp, then the B54.
