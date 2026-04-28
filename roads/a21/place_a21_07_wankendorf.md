@@ -2,7 +2,7 @@
 
 ## Owner
 - Project: Autobahn
-- Place: [the A21](place_the_a21.md)
+- Place: [the A21](place_a21.md)
 
 ## Shown
 The sign: Wankendorf. The road continuing north to [Nettelsee](place_a21_06_nettelsee.md) and the current B404 transition. South the A21 continues toward Bad Segeberg and Kreuz Bargteheide.

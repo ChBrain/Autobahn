@@ -2,7 +2,7 @@
 
 ## Owner
 - Project: Autobahn
-- Place: [the A21](place_the_a21.md)
+- Place: [the A21](place_a21.md)
 
 ## Shown
 The sign: Bornhöved. Rural Ostholstein. The Holsteinische Schweiz to the east - the lake district beginning here. The Bornhöveder Seenkette: a chain of glacial lakes running north to south.

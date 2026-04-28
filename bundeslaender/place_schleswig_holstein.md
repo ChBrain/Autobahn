@@ -76,7 +76,7 @@ Entering from Hamburg south: the Maschen marshalling yard visible from the A7. T
   - [Lübeck-Genin](place_a20_luebeck_genin.md)
   - [Lübeck-Süd](place_a20_luebeck_sued.md)
   - [Groß Sarau](place_a20_gross_sarau.md)
-- [A21](place_the_a21.md) - Nettelsee to Kreuz Bargteheide
+- [A21](place_a21.md) - Nettelsee to Kreuz Bargteheide
   - [Nettelsee](place_a21_06_nettelsee.md)
   - [Wankendorf](place_a21_07_wankendorf.md)
   - [Bornhöved](place_a21_08_bornhoeved.md)

@@ -2,7 +2,7 @@
 
 ## Owner
 - Project: Autobahn
-- Place: [the A21](place_the_a21.md)
+- Place: [the A21](place_a21.md)
 
 ## Shown
 The sign: Leezen. Rural. The road passing through the Stormarner Hügelland - the gently rolling countryside south of Bad Segeberg.

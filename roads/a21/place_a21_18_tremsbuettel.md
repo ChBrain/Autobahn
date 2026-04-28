@@ -2,7 +2,7 @@
 
 ## Owner
 - Project: Autobahn
-- Place: [the A21](place_the_a21.md)
+- Place: [the A21](place_a21.md)
 
 ## Shown
 The sign: Tremsbüttel. The road approaching the Kreuz Bargteheide. The A1 visible on the overhead signs ahead. The final exit before the junction.

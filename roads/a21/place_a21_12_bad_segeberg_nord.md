@@ -2,7 +2,7 @@
 
 ## Owner
 - Project: Autobahn
-- Place: [the A21](place_the_a21.md)
+- Place: [the A21](place_a21.md)
 
 ## Shown
 The northern Bad Segeberg exit. The sign: Bad Segeberg-Nord. The A20 junction ahead - the Ostseeautobahn meets the A21 here. The town visible to the west. The Kalkberg visible on the horizon.

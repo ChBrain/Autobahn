@@ -2,7 +2,7 @@
 
 ## Owner
 - Project: Autobahn
-- Place: [the A21](place_the_a21.md)
+- Place: [the A21](place_a21.md)
 
 ## Shown
 The northern Bad Oldesloe exit. The sign: Bad Oldesloe-Nord. The town bypassed to the east. A spa town on the Trave.
