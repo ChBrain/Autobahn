@@ -10,7 +10,7 @@ The sign: Geschendorf. The only ordinary exit in the SH section between Kreuz L�
 ## Holds
 * [km 12.7](piece_the_kilometerstein.md) on [A20](place_a20.md).
 * [Weede](place_a20_weede.md) is next on [A20](place_a20.md) going west.
-* [Kreuz Lübeck](place_a20_kreuz_luebeck.md) is next on [A20](place_a20.md) going east.
+* [Kreuz Lübeck](place_a20_1_kreuz_luebeck.md) is next on [A20](place_a20.md) going east.
 
 ## Offers
 The exit ramp. The ordinary road below.

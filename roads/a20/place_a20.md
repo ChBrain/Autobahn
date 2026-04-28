@@ -12,10 +12,10 @@ The Ostseeautobahn. The A20 runs east from its current western terminus at Weede
 * [km 7.9](piece_the_kilometerstein.md): [Raststätte Kronberg](place_a20_raststaette_kronberg.md).
 * [km 12.7](piece_the_kilometerstein.md): [Geschendorf](place_a20_geschendorf.md).
 * [km 21.0](piece_the_kilometerstein.md): [Mönkhagen](place_a20_moenkhagen.md).
-* [km 27.7](piece_the_kilometerstein.md): [Kreuz Lübeck](place_a20_kreuz_luebeck.md).
-* [km 32.0](piece_the_kilometerstein.md): [Lübeck-Genin](place_a20_luebeck_genin.md).
-* [km 39.0](piece_the_kilometerstein.md): [Lübeck-Süd](place_a20_luebeck_sued.md).
-* [km 42.7](piece_the_kilometerstein.md): [Groß Sarau](place_a20_gross_sarau.md).
+* [km 27.7](piece_the_kilometerstein.md): [Kreuz Lübeck](place_a20_1_kreuz_luebeck.md).
+* [km 32.0](piece_the_kilometerstein.md): [Lübeck-Genin](place_a20_2a_luebeck_genin.md).
+* [km 39.0](piece_the_kilometerstein.md): [Lübeck-Süd](place_a20_2b_luebeck_sued.md).
+* [km 42.7](piece_the_kilometerstein.md): [Groß Sarau](place_a20_3_gross_sarau.md).
 
 ## Offers
 The Baltic coast corridor. The connection between Lübeck and the Mecklenburg-Vorpommern coast.

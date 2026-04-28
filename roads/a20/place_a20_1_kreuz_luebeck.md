@@ -10,7 +10,7 @@ The junction of the A20 and the A1. The A1 runs north toward Fehmarn and south t
 ## Holds
 * [km 27.7](piece_the_kilometerstein.md) on [A20](place_a20.md).
 * [Geschendorf](place_a20_geschendorf.md) is next on [A20](place_a20.md) going west.
-* [Groß Sarau](place_a20_gross_sarau.md) is next on [A20](place_a20.md) going east.
+* [Groß Sarau](place_a20_3_gross_sarau.md) is next on [A20](place_a20.md) going east.
 
 ## Offers
 Ausfahrt 1 - Kreuz Lübeck - the junction with [A1](place_a1.md).

@@ -9,8 +9,8 @@ The sign: Lübeck. The A20 passing through the southwestern edge of the city. Th
 
 ## Holds
 * [km 32.0](piece_the_kilometerstein.md) on [A20](place_a20.md).
-* [Kreuz Lübeck](place_a20_kreuz_luebeck.md) is next on [A20](place_a20.md) going west.
-* [Lübeck-Süd](place_a20_luebeck_sued.md) is next on [A20](place_a20.md) going east.
+* [Kreuz Lübeck](place_a20_1_kreuz_luebeck.md) is next on [A20](place_a20.md) going west.
+* [Lübeck-Süd](place_a20_2b_luebeck_sued.md) is next on [A20](place_a20.md) going east.
 
 ## Offers
 Ausfahrt 2a - the exit ramp.

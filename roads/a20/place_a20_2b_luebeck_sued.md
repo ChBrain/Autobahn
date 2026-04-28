@@ -9,8 +9,8 @@ The sign: Lübeck-Süd. The southern edge of the city. The A20 leaving the built
 
 ## Holds
 * [km 39.0](piece_the_kilometerstein.md) on [A20](place_a20.md).
-* [Lübeck-Genin](place_a20_luebeck_genin.md) is next on [A20](place_a20.md) going west.
-* [Groß Sarau](place_a20_gross_sarau.md) is next on [A20](place_a20.md) going east.
+* [Lübeck-Genin](place_a20_2a_luebeck_genin.md) is next on [A20](place_a20.md) going west.
+* [Groß Sarau](place_a20_3_gross_sarau.md) is next on [A20](place_a20.md) going east.
 
 ## Offers
 Ausfahrt 2b - the exit ramp.
