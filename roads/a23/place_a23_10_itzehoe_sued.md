@@ -1,4 +1,4 @@
-﻿# Itzehoe-Süd
+# Itzehoe-Süd
 
 ## Owner
 - Project: Autobahn

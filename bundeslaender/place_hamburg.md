@@ -1,4 +1,4 @@
-﻿# Hamburg
+# Hamburg
 ## Die Republik, die der Nation beigetreten ist - ohne sie zu werden.
 
 ## Owner
