@@ -19,11 +19,12 @@ Never commit or edit directly on `main`.
 
 1. Work on a feature branch
 2. Run `python scripts/validate.py FILE...` on changed files - all must pass before opening a PR
-3. For minor or major releases only: run `python scripts/bump_version.py --minor` (or `--major`) and commit the result. Skip for patch releases.
-4. Open a PR - the PR template checklist must pass before merge
-5. Merge to `main` via PR only
-6. Create a GitHub release with a version tag to trigger the release workflow
-7. The workflow zips every folder that contains `stack.md` and uploads the zip as a release asset
+3. Run `python scripts/deploy.py --check <manifest>` on any manifest you touched - it must pass strict mode before opening a PR
+4. For minor or major releases only: run `python scripts/bump_version.py --minor` (or `--major`) and commit the result. Skip for patch releases.
+5. Open a PR - the PR template checklist must pass before merge
+6. Merge to `main` via PR only
+7. Create a GitHub release with a version tag to trigger the release workflow
+8. The workflow runs `scripts/deploy.py` on every manifest (`autobahn.md`, every `roads/*/place_*.md`, every `bundeslaender/place_*.md`) and uploads each resulting zip as a release asset
 
 ## Versioning
 
@@ -33,6 +34,22 @@ Never commit or edit directly on `main`.
 - **Major release** - user-triggered. Run `bump_version.py --major` for structural changes, then PR + tag.
 
 Never run `bump_version.py` unless the user explicitly asks for a release.
+
+## Deployment
+
+The world deploys flat to Claude.ai. `scripts/deploy.py <manifest>` builds a flat zip from a manifest file (any `*.md` whose links enumerate the bundle). The bundle is exactly the manifest plus every `*.md` it links to - single-hop closure, no transitive walk. The author owns the cut.
+
+Manifests:
+
+- `autobahn.md` at the repo root - the all-bundle.
+- `roads/<road>/place_<road>.md` - per-road bundle.
+- `bundeslaender/place_<bundesland>.md` - per-Bundesland bundle.
+
+If a manifest needs the world frame (`instructions.md`, `stack.md`, the engine pieces, personas, vehicles, props), it must link to them. Frame is a choice.
+
+Adding a road, a Bundesland, or a frame piece means linking it from the manifest(s) that should ship it. New deployment scope = new manifest file at the appropriate path.
+
+Single author-facing rule: **every file basename in the world is unique.**
 
 ## Style
 
