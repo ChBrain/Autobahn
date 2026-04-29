@@ -16,8 +16,8 @@ Exit 6. The sign: Nettelsee. The current northern terminus of the A21 as a compl
 Ausfahrt 6 - the exit ramp. The B404 north toward Kiel.
 
 ## Withheld
-The Nettelau renaturalisation. During construction of the extension through this area, the course of the Nettelau river was extensively renaturalised - otters, tree frogs, and field larks all protected as part of the project. Ecological compensation built into the landscape.
+Before this road was built, archaeologists worked the ground here from October 2016 to May 2017. West of the village they found a settlement from the early Roman Iron Age: six longhouses, storage buildings, evidence of iron smelting. The paper published afterwards was titled "Only Half" because the excavation covered only the portion the motorway would destroy. The other half stayed in the ground. The road was built over it anyway.
 
 ---
 
-v0.1.1 - KAI Worlds
+v0.1.2 - KAI Worlds

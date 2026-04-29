@@ -16,8 +16,8 @@ The sign: Tremsbüttel. The road approaching the Kreuz Bargteheide. The A1 visib
 Ausfahrt 18 - the exit ramp. The ordinary road below.
 
 ## Withheld
-Schloss Tremsbüttel. The baroque castle in the village - now a hotel - is hidden in the Bille river valley. Built in the 17th century, it served as a hunting lodge for the Dukes of Holstein-Gottorf.
+On the night of 26 June 1966, the Beatles played two concerts in Hamburg — the city where they had spent years playing clubs before anyone knew their names. They stayed at Schloss Tremsbüttel, a few hundred metres from this exit, sleeping until half past one in the afternoon. John Lennon had woken with no voice; a doctor gave him a calcium injection and he recovered in time. Before leaving for the concert, Lennon looked at a tapestry on the castle wall and said he wanted to take it home. The next day they flew to Tokyo. It was the last time they ever played Hamburg. Within six weeks they had stopped touring permanently. Revolver had been finished three days before.
 
 ---
 
-v0.1.1 - KAI Worlds
+v0.1.2 - KAI Worlds

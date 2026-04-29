@@ -16,8 +16,8 @@ Small exit. The sign: Daldorf. The road here crossing the Segeberger Forst - the
 Ausfahrt 10 - the exit ramp. The ordinary road below.
 
 ## Withheld
-The Segeberger Höhlen. The Bad Segeberg limestone caves are a few kilometres south - the largest bat colony in Germany hibernates there, and the Karl-May-Spiele have been performed outside them every summer since 1952.
+The Segeberger Forst, which the road passes through at this exit, is where the first wolf in Schleswig-Holstein in 200 years was recorded, in July 2012, caught by a camera trap. In 2023 the first pack established itself here, with at least five cubs born in May of that year. The forest covers more than 4,000 hectares. The wolves are in it now.
 
 ---
 
-v0.1.1 - KAI Worlds
+v0.1.2 - KAI Worlds

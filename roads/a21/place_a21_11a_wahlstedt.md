@@ -16,8 +16,8 @@ The sign: Wahlstedt. The town is a satellite of Bad Segeberg - grew rapidly afte
 Ausfahrt 11a - the exit ramp. The ordinary road below.
 
 ## Withheld
-The postwar settlement. Wahlstedt was essentially built in the late 1940s by people who had lost everything east of the Oder-Neiße line. The town is a physical record of that displacement.
+Vicelin, the Augustinian missionary who in 1149 became Bishop of Oldenburg, is the man whose document of that year first confirmed Wahlstedt by name, recording it as one of ten settlements receiving a share of church tithes. He preached to the Slavic Wends from Segeberg, founded churches across Holstein, suffered a stroke after his consecration and died paralysed in Neumünster in 1154. He was venerated as a saint almost immediately and the town became a pilgrimage site. A 100-kilometre cycling route through this area is named after him. The Vicelinweg passes through Bornhöved, a few kilometres from this exit.
 
 ---
 
-v0.1.1 - KAI Worlds
+v0.1.2 - KAI Worlds

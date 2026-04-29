@@ -5,7 +5,7 @@
 - Place: [A21](place_a21.md) in [Schleswig-Holstein](place_schleswig_holstein.md)
 
 ## Shown
-The northern Bad Segeberg exit. The sign: Bad Segeberg-Nord. The A20 junction here - the Ostseeautobahn meets the A21. The town visible to the west. The Kalkberg visible on the horizon.
+Exit 12. The sign: Bad Segeberg-Nord. The A20 junction. The town visible to the west. The Kalkberg visible on the horizon.
 
 ## Holds
 * [km 47.5](piece_the_kilometerstein.md) on [A21](place_a21.md).
@@ -13,11 +13,11 @@ The northern Bad Segeberg exit. The sign: Bad Segeberg-Nord. The A20 junction he
 * [Bad Segeberg-Süd](place_a21_13_bad_segeberg_sued.md) is next on [A21](place_a21.md) going south.
 
 ## Offers
-Ausfahrt 12 - the exit ramp. The ordinary road below, and the route toward [Weede](place_a20_weede.md) — where the [A20](place_a20.md) starts.
+Ausfahrt 12 - the exit ramp. The A20 junction east toward Lübeck.
 
 ## Withheld
-The Kalkberg. The limestone hill in Bad Segeberg - a few hundred metres from this exit - is geologically unique in the North German Plain: a salt diapir pushed through the glacial deposits, forming a small limestone outcrop. Over 20,000 bats hibernate in its caves each winter. It is the largest known bat colony in Germany.
+The Marienkirche in Bad Segeberg, a few kilometres from this exit, was the first building anywhere in which a vault was constructed from brick rather than stone. Construction began in 1156. The gypsum from the Kalkberg was used as mortar. It became the architectural model for the cathedrals of Ratzeburg and Lübeck, both begun within twenty years. The church is still standing. The Kalkberg that provided the mortar is 19 metres shorter than it was when building started.
 
 ---
 
-v0.1.1 - KAI Worlds
+v0.1.2 - KAI Worlds
