@@ -11,7 +11,7 @@ The sign: Halstenbek-Krupunder. The last exit before Hamburg. The state line of 
 - 2 km south: [Hamburg-Eidelstedt](place_a23_21_hamburg_eidelstedt.md)
 
 ## Holds
-[The Kilometerstein](piece_the_kilometerstein.md).
+[km 135.0](piece_the_kilometerstein.md): Halstenbek-Krupunder.
 
 ## Offers
 Ausfahrt 20 - the exit ramp. The ordinary road below.

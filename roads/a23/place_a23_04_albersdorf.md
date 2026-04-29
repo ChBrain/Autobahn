@@ -11,7 +11,7 @@ Small exit. The sign: Albersdorf. Fields on both sides. The landscape unchanged 
 - 11 km south: [Schafstedt](place_a23_05_schafstedt.md)
 
 ## Holds
-[The Kilometerstein](piece_the_kilometerstein.md).
+[km 61.8](piece_the_kilometerstein.md): Albersdorf.
 
 ## Offers
 Ausfahrt 4 - the exit ramp. The ordinary road below.

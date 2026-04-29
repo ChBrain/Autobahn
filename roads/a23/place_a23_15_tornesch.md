@@ -11,7 +11,7 @@ The sign: Tornesch. The Hamburg commuter belt beginning. The road increasingly s
 - 5 km south: [Pinneberg-Nord](place_a23_16_pinneberg_nord.md)
 
 ## Holds
-[The Kilometerstein](piece_the_kilometerstein.md).
+[km 122.0](piece_the_kilometerstein.md): Tornesch.
 
 ## Offers
 Ausfahrt 15 - the exit ramp. The ordinary road below.

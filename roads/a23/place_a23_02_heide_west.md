@@ -5,12 +5,12 @@
 - Place: [the A23](place_a23.md) in [Schleswig-Holstein](place_schleswig_holstein.md)
 
 ## Shown
-The northern terminus of the A23. The sign: Heide-West. The road from the north: the B5 arrives from Husum and the North Frisian coast and becomes the A23 here. Fields to the west. The town of Heide not visible - bypassed to the south.
+The northern terminus of the A23. The sign: Heide-West. The road from the north: the B5 arrives from [Husum](place_a23_husum.md) and the North Frisian coast and becomes the A23 here. Fields to the west. The town of Heide not visible - bypassed to the south.
 
 - 3 km south: [Heide-Süd](place_a23_03_heide_sued.md)
 
 ## Holds
-[The Kilometerstein](piece_the_kilometerstein.md).
+[km 43.7](piece_the_kilometerstein.md): Heide-West.
 
 ## Offers
 Ausfahrt 2 - the exit ramp. The ordinary road below.

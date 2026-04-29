@@ -11,7 +11,7 @@ The southern Pinneberg exit. The sign: Pinneberg-Süd. The last exit for Pinnebe
 - 4 km south: [Halstenbek/Rellingen](place_a23_19_halstenbek_rellingen.md)
 
 ## Holds
-[The Kilometerstein](piece_the_kilometerstein.md).
+[km 131.0](piece_the_kilometerstein.md): Pinneberg-Süd.
 
 ## Offers
 Ausfahrt 18 - the exit ramp. The ordinary road below.
