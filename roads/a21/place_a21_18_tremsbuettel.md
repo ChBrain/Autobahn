@@ -2,16 +2,15 @@
 
 ## Owner
 - Project: Autobahn
-- Place: [the A21](place_a21.md)
+- Place: [A21](place_a21.md) in [Schleswig-Holstein](place_schleswig_holstein.md)
 
 ## Shown
 The sign: Tremsbüttel. The road approaching the Kreuz Bargteheide. The A1 visible on the overhead signs ahead. The final exit before the junction.
 
-- 4 km north: [Rümpel](place_a21_17b_ruempel.md)
-- 5 km south: [Kreuz Bargteheide](place_a21_19_kreuz_bargteheide.md)
-
 ## Holds
-[The Kilometerstein](piece_the_kilometerstein.md).
+* [km 70.7](piece_the_kilometerstein.md) on [A21](place_a21.md).
+* [Rümpel](place_a21_ruempel.md) is next on [A21](place_a21.md) going north.
+* [Kreuz Bargteheide](place_a21_19_kreuz_bargteheide.md) is next on [A21](place_a21.md) going south.
 
 ## Offers
 Ausfahrt 18 - the exit ramp. The ordinary road below.

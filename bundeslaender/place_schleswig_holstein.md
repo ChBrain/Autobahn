@@ -88,8 +88,8 @@ Entering from Hamburg south: the Maschen marshalling yard visible from the A7. T
   - [Schwissel](place_a21_14_schwissel.md)
   - [Leezen](place_a21_15_leezen.md)
   - [Bad Oldesloe-Nord](place_a21_16_bad_oldesloe_nord.md)
-  - [Bad Oldesloe-Süd](place_a21_17a_bad_oldesloe_sued.md)
-  - [Rümpel](place_a21_17b_ruempel.md)
+  - [Bad Oldesloe-Süd](place_a21_17_bad_oldesloe_sued.md)
+  - [Rümpel](place_a21_ruempel.md)
   - [Tremsbüttel](place_a21_18_tremsbuettel.md)
   - [Kreuz Bargteheide](place_a21_19_kreuz_bargteheide.md)
 - [A23](place_a23.md) - Heide to Hamburg

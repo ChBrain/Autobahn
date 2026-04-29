@@ -2,16 +2,15 @@
 
 ## Owner
 - Project: Autobahn
-- Place: [the A21](place_a21.md)
+- Place: [A21](place_a21.md) in [Schleswig-Holstein](place_schleswig_holstein.md)
 
 ## Shown
 The northern Bad Oldesloe exit. The sign: Bad Oldesloe-Nord. The town bypassed to the east. A spa town on the Trave.
 
-- 6 km north: [Leezen](place_a21_15_leezen.md)
-- 3 km south: [Bad Oldesloe-Süd](place_a21_17a_bad_oldesloe_sued.md)
-
 ## Holds
-[The Kilometerstein](piece_the_kilometerstein.md).
+* [km 62.2](piece_the_kilometerstein.md) on [A21](place_a21.md).
+* [Leezen](place_a21_15_leezen.md) is next on [A21](place_a21.md) going north.
+* [Bad Oldesloe-Süd](place_a21_17_bad_oldesloe_sued.md) is next on [A21](place_a21.md) going south.
 
 ## Offers
 Ausfahrt 16 - the exit ramp. The ordinary road below.

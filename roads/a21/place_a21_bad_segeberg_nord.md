@@ -9,7 +9,7 @@ The northern Bad Segeberg exit. The sign: Bad Segeberg-Nord. The A20 junction he
 
 ## Holds
 * [km TBD](piece_the_kilometerstein.md) on [A21](place_a21.md).
-* [Schackendorf](place_a21_schackendorf.md) is next on [A21](place_a21.md) going north.
+* [Schackendorf](place_a21_service_schackendorf.md) is next on [A21](place_a21.md) going north.
 * [Bad Segeberg-Süd](place_a21_13_bad_segeberg_sued.md) is next on [A21](place_a21.md) going south.
 
 ## Offers

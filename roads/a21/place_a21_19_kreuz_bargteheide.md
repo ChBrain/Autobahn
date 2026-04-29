@@ -2,15 +2,14 @@
 
 ## Owner
 - Project: Autobahn
-- Place: [the A21](place_a21.md)
+- Place: [A21](place_a21.md) in [Schleswig-Holstein](place_schleswig_holstein.md)
 
 ## Shown
 Exit 19. The southern terminus of the A21. The A1 junction. The A21 ends here - or begins here, depending on direction. The A1 continues north to Lübeck and south to Hamburg. The junction signed: A1 Lübeck, A1 Hamburg, A21 Kiel.
 
-- 5 km north: [Tremsbüttel](place_a21_18_tremsbuettel.md)
-
 ## Holds
-[The Kilometerstein](piece_the_kilometerstein.md).
+* [km 74.0](piece_the_kilometerstein.md) on [A21](place_a21.md).
+* [Tremsbüttel](place_a21_18_tremsbuettel.md) is next on [A21](place_a21.md) going north.
 
 ## Offers
 Ausfahrt 19 - the exit ramp. The ordinary road below.

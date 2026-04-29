@@ -2,16 +2,15 @@
 
 ## Owner
 - Project: Autobahn
-- Place: [the A21](place_a21.md)
+- Place: [A21](place_a21.md) in [Schleswig-Holstein](place_schleswig_holstein.md)
 
 ## Shown
 Small exit. The sign: Daldorf. The road here crossing the Segeberger Forst - the forest that runs south of Bad Segeberg. The landscape wooded, the road cutting through it.
 
-- 5 km north: [Trappenkamp](place_a21_09_trappenkamp.md)
-- 5 km south: [Wahlstedt](place_a21_11a_wahlstedt.md)
-
 ## Holds
-[The Kilometerstein](piece_the_kilometerstein.md).
+* [km 37.0](piece_the_kilometerstein.md) on [A21](place_a21.md).
+* [Trappenkamp](place_a21_09_trappenkamp.md) is next on [A21](place_a21.md) going north.
+* [Wahlstedt](place_a21_11a_wahlstedt.md) is next on [A21](place_a21.md) going south.
 
 ## Offers
 Ausfahrt 10 - the exit ramp. The ordinary road below.

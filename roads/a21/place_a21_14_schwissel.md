@@ -2,16 +2,15 @@
 
 ## Owner
 - Project: Autobahn
-- Place: [the A21](place_a21.md)
+- Place: [A21](place_a21.md) in [Schleswig-Holstein](place_schleswig_holstein.md)
 
 ## Shown
 Small exit. The sign: Schwissel. The road through forest and farmland. The Segeberger Forst giving way to the Hamburg commuter belt beginning to the south.
 
-- 5 km north: [Bad Segeberg-Süd](place_a21_13_bad_segeberg_sued.md)
-- 7 km south: [Leezen](place_a21_15_leezen.md)
-
 ## Holds
-[The Kilometerstein](piece_the_kilometerstein.md).
+* [km 51.5](piece_the_kilometerstein.md) on [A21](place_a21.md).
+* [Bad Segeberg-Süd](place_a21_13_bad_segeberg_sued.md) is next on [A21](place_a21.md) going north.
+* [Leezen](place_a21_15_leezen.md) is next on [A21](place_a21.md) going south.
 
 ## Offers
 Ausfahrt 14 - the exit ramp. The ordinary road below.

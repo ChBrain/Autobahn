@@ -2,16 +2,15 @@
 
 ## Owner
 - Project: Autobahn
-- Place: [the A21](place_a21.md)
+- Place: [A21](place_a21.md) in [Schleswig-Holstein](place_schleswig_holstein.md)
 
 ## Shown
 The southern Bad Segeberg exit. The sign: Bad Segeberg-Süd. The last exit for Bad Segeberg. The road continuing south through the Segeberger Forst.
 
-- 3 km north: [Bad Segeberg-Nord](place_a21_12_bad_segeberg_nord.md)
-- 5 km south: [Schwissel](place_a21_14_schwissel.md)
-
 ## Holds
-[The Kilometerstein](piece_the_kilometerstein.md).
+* [km 48.8](piece_the_kilometerstein.md) on [A21](place_a21.md).
+* [Bad Segeberg-Nord](place_a21_12_bad_segeberg_nord.md) is next on [A21](place_a21.md) going north.
+* [Schwissel](place_a21_14_schwissel.md) is next on [A21](place_a21.md) going south.
 
 ## Offers
 Ausfahrt 13 - the exit ramp. The ordinary road below.

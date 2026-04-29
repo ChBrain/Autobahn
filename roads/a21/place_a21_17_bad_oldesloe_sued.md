@@ -2,16 +2,15 @@
 
 ## Owner
 - Project: Autobahn
-- Place: [the A21](place_a21.md)
+- Place: [A21](place_a21.md) in [Schleswig-Holstein](place_schleswig_holstein.md)
 
 ## Shown
 The southern Bad Oldesloe exit. The sign: Bad Oldesloe-Süd. The town accessible from here. The B75 connecting east toward Lübeck.
 
-- 3 km north: [Bad Oldesloe-Nord](place_a21_16_bad_oldesloe_nord.md)
-- 3 km south: [Rümpel](place_a21_17b_ruempel.md)
-
 ## Holds
-[The Kilometerstein](piece_the_kilometerstein.md).
+* [km 64.7](piece_the_kilometerstein.md) on [A21](place_a21.md).
+* [Bad Oldesloe-Nord](place_a21_16_bad_oldesloe_nord.md) is next on [A21](place_a21.md) going north.
+* [Rümpel](place_a21_ruempel.md) is next on [A21](place_a21.md) going south.
 
 ## Offers
 Ausfahrt 17a - the exit ramp. The ordinary road below.

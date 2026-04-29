@@ -2,16 +2,15 @@
 
 ## Owner
 - Project: Autobahn
-- Place: [the A21](place_a21.md)
+- Place: [A21](place_a21.md) in [Schleswig-Holstein](place_schleswig_holstein.md)
 
 ## Shown
 The sign: Wahlstedt. The town is a satellite of Bad Segeberg - grew rapidly after the war as a settlement for expellees from the eastern territories. Now a small town of 10,000 with no particular character that the A21 exit captures.
 
-- 5 km north: [Daldorf](place_a21_10_daldorf.md)
-- 2 km south: [Schackendorf](place_a21_schackendorf.md)
-
 ## Holds
-[The Kilometerstein](piece_the_kilometerstein.md).
+* [km 42.8](piece_the_kilometerstein.md) on [A21](place_a21.md).
+* [Daldorf](place_a21_10_daldorf.md) is next on [A21](place_a21.md) going north.
+* [Schackendorf](place_a21_service_schackendorf.md) is next on [A21](place_a21.md) going south.
 
 ## Offers
 Ausfahrt 11a - the exit ramp. The ordinary road below.
