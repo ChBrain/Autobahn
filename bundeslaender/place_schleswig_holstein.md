@@ -122,6 +122,8 @@ Entering from Hamburg south: the Maschen marshalling yard visible from the A7. T
   - [Lübeck-Zentrum](place_a24_07_luebeck_zentrum.md)
   - [Lübeck-Süd](place_a24_08_luebeck_sued.md)
   - [Kreuz Bad Schwartau](place_a24_08b_kreuz_bad_schwartau.md)
+- [A25](place_a25.md) - Dreieck Hamburg-Südost to Geesthacht
+  - [Geesthacht](place_a25_7_geesthacht.md)
 - [A210](place_a210.md) - Westerrönfeld to Kreuz Kiel-West
   - [Westerrönfeld](place_a210_01_westerroehnfeld.md)
   - [Schacht-Audorf](place_a210_02_schacht_audorf.md)
