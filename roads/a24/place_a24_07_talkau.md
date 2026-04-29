@@ -2,23 +2,23 @@
 
 ## Owner
 - Project: Autobahn
-- Place: [the A24](place_the_a24.md)
+- Place: [A24](place_a24.md) in [Schleswig-Holstein](place_schleswig_holstein.md)
 
 ## Shown
 Small exit. The sign: Talkau. The exit before Hornbek. The A24 continues through eastern Schleswig-Holstein toward the state border.
 
-- 8 km west/north: [Schwarzenbek/Grande](place_a24_06_schwarzenbek_grande.md)
-- 6 km east: [Hornbek](place_a24_08a_hornbek.md)
+- 10.1 km west: [Schwarzenbek/Grande](place_a24_06_schwarzenbek_grande.md)
+- 5.9 km east: [Hornbek](place_a24_08a_hornbek.md)
 
 ## Holds
-[The Kilometerstein](piece_the_kilometerstein.md).
+[km 33.2](piece_the_kilometerstein.md): Talkau.
 
 ## Offers
 Ausfahrt 7 - the exit ramp.
 
 ## Withheld
-The Sachsenwald edge. The eastern boundary of the Sachsenwald runs close to Talkau. The estate includes the mausoleum at Friedrichsruh where Bismarck is buried - one of the most historically laden private landholdings in northern Germany.
+The Schwarze Au flows through the Sachsenwald a few kilometres south — only 15 kilometres long but dropping 27 metres, steep enough for this flat landscape to power an industrial chain for 600 years. A corn mill first mentioned in 1350, a paper mill from 1598, copper hammer mills from around 1620. The copper came from Hamburg's trading markets — no ore exists here — processed into sheet metal by forest water and sent back to the city. When the copper trade moved on, the sites became an iron forge, then a cloth mill, then nothing. The town at the river's mouth is called Aumühle. Mill on the Au.
 
 ---
 
-v0.1.1 - KAI Worlds
+v0.1.3 - KAI Worlds

@@ -2,16 +2,16 @@
 
 ## Owner
 - Project: Autobahn
-- Place: [the A24](place_the_a24.md)
+- Place: [A24](place_a24.md) in [Schleswig-Holstein](place_schleswig_holstein.md)
 
 ## Shown
 Exit 6. A junction. The sign: Kreuz Schwarzenbek/Grande, A21. The A21 branches north toward Bad Segeberg, Bad Oldesloe, and Kreuz Bargteheide. The A24 continues east toward Berlin.
 
-- 9 km west/north: [Witzhave](place_a24_05_witzhave.md)
-- 8 km east/south: [Talkau](place_a24_07_talkau.md)
+- 5.7 km west: [Witzhave](place_a24_05_witzhave.md)
+- 10.1 km east: [Talkau](place_a24_07_talkau.md)
 
 ## Holds
-[The Kilometerstein](piece_the_kilometerstein.md).
+[km 23.1](piece_the_kilometerstein.md): Schwarzenbek/Grande.
 
 ## Offers
 Ausfahrt 6 - the exit ramp.
@@ -21,4 +21,4 @@ Schwarzenbek Kloster. The former Benedictine convent at Schwarzenbek - founded i
 
 ---
 
-v0.1.1 - KAI Worlds
+v0.1.3 - KAI Worlds

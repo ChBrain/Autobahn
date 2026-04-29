@@ -21,6 +21,12 @@ import re
 import sys
 from pathlib import Path
 
+# Import the math validator
+try:
+    from validate_roads_km_math import main as validate_km_math
+except ImportError:
+    validate_km_math = None
+
 HOLDS_BLOCK_RE = re.compile(r"^## Holds\r?\n(.*?)(?=\r?\n##|\Z)", re.MULTILINE | re.DOTALL)
 KM_ENTRY_RE = re.compile(
     r"^\s*\*\s*\[km\s+([\d.]+)\]\(piece_the_kilometerstein\.md\):",
@@ -108,22 +114,25 @@ def main(argv: list[str]) -> int:
 
     if not targets:
         print("OK: no km checks needed (no road index files)")
-        return 0
+    else:
+        failed = 0
+        for path in targets:
+            errors = validate(path, root)
+            if errors:
+                failed += 1
+                print(f"FAIL {path}")
+                for err in errors:
+                    print(f"  - {err}")
 
-    failed = 0
-    for path in targets:
-        errors = validate(path, root)
-        if errors:
-            failed += 1
-            print(f"FAIL {path}")
-            for err in errors:
-                print(f"  - {err}")
+        total = len(targets)
+        if failed:
+            print(f"\n{failed}/{total} files failed km validation")
+            return 1
+        print(f"OK: {total} files passed km validation")
 
-    total = len(targets)
-    if failed:
-        print(f"\n{failed}/{total} files failed km validation")
-        return 1
-    print(f"OK: {total} files passed km validation")
+    # Cascade to km math validation
+    if validate_km_math:
+        return validate_km_math(argv)
     return 0
 
 
