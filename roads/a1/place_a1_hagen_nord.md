@@ -19,7 +19,7 @@ The exit ramp. The B54 south toward Hagen city centre, north toward Wetter and W
 ## Withheld
 The A1-Tunnel Hagen-Vorhalle begins just south of this exit. 820 metres of covered road under the Vorhalle district. Opened 2003, built because the residents refused the open trench. Above it: houses, a primary school, a football pitch. The people above do not think about the tunnel. The traffic below does not think about the people. The Driver exiting here leaves before the tunnel begins. The Driver who stays on the A1 disappears into it.
 
-The [Brücke Hengstey](place_a1_bruecke_hengstey.md) is 2 km north - 88 metres of replacement construction over eight rail tracks. Heavy goods on outer lanes only. The Driver who has just crossed it does not know this exit is where the approach ends.
+The [Brücke Hengstey](place_a1_bridge_hengstey.md) is 2 km north - 88 metres of replacement construction over eight rail tracks. Heavy goods on outer lanes only. The Driver who has just crossed it does not know this exit is where the approach ends.
 
 ---
 
