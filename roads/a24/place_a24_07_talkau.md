@@ -7,8 +7,8 @@
 ## Shown
 Small exit. The sign: Talkau. The exit before Hornbek. The A24 continues through eastern Schleswig-Holstein toward the state border.
 
-- 8 km west/north: [Schwarzenbek/Grande](place_a24_schwarzenbek_grande.md)
-- 6 km east: [Hornbek](place_a24_hornbek.md)
+- 8 km west/north: [Schwarzenbek/Grande](place_a24_06_schwarzenbek_grande.md)
+- 6 km east: [Hornbek](place_a24_08a_hornbek.md)
 
 ## Holds
 [The Kilometerstein](piece_the_kilometerstein.md).

@@ -7,8 +7,8 @@
 ## Shown
 Small exit. The sign: Witzhave. The road now in open country - the Hamburg metropolitan area left behind. Eastern Holstein: flat, agricultural, the motorway cutting through it.
 
-- 6 km west/north: [Reinbek](place_a24_reinbek.md)
-- 9 km east/south: [Schwarzenbek/Grande](place_a24_schwarzenbek_grande.md)
+- 6 km west/north: [Reinbek](place_a24_04_reinbek.md)
+- 9 km east/south: [Schwarzenbek/Grande](place_a24_06_schwarzenbek_grande.md)
 
 ## Holds
 [The Kilometerstein](piece_the_kilometerstein.md).

@@ -7,8 +7,8 @@
 ## Shown
 The sign: Hamburg-Jenfeld. Eastern Hamburg suburb. The A1 junction approaching - where the Hamburg–Lübeck route crosses the Hamburg–Berlin route.
 
-- 4 km west/north: [Hamburg-Horn](place_a24_hamburg_horn.md)
-- 3 km east/south: [Kreuz Hamburg-Ost](place_a24_kreuz_hamburg_ost.md)
+- 4 km west/north: [Hamburg-Horn](place_a24_01_hamburg_horn.md)
+- 3 km east/south: [Kreuz Hamburg-Ost](place_a24_03_kreuz_hamburg_ost.md)
 
 ## Holds
 [The Kilometerstein](piece_the_kilometerstein.md).
