@@ -1,9 +1,10 @@
 #!/usr/bin/env python3
 """Runner: executes all Autobahn validators in sequence.
 
-Runs:
-  validate_general.py  - encoding, section order, footer
-  validate_roads.py    - road architecture compliance (ARCHITECTURE.md)
+Runs validation pipeline:
+  1. validate_general.py - encoding, section order, footer
+  2. validate_roads.py - road architecture compliance
+  3. validate_roads_km.py - kilometre marker ordering and format
 
 Exit status:
   0 if all validators pass, 1 if any fail.
@@ -21,7 +22,6 @@ HERE = Path(__file__).resolve().parent
 sys.path.insert(0, str(HERE))
 
 import validate_general
-import validate_roads
 
 
 def main() -> int:
@@ -32,13 +32,9 @@ def main() -> int:
     else:
         files = validate_general.find_place_files(root)
 
-    code = 0
+    # Start the validation pipeline
     print("=== General validation ===")
-    code |= validate_general.main(["validate_general"] + [str(f) for f in files])
-    print()
-    print("=== Road architecture validation ===")
-    code |= validate_roads.main(["validate_roads"] + [str(f) for f in files])
-    return code
+    return validate_general.main(["validate_general"] + [str(f) for f in files])
 
 
 if __name__ == "__main__":

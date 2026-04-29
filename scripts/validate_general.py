@@ -7,6 +7,8 @@ Checks each file for:
   - Required sections present in order: Owner, Shown, Holds, Offers, Withheld
   - Trailing version footer: `vX.Y.Z - KAI Worlds`
 
+Then calls validate_roads, which calls validate_roads_km.
+
 Exit status:
   0 if every file passes, 1 otherwise.
 
@@ -19,6 +21,9 @@ from __future__ import annotations
 import re
 import sys
 from pathlib import Path
+
+HERE = Path(__file__).resolve().parent
+sys.path.insert(0, str(HERE))
 
 REQUIRED_SECTIONS = ["Owner", "Shown", "Holds", "Offers", "Withheld"]
 FOOTER_RE = re.compile(r"v\d+\.\d+\.\d+\s*[-\u2013\u2014]\s*KAI Worlds")
@@ -75,7 +80,11 @@ def main(argv: list[str]) -> int:
         print(f"\n{failed}/{total} files failed general validation")
         return 1
     print(f"OK: {total} files passed general validation")
-    return 0
+    
+    # Pass to next validator
+    print()
+    import validate_roads
+    return validate_roads.main(["validate_roads"] + [str(f) for f in targets])
 
 
 if __name__ == "__main__":
