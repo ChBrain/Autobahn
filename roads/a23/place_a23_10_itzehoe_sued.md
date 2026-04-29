@@ -11,7 +11,7 @@ The sign: Itzehoe-Süd. The southern end of the Itzehoe crossing. The road conti
 - 6 km south: [Lägerdorf](place_a23_11_laegerdorf.md)
 
 ## Holds
-[km 48.4](piece_the_kilometerstein.md): Itzehoe-Süd.
+[km 95.6](piece_the_kilometerstein.md): Itzehoe-Süd.
 
 ## Offers
 Ausfahrt 10 - the exit ramp. The ordinary road below.

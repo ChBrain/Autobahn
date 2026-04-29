@@ -11,7 +11,7 @@ Small exit. Rural. The sign: Hanerau-Hademarschen. The road south of the canal -
 - 9 km south: [Schenefeld](place_a23_07_schenefeld.md)
 
 ## Holds
-[km 28.0](piece_the_kilometerstein.md): Hanerau-Hademarschen.
+[km 72.6](piece_the_kilometerstein.md): Hanerau-Hademarschen.
 
 ## Offers
 Ausfahrt 6 - the exit ramp. The ordinary road below.

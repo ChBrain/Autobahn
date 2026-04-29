@@ -11,7 +11,7 @@ Hamburg. The first Hamburg exit on the A23. The sign: Hamburg-Eidelstedt. This e
 - 2 km south: [Dreieck Hamburg-Nordwest](place_a23_22_dreieck_hamburg_nordwest.md)
 
 ## Holds
-[km 87.9](piece_the_kilometerstein.md): Hamburg-Eidelstedt.
+[km 138.0](piece_the_kilometerstein.md): Hamburg-Eidelstedt.
 
 ## Offers
 Ausfahrt 21 - the exit ramp. The ordinary road below.

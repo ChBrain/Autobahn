@@ -11,7 +11,7 @@ The sign: Lägerdorf. The landscape here: chalk deposits visible in the fields, 
 - 7 km south: [Hohenfelde](place_a23_12_hohenfelde.md)
 
 ## Holds
-[km 54.0](piece_the_kilometerstein.md): Lägerdorf.
+[km 99.7](piece_the_kilometerstein.md): Lägerdorf.
 
 ## Offers
 Ausfahrt 11 - the exit ramp. The ordinary road below.

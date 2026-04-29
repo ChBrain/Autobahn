@@ -11,7 +11,7 @@ The sign: Itzehoe-Nord. The approach to the Störbrücke section. Itzehoe visibl
 - 3 km south: [Itzehoe-Mitte](place_a23_09_itzehoe_mitte.md)
 
 ## Holds
-[km 41.6](piece_the_kilometerstein.md): Itzehoe-Nord.
+[km 87.5](piece_the_kilometerstein.md): Itzehoe-Nord.
 
 ## Offers
 Ausfahrt 8 - the exit ramp. The ordinary road below.

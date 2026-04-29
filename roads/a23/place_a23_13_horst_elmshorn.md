@@ -11,7 +11,7 @@ The northern Elmshorn exit. The sign: Horst, Elmshorn. The first large town on t
 - 4 km south: [Elmshorn](place_a23_14_elmshorn.md)
 
 ## Holds
-[km 64.3](piece_the_kilometerstein.md): Horst/Elmshorn.
+[km 110.0](piece_the_kilometerstein.md): Horst/Elmshorn.
 
 ## Offers
 Ausfahrt 13 - the exit ramp. The ordinary road below.

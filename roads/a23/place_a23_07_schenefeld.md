@@ -11,7 +11,7 @@ The sign: Schenefeld. The approach to Itzehoe. The road beginning to show more t
 - 7 km south: [Itzehoe-Nord](place_a23_08_itzehoe_nord.md)
 
 ## Holds
-[km 35.6](piece_the_kilometerstein.md): Schenefeld.
+[km 78.7](piece_the_kilometerstein.md): Schenefeld.
 
 ## Offers
 Ausfahrt 7 - the exit ramp. The ordinary road below.

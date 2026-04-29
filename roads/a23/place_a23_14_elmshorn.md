@@ -11,7 +11,7 @@ The Elmshorn exit. The sign: Elmshorn, B431. The town bypassed - the A23 circumn
 - 6 km south: [Tornesch](place_a23_15_tornesch.md)
 
 ## Holds
-[km 67.8](piece_the_kilometerstein.md): Elmshorn.
+[km 118.0](piece_the_kilometerstein.md): Elmshorn.
 
 ## Offers
 Ausfahrt 14 - the exit ramp. The ordinary road below.

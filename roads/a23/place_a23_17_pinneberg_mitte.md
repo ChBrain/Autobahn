@@ -11,7 +11,7 @@ The central Pinneberg exit. The sign: Pinneberg-Mitte. The town centre accessibl
 - 2 km south: [Pinneberg-Süd](place_a23_18_pinneberg_sued.md)
 
 ## Holds
-[km 79.4](piece_the_kilometerstein.md): Pinneberg-Mitte.
+[km 130.0](piece_the_kilometerstein.md): Pinneberg-Mitte.
 
 ## Offers
 Ausfahrt 17 - the exit ramp. The ordinary road below.
