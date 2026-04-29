@@ -11,7 +11,7 @@ Exit 9. The sign: Itzehoe-Mitte. The road here crossing the Störbrücke section
 - 5 km south: [Itzehoe-Süd](place_a23_10_itzehoe_sued.md)
 
 ## Holds
-[The Kilometerstein](piece_the_kilometerstein.md).
+[km 44.1](piece_the_kilometerstein.md): Itzehoe-Mitte.
 
 ## Offers
 Ausfahrt 9 - the exit ramp. The ordinary road below.

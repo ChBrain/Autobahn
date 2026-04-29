@@ -11,7 +11,7 @@ The northern Pinneberg exit. The sign: Pinneberg-Nord. The district capital of P
 - 2 km south: [Pinneberg-Mitte](place_a23_17_pinneberg_mitte.md)
 
 ## Holds
-[The Kilometerstein](piece_the_kilometerstein.md).
+[km 77.7](piece_the_kilometerstein.md): Pinneberg-Nord.
 
 ## Offers
 Ausfahrt 16 - the exit ramp. The ordinary road below.

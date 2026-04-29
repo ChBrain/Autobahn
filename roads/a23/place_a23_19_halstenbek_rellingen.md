@@ -11,7 +11,7 @@ The sign: Halstenbek, Rellingen. The road fully suburban. Nurseries and garden c
 - 2 km south: [Halstenbek-Krupunder](place_a23_20_halstenbek_krupunder.md)
 
 ## Holds
-[The Kilometerstein](piece_the_kilometerstein.md).
+[km 84.6](piece_the_kilometerstein.md): Halstenbek/Rellingen.
 
 ## Offers
 Ausfahrt 19 - the exit ramp. The ordinary road below.

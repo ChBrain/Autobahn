@@ -11,7 +11,7 @@ Small exit. The sign: Hohenfelde. The road here in open country - the Hamburg me
 - 5 km south: [Horst/Elmshorn](place_a23_13_horst_elmshorn.md)
 
 ## Holds
-[The Kilometerstein](piece_the_kilometerstein.md).
+[km 60.0](piece_the_kilometerstein.md): Hohenfelde.
 
 ## Offers
 Ausfahrt 12 - the exit ramp. The ordinary road below.

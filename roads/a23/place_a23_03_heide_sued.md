@@ -11,7 +11,7 @@ The southern Heide exit. The sign: Heide, Heide-Süd. The town accessible from h
 - 10 km south: [Albersdorf](place_a23_04_albersdorf.md)
 
 ## Holds
-[The Kilometerstein](piece_the_kilometerstein.md).
+[km 2.6](piece_the_kilometerstein.md): Heide-Süd.
 
 ## Offers
 Ausfahrt 3 - the exit ramp. The ordinary road below.

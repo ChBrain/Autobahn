@@ -11,7 +11,7 @@ The Kiel Canal crossing. The Hochbrücke Hohenhörn: high enough for ocean-going
 - 10 km south: [Hanerau-Hademarschen](place_a23_06_hanerau_hademarschen.md)
 
 ## Holds
-[The Kilometerstein](piece_the_kilometerstein.md).
+[km 19.4](piece_the_kilometerstein.md): Schafstedt.
 
 ## Offers
 Ausfahrt 5 - the exit ramp. The ordinary road below.

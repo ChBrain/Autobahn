@@ -10,7 +10,7 @@ The northern terminus of the A23. The sign: Heide-West. The road from the north:
 - 3 km south: [Heide-Süd](place_a23_03_heide_sued.md)
 
 ## Holds
-[The Kilometerstein](piece_the_kilometerstein.md).
+[km 0.0](piece_the_kilometerstein.md): Heide-West.
 
 ## Offers
 Ausfahrt 2 - the exit ramp. The ordinary road below.
