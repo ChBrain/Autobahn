@@ -9,9 +9,10 @@ The Kreuz Bargteheide junction. The A21 splitting east toward Bad Segeberg and K
 
 ## Holds
 
-* [km 118.0](piece_the_kilometerstein.md) on [the A1](place_a1.md).
+[km 118.0](piece_the_kilometerstein.md): Kreuz Bargteheide.
+
 * 10.0 km north on [the A1](place_a1.md) to [Bad Oldesloe](place_a1_26_bad_oldesloe.md).
-* 2.0 km south on [the A1](place_a1.md) to [Raststätte Buddikate Ost](place_a1_28_raststaette_buddikate_ost.md).
+* 2.0 km south on [the A1](place_a1.md) to [Raststätte Buddikate Ost](place_a1_28_service_buddikate_ost.md).
 
 ## Offers
 [The A21](place_a21.md) east. Bad Segeberg. Kiel.

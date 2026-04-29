@@ -249,10 +249,11 @@ The single author-facing rule: **every file basename in the world is unique**.
 
 ## To document
 
+- **Geographic coordinates** - each place node to carry latitude, longitude, and altitude (from OSM or BASt sources). Enables geographic validation: compass directions verified against bearing, distances against geodetic calculations, elevation changes detected. Lookup table vs. per-file embedding still open. Proposed: validate directions against bearing; validate distances against haversine; detect anomalies (altitude spikes, direction contradictions). Requires authoritative source identification and accuracy tolerance definition.
 - **Bundesland files** - the 16 federal state files in `bundeslaender/`, their structure, subtitle tagline pattern, and how they aggregate roads and nodes. Needs its own `## Bundesland` chapter and `validate_bundeslaender.py` script.
-- **Naming conventions in use** - actual files use German-language infixes that do not match the English spec: `_bruecke_` and compound forms (e.g. `place_a1_volmebruecke.md`) instead of `_bridge_`; `_raststaette_` instead of `_rest_` / `_service_`; compound tunnel names (e.g. `place_a7_elbtunnel.md`) instead of `_tunnel_`
-- **Standalone Raststätte files** - files like `place_raststaette_aalbek.md` carry no road prefix; naming rule not yet defined
-- **Numbered rest stop pattern** - Raststätten can carry an exit number mid-chain (e.g. `place_a1_28_raststaette_buddikate_ost.md`); not covered by the current spec
+- **Naming conventions in use** - CONVERTED: German infixes replaced with English (`_bruecke_` → `_bridge_`, `_raststaette_` → `_service_`). Tunnel naming still pending (e.g. `place_a7_elbtunnel.md`). See files: `place_a1_volme_bridge.md`, `place_a1_bridge_hengstey.md`, `place_a20_service_kronberg.md`.
+- **Standalone Raststätte files** - files like `place_service_aalbek.md` carry no road prefix; naming rule not yet defined
+- **Numbered rest stop pattern** - Raststätten can carry an exit number mid-chain (e.g. `place_a1_28_service_buddikate_ost.md`); not covered by the current spec
 - **Navigation links in Shown** - some files (notably A23 nodes) carry neighbour links with distance markers inside `## Shown` rather than `## Holds`; placement convention not yet ruled on
 - **Engine files** - `instructions.md`, `stack.md`, and the pieces in `engine/` (kilometerstein, driver seat, infotainment, etc.)
 - **People** - persona files in `people/`

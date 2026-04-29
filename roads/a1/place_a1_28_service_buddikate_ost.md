@@ -9,7 +9,8 @@ The Buddikate Ost service area. Fuel, food, parking. The A1 continuing in both d
 
 ## Holds
 
-* [km 120.0](piece_the_kilometerstein.md) on [the A1](place_a1.md).
+[km 120.0](piece_the_kilometerstein.md): Raststätte Buddikate Ost.
+
 * 2.0 km north on [the A1](place_a1.md) to [Kreuz Bargteheide](place_a1_27_kreuz_bargteheide.md).
 * 7.0 km south on [the A1](place_a1.md) to [Ahrensburg](place_a1_29_ahrensburg.md).
 

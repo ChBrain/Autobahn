@@ -44,6 +44,8 @@ def classify(path: Path, root: Path) -> str:
     `place_<road>.md` or the legacy `place_the_<road>.md`. Anything else
     matching `place_*.md` in that folder is a node.
     """
+    path = path.resolve()
+    root = root.resolve()
     try:
         rel = path.relative_to(root)
     except ValueError:
@@ -109,7 +111,11 @@ def main(argv: list[str]) -> int:
         print(f"\n{failed}/{total} files failed road architecture validation")
         return 1
     print(f"OK: {total} files passed road architecture validation")
-    return 0
+    
+    # Pass to next validator
+    print()
+    import validate_roads_km
+    return validate_roads_km.main(["validate_roads_km"] + [str(f) for f in targets])
 
 
 if __name__ == "__main__":

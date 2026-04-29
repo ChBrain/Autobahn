@@ -19,7 +19,7 @@ The exit ramp. The B54 and the Vorhalle district. For drivers coming from Köln:
 ## Withheld
 The tunnel above is 820 metres of covered road under the Vorhalle district - opened 2003, because the residents refused the open trench. The surface above has been returned to the neighbourhood. A football pitch is up there. None of this is visible from the road or from the exit ramp.
 
-The [Brücke Hengstey](place_a1_bruecke_hengstey.md) is 1 km north, between this exit and Hagen-Nord. The replacement construction has been ongoing since structural deficits were confirmed in 2011. The bridge and the tunnel are 1 km apart. Together they make the stretch between these two exits the most infrastructure-dense kilometre on the A1 between Westhofener Kreuz and Wuppertal. No sign says this.
+The [Brücke Hengstey](place_a1_bridge_hengstey.md) is 1 km north, between this exit and Hagen-Nord. The replacement construction has been ongoing since structural deficits were confirmed in 2011. The bridge and the tunnel are 1 km apart. Together they make the stretch between these two exits the most infrastructure-dense kilometre on the A1 between Westhofener Kreuz and Wuppertal. No sign says this.
 
 ---
 

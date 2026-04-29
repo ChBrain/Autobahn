@@ -2,23 +2,23 @@
 
 ## Owner
 - Project: Autobahn
-- Place: [the A24](place_the_a24.md)
+- Place: [A24](place_a24.md) in [Schleswig-Holstein](place_schleswig_holstein.md)
 
 ## Shown
 Exit 31. The junction of the A24 and the A1. The A1 runs north to Lübeck and Fehmarn, south to Hamburg-Billstedt. The A24 continues east toward Berlin. On the A1 this is exit 31.
 
-- 3 km west/north: [Hamburg-Jenfeld](place_a24_02_hamburg_jenfeld.md)
-- 6 km east/south: [Reinbek](place_a24_04_reinbek.md)
+- 3.0 km west: [Hamburg-Jenfeld](place_a24_02_hamburg_jenfeld.md)
+- 4.3 km east: [Reinbek](place_a24_04_reinbek.md)
 
 ## Holds
-[The Kilometerstein](piece_the_kilometerstein.md).
+[km 6.6](piece_the_kilometerstein.md): Kreuz Hamburg-Ost.
 
 ## Offers
 Ausfahrt 3 - the exit ramp.
 
 ## Withheld
-The Sachsenwald. Germany's largest privately owned forest begins a few kilometres east - 7,000 hectares, historically the estate of Otto von Bismarck. Bismarck is buried at Friedrichsruh in the forest.
+In January 1871 Kaiser Wilhelm I gave Otto von Bismarck the Sachsenwald — 6,000 hectares of forest beginning a few kilometres east of this junction — as a personal gift in recognition of his role in founding the German Reich. Bismarck is buried there at Friedrichsruh. The family still owns most of it. As one of only two uninhabited municipal areas in Schleswig-Holstein, the Sachsenwald sets its own trade tax rate through a nominated estate manager. The rate has been unchanged since 1958 at roughly half that of Hamburg. By 2024 at least 21 companies were registered at a forest hut there. The Kaiser's gift is still working.
 
 ---
 
-v0.1.1 - KAI Worlds
+v0.1.3 - KAI Worlds

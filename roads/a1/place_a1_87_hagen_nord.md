@@ -10,10 +10,11 @@ Ausfahrt 87. km 344,2. The sign: Hagen-Nord. The Vorhalle district below - a Hag
 - Toward Dortmund: Westhofener Kreuz (A1/A45), 4 km
 - Toward Köln: [Hagen-West](place_a1_88_hagen_west.md), 3,4 km
 
-Between this exit and Hagen-West, in order: [Volmebrücke](place_a1_volmebruecke.md) (160m over the Volme), [Brücke Hengstey](place_a1_bruecke_hengstey.md) (rail crosses road - 88m bridge above / 121m underpass below).
+Between this exit and Hagen-West, in order: [Volmebrücke](place_a1_volme_bridge.md) (160m over the Volme), [Brücke Hengstey](place_a1_bridge_hengstey.md) (rail crosses road - 88m bridge above / 121m underpass below).
 
 ## Holds
-Nothing stored here.
+
+[km 344.2](piece_the_kilometerstein.md): Hagen-Nord.
 
 ## Offers
 Ausfahrt 87 - the exit ramp. Toward Hagen city centre and toward Wetter and Witten. Coming from Dortmund: first Hagen exit. Drivers who know the city take this one.

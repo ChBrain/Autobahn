@@ -9,7 +9,7 @@ The Ostseeautobahn. The A20 runs east from its current western terminus at Weede
 ## Holds
 * [km 0.0](piece_the_kilometerstein.md): [Bad Segeberg-Nord](place_a21_12_bad_segeberg_nord.md).
 * [km 4.4](piece_the_kilometerstein.md): [Weede](place_a20_weede.md).
-* [km 7.9](piece_the_kilometerstein.md): [Raststätte Kronberg](place_a20_raststaette_kronberg.md).
+* [km 7.9](piece_the_kilometerstein.md): [Raststätte Kronberg](place_a20_service_kronberg.md).
 * [km 12.7](piece_the_kilometerstein.md): [Geschendorf](place_a20_geschendorf.md).
 * [km 21.0](piece_the_kilometerstein.md): [Mönkhagen](place_a20_moenkhagen.md).
 * [km 27.7](piece_the_kilometerstein.md): [Kreuz Lübeck](place_a20_1_kreuz_luebeck.md).

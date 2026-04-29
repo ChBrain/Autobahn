@@ -9,8 +9,9 @@ The Ahrensburg exit. The sign: Ahrensburg. The road leaving the A1 toward the to
 
 ## Holds
 
-* [km 127.0](piece_the_kilometerstein.md) on [the A1](place_a1.md).
-* 7.0 km north on [the A1](place_a1.md) to [Raststätte Buddikate Ost](place_a1_28_raststaette_buddikate_ost.md).
+[km 127.0](piece_the_kilometerstein.md): Ahrensburg.
+
+* 7.0 km north on [the A1](place_a1.md) to [Raststätte Buddikate Ost](place_a1_28_service_buddikate_ost.md).
 * 4.0 km south on [the A1](place_a1.md) to [Stapelfeld](place_a1_30_stapelfeld.md).
 
 ## Offers

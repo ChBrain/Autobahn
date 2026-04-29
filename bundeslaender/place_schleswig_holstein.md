@@ -35,7 +35,7 @@ Entering from Hamburg south: the Maschen marshalling yard visible from the A7. T
   - [Reinfeld](place_a1_25_reinfeld.md)
   - [Bad Oldesloe](place_a1_26_bad_oldesloe.md)
   - [Kreuz Bargteheide](place_a1_27_kreuz_bargteheide.md)
-  - [Raststätte Buddikate Ost](place_a1_28_raststaette_buddikate_ost.md)
+  - [Raststätte Buddikate Ost](place_a1_28_service_buddikate_ost.md)
   - [Ahrensburg](place_a1_29_ahrensburg.md)
   - [Stapelfeld](place_a1_30_stapelfeld.md)
   - [Barsbüttel](place_a1_31_barsbuettel.md)
@@ -47,17 +47,17 @@ Entering from Hamburg south: the Maschen marshalling yard visible from the A7. T
   - [Schleswig/Schuby](place_a7_05_schleswig_schuby.md)
   - [Schleswig/Jagel](place_a7_06_schleswig_jagel.md)
   - [Owschlag](place_a7_07_owschlag.md)
-  - [Raststätte Hüttener Berge](place_raststaette_huettener_berge.md)
+  - [Raststätte Hüttener Berge](place_service_huettener_berge.md)
   - [Rendsburg/Büdelsdorf](place_a7_08_rendsburg_buedelsdorf.md)
   - [Kreuz Rendsburg](place_a7_09_kreuz_rendsburg.md)
-  - [Raststätte Aalbek](place_raststaette_aalbek.md)
+  - [Raststätte Aalbek](place_service_aalbek.md)
   - [Warder](place_a7_10_warder.md)
   - [Bordesholm](place_a7_11_bordesholm.md)
   - [Dreieck Bordesholm](place_a7_12_dreieck_bordesholm.md)
   - [Neumünster-Nord](place_a7_13_neumuenster_nord.md)
   - [Neumünster-Mitte](place_a7_14_neumuenster_mitte.md)
   - [Neumünster-Süd](place_a7_15_neumuenster_sued.md)
-  - [Raststätte Brokenlande](place_raststaette_brokenlande.md)
+  - [Raststätte Brokenlande](place_service_brokenlande.md)
   - [Großenaspe](place_a7_16_grossenaspe.md)
   - [Kreuz Bad Bramstedt](place_a7_kreuz_bad_bramstedt.md)
   - [Bad Bramstedt](place_a7_17_bad_bramstedt.md)
@@ -69,7 +69,7 @@ Entering from Hamburg south: the Maschen marshalling yard visible from the A7. T
   - [Norderstedt-Mitte / Dreieck Garstedt](place_a7_22_norderstedt_mitte.md)
 - [A20](place_a20.md) - Weede to Groß Sarau, Ostseeautobahn
   - [Weede](place_a20_weede.md)
-  - [Raststätte Kronberg](place_a20_raststaette_kronberg.md)
+  - [Raststätte Kronberg](place_a20_service_kronberg.md)
   - [Geschendorf](place_a20_geschendorf.md)
   - [Mönkhagen](place_a20_moenkhagen.md)
   - [Kreuz Lübeck](place_a20_1_kreuz_luebeck.md)
@@ -112,9 +112,32 @@ Entering from Hamburg south: the Maschen marshalling yard visible from the A7. T
   - [Pinneberg-Süd](place_a23_18_pinneberg_sued.md)
   - [Halstenbek/Rellingen](place_a23_19_halstenbek_rellingen.md)
   - [Halstenbek-Krupunder](place_a23_20_halstenbek_krupunder.md)
-- [A24](place_the_a24.md) - Hamburg-Horn to Gudow
-- [A210](place_the_a210.md) - Schacht-Audorf to Kreuz Kiel-West
-- [A215](place_the_a215.md) - Kiel-Westring to Dreieck Bordesholm
+- [A24](place_a24.md) - Gudow to Hamburg-Horn
+  - [Gudow](place_a24_01_gudow.md)
+  - [Ratzeburg](place_a24_02_ratzeburg.md)
+  - [Zarrentin](place_a24_03_zarrentin.md)
+  - [Berkenthin](place_a24_04_berkenthin.md)
+  - [Pansdorf](place_a24_05_pansdorf.md)
+  - [Lübeck-Nord](place_a24_06_luebeck_nord.md)
+  - [Lübeck-Zentrum](place_a24_07_luebeck_zentrum.md)
+  - [Lübeck-Süd](place_a24_08_luebeck_sued.md)
+  - [Kreuz Bad Schwartau](place_a24_08b_kreuz_bad_schwartau.md)
+- [A25](place_a25.md) - Dreieck Hamburg-Südost to Geesthacht
+  - [Geesthacht](place_a25_7_geesthacht.md)
+- [A210](place_a210.md) - Westerrönfeld to Kreuz Kiel-West
+  - [Westerrönfeld](place_a210_01_westerroehnfeld.md)
+  - [Schacht-Audorf](place_a210_02_schacht_audorf.md)
+  - [Kreuz Rendsburg](place_a210_03_kreuz_rendsburg.md)
+  - [Bredenbek](place_a210_04_bredenbek.md)
+  - [Achterwehr](place_a210_05_achterwehr.md)
+  - [Melsdorf](place_a210_06_melsdorf.md)
+  - [Kreuz Kiel-West](place_a210_07_kreuz_kiel_west.md)
+- [A215](place_a215.md) - Kiel-Westring to Dreieck Bordesholm
+  - [Kiel-Westring](place_a215_1_kiel_westring.md)
+  - [Kiel-Mitte](place_a215_2_kiel_mitte.md)
+  - [Kreuz Kiel-West](place_a215_3_kreuz_kiel_west.md)
+  - [Blumenthal](place_a215_4_blumenthal.md)
+  - [Dreieck Bordesholm](place_a215_5_dreieck_bordesholm.md)
 
 ## Offers
 130 recommended on most sections - no blanket limit on many stretches. The road wet frequently. Wind crossings notable between junctions on exposed sections. Rest stops sparse north of Rendsburg. The Rader Hochbrücke over the Kiel Canal at 42 metres - the high point of the A7 in this state.
