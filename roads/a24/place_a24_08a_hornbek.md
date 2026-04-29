@@ -7,8 +7,8 @@
 ## Shown
 Exit 8a. The sign: Hornbek. Eastern Schleswig-Holstein - the road approaching the state border. The landscape flat, agricultural, the Elbe-Lübeck canal crossing somewhere near here.
 
-- 6 km west: [Talkau](place_a24_talkau.md)
-- 6 km east: [Gudow](place_a24_gudow.md)
+- 6 km west: [Talkau](place_a24_07_talkau.md)
+- 6 km east: [Gudow](place_a24_08b_gudow.md)
 
 ## Holds
 [The Kilometerstein](piece_the_kilometerstein.md).

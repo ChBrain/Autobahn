@@ -7,8 +7,8 @@
 ## Shown
 The sign: Reinbek. The Hamburg commuter belt. The road leaving the city - the last dense suburban exit before the A24 enters the open country of eastern Schleswig-Holstein.
 
-- 6 km west/north: [Kreuz Hamburg-Ost](place_a24_kreuz_hamburg_ost.md)
-- 6 km east/south: [Witzhave](place_a24_witzhave.md)
+- 6 km west/north: [Kreuz Hamburg-Ost](place_a24_03_kreuz_hamburg_ost.md)
+- 6 km east/south: [Witzhave](place_a24_05_witzhave.md)
 
 ## Holds
 [The Kilometerstein](piece_the_kilometerstein.md).

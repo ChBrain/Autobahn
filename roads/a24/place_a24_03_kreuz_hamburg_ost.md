@@ -7,8 +7,8 @@
 ## Shown
 Exit 31. The junction of the A24 and the A1. The A1 runs north to Lübeck and Fehmarn, south to Hamburg-Billstedt. The A24 continues east toward Berlin. On the A1 this is exit 31.
 
-- 3 km west/north: [Hamburg-Jenfeld](place_a24_hamburg_jenfeld.md)
-- 6 km east/south: [Reinbek](place_a24_reinbek.md)
+- 3 km west/north: [Hamburg-Jenfeld](place_a24_02_hamburg_jenfeld.md)
+- 6 km east/south: [Reinbek](place_a24_04_reinbek.md)
 
 ## Holds
 [The Kilometerstein](piece_the_kilometerstein.md).

@@ -7,7 +7,7 @@
 ## Shown
 The western entry point of the A24 in the Hamburg area. The sign: Hamburg-Horn. The road heading east toward Berlin - 230 kilometres to go.
 
-- 4 km east/south: [Hamburg-Jenfeld](place_a24_hamburg_jenfeld.md)
+- 4 km east/south: [Hamburg-Jenfeld](place_a24_02_hamburg_jenfeld.md)
 
 ## Holds
 [The Kilometerstein](piece_the_kilometerstein.md).
