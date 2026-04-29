@@ -13,12 +13,11 @@ Ausfahrt 87. km 344,2. The sign: Hagen-Nord. The Vorhalle district below - a Hag
 Between this exit and Hagen-West, in order: [Volmebrücke](place_a1_volme_bridge.md) (160m over the Volme), [Brücke Hengstey](place_a1_bridge_hengstey.md) (rail crosses road - 88m bridge above / 121m underpass below).
 
 ## Holds
-Nothing stored here.
+
+[km 344.2](piece_the_kilometerstein.md): Hagen-Nord.
 
 ## Offers
 Ausfahrt 87 - the exit ramp. Toward Hagen city centre and toward Wetter and Witten. Coming from Dortmund: first Hagen exit. Drivers who know the city take this one.
-
-## Withheld
 The Hengsteysee. The reservoir lies directly west of this exit - reachable from the exit, not visible from the carriageway.
 
 ---
