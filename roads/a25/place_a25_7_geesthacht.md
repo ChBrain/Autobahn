@@ -2,7 +2,7 @@
 
 ## Owner
 - Project: Autobahn
-- Place: [the A25](place_a25.md)
+- Place: [A25](place_a25.md) in [Schleswig-Holstein](place_schleswig_holstein.md)
 
 ## Shown
 Exit 7. The eastern terminus of the A25. The sign: Geesthacht. Schleswig-Holstein begins here — Kreis Herzogtum Lauenburg. The Elbe a short distance south.
