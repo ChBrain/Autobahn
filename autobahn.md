@@ -108,9 +108,9 @@ that run the simulation regardless of road.
 - [the A23](place_a23.md)
 - [the A24](place_a24.md)
 - [the A25](place_a25.md)
-- [the A40](place_a40.md)
-- [the A111](place_a111.md)
-- [the A115](place_a115.md)
+- [the A40](place_the_a40.md)
+- [the A111](place_the_a111.md)
+- [the A115](place_the_a115.md)
 - [the A210](place_a210.md)
 - [the A215](place_a215.md)
 
@@ -135,4 +135,4 @@ that run the simulation regardless of road.
 
 ---
 
-v0.1.1 - KAI Worlds
+v0.1.2 - KAI Worlds
