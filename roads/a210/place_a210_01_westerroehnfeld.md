@@ -7,7 +7,7 @@
 ## Shown
 The western terminus of the A210. The sign: Westerrönfeld. The road beginning here — west of this point the B202 from Rendsburg. The Nord-Ostsee-Kanal a few kilometres north.
 
-- 4 km east: [Schacht-Audorf](place_a210_02_schacht_audorf.md)
+- 3.9 km east: [Schacht-Audorf](place_a210_02_schacht_audorf.md)
 
 ## Holds
 [km 0.0](piece_the_kilometerstein.md): Westerrönfeld.

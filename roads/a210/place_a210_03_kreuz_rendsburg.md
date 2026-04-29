@@ -7,7 +7,7 @@
 ## Shown
 Exit 3. The junction of the A210 and the A7. The A7 runs north to Flensburg and south to Hamburg. The A210 continues east toward Kiel. On the A7 this is exit 9. Two canal crossings visible from here: the Rader Hochbrücke on the A7 to the west, the railway Hochbrücke with the Schwebefähre hanging beneath it to the east.
 
-- 3 km west: [Schacht-Audorf](place_a210_02_schacht_audorf.md)
+- 2.9 km west: [Schacht-Audorf](place_a210_02_schacht_audorf.md)
 - 6.7 km east: [Bredenbek](place_a210_04_bredenbek.md)
 
 ## Holds

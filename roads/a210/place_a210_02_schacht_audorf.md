@@ -7,8 +7,8 @@
 ## Shown
 The sign: Schacht-Audorf. The road continuing east from Westerrönfeld. The Nord-Ostsee-Kanal a few kilometres north. Both canal crossings visible from here: the Rader Hochbrücke to the left, the railway Hochbrücke with the Schwebefähre to the east.
 
-- 4 km west: [Westerrönfeld](place_a210_01_westerroehnfeld.md)
-- 3 km east: [Kreuz Rendsburg](place_a210_03_kreuz_rendsburg.md)
+- 3.9 km west: [Westerrönfeld](place_a210_01_westerroehnfeld.md)
+- 2.9 km east: [Kreuz Rendsburg](place_a210_03_kreuz_rendsburg.md)
 
 ## Holds
 [km 3.9](piece_the_kilometerstein.md): Schacht-Audorf.
