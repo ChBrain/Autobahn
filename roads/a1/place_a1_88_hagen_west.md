@@ -18,6 +18,8 @@ Between this exit and Hagen-Nord, in order toward Dortmund: [Brücke Hengstey](p
 
 ## Offers
 Ausfahrt 88 - the exit ramp. The B226 toward Hagen-West, Wetter (Ruhr) and Herdecke. Coming from Dortmund: second Hagen exit. Coming from Köln: first Hagen exit.
+
+## Withheld
 The noise. Residents of Vorhalle have complained about A1 traffic noise for years - a Bürgerinitiative is active. Between 115,000 and 120,000 vehicles pass through this section daily.
 
 ---

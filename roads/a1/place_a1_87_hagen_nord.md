@@ -18,6 +18,8 @@ Between this exit and Hagen-West, in order: [Volmebrücke](place_a1_volme_bridge
 
 ## Offers
 Ausfahrt 87 - the exit ramp. Toward Hagen city centre and toward Wetter and Witten. Coming from Dortmund: first Hagen exit. Drivers who know the city take this one.
+
+## Withheld
 The Hengsteysee. The reservoir lies directly west of this exit - reachable from the exit, not visible from the carriageway.
 
 ---
