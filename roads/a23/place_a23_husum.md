@@ -16,8 +16,8 @@ Where the B5 continues north toward the North Sea coast. The town of Husum - pop
 The B5 Bundesstraße. The ordinary road continues in both directions.
 
 ## Withheld
-Theodor Storm. Born in Husum in 1817, the poet and writer created a grey northern landscape in his work - the Husumer Bucht, the marshes, the sky. He wrote: "Die graue Stadt am Meer" - the grey city by the sea. His house still stands in Husum. The North Sea coast here is not dramatic - no cliffs, no bold headlands - only the flat edge of the land meeting water, defended by dikes and patient labour. The tourists come anyway, drawn by the Friesenland and the salt marshes and the sense of reaching the edge.
+Husum had no harbour until 1362. The Grote Mandrenke - the great North Sea storm surge of that year - flooded the coast, carved a navigable channel from the inland Mühlenau valley to the sea, and killed tens of thousands across the region. The survivors built a market square beside the new water. The town that exists now is a direct consequence of that disaster. The inner harbour still dries to mud at low tide, as it has since the storm made it.
 
 ---
 
-v0.1.0 - KAI Worlds
+v0.1.1 - KAI Worlds

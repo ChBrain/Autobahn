@@ -17,8 +17,8 @@ The sign: Lägerdorf. The landscape here: chalk deposits visible in the fields, 
 Ausfahrt 11 - the exit ramp. The ordinary road below.
 
 ## Withheld
-The chalk. Lägerdorf sits on one of the largest chalk deposits in Germany - the Lägerdorfer Kreidegrube. The white stone visible in the landscape. The deposit has been quarried since the 19th century and supplies cement production.
+The chalk visible in the fields near this exit is the floor of a warm shallow sea that covered this part of Europe around 85 million years ago - stretching from Jutland to the Champagne, from Dover to Rügen. The chalk is made almost entirely of the compressed skeletons of microscopic marine organisms. A salt dome pushed it to the surface here, exposing it to quarrying that has been running since 1862. The deposit is 400 metres deep. The turquoise lakes visible from the road are former quarry pits that have filled with groundwater.
 
 ---
 
-v0.1.4 - KAI Worlds
+v0.1.5 - KAI Worlds

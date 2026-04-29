@@ -17,8 +17,8 @@ Small exit. The sign: Hohenfelde. The road here in open country - the Hamburg me
 Ausfahrt 12 - the exit ramp. The ordinary road below.
 
 ## Withheld
-The road here runs along the boundary between the Geest - the slightly elevated glacial sand and gravel plateau - and the low-lying marsh below. The line is visible in the landscape: higher ground to the east, flat to the west. Every settlement on this stretch chose the Geest edge for the same reason, a thousand years ago and before.
+Schloss Breitenburg stands a few kilometres from this exit in the Stör lowlands. It was built from 1530 by Johann Rantzau - the same commander who in 1559 finally conquered the Dithmarschen peasant republic for the Danish crown, ending the independence that had defeated every army sent against it for over a century. Rantzau built it as a political statement, calling it a Schloss in the chapel inscription despite the term being reserved for royal seats. The family still lives in it.
 
 ---
 
-v0.1.4 - KAI Worlds
+v0.1.5 - KAI Worlds
