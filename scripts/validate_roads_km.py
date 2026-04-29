@@ -91,8 +91,8 @@ def validate(path: Path, root: Path) -> list[str]:
         if km_values[i] <= km_values[i - 1]:
             errors.append(
                 f"km values not in ascending order: "
-                f"entry {i} has {km_values[i]}, "
-                f"entry {i+1} has {km_values[i-1]}"
+                f"entry {i} has {km_values[i-1]}, "
+                f"entry {i+1} has {km_values[i]}"
             )
 
     # Check for duplicates

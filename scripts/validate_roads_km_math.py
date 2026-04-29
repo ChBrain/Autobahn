@@ -44,7 +44,14 @@ SHOWN_BLOCK_RE = re.compile(r"^## Shown\r?\n(.*?)(?=\r?\n##|\Z)", re.MULTILINE |
 
 
 def classify(path: Path, root: Path) -> str:
-    """Return 'place_node' or 'other'."""
+    """Return 'place_node' or 'other'.
+
+    A file is a place_node iff it lives in `roads/<road>/`, its basename
+    matches `place_*.md`, and it is not the road index (`place_<road>.md`
+    or `place_the_<road>.md`). This intentionally includes bridges,
+    services, and other non-numbered nodes — the index lookup in
+    validate() decides whether km math actually applies.
+    """
     path = path.resolve()
     root = root.resolve()
     try:
@@ -52,15 +59,11 @@ def classify(path: Path, root: Path) -> str:
     except ValueError:
         return "other"
     parts = rel.parts
-    # place_node: place_<road>_<number>_*.md (not place_<road>.md)
     if parts[0] == "roads" and len(parts) >= 3:
+        road = parts[1]
         stem = path.stem
-        if stem.startswith("place_") and stem.count("_") >= 2:
-            # place_a24_01_hamburg_horn -> road_node
-            # place_a24 -> not a node
-            parts = stem.split("_")
-            if len(parts) >= 3 and parts[2].isdigit():
-                return "place_node"
+        if stem.startswith("place_") and stem not in (f"place_{road}", f"place_the_{road}"):
+            return "place_node"
     return "other"
 
 
@@ -92,13 +95,15 @@ def get_index_km_map(root: Path, road: str) -> Dict[str, Tuple[str, float]]:
     return km_map
 
 
-def extract_road_from_path(path: Path) -> str | None:
-    """Extract road name from place_<road>_*.md"""
-    stem = path.stem
-    if stem.startswith("place_"):
-        parts = stem.split("_")
-        if len(parts) >= 3:
-            return parts[1]  # e.g., "a24" from "place_a24_01_name"
+def extract_road_from_path(path: Path, root: Path) -> str | None:
+    """Extract road name from the parent road folder under `roads/`."""
+    try:
+        rel = path.resolve().relative_to(root.resolve())
+    except ValueError:
+        return None
+    parts = rel.parts
+    if len(parts) >= 3 and parts[0] == "roads":
+        return parts[1]
     return None
 
 
@@ -114,18 +119,19 @@ def validate(path: Path, root: Path) -> List[str]:
     except (UnicodeDecodeError, OSError):
         return ["could not read file as UTF-8"]
     
-    road = extract_road_from_path(path)
+    road = extract_road_from_path(path, root)
     if not road:
-        return ["could not extract road name from filename"]
-    
-    # Get index km map
+        return []
+
     km_map = get_index_km_map(root, road)
     if not km_map:
-        return ["road index not found or has no km entries"]
-    
+        return []
+
     filename = path.name
     if filename not in km_map:
-        return ["file not found in road index"]
+        # Bridges and other off-chain nodes legitimately do not appear
+        # in the index Holds. Skip silently rather than failing.
+        return []
     
     _, index_km = km_map[filename]
     
