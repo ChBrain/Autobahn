@@ -17,8 +17,8 @@ The southern Heide exit. The sign: Heide, Heide-Süd. The town accessible from h
 Ausfahrt 3 - the exit ramp. The ordinary road below.
 
 ## Withheld
-The Wattenmeer. Eight kilometres west the land ends at the tidal flat that runs from Den Helder to Esbjerg - UNESCO World Heritage, one of the largest intertidal zones on earth. At low tide the sea retreats kilometres. At high tide it returns. The road never gets close enough to see it.
+On 17 February 1500, the Danish king and his brother invaded Dithmarschen with a professional army of around 12,000 - including the Schwarze Garde, 4,000 mercenary Landsknechts. The Dithmarschen farmers opened the dike sluices, flooded the fields, and trapped the army on a narrow causeway near Hemmingstedt, a few kilometres from this exit. Crammed onto the road with no solid ground to deploy on, the Schwarze Garde was destroyed. Over 7,000 on the Danish side were killed, most of them drowned. The peasants captured the Dannebrog - the Danish national standard. Heide, the capital of the peasant republic they were defending, is the town this exit serves.
 
 ---
 
-v0.1.4 - KAI Worlds
+v0.1.5 - KAI Worlds

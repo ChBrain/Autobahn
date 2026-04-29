@@ -17,8 +17,8 @@ The northern Elmshorn exit. The sign: Horst, Elmshorn. The first large town on t
 Ausfahrt 13 - the exit ramp. The ordinary road below.
 
 ## Withheld
-The Krückau runs through Elmshorn to the Elbe, four kilometres east. Before the railways it carried river barges - grain, timber, cattle - down to Hamburg. The Elmshorn quays are gone. The river still runs. Most drivers on this road take the exit for the industrial estate and never see it.
+The Krückau running through Elmshorn is a tidal river - the water rises and falls with the Elbe, responding to the North Sea forty kilometres away. That tidal reach is what made Elmshorn a working port. By the late 18th century the town had 130 vessels on the river carrying grain, timber and cattle to Hamburg. Earlier, from around 1715, local men joined Arctic whaling expeditions out of Hamburg, and by mid-century Elmshorn had its own whaling ships working the waters around Greenland and Spitsbergen. The railway ended the river trade. The Krückau still runs to the Elbe. The quays are gone.
 
 ---
 
-v0.1.4 - KAI Worlds
+v0.1.5 - KAI Worlds

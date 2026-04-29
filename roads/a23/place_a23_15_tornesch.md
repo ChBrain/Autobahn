@@ -17,8 +17,8 @@ The sign: Tornesch. The Hamburg commuter belt beginning. The road increasingly s
 Ausfahrt 15 - the exit ramp. The ordinary road below.
 
 ## Withheld
-Tornesch is where the Hamburg commuter belt begins in earnest - the point where the villages stop being Holstein market towns and start being places people sleep between Hamburg shifts. The landscape changes here: the fields narrowing, the settlements merging, the road signs adding S-Bahn connections.
+In 1931 the first commercial plant to use the Scholler process was built in Tornesch - a wood saccharification method that converts wood chips and sawdust into fermentable sugar. The process takes its full name, the Scholler-Tornesch process, from this location. During the Second World War the US government evaluated it as a source of ethanol for synthetic rubber production. The plant continued operating through the war and afterwards. The Tornesch plant is the reason the process has the name it has.
 
 ---
 
-v0.1.4 - KAI Worlds
+v0.1.5 - KAI Worlds
