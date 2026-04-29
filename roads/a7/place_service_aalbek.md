@@ -8,11 +8,11 @@
 ## Shown
 Between [Neumünster-Nord](place_a7_13_neumuenster_nord.md) and [Neumünster-Mitte](place_a7_14_neumuenster_mitte.md). No exit number. Small. The building modest. [The coffee](piece_the_coffee.md) available. Toilets. The Autobahn close - the traffic sound constant.
 
-## Holds
+- 3.4 km north: [Neumünster-Nord](place_a7_13_neumuenster_nord.md)
+- 2.7 km south: [Neumünster-Mitte](place_a7_14_neumuenster_mitte.md)
 
-* [km 93.7](piece_the_kilometerstein.md) on [the A7](place_a7.md).
-* 3.4 km north on [the A7](place_a7.md) to [Neumünster-Nord](place_a7_13_neumuenster_nord.md).
-* 2.7 km south on [the A7](place_a7.md) to [Neumünster-Mitte](place_a7_14_neumuenster_mitte.md).
+## Holds
+[km 93.7](piece_the_kilometerstein.md): Raststätte Aalbek.
 
 ## Offers
 [The coffee](piece_the_coffee.md). [The tank](piece_the_tank.md). A stop between the two northern Neumünster exits.
@@ -22,4 +22,4 @@ The Stör. The river passes through the outer districts of Neumünster, close to
 
 ---
 
-v0.1.1 - KAI Worlds
+v0.1.2 - KAI Worlds

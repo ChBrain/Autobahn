@@ -8,11 +8,11 @@
 ## Shown
 Between [Quickborn](place_a7_21_quickborn.md) and [Norderstedt-Mitte](place_a7_22_norderstedt_mitte.md). No exit number. Small. A petrol station, toilets, [the coffee](piece_the_coffee.md). The Hamburg skyline visible to the south on clear days. The Autobahn very close - the traffic sound constant, louder than at [Raststätte Hüttener Berge](place_service_huettener_berge.md) or [Raststätte Brokenlande](place_service_brokenlande.md).
 
-## Holds
+- 2.9 km north: [Quickborn](place_a7_21_quickborn.md)
+- 4.4 km south: [Norderstedt-Mitte](place_a7_22_norderstedt_mitte.md)
 
-* [km 136.6](piece_the_kilometerstein.md) on [the A7](place_a7.md).
-* 2.9 km north on [the A7](place_a7.md) to [Quickborn](place_a7_21_quickborn.md).
-* 4.4 km south on [the A7](place_a7.md) to [Norderstedt-Mitte](place_a7_22_norderstedt_mitte.md).
+## Holds
+[km 136.6](piece_the_kilometerstein.md): Rasthof Holmmoor.
 
 ## Offers
 The last stop at the edge of Hamburg's suburbs. [The coffee](piece_the_coffee.md). [The tank](piece_the_tank.md) if the orange light has been on since [Raststätte Brokenlande](place_service_brokenlande.md).
@@ -22,4 +22,4 @@ The Quickborner See. Two kilometres north - a glacial lake, the local swimming l
 
 ---
 
-v0.1.1 - KAI Worlds
+v0.1.2 - KAI Worlds

@@ -7,10 +7,11 @@
 ## Shown
 A rest stop in the Segeberger Forst. Trees on both sides. The road here running through the middle of the forest between Weede and Geschendorf - the longest gap between exits on the SH section.
 
+- 3.5 km west: [Weede](place_a20_weede.md)
+- 4.8 km east: [Geschendorf](place_a20_geschendorf.md)
+
 ## Holds
-* [km 7.9](piece_the_kilometerstein.md) on [A20](place_a20.md).
-* [Weede](place_a20_weede.md) is next on [A20](place_a20.md) going west.
-* [Geschendorf](place_a20_geschendorf.md) is next on [A20](place_a20.md) going east.
+[km 7.9](piece_the_kilometerstein.md): Raststätte Kronberg.
 
 ## Offers
 Rastplatz - the rest stop. Parking, facilities. No exit to the ordinary road.
@@ -20,4 +21,4 @@ Before the A20 was built through here, archaeologists worked the route for years
 
 ---
 
-v0.1.2 - KAI Worlds
+v0.1.3 - KAI Worlds
