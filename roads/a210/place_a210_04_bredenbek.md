@@ -8,7 +8,7 @@
 Small exit. The sign: Bredenbek. The road crossing the Schleswig-Holstein interior — farmland and forest between Rendsburg and Kiel.
 
 - 6.7 km west: [Kreuz Rendsburg](place_a210_03_kreuz_rendsburg.md)
-- 6 km east: [Achterwehr](place_a210_05_achterwehr.md)
+- 6.2 km east: [Achterwehr](place_a210_05_achterwehr.md)
 
 ## Holds
 [km 13.5](piece_the_kilometerstein.md): Bredenbek.

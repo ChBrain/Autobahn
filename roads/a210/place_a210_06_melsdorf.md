@@ -7,7 +7,7 @@
 ## Shown
 The sign: Melsdorf. The last ordinary exit before Kiel. The city fully present — the Kieler Förde approaching to the east.
 
-- 6 km west: [Achterwehr](place_a210_05_achterwehr.md)
+- 5.8 km west: [Achterwehr](place_a210_05_achterwehr.md)
 - 1.4 km east: [Kreuz Kiel-West](place_a210_07_kreuz_kiel_west.md)
 
 ## Holds

@@ -7,8 +7,8 @@
 ## Shown
 The sign: Achterwehr. The road approaching Kiel. The Kiel suburbs beginning — the A210 transitioning from rural connector to city approach.
 
-- 6 km west: [Bredenbek](place_a210_04_bredenbek.md)
-- 6 km east: [Melsdorf](place_a210_06_melsdorf.md)
+- 6.2 km west: [Bredenbek](place_a210_04_bredenbek.md)
+- 5.8 km east: [Melsdorf](place_a210_06_melsdorf.md)
 
 ## Holds
 [km 19.7](piece_the_kilometerstein.md): Achterwehr.
