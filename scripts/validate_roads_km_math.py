@@ -180,7 +180,7 @@ def validate(path: Path, root: Path) -> List[str]:
             
             # Check distance accuracy
             actual_distance = abs(neighbour_km - file_km)
-            if abs(distance - actual_distance) > 0.2:  # 200m tolerance
+            if abs(distance - actual_distance) > 0.1:  # 100m tolerance (x.y precision)
                 errors.append(
                     f"distance to {neighbour_name}: stated {distance} km, "
                     f"calculated {actual_distance:.1f} km (km {file_km} to km {neighbour_km})"
