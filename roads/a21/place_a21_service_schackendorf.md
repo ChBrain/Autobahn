@@ -16,8 +16,8 @@ Motorway service station. The sign: Schackendorf. The road approaching Bad Segeb
 Rastplatz - the service area. Parking, facilities. No exit to the ordinary road.
 
 ## Withheld
-The gypsum. The Segeberger Kalkberg - the limestone hill that gives Bad Segeberg its caves - is a relic of ancient seabed geology pushed up by glacial pressure. The hill is visible from near this exit. It is the reason the caves exist.
+Schackendorf replaced a village. Its predecessor, Rickersdorf, stood in the southwestern part of the same parish and was last recorded in a document in 1199. By 1216, when Schackendorf was first mentioned, Rickersdorf was already gone. What happened to it is not recorded. The ground where it stood is farmland. The Rastplatz here sits at the point where one settlement succeeded another and neither left much trace.
 
 ---
 
-v0.1.1 - KAI Worlds
+v0.1.2 - KAI Worlds

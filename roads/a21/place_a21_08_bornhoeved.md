@@ -16,8 +16,8 @@ The sign: Bornhöved. Rural Ostholstein. The Holsteinische Schweiz to the east -
 Ausfahrt 8 - the exit ramp. The ordinary road below.
 
 ## Withheld
-The battle. The Battle of Bornhöved in 1227 ended Danish supremacy over northern Germany - the Holstein and Lübeck forces defeated the Danish king Waldemar II here. The field where it happened is a few kilometres from this exit.
+The battle fought near this exit on 22 July 1227 is the reason Lübeck's independence held. Emperor Frederick II had granted Lübeck Free Imperial City status in 1226, but Denmark had held the city since 1202. The German coalition that defeated Valdemar II at Bornhöved included Lübeck's own forces. After the battle, Danish control ended and the 1226 charter became real. Lübeck kept that status for 711 years, until 1937. The field where it happened is a few kilometres east of this exit. The probable site is marked by a Bronze Age burial mound called the Königsbarg, and a stone in front of it carries the date and a carved sword.
 
 ---
 
-v0.1.1 - KAI Worlds
+v0.1.2 - KAI Worlds

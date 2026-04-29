@@ -16,8 +16,8 @@ Exit. The sign: Klein Barkau. The road running through the outer Kiel metropolit
 The exit ramp. The ordinary road below.
 
 ## Withheld
-The glacial landscape. The Kiel region lies at the terminus of the last ice age - the glacial deposits here are among the youngest in northern Germany, shaped by meltwater channels and moraines formed less than 12,000 years ago.
+The Bothkamper See lies a kilometre west of this exit. On a filled headland pushed into the water, Friedrich Gustav von Bülow, a landowner and not an astronomer, built a private observatory in 1869. He housed the largest telescope in Germany there. In 1882 an astronomer named Leo de Ball used it to discover an asteroid. The rock is still in orbit. The municipality next door carries it in its coat of arms: a 14-pointed star, one point for each of its 13 settlements, one for the asteroid found from a field in Holstein.
 
 ---
 
-v0.1.0 - KAI Worlds
+v0.1.1 - KAI Worlds

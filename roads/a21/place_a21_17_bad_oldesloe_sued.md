@@ -16,8 +16,8 @@ The southern Bad Oldesloe exit. The sign: Bad Oldesloe-Süd. The town accessible
 Ausfahrt 17a - the exit ramp. The ordinary road below.
 
 ## Withheld
-The Trave saltworks. Bad Oldesloe was a salt town - the Trave brine springs that give the town its Kurort status were exploited commercially from the medieval period. Salt from here supplied the Baltic herring trade. The river and its history run through the town two kilometres east of this exit.
+There is a secondary school in Bad Oldesloe named after Theodor Mommsen. He grew up here, the son of a poor Lutheran minister, educated at home until he was 17. He went on to write the definitive history of Rome, produce over 1,500 published works, get elected to both the Prussian and German parliaments, shape the German civil code, and receive the Nobel Prize in Literature in 1902 — the only historian ever to do so. The Nobel committee that year had been considering Leo Tolstoy, but found his views too radical. They chose Mommsen instead. He was 84. The school is two kilometres from this exit.
 
 ---
 
-v0.1.1 - KAI Worlds
+v0.1.2 - KAI Worlds

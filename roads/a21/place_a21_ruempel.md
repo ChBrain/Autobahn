@@ -16,8 +16,8 @@ One-way entry. The sign: Rümpel. The Hamburg commuter belt proper. The road her
 Ausfahrt 17b northbound entry only - the on-ramp to the A21 north. No exit or southbound access.
 
 ## Withheld
-The Bille river. The Bille rises in the Stormarn hills and flows west through the Hamburg metropolitan area to the Elbe.
+In the garden of Rohlfshagen manor, a few hundred metres from this exit, four yew trees still stand. In 1739, beneath those trees, Karl Friedrich Duke of Schleswig-Holstein-Gottorf died of what was probably a stroke. He was 39. He had been married to Anna Petrovna, daughter of Peter the Great. Through his son — the later Tsar Peter III — Karl Friedrich became the founding ancestor of the Holstein-Gottorf-Romanov dynasty that ruled Russia until 1917. The yew trees are still there.
 
 ---
 
-v0.1.1 - KAI Worlds
+v0.1.2 - KAI Worlds

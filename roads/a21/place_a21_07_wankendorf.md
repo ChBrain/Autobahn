@@ -16,8 +16,8 @@ The sign: Wankendorf. The road continuing north to [Nettelsee](place_a21_06_nett
 Ausfahrt 7 - the exit ramp. The ordinary road below.
 
 ## Withheld
-The Depenauer Moor. The bog immediately south is crossed via a purpose-built wildlife passage - the Wildtierdurchlass Depenauer Moor. Large mammals cross under here. One of the few remaining raised bogs in this part of Holstein, protected.
+Gut Depenau lies just south of this exit, in the bog and farmland between the road and the Alte Schwentine. In 1680 a girl named Anna Constantia von Brockdorff was born there. She became the mistress of Augustus the Strong, Elector of Saxony and King of Poland, and in 1706 was made Countess of Cosel. When she fell from favour she was imprisoned in Stolpen Castle in Saxony. She stayed there 49 years, until her death in 1765. She never returned to the field she was born in.
 
 ---
 
-v0.1.1 - KAI Worlds
+v0.1.2 - KAI Worlds

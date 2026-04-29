@@ -16,8 +16,8 @@ The northern Bad Oldesloe exit. The sign: Bad Oldesloe-Nord. The town bypassed t
 Ausfahrt 16 - the exit ramp. The ordinary road below.
 
 ## Withheld
-The Trave again. The river has grown. By Bad Oldesloe it is wide enough for small boats. The town was important for salt production in the medieval period - the saltworks on the Trave.
+In the 16th century a cottage on the outskirts of Bad Oldesloe — a few kilometres from this exit — sheltered the printing press of Menno Simons, the Dutch-Frisian theologian who gave the Mennonites their name. He spent his last years here, dying in 1561 in a nearby hamlet that no longer exists. The cottage still stands. Both the building and the linden tree in front of it are protected monuments. The tree is said to have been planted by Simons himself. That is not confirmed. The tree is still there.
 
 ---
 
-v0.1.1 - KAI Worlds
+v0.1.2 - KAI Worlds

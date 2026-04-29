@@ -16,8 +16,8 @@ The sign: Leezen. Rural. The road passing through the Stormarner Hügelland - th
 Ausfahrt 15 - the exit ramp. The ordinary road below.
 
 ## Withheld
-The Trave source. The Trave river - the same river that flows through Lübeck and reaches the Baltic at Travemünde - rises near here in the lakes south of Kiel. At this point it is a small stream. It crosses near this exit on its way to becoming a river wide enough for ships.
+In 1184 a monk named Meinhard left the Augustinian monastery at Segeberg — a few kilometres from this exit — and sailed to Livonia with a company of Lübeck merchants trading furs. He went to convert the pagan Livs. Seventeen years later, at the place he had first preached, the city of Riga was founded. It became one of the great Hanseatic ports. Lübeck, the dominant city of the Hanse, traded with it for centuries. Meinhard died in Livonia in 1196, was buried in Riga Cathedral, and was canonised by Pope John Paul II in 1993. The monastery he left has been gone for centuries. The road runs past where it stood.
 
 ---
 
-v0.1.1 - KAI Worlds
+v0.1.2 - KAI Worlds
