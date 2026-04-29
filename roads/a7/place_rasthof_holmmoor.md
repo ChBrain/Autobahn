@@ -15,7 +15,7 @@ Between [Quickborn](place_a7_21_quickborn.md) and [Norderstedt-Mitte](place_a7_2
 * 4.4 km south on [the A7](place_a7.md) to [Norderstedt-Mitte](place_a7_22_norderstedt_mitte.md).
 
 ## Offers
-The last stop at the edge of Hamburg's suburbs. [The coffee](piece_the_coffee.md). [The tank](piece_the_tank.md) if the orange light has been on since [Raststätte Brokenlande](place_raststaette_brokenlande.md).
+The last stop at the edge of Hamburg's suburbs. [The coffee](piece_the_coffee.md). [The tank](piece_the_tank.md) if the orange light has been on since [Raststätte Brokenlande](place_service_brokenlande.md).
 
 ## Withheld
 The Quickborner See. Two kilometres north - a glacial lake, the local swimming lake for the northern Hamburg suburbs. Cold, still, the basin left by the ice sheet. The last open water at the edge of the city.
