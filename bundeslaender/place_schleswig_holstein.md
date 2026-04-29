@@ -112,9 +112,30 @@ Entering from Hamburg south: the Maschen marshalling yard visible from the A7. T
   - [Pinneberg-Süd](place_a23_18_pinneberg_sued.md)
   - [Halstenbek/Rellingen](place_a23_19_halstenbek_rellingen.md)
   - [Halstenbek-Krupunder](place_a23_20_halstenbek_krupunder.md)
-- [A24](place_the_a24.md) - Hamburg-Horn to Gudow
-- [A210](place_the_a210.md) - Schacht-Audorf to Kreuz Kiel-West
-- [A215](place_the_a215.md) - Kiel-Westring to Dreieck Bordesholm
+- [A24](place_a24.md) - Gudow to Hamburg-Horn
+  - [Gudow](place_a24_01_gudow.md)
+  - [Ratzeburg](place_a24_02_ratzeburg.md)
+  - [Zarrentin](place_a24_03_zarrentin.md)
+  - [Berkenthin](place_a24_04_berkenthin.md)
+  - [Pansdorf](place_a24_05_pansdorf.md)
+  - [Lübeck-Nord](place_a24_06_luebeck_nord.md)
+  - [Lübeck-Zentrum](place_a24_07_luebeck_zentrum.md)
+  - [Lübeck-Süd](place_a24_08_luebeck_sued.md)
+  - [Kreuz Bad Schwartau](place_a24_08b_kreuz_bad_schwartau.md)
+- [A210](place_a210.md) - Westerrönfeld to Kreuz Kiel-West
+  - [Westerrönfeld](place_a210_01_westerroehnfeld.md)
+  - [Schacht-Audorf](place_a210_02_schacht_audorf.md)
+  - [Kreuz Rendsburg](place_a210_03_kreuz_rendsburg.md)
+  - [Bredenbek](place_a210_04_bredenbek.md)
+  - [Achterwehr](place_a210_05_achterwehr.md)
+  - [Melsdorf](place_a210_06_melsdorf.md)
+  - [Kreuz Kiel-West](place_a210_07_kreuz_kiel_west.md)
+- [A215](place_a215.md) - Kiel-Westring to Dreieck Bordesholm
+  - [Kiel-Westring](place_a215_1_kiel_westring.md)
+  - [Kiel-Mitte](place_a215_2_kiel_mitte.md)
+  - [Kreuz Kiel-West](place_a215_3_kreuz_kiel_west.md)
+  - [Blumenthal](place_a215_4_blumenthal.md)
+  - [Dreieck Bordesholm](place_a215_5_dreieck_bordesholm.md)
 
 ## Offers
 130 recommended on most sections - no blanket limit on many stretches. The road wet frequently. Wind crossings notable between junctions on exposed sections. Rest stops sparse north of Rendsburg. The Rader Hochbrücke over the Kiel Canal at 42 metres - the high point of the A7 in this state.
