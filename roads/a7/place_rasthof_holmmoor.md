@@ -6,7 +6,7 @@
 - Position: [Raststätte Worker](position_raststaette_worker.md)
 
 ## Shown
-Between [Quickborn](place_a7_21_quickborn.md) and [Norderstedt-Mitte](place_a7_22_norderstedt_mitte.md). No exit number. Small. A petrol station, toilets, [the coffee](piece_the_coffee.md). The Hamburg skyline visible to the south on clear days. The Autobahn very close - the traffic sound constant, louder than at [Raststätte Hüttener Berge](place_raststaette_huettener_berge.md) or [Raststätte Brokenlande](place_raststaette_brokenlande.md).
+Between [Quickborn](place_a7_21_quickborn.md) and [Norderstedt-Mitte](place_a7_22_norderstedt_mitte.md). No exit number. Small. A petrol station, toilets, [the coffee](piece_the_coffee.md). The Hamburg skyline visible to the south on clear days. The Autobahn very close - the traffic sound constant, louder than at [Raststätte Hüttener Berge](place_service_huettener_berge.md) or [Raststätte Brokenlande](place_service_brokenlande.md).
 
 ## Holds
 
