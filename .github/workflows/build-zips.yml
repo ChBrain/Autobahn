@@ -26,7 +26,12 @@ jobs:
           # Manifests, not arbitrary place files. The road index is the
           # manifest for its road; nodes are bundle contents, not manifests.
           # `roads/*/place_*.md` would match every node and break the build.
-          build() { python3 scripts/deploy.py --strict "$1"; }
+          #
+          # No --strict: per-road bundles don't carry the engine frame, and
+          # the world bundle is single-hop (no nodes). Both will always have
+          # cross-bundle links by design - they show as WARN in the log,
+          # which is the intended signal level for that pattern.
+          build() { python3 scripts/deploy.py "$1"; }
           build autobahn.md
           for road_dir in roads/*/; do
             road=$(basename "$road_dir")

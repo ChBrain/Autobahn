@@ -200,7 +200,11 @@ def main(argv: list[str]) -> int:
 
     out_path = args.out if args.out else default_out_path(args.manifest)
     build_zip(bundle, out_path)
-    print(f"Wrote {out_path.relative_to(ROOT)}")
+    try:
+        display = out_path.relative_to(ROOT)
+    except ValueError:
+        display = out_path
+    print(f"Wrote {display}")
     return 0
 
 
