@@ -8,10 +8,9 @@
 The Billstedt exit. The sign: Hamburg-Billstedt. The road passing over the Umschlagbahnhof Hamburg-Billwerder in a 243 m tunnel — the freight rail yard below, the motorway above it, the city continuing on the other side.
 
 ## Holds
-
-* [km 143](piece_the_kilometerstein.md) on [the A1](place_a1.md).
-* 2.0 km north on [the A1](place_a1.md) to [Hamburg-Öjendorf](place_a1_32_hamburg_oejendorf.md).
-* 5.6 km south on [the A1](place_a1.md) to [Hamburg-Moorfleet](place_a1_34_hamburg_moorfleet.md).
+[km 143](piece_the_kilometerstein.md): Hamburg-Billstedt.
+- 2.0 km north: [Hamburg-Öjendorf](place_a1_32_hamburg_oejendorf.md)
+- 5.6 km south: [Hamburg-Moorfleet](place_a1_34_hamburg_moorfleet.md)
 
 ## Offers
 Ausfahrt 33 - the exit ramp. The ordinary road below.

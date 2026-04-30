@@ -8,10 +8,9 @@
 The Öjendorf exit. The sign: Hamburg-Öjendorf. The city's eastern edge. The road descending toward the Öjendorfer See and the residential districts beyond.
 
 ## Holds
-
-* [km 141](piece_the_kilometerstein.md) on [the A1](place_a1.md).
-* 2.0 km north on [the A1](place_a1.md) to [Kreuz Hamburg-Ost](place_a1_31_kreuz_hamburg_ost.md).
-* 2.0 km south on [the A1](place_a1.md) to [Hamburg-Billstedt](place_a1_33_hamburg_billstedt.md).
+[km 141](piece_the_kilometerstein.md): Hamburg-Öjendorf.
+- 2.0 km north: [Kreuz Hamburg-Ost](place_a1_31_kreuz_hamburg_ost.md)
+- 2.0 km south: [Hamburg-Billstedt](place_a1_33_hamburg_billstedt.md)
 
 ## Offers
 Ausfahrt 32 - the exit ramp. The ordinary road below.

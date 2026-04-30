@@ -8,10 +8,9 @@
 The Dreieck Norderelbe. The A255 branching north toward the Elbbrücken and Hamburg city centre. The junction renamed in 2019 — it was Kreuz Hamburg-Süd until the A252 was downgraded to the B75. The Energieberg Georgswerder visible to the west: a former landfill, now a hill with wind turbines.
 
 ## Holds
-
-* [km 151](piece_the_kilometerstein.md) on [the A1](place_a1.md).
-* 3.0 km north on [the A1](place_a1.md) to [Dreieck Hamburg-Südost](place_a1_35_dreieck_hamburg_suedost.md).
-* 4.3 km south on [the A1](place_a1.md) to [Dreieck Hamburg-Stillhorn](place_a1_37_dreieck_hamburg_stillhorn.md).
+[km 151](piece_the_kilometerstein.md): Dreieck Norderelbe.
+- 3.0 km north: [Dreieck Hamburg-Südost](place_a1_35_dreieck_hamburg_suedost.md)
+- 4.3 km south: [Dreieck Hamburg-Stillhorn](place_a1_37_dreieck_hamburg_stillhorn.md)
 
 ## Offers
 [The A255](place_a255.md) north. Hamburg city centre.

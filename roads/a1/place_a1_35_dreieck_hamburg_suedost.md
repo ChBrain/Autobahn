@@ -8,11 +8,10 @@
 The Dreieck Hamburg-Südost. The A25 branching east toward Geesthacht. The Norderelbe 1 km to the west — the bridge approach begins immediately after. The Hamburg-Moorfleet exit contained within this node: a Doppelanschlussstelle.
 
 ## Holds
-
-* [km 147](piece_the_kilometerstein.md) on [the A1](place_a1.md).
-* 5.6 km north on [the A1](place_a1.md) to [Hamburg-Billstedt](place_a1_33_hamburg_billstedt.md).
-* 3.0 km south on [the A1](place_a1.md) to [Dreieck Norderelbe](place_a1_36_dreieck_norderelbe.md).
-* [Hamburg-Moorfleet](place_a1_34_hamburg_moorfleet.md) — contained exit within this node.
+[km 147](piece_the_kilometerstein.md): Dreieck Hamburg-Südost.
+- 5.6 km north: [Hamburg-Billstedt](place_a1_33_hamburg_billstedt.md)
+- 3.0 km south: [Dreieck Norderelbe](place_a1_36_dreieck_norderelbe.md)
+- [Hamburg-Moorfleet](place_a1_34_hamburg_moorfleet.md) — contained exit within this node.
 
 ## Offers
 [The A25](place_a25.md) east. Geesthacht.
