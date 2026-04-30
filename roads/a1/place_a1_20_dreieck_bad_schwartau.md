@@ -10,7 +10,8 @@ Exit 20. A junction, not an ordinary exit. The A226 branching east toward Lübec
 
 ## Holds
 
-* [km 83.0](piece_the_kilometerstein.md) on [the A1](place_a1.md).
+[km 83.0](piece_the_kilometerstein.md): Dreieck Bad Schwartau.
+
 * 0.7 km north on [the A1](place_a1.md) to [Sereetz](place_a1_19_sereetz.md).
 * 2.2 km south on [the A1](place_a1.md) to [Bad Schwartau](place_a1_21_bad_schwartau.md).
 
@@ -19,9 +20,8 @@ Exit 20. A junction, not an ordinary exit. The A226 branching east toward Lübec
 Ausfahrt 20 - the exit ramp. The ordinary road below.
 
 ## Withheld
-Bad Schwartau is best known not for its spa waters but for its food industry. The largest employer is Schwartauer Werke — a jam and fruit spread company now owned by Dr. Oetker. The *Bad* on the sign promises mineral springs and therapeutic brine. The economic reality behind it is strawberry jam.
-The moment the A226 ramp commits the Driver toward Travemünde. The Baltic ferries are at the end of that road. Scandinavia is at the end of that road.
+The Dom. Lübeck's cathedral, begun 1173 by Henry the Lion — the oldest building in the city, predating the merchant republic that made it famous by half a century. It was planted here as an act of political theatre: a bishop's seat in Slavic territory, anchoring Saxon authority before there was a city to anchor it to. The Holstentor gets the tourists. The Dom built the conditions for everything that came after. It is a few minutes from this exit and rarely crowded.
 
 ---
 
-v0.1.2 - KAI Worlds
+v0.1.3 - KAI Worlds

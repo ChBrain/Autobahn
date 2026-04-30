@@ -108,6 +108,7 @@ that run the simulation regardless of road.
 - [the A23](place_a23.md)
 - [the A24](place_a24.md)
 - [the A25](place_a25.md)
+- [the A226](place_a226.md)
 - [the A40](place_the_a40.md)
 - [the A111](place_the_a111.md)
 - [the A115](place_the_a115.md)
