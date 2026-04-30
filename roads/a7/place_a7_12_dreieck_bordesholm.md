@@ -9,7 +9,8 @@ Exit 12. A junction, not an ordinary exit. The A215 branching north toward Kiel.
 
 ## Holds
 
-* [km 84.4](piece_the_kilometerstein.md) on [the A7](place_a7.md).
+[km 84.4](piece_the_kilometerstein.md): Dreieck Bordesholm.
+
 * 1 km north on [the A7](place_a7.md) to [Bordesholm](place_a7_11_bordesholm.md).
 * 6 km south on [the A7](place_a7.md) to [Neumünster-Nord](place_a7_13_neumuenster_nord.md).
 
