@@ -125,7 +125,7 @@ Rastplatz. Parking and basic facilities only. No fuel, no food. Directly on the 
 
 **Withheld** is what requires seeking - specific, geographical, not visible from the carriageway.
 
-**Naming:** `place_{road}_rest_{name}.md`
+**Naming:** `place_{road}[_{NN}]_rest_{name}.md` — road prefix mandatory; exit number `NN` (zero-padded two digits) included only if an official AS-number exists for this stop.
 
 ---
 
@@ -141,7 +141,7 @@ Raststätte. Restaurant and hotel complex. No fuel. Directly on the motorway. In
 
 **Withheld** is what requires seeking - specific, geographical, not visible from the carriageway.
 
-**Naming:** `place_{road}_service_{name}.md`
+**Naming:** `place_{road}[_{NN}]_service_{name}.md` — road prefix mandatory; exit number `NN` (zero-padded two digits) included only if an official AS-number exists for this stop.
 
 ---
 
@@ -157,7 +157,7 @@ Rasthof. Full services directly on the motorway. Fuel, food, parking.
 
 **Withheld** is what requires seeking - specific, geographical, not visible from the carriageway.
 
-**Naming:** `place_{road}_roadhouse_{name}.md`
+**Naming:** `place_{road}[_{NN}]_roadhouse_{name}.md` — road prefix mandatory; exit number `NN` (zero-padded two digits) included only if an official AS-number exists for this stop.
 
 ---
 
@@ -251,9 +251,8 @@ The single author-facing rule: **every file basename in the world is unique**.
 
 - **Geographic coordinates** - each place node to carry latitude, longitude, and altitude (from OSM or BASt sources). Enables geographic validation: compass directions verified against bearing, distances against geodetic calculations, elevation changes detected. Lookup table vs. per-file embedding still open. Proposed: validate directions against bearing; validate distances against haversine; detect anomalies (altitude spikes, direction contradictions). Requires authoritative source identification and accuracy tolerance definition.
 - **Bundesland files** - the 16 federal state files in `bundeslaender/`, their structure, subtitle tagline pattern, and how they aggregate roads and nodes. Needs its own `## Bundesland` chapter and `validate_bundeslaender.py` script.
-- **Naming conventions in use** - CONVERTED: German infixes replaced with English (`_bruecke_` → `_bridge_`, `_raststaette_` → `_service_`). Tunnel naming still pending (e.g. `place_a7_elbtunnel.md`). See files: `place_a1_volme_bridge.md`, `place_a1_bridge_hengstey.md`, `place_a20_service_kronberg.md`.
-- **Standalone Raststätte files** - files like `place_service_aalbek.md` carry no road prefix; naming rule not yet defined
-- **Numbered rest stop pattern** - Raststätten can carry an exit number mid-chain (e.g. `place_a1_28_service_buddikate_ost.md`); not covered by the current spec
+- **Naming conventions in use** - CONVERTED: German infixes replaced with English (`_bruecke_` → `_bridge_`, `_raststaette_` → `_service_`). Road-tied stops (service/rest/roadhouse) now require road prefix: `place_{road}_service_*`, `place_{road}_rest_*`, `place_{road}_roadhouse_*`; optional exit numbers if official AS-number exists. Files needing migration: `place_service_aalbek.md`, `place_service_brokenlande.md`, `place_service_huettener_berge.md`, `place_rasthof_holmmoor.md`. Tunnel naming still pending.
+- **Naming conventions in use** - CONVERTED: German infixes replaced with English (`_bruecke_` → `_bridge_`, `_raststaette_` → `_service_`). Road-tied stops (service/rest/roadhouse) now require road prefix: `place_{road}_service_*`, `place_{road}_rest_*`, `place_{road}_roadhouse_*`; optional exit numbers if official AS-number exists. Files needing migration: `place_service_aalbek.md`, `place_service_brokenlande.md`, `place_service_huettener_berge.md`, `place_rasthof_holmmoor.md`. Tunnel naming still pending.
 - **Navigation links placement** - FIXED: neighbour links (distance + direction markers) moved from `## Shown` to `## Holds` across 51 files (A1, A7, A20, A23, A24, A25, A210, A215). Validator `validate_navigation_links.py` enforces rule; all 187 files pass.
 - **Engine files** - `instructions.md`, `stack.md`, and the pieces in `engine/` (kilometerstein, driver seat, infotainment, etc.)
 - **People** - persona files in `people/`
