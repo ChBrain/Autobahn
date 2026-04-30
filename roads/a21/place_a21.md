@@ -4,10 +4,10 @@
 - Project: Autobahn
 
 ## Shown
-52 kilometres. Two lanes per direction. The A21 runs from [Kreuz Bargteheide](place_a21_19_kreuz_bargteheide.md) in the south - where it meets the A1 - to [Nettelsee](place_a21_06_nettelsee.md) in the north, halfway between Bad Segeberg and Kiel. The road follows the old B404 - the Holsteinische Schweiz to the east, the Segeberger Forst in the middle section, the Hamburg commuter belt in the south. Two junctions with other motorways: the A20 at Bad Segeberg-Nord, the A1 at Kreuz Bargteheide. The road incomplete at both ends - north of Nettelsee the B404 continues toward Kiel, extension under construction; south of Kreuz Bargteheide the planned continuation to the A24 not yet built.
+52 kilometres. Two lanes per direction. The A21 runs from [Kreuz Bargteheide](place_a21_19_kreuz_bargteheide.md) in the south - where it meets the A1 - to [Nettelsee](place_a21_nettelsee.md) in the north, halfway between Bad Segeberg and Kiel. The road follows the old B404 - the Holsteinische Schweiz to the east, the Segeberger Forst in the middle section, the Hamburg commuter belt in the south. Two junctions with other motorways: the A20 at Bad Segeberg-Nord, the A1 at Kreuz Bargteheide. The road incomplete at both ends - north of Nettelsee the B404 continues toward Kiel, extension under construction; south of Kreuz Bargteheide the planned continuation to the A24 not yet built.
 
 ## Holds
-* [km 0.0](piece_the_kilometerstein.md): [Kiel](place_a215_kiel_mitte.md).
+* [km 0.0](piece_the_kilometerstein.md): [Kiel](place_a21_kiel.md).
 * [km 11.4](piece_the_kilometerstein.md): [Klein Barkau](place_a21_klein_barkau.md).
 * [km 19.9](piece_the_kilometerstein.md): [Nettelsee](place_a21_nettelsee.md).
 * [km 24.9](piece_the_kilometerstein.md): [Wankendorf](place_a21_07_wankendorf.md).
