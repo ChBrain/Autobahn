@@ -8,10 +8,8 @@
 The Marmstorf exit. The sign: Hamburg-Marmstorf. The last Hamburg exit on the A7 southbound. The Landesgrenze Hamburg-Niedersachsen immediately ahead. The Harburger Berge visible to the south — the northernmost outlier of the Lüneburger Heide, the first elevation the road has encountered since leaving Schleswig-Holstein.
 
 ## Holds
-
-* [km 172](piece_the_kilometerstein.md) on [the A7](place_a7.md).
-* 1.0 km north on [the A7](place_a7.md) to [Dreieck Hamburg-Südwest](place_a7_33_dreieck_hamburg_suedwest.md).
-* South on [the A7](place_a7.md) to Horster Dreieck — Niedersachsen.
+[km 172](piece_the_kilometerstein.md): Hamburg-Marmstorf.
+- 1.0 km north: [Dreieck Hamburg-Südwest](place_a7_33_dreieck_hamburg_suedwest.md)
 
 ## Offers
 Ausfahrt 34 - the exit ramp. The ordinary road below.

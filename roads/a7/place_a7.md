@@ -44,6 +44,10 @@ Four lanes for most of the stretch - two northbound, two southbound, the central
 * [km 155.5](piece_the_kilometerstein.md): [Hamburg-Othmarschen](place_a7_29_hamburg_othmarschen.md).
 * km 156: [the Elbtunnel](place_a7_elbtunnel.md).
 * [km 161.6](piece_the_kilometerstein.md): [Hamburg-Waltershof](place_a7_30_hamburg_waltershof.md).
+* [km 165](piece_the_kilometerstein.md): [Hamburg-Moorburg](place_a7_31_hamburg_moorburg.md).
+* [km 167](piece_the_kilometerstein.md): [Hamburg-Heimfeld](place_a7_32_hamburg_heimfeld.md).
+* [km 171](piece_the_kilometerstein.md): [Dreieck Hamburg-Südwest](place_a7_33_dreieck_hamburg_suedwest.md).
+* [km 172](piece_the_kilometerstein.md): [Hamburg-Marmstorf](place_a7_34_hamburg_marmstorf.md).
 
 
 ## Offers
