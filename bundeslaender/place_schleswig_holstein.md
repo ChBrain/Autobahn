@@ -35,7 +35,7 @@ Northbound from Hamburg: the Schnelsen tunnels end. The density drops immediatel
   - [Reinfeld](place_a1_25_reinfeld.md)
   - [Bad Oldesloe](place_a1_26_bad_oldesloe.md)
   - [Kreuz Bargteheide](place_a1_27_kreuz_bargteheide.md)
-  - [Raststätte Buddikate Ost](place_a1_28_service_buddikate_ost.md)
+  - [Raststätte Buddikate Ost](place_a1_service_buddikate.md)
   - [Ahrensburg](place_a1_29_ahrensburg.md)
   - [Stapelfeld](place_a1_30_stapelfeld.md)
   - [Barsbüttel](place_a1_31_barsbuettel.md)

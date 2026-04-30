@@ -1,15 +1,15 @@
-# Raststätte Buddikate Ost
+# Rastst\u00e4tte Buddikate
 
 ## Owner
 - Project: Autobahn
 - Place: [A1](place_a1.md) in [Schleswig-Holstein](place_schleswig_holstein.md)
 
 ## Shown
-The Buddikate Ost service area. Fuel, food, parking. The A1 continuing in both directions.
+The Buddikate service area on both sides of the road. Fuel, food, parking. The A1 continuing in both directions.
 
 ## Holds
 
-[km 120.0](piece_the_kilometerstein.md): Raststätte Buddikate Ost.
+[km 120.0](piece_the_kilometerstein.md): Rastst\u00e4tte Buddikate.
 
 * 2.0 km north on [the A1](place_a1.md) to [Kreuz Bargteheide](place_a1_27_kreuz_bargteheide.md).
 * 7.0 km south on [the A1](place_a1.md) to [Ahrensburg](place_a1_29_ahrensburg.md).
