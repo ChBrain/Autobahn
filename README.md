@@ -35,6 +35,7 @@ Direction is in the Driver, not the place. The road goes both ways. The world pi
 | **A25** — Dreieck Hamburg-Südost - Neuallermöhe-West | [Zip ↓](https://github.com/ChBrain/Autobahn/releases/latest/download/autobahn-a25.zip) · [PDF ↓](https://github.com/ChBrain/Autobahn/releases/latest/download/autobahn-a25.pdf) |
 | **A210** — Schacht-Audorf - Kreuz Kiel-West | [Zip ↓](https://github.com/ChBrain/Autobahn/releases/latest/download/autobahn-a210.zip) · [PDF ↓](https://github.com/ChBrain/Autobahn/releases/latest/download/autobahn-a210.pdf) |
 | **A215** — Kiel-Westring - Dreieck Bordesholm | [Zip ↓](https://github.com/ChBrain/Autobahn/releases/latest/download/autobahn-a215.zip) · [PDF ↓](https://github.com/ChBrain/Autobahn/releases/latest/download/autobahn-a215.pdf) |
+| **A226** — Dreieck Bad Schwartau - Lübeck-Siems - Skandinavienkai | [Zip ↓](https://github.com/ChBrain/Autobahn/releases/latest/download/autobahn-a226.zip) · [PDF ↓](https://github.com/ChBrain/Autobahn/releases/latest/download/autobahn-a226.pdf) |
 
 ---
 
