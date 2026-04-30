@@ -52,6 +52,47 @@ All releases (patch, minor, major) are user-triggered.
 Files are UTF-8, no byte-order mark.
 
 ---
+## Federal States
+
+A federal state (Bundesland) and all its child places are modelled using the Place component from KAI HACKS AI Architecture. The federal state index is a Place that holds Places.
+
+Every federal state has its own folder at `bundeslaender/<state>/`. The federal state index file lives in this folder alongside references to roads, regions, and other geographic features that define it.
+
+It holds child places—motorways, cities, regions, geographic landmarks—each connected to its parent state. The result is a hierarchical graph where each child Place references its state as structural parent. Unlike roads (ordered by kilometre), federal states organize geographically by location, region, and the roads that traverse them.
+
+Federal state index files carry only `- Project: Autobahn` in Owner. Child place files (roads, regions, cities) carry: `- Place: [State](place_state.md)` - the state index as geographic container.
+
+### Index
+
+A federal state index is the parent file for a Bundesland. It holds the complete list of motorways, major regions, and geographic features contained or significantly present within the state.
+
+**Shown** is what defines the state—its geographic extent, borders, major landmarks, and character.
+
+**Holds** is the list of roads and major places. Each entry links to its child file. Organization follows geographic convention (north to south, west to east) or administrative divisions.
+
+**Offers** is what the state makes available—its roads, regions, and connections to neighbouring states.
+
+**Withheld** is what requires seeking within the state—specific geographic details, regional character, what the motorway passes but does not expose.
+
+**Naming:** `bundeslaender/place_{state}.md`
+
+---
+
+### Region
+
+A geographic or administrative subdivision within a federal state.
+
+**Shown** is what defines the region—its character, major towns, landscape, and relationship to the state.
+
+**Holds** carries references to roads passing through, cities within, and geographic features.
+
+**Offers** is the region itself—what it makes accessible to someone arriving.
+
+**Withheld** is what requires seeking—specific local knowledge, regional culture, what the motorway bypasses.
+
+**Naming:** `bundeslaender/{state}/place_{state}_{region}.md` or as named in the state's structure.
+
+---
 
 ## Roads
 
