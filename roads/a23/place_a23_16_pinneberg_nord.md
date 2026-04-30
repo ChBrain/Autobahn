@@ -11,7 +11,7 @@ The northern Pinneberg exit. The sign: Pinneberg-Nord. The district capital of P
 ## Holds
 [km 127.0](piece_the_kilometerstein.md): Pinneberg-Nord.
 - 5 km north: [Tornesch](place_a23_15_tornesch.md)
-- 2 km south: [Pinneberg-Mitte](place_a23_17_pinneberg_mitte.md)
+- 3.0 km south: [Pinneberg-Mitte](place_a23_17_pinneberg_mitte.md)
 
 
 ## Offers

@@ -9,8 +9,8 @@ The Dreieck Hamburg-Südost. The A25 branching east toward Geesthacht. The Norde
 
 ## Holds
 [km 147](piece_the_kilometerstein.md): Dreieck Hamburg-Südost.
-- 5.6 km north: [Hamburg-Billstedt](place_a1_33_hamburg_billstedt.md)
-- 3.0 km south: [Dreieck Norderelbe](place_a1_36_dreieck_norderelbe.md)
+- 4.0 km north: [Hamburg-Billstedt](place_a1_33_hamburg_billstedt.md)
+- 4.0 km south: [Dreieck Norderelbe](place_a1_36_dreieck_norderelbe.md)
 - [Hamburg-Moorfleet](place_a1_34_hamburg_moorfleet.md) — contained exit within this node.
 
 ## Offers

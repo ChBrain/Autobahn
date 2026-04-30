@@ -10,8 +10,8 @@ The northern Elmshorn exit. The sign: Horst, Elmshorn. The first large town on t
 
 ## Holds
 [km 110.0](piece_the_kilometerstein.md): Horst/Elmshorn.
-- 5 km north: [Hohenfelde](place_a23_12_hohenfelde.md)
-- 4 km south: [Elmshorn](place_a23_14_elmshorn.md)
+- 6.0 km north: [Hohenfelde](place_a23_12_hohenfelde.md)
+- 8.0 km south: [Elmshorn](place_a23_14_elmshorn.md)
 
 
 ## Offers

@@ -9,7 +9,7 @@ An unnumbered junction between exits 17 and 18. The future A20 will branch west 
 
 ## Holds
 [km 117.6](piece_the_kilometerstein.md): Kreuz Bad Bramstedt.
-- 3 km north: [Bad Bramstedt](place_a7_17_bad_bramstedt.md)
+- 2.5 km north: [Bad Bramstedt](place_a7_17_bad_bramstedt.md)
 - 4 km south: [Kaltenkirchen](place_a7_18_kaltenkirchen.md)
 
 ## Offers

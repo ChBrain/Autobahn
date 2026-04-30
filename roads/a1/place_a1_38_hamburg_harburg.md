@@ -9,7 +9,7 @@ The Hamburg-Harburg exit. The sign: Hamburg-Harburg. The Süderelbe just crossed
 
 ## Holds
 [km 156](piece_the_kilometerstein.md): Hamburg-Harburg.
-- 1.7 km north: [Dreieck Hamburg-Stillhorn](place_a1_37_dreieck_hamburg_stillhorn.md)
+- 2.0 km north: [Dreieck Hamburg-Stillhorn](place_a1_37_dreieck_hamburg_stillhorn.md)
 
 ## Offers
 Ausfahrt 38 - the exit ramp. Harburg below.

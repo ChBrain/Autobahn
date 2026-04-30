@@ -10,7 +10,7 @@ The Bahrenfeld exit. The sign: Hamburg-Bahrenfeld. North of [the Elbtunnel](plac
 ## Holds
 [km 154.6](piece_the_kilometerstein.md): Hamburg-Bahrenfeld.
 - 2.2 km north: [Hamburg-Volkspark](place_a7_27_hamburg_volkspark.md)
-- 2 km south: [Hamburg-Othmarschen](place_a7_29_hamburg_othmarschen.md)
+- 0.9 km south: [Hamburg-Othmarschen](place_a7_29_hamburg_othmarschen.md)
 
 ## Offers
 Ausfahrt 28 - not available. The exit is closed for Lärmschutztunnel construction until 2028. Use [Hamburg-Othmarschen](place_a7_29_hamburg_othmarschen.md) as the alternative.

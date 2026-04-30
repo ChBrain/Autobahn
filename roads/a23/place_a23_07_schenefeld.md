@@ -10,8 +10,8 @@ The sign: Schenefeld. The approach to Itzehoe. The road beginning to show more t
 
 ## Holds
 [km 78.7](piece_the_kilometerstein.md): Schenefeld.
-- 9 km north: [Hanerau-Hademarschen](place_a23_06_hanerau_hademarschen.md)
-- 7 km south: [Itzehoe-Nord](place_a23_08_itzehoe_nord.md)
+- 6.1 km north: [Hanerau-Hademarschen](place_a23_06_hanerau_hademarschen.md)
+- 8.8 km south: [Itzehoe-Nord](place_a23_08_itzehoe_nord.md)
 
 
 ## Offers

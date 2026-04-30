@@ -10,7 +10,7 @@ The Billstedt exit. The sign: Hamburg-Billstedt. The road passing over the Umsch
 ## Holds
 [km 143](piece_the_kilometerstein.md): Hamburg-Billstedt.
 - 2.0 km north: [Hamburg-Öjendorf](place_a1_32_hamburg_oejendorf.md)
-- 5.6 km south: [Hamburg-Moorfleet](place_a1_34_hamburg_moorfleet.md)
+- 5.0 km south: [Hamburg-Moorfleet](place_a1_34_hamburg_moorfleet.md)
 
 ## Offers
 Ausfahrt 33 - the exit ramp. The ordinary road below.

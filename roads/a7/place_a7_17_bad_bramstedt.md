@@ -10,7 +10,7 @@ The Bad Bramstedt exit. The sign: Bad Bramstedt, B206. A town of some size - vis
 ## Holds
 [km 115.1](piece_the_kilometerstein.md): Bad Bramstedt.
 - 11 km north: [Großenaspe](place_a7_16_grossenaspe.md)
-- 3 km south: [Kreuz Bad Bramstedt](place_a7_kreuz_bad_bramstedt.md)
+- 2.5 km south: [Kreuz Bad Bramstedt](place_a7_kreuz_bad_bramstedt.md)
 
 ## Offers
 Ausfahrt 17 - the exit ramp. The ordinary road below.

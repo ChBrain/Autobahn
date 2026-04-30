@@ -10,7 +10,7 @@ The Kaltenkirchen exit. The sign: Kaltenkirchen, B4. Hamburg 35 km on the overhe
 ## Holds
 [km 121.6](piece_the_kilometerstein.md): Kaltenkirchen.
 - 4 km north: [Kreuz Bad Bramstedt](place_a7_kreuz_bad_bramstedt.md)
-- 5 km south: [Henstedt-Ulzburg](place_a7_19_henstedt_ulzburg.md)
+- 5.1 km south: [Henstedt-Ulzburg](place_a7_19_henstedt_ulzburg.md)
 
 ## Offers
 Ausfahrt 18 - the exit ramp. The ordinary road below.

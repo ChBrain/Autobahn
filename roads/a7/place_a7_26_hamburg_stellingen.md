@@ -9,8 +9,8 @@ The Stellingen exit. The sign: Hamburg-Stellingen. The Volkspark to the right. S
 
 ## Holds
 [km 150.7](piece_the_kilometerstein.md): Hamburg-Stellingen.
-- 3 km north: [Dreieck Hamburg-Nordwest](place_a7_25_dreieck_hamburg_nordwest.md)
-- 1 km south: [Hamburg-Volkspark](place_a7_27_hamburg_volkspark.md)
+- 2.3 km north: [Dreieck Hamburg-Nordwest](place_a7_25_dreieck_hamburg_nordwest.md)
+- 1.7 km south: [Hamburg-Volkspark](place_a7_27_hamburg_volkspark.md)
 
 ## Offers
 Ausfahrt 26 - the exit ramp. The ordinary road below.

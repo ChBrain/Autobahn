@@ -9,8 +9,8 @@ Exit 25. The largest junction on this stretch. The A23 branching west toward Hei
 
 ## Holds
 [km 148.4](piece_the_kilometerstein.md): Dreieck Hamburg-Nordwest.
-- 2 km north: [Hamburg-Schnelsen](place_a7_24_hamburg_schnelsen.md)
-- 3 km south: [Hamburg-Stellingen](place_a7_26_hamburg_stellingen.md)
+- 2.2 km north: [Hamburg-Schnelsen](place_a7_24_hamburg_schnelsen.md)
+- 2.3 km south: [Hamburg-Stellingen](place_a7_26_hamburg_stellingen.md)
 
 ## Offers
 The A7 south, toward [Hamburg-Stellingen](place_a7_26_hamburg_stellingen.md) and [the Elbtunnel](place_a7_elbtunnel.md). [The A23](place_a23.md) west, toward Heide and the Westküste.

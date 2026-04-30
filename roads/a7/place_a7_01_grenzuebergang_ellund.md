@@ -9,7 +9,7 @@ The northern terminus of the A7. The border between Germany and Denmark. The roa
 
 ## Holds
 [km 0](piece_the_kilometerstein.md): Grenzübergang Ellund.
-- 4 km south: [Flensburg/Harrislee](place_a7_02_flensburg_harrislee.md)
+- 3.9 km south: [Flensburg/Harrislee](place_a7_02_flensburg_harrislee.md)
 
 ## Offers
 Entry to the German motorway network from Scandinavia and Jutland. The beginning of the A7 - or the end of it, depending on direction. No exit ramp here: the border is a transition, not a junction.

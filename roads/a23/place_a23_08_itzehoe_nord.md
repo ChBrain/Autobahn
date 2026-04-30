@@ -10,8 +10,8 @@ The sign: Itzehoe-Nord. The approach to the Störbrücke section. Itzehoe visibl
 
 ## Holds
 [km 87.5](piece_the_kilometerstein.md): Itzehoe-Nord.
-- 7 km north: [Schenefeld](place_a23_07_schenefeld.md)
-- 3 km south: [Itzehoe-Mitte](place_a23_09_itzehoe_mitte.md)
+- 8.8 km north: [Schenefeld](place_a23_07_schenefeld.md)
+- 2.8 km south: [Itzehoe-Mitte](place_a23_09_itzehoe_mitte.md)
 
 
 ## Offers

@@ -10,7 +10,7 @@ The sign: Halstenbek, Rellingen. The road fully suburban. Nurseries and garden c
 
 ## Holds
 [km 133.0](piece_the_kilometerstein.md): Halstenbek/Rellingen.
-- 4 km north: [Pinneberg-Süd](place_a23_18_pinneberg_sued.md)
+- 2.0 km north: [Pinneberg-Süd](place_a23_18_pinneberg_sued.md)
 - 2 km south: [Halstenbek-Krupunder](place_a23_20_halstenbek_krupunder.md)
 
 

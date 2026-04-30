@@ -10,8 +10,8 @@ The central Pinneberg exit. The sign: Pinneberg-Mitte. The town centre accessibl
 
 ## Holds
 [km 130.0](piece_the_kilometerstein.md): Pinneberg-Mitte.
-- 2 km north: [Pinneberg-Nord](place_a23_16_pinneberg_nord.md)
-- 2 km south: [Pinneberg-Süd](place_a23_18_pinneberg_sued.md)
+- 3.0 km north: [Pinneberg-Nord](place_a23_16_pinneberg_nord.md)
+- 1.0 km south: [Pinneberg-Süd](place_a23_18_pinneberg_sued.md)
 
 
 ## Offers

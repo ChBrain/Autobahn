@@ -10,7 +10,7 @@ Exit 22. The junction where the A23 meets the A7. The A23 ends here - or begins 
 
 ## Holds
 [km 139.0](piece_the_kilometerstein.md): Dreieck Hamburg-Nordwest.
-- 2 km north: [Hamburg-Eidelstedt](place_a23_21_hamburg_eidelstedt.md)
+- 1.0 km north: [Hamburg-Eidelstedt](place_a23_21_hamburg_eidelstedt.md)
 
 
 ## Offers

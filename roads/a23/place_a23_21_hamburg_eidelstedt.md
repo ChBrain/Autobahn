@@ -10,8 +10,8 @@ Hamburg. The first Hamburg exit on the A23. The sign: Hamburg-Eidelstedt. This e
 
 ## Holds
 [km 138.0](piece_the_kilometerstein.md): Hamburg-Eidelstedt.
-- 2 km north: [Halstenbek-Krupunder](place_a23_20_halstenbek_krupunder.md)
-- 2 km south: [Dreieck Hamburg-Nordwest](place_a23_22_dreieck_hamburg_nordwest.md)
+- 3.0 km north: [Halstenbek-Krupunder](place_a23_20_halstenbek_krupunder.md)
+- 1.0 km south: [Dreieck Hamburg-Nordwest](place_a23_22_dreieck_hamburg_nordwest.md)
 
 
 ## Offers

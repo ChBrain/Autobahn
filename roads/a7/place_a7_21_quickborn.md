@@ -9,8 +9,8 @@ The Quickborn exit. The sign: Quickborn, B4. Hamburg visible on the horizon on c
 
 ## Holds
 [km 133.7](piece_the_kilometerstein.md): Quickborn.
-- 4 km north: [Ellerau](place_a7_20_ellerau.md)
-- 7 km south: [Norderstedt-Mitte](place_a7_22_norderstedt_mitte.md)
+- 3.4 km north: [Ellerau](place_a7_20_ellerau.md)
+- 7.3 km south: [Norderstedt-Mitte](place_a7_22_norderstedt_mitte.md)
 
 ## Offers
 Ausfahrt 21 - the exit ramp. The ordinary road below.

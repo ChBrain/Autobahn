@@ -10,8 +10,8 @@ Small exit. The sign: Albersdorf. Fields on both sides. The landscape unchanged 
 
 ## Holds
 [km 61.8](piece_the_kilometerstein.md): Albersdorf.
-- 10 km north: [Heide-Süd](place_a23_03_heide_sued.md)
-- 11 km south: [Schafstedt](place_a23_05_schafstedt.md)
+- 14.4 km north: [Heide-Süd](place_a23_03_heide_sued.md)
+- 5.5 km south: [Schafstedt](place_a23_05_schafstedt.md)
 
 
 ## Offers

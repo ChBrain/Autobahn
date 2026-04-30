@@ -10,8 +10,8 @@ The southern Pinneberg exit. The sign: Pinneberg-Süd. The last exit for Pinnebe
 
 ## Holds
 [km 131.0](piece_the_kilometerstein.md): Pinneberg-Süd.
-- 2 km north: [Pinneberg-Mitte](place_a23_17_pinneberg_mitte.md)
-- 4 km south: [Halstenbek/Rellingen](place_a23_19_halstenbek_rellingen.md)
+- 1.0 km north: [Pinneberg-Mitte](place_a23_17_pinneberg_mitte.md)
+- 2.0 km south: [Halstenbek/Rellingen](place_a23_19_halstenbek_rellingen.md)
 
 
 ## Offers

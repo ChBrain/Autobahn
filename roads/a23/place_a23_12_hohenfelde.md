@@ -10,8 +10,8 @@ Small exit. The sign: Hohenfelde. The road here in open country - the Hamburg me
 
 ## Holds
 [km 104.0](piece_the_kilometerstein.md): Hohenfelde.
-- 7 km north: [Lägerdorf](place_a23_11_laegerdorf.md)
-- 5 km south: [Horst/Elmshorn](place_a23_13_horst_elmshorn.md)
+- 4.3 km north: [Lägerdorf](place_a23_11_laegerdorf.md)
+- 6.0 km south: [Horst/Elmshorn](place_a23_13_horst_elmshorn.md)
 
 
 ## Offers

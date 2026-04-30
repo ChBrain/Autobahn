@@ -9,7 +9,7 @@ The Volkspark exit. The sign: Hamburg-Volkspark, Schnackenburgallee. The stadium
 
 ## Holds
 [km 152.4](piece_the_kilometerstein.md): Hamburg-Volkspark.
-- 1 km north: [Hamburg-Stellingen](place_a7_26_hamburg_stellingen.md)
+- 1.7 km north: [Hamburg-Stellingen](place_a7_26_hamburg_stellingen.md)
 - 2.2 km south: [Hamburg-Bahrenfeld](place_a7_28_hamburg_bahrenfeld.md)
 
 ## Offers

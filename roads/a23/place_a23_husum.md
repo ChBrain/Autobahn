@@ -10,7 +10,7 @@ Where the B5 continues north toward the North Sea coast. The town of Husum - pop
 
 ## Holds
 [km 0.0](piece_the_kilometerstein.md): Husum.
-- 43 km south: [Heide-West](place_a23_02_heide_west.md) - where B5 becomes A23
+- 43.7 km south: [Heide-West](place_a23_02_heide_west.md) - where B5 becomes A23
 
 
 ## Offers

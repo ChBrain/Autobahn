@@ -9,7 +9,7 @@ The northern Neumünster exit. The sign: Neumünster-Nord. The city visible to t
 
 ## Holds
 [km 90.3](piece_the_kilometerstein.md): Neumünster-Nord.
-- 6 km north: [Dreieck Bordesholm](place_a7_12_dreieck_bordesholm.md)
+- 5.9 km north: [Dreieck Bordesholm](place_a7_12_dreieck_bordesholm.md)
 - 6.1 km south: [Neumünster-Mitte](place_a7_14_neumuenster_mitte.md)
 
 ## Offers
