@@ -32,9 +32,9 @@ The Vogelfluglinie. The A1 enters Schleswig-Holstein at Heiligenhafen-Ost and ru
 * [km 101.0](piece_the_kilometerstein.md): [Reinfeld](place_a1_25_reinfeld.md).
 * [km 108.0](piece_the_kilometerstein.md): [Bad Oldesloe](place_a1_26_bad_oldesloe.md).
 * [km 118.0](piece_the_kilometerstein.md): [Kreuz Bargteheide](place_a1_27_kreuz_bargteheide.md).
-* [km 120.0](piece_the_kilometerstein.md): [Raststätte Buddikate Ost](place_a1_28_service_buddikate_ost.md).
-* [km 127.0](piece_the_kilometerstein.md): [Ahrensburg](place_a1_29_ahrensburg.md).
-* [km 131.0](piece_the_kilometerstein.md): [Stapelfeld](place_a1_30_stapelfeld.md).
+* [km 120.0](piece_the_kilometerstein.md): [Raststätte Buddikate](place_a1_service_buddikate.md).
+* [km 127.0](piece_the_kilometerstein.md): [Ahrensburg](place_a1_28_ahrensburg.md).
+* [km 131.0](piece_the_kilometerstein.md): [Stapelfeld](place_a1_29_stapelfeld.md).
 * [km 136.0](piece_the_kilometerstein.md): [Barsbüttel](place_a1_30_barsbüttel.md).
 * [km 139.0](piece_the_kilometerstein.md): [Dreieck Hamburg-Ost](place_a1_31_dreieck_hamburg_ost.md).
 * [km 344.2](piece_the_kilometerstein.md): [Hagen-Nord](place_a1_87_hagen_nord.md).

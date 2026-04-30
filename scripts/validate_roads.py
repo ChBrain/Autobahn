@@ -51,7 +51,7 @@ def classify(path: Path, root: Path) -> str:
     except ValueError:
         return "other"
     parts = rel.parts
-    if parts[0] == "bundeslaender":
+    if parts[0] == "states":
         return "bundesland"
     if parts[0] == "roads" and len(parts) >= 3:
         road = parts[1]

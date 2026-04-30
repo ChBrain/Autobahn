@@ -9,7 +9,7 @@
 ## Holds
 * [km 0.0](piece_the_kilometerstein.md): [Kiel](place_a215_kiel_mitte.md).
 * [km 11.4](piece_the_kilometerstein.md): [Klein Barkau](place_a21_klein_barkau.md).
-* [km 19.9](piece_the_kilometerstein.md): [Nettelsee](place_a21_06_nettelsee.md).
+* [km 19.9](piece_the_kilometerstein.md): [Nettelsee](place_a21_nettelsee.md).
 * [km 24.9](piece_the_kilometerstein.md): [Wankendorf](place_a21_07_wankendorf.md).
 * [km 30.3](piece_the_kilometerstein.md): [Bornhöved](place_a21_08_bornhoeved.md).
 * [km 34.0](piece_the_kilometerstein.md): [Trappenkamp](place_a21_09_trappenkamp.md).

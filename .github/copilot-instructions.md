@@ -24,7 +24,7 @@ Never commit or edit directly on `main`.
 5. Open a PR - the PR template checklist must pass before merge
 6. Merge to `main` via PR only
 7. Create a GitHub release with a version tag to trigger the release workflow
-8. The workflow runs `scripts/deploy.py` on every manifest (`autobahn.md`, every `roads/*/place_*.md`, every `bundeslaender/place_*.md`) and uploads each resulting zip as a release asset
+8. The workflow runs `scripts/deploy.py` on every manifest (`autobahn.md`, every `roads/*/place_*.md`, every `states/place_*.md`) and uploads each resulting zip as a release asset
 
 ## Versioning
 
@@ -43,7 +43,7 @@ Manifests:
 
 - `autobahn.md` at the repo root - the all-bundle.
 - `roads/<road>/place_<road>.md` - per-road bundle.
-- `bundeslaender/place_<bundesland>.md` - per-Bundesland bundle.
+- `states/place_<state>.md` - per-state bundle.
 
 If a manifest needs the world frame (`instructions.md`, `stack.md`, the engine pieces, personas, vehicles, props), it must link to them. Frame is a choice.
 
