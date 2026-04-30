@@ -49,7 +49,6 @@ DISTANCE_RE = re.compile(
 )
 
 HOLDS_BLOCK_RE = re.compile(r"^## Holds\r?\n(.*?)(?=\r?\n##|\Z)", re.MULTILINE | re.DOTALL)
-SHOWN_BLOCK_RE = re.compile(r"^## Shown\r?\n(.*?)(?=\r?\n##|\Z)", re.MULTILINE | re.DOTALL)
 
 
 def classify(path: Path, root: Path) -> str:
@@ -169,39 +168,39 @@ def validate(path: Path, root: Path) -> List[Issue]:
             verdict=f"set node km to {index_km} (index is authoritative)",
         ))
 
-    shown_match = SHOWN_BLOCK_RE.search(text)
-    if shown_match:
-        shown_text = shown_match.group(1)
-        for dist_match in DISTANCE_RE.finditer(shown_text):
-            distance_str, neighbour_name, neighbour_link = dist_match.groups()
-            try:
-                distance = float(distance_str)
-            except ValueError:
-                issues.append(Issue(
-                    error=f"distance '{distance_str}' is not a valid float",
-                    verdict=None,
-                ))
-                continue
+    # Neighbour distances live in Holds per ARCHITECTURE.md (the strict A24
+    # format). The legacy convention put them in Shown - that history is why
+    # this check used to read Shown.
+    for dist_match in DISTANCE_RE.finditer(holds_text):
+        distance_str, neighbour_name, neighbour_link = dist_match.groups()
+        try:
+            distance = float(distance_str)
+        except ValueError:
+            issues.append(Issue(
+                error=f"distance '{distance_str}' is not a valid float",
+                verdict=None,
+            ))
+            continue
 
-            neighbour_file = Path(neighbour_link).name
-            if neighbour_file not in km_map:
-                # Node references a file the index does not acknowledge.
-                # Hierarchy says the node is wrong, but doesn't tell us what to
-                # replace the link with.
-                issues.append(Issue(
-                    error=f"neighbour link '{neighbour_file}' not in road index",
-                    verdict=None,
-                ))
-                continue
+        neighbour_file = Path(neighbour_link).name
+        if neighbour_file not in km_map:
+            # Node references a file the index does not acknowledge.
+            # Hierarchy says the node is wrong, but doesn't tell us what to
+            # replace the link with.
+            issues.append(Issue(
+                error=f"neighbour link '{neighbour_file}' not in road index",
+                verdict=None,
+            ))
+            continue
 
-            _, neighbour_km = km_map[neighbour_file]
-            actual = abs(neighbour_km - file_km)
-            if abs(distance - actual) > 0.1:
-                issues.append(Issue(
-                    error=(f"distance to {neighbour_name}: stated {distance} km, "
-                           f"calculated {actual:.1f} km (km {file_km} to km {neighbour_km})"),
-                    verdict=f"set Shown distance to {actual:.1f} km (computed from index)",
-                ))
+        _, neighbour_km = km_map[neighbour_file]
+        actual = abs(neighbour_km - file_km)
+        if abs(distance - actual) > 0.1:
+            issues.append(Issue(
+                error=(f"distance to {neighbour_name}: stated {distance} km, "
+                       f"calculated {actual:.1f} km (km {file_km} to km {neighbour_km})"),
+                verdict=f"set Holds distance to {actual:.1f} km (computed from index)",
+            ))
 
     return issues
 
