@@ -254,7 +254,7 @@ The single author-facing rule: **every file basename in the world is unique**.
 - **Naming conventions in use** - CONVERTED: German infixes replaced with English (`_bruecke_` → `_bridge_`, `_raststaette_` → `_service_`). Tunnel naming still pending (e.g. `place_a7_elbtunnel.md`). See files: `place_a1_volme_bridge.md`, `place_a1_bridge_hengstey.md`, `place_a20_service_kronberg.md`.
 - **Standalone Raststätte files** - files like `place_service_aalbek.md` carry no road prefix; naming rule not yet defined
 - **Numbered rest stop pattern** - Raststätten can carry an exit number mid-chain (e.g. `place_a1_28_service_buddikate_ost.md`); not covered by the current spec
-- **Navigation links in Shown** - some files (notably A23 nodes) carry neighbour links with distance markers inside `## Shown` rather than `## Holds`; placement convention not yet ruled on
+- **Navigation links placement** - FIXED: neighbour links (distance + direction markers) moved from `## Shown` to `## Holds` across 51 files (A1, A7, A20, A23, A24, A25, A210, A215). Validator `validate_navigation_links.py` enforces rule; all 187 files pass.
 - **Engine files** - `instructions.md`, `stack.md`, and the pieces in `engine/` (kilometerstein, driver seat, infotainment, etc.)
 - **People** - persona files in `people/`
 - **Vehicles** - vehicle files in `vehicles/`
