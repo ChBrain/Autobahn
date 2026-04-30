@@ -8,9 +8,8 @@
 The northern terminus of the A255. The Neue Elbbrücken: two cable-stayed bridges carrying the road and the U4 S-Bahn across the Norderelbe. The city centre visible to the north — the Elbphilharmonie, the Speicherstadt roofline. The port infrastructure to the south and west. The road transitioning to B75 and B4 northbound toward the city.
 
 ## Holds
-
-* [km 0.0](piece_the_kilometerstein.md) on [the A255](place_a255.md).
-* 0.6 km south on [the A255](place_a255.md) to [Hamburg-Veddel](place_a255_01_hamburg_veddel.md).
+[km 0.0](piece_the_kilometerstein.md): Neue Elbbrücken.
+- 0.6 km south: [Hamburg-Veddel](place_a255_01_hamburg_veddel.md)
 
 ## Offers
 The B75 and B4 northbound — the road into Hamburg city centre. The crossing point between the motorway network and the city.
