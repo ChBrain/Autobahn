@@ -9,7 +9,8 @@ The Stapelfeld exit. The sign: Stapelfeld. The Hamburg ring road visible to the 
 
 ## Holds
 
-* [km 131.0](piece_the_kilometerstein.md) on [the A1](place_a1.md).
+[km 131.0](piece_the_kilometerstein.md): Stapelfeld.
+
 * 4.0 km north on [the A1](place_a1.md) to [Ahrensburg](place_a1_28_ahrensburg.md).
 * 5.0 km south on [the A1](place_a1.md) to [Barsbüttel](place_a1_30_barsbuettel.md).
 
