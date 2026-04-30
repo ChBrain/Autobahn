@@ -25,6 +25,7 @@ sys.path.insert(0, str(HERE))
 import validate_general
 import validate_roads
 import validate_states
+import validate_navigation_links
 
 
 def main() -> int:
@@ -35,7 +36,7 @@ def main() -> int:
     else:
         files = validate_general.find_place_files(root)
 
-    # Pipeline: general → roads (with chain) → states
+    # Pipeline: general → roads (with chain) → states → navigation
     print("=== General validation ===")
     result = validate_general.main(["validate_general"] + [str(f) for f in files])
     if result != 0:
@@ -50,6 +51,12 @@ def main() -> int:
     print()
     print("=== State architecture validation ===")
     result = validate_states.main(["validate_states"] + [str(f) for f in files])
+    if result != 0:
+        return result
+    
+    print()
+    print("=== Navigation link placement validation ===")
+    result = validate_navigation_links.main(["validate_navigation_links"] + [str(f) for f in files])
     return result
 
 
