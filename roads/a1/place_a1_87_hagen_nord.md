@@ -20,7 +20,7 @@ Between this exit and Hagen-West, in order: [Volmebrücke](place_a1_volme_bridge
 Ausfahrt 87 - the exit ramp. Toward Hagen city centre and toward Wetter and Witten. Coming from Dortmund: first Hagen exit. Drivers who know the city take this one.
 
 ## Withheld
-The Hengsteysee. The reservoir lies directly west of this exit - reachable from the exit, not visible from the carriageway.
+The A1-Tunnel Hagen-Vorhalle begins immediately south of this exit — 820 metres of covered road under the Vorhalle Stadtteil. Opened 2003, built because the residents refused the open trench. Above the tunnel: houses, a primary school, a football pitch, the land returned to the neighbourhood. The driver exiting here leaves before the tunnel begins; the driver who stays on the A1 disappears into it. West of this exit, the Hengsteysee reservoir is reachable from the ramp but not visible from the carriageway.
 
 ---
 
