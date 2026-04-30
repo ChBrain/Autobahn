@@ -36,9 +36,9 @@ Northbound from Hamburg: the Schnelsen tunnels end. The density drops immediatel
   - [Bad Oldesloe](place_a1_26_bad_oldesloe.md)
   - [Kreuz Bargteheide](place_a1_27_kreuz_bargteheide.md)
   - [Raststätte Buddikate Ost](place_a1_service_buddikate.md)
-  - [Ahrensburg](place_a1_29_ahrensburg.md)
-  - [Stapelfeld](place_a1_30_stapelfeld.md)
-  - [Barsbüttel](place_a1_31_barsbuettel.md)
+  - [Ahrensburg](place_a1_28_ahrensburg.md)
+  - [Stapelfeld](place_a1_29_stapelfeld.md)
+  - [Barsbüttel](place_a1_30_barsbuettel.md)
 - [A7](place_a7.md) - Ellund to Hamburg
   - [Grenzübergang Ellund](place_a7_01_grenzuebergang_ellund.md)
   - [Flensburg/Harrislee](place_a7_02_flensburg_harrislee.md)
