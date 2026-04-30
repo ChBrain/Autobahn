@@ -116,10 +116,14 @@ def main(argv: list[str]) -> int:
         return 1
     print(f"OK: {total} files passed road architecture validation")
     
-    # Pass to state validator
+    # Pass to km validation (road chain continues)
     print()
-    import validate_states
-    return validate_states.main(["validate_states"] + [str(f) for f in targets])
+    import validate_roads_km
+    return validate_roads_km.main(["validate_roads_km"] + [str(f) for f in targets])
+
+
+if __name__ == "__main__":
+    sys.exit(main(sys.argv))
 
 
 if __name__ == "__main__":

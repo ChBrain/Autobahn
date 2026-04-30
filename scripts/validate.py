@@ -3,9 +3,9 @@
 
 Runs validation pipeline:
   1. validate_general.py - encoding, section order, footer
-  2. validate_roads.py - road architecture compliance
+  2. validate_roads.py → validate_roads_km.py → validate_roads_km_math.py
+     (Road validation chain: architecture → km format → km math)
   3. validate_states.py - state architecture compliance
-  4. validate_roads_km.py - kilometre marker ordering and format
 
 Exit status:
   0 if all validators pass, 1 if any fail.
@@ -23,6 +23,8 @@ HERE = Path(__file__).resolve().parent
 sys.path.insert(0, str(HERE))
 
 import validate_general
+import validate_roads
+import validate_states
 
 
 def main() -> int:
@@ -33,9 +35,22 @@ def main() -> int:
     else:
         files = validate_general.find_place_files(root)
 
-    # Start the validation pipeline
+    # Pipeline: general → roads (with chain) → states
     print("=== General validation ===")
-    return validate_general.main(["validate_general"] + [str(f) for f in files])
+    result = validate_general.main(["validate_general"] + [str(f) for f in files])
+    if result != 0:
+        return result
+    
+    print()
+    print("=== Road validation chain ===")
+    result = validate_roads.main(["validate_roads"] + [str(f) for f in files])
+    if result != 0:
+        return result
+    
+    print()
+    print("=== State architecture validation ===")
+    result = validate_states.main(["validate_states"] + [str(f) for f in files])
+    return result
 
 
 if __name__ == "__main__":
