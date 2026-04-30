@@ -15,7 +15,7 @@ The planned western terminus of the A20. Today: nothing on the ground for the A2
 The connection to [the A21](place_a21.md). South to Kreuz Bargteheide and the A1; north toward Nettelsee and the planned extension to Kiel.
 
 ## Withheld
-The Karl-May-Spiele at the Kalkberg, five kilometres south of where this junction will be. The world's largest open-air Western festival — 400,000 visitors a summer, every year since 1952. The amphitheatre is the floor of an old gypsum quarry; the Kalkberg was excavated for mortar from the twelfth century until 1929, leaving the bowl that the stage now stands in. The same hill that built the Marienkirche's brick vaults eight centuries earlier became the floor of an open-air theatre. The Kalkberg is too low to see from the road and the festival happens below ground.
+Inside the Kalkberg, five kilometres south of where this junction will be, around thirty thousand bats of eight species hibernate every winter — Germany's largest known bat colony. The caves that hold them are inside the same hill whose outside became the open-air theatre south of the town: gypsum quarrying hollowed the limestone from the twelfth century until 1929, leaving the cave system below and the surface pit above. The pit became a stage; the caves became a hibernaculum. The hill is two architectures used in two seasons. The road would pass both without seeing either.
 
 ---
 
