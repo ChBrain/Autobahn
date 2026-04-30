@@ -17,8 +17,8 @@ Usage:
 
 The script:
 1. Uses git mv to rename the files
-2. Updates references in road index files (place_<road>.md)
-3. Updates references in state files (bundeslaender/place_*.md)
+2. Uses git grep to find ALL references across the codebase
+3. Updates all files with references
 4. Commits the changes
 """
 from __future__ import annotations
@@ -34,12 +34,6 @@ RENAMES = {
     "place_service_huettener_berge.md": "place_a7_service_huettener_berge.md",
     "place_rasthof_holmmoor.md": "place_a7_roadhouse_holmmoor.md",
 }
-
-# Files that reference these stops and need updates
-FILES_WITH_REFERENCES = [
-    "roads/a7/place_a7.md",
-    "bundeslaender/place_schleswig_holstein.md",
-]
 
 
 def git_mv(old: str, new: str) -> bool:
@@ -57,16 +51,39 @@ def git_mv(old: str, new: str) -> bool:
         return False
 
 
+def find_references_with_git_grep(old_basename: str) -> set[str]:
+    """Find all files containing references to the old filename using git grep."""
+    try:
+        result = subprocess.run(
+            ["git", "grep", "--files-with-matches", old_basename],
+            cwd=".",
+            capture_output=True,
+            text=True,
+        )
+        # Only return files that actually exist (filter out deleted refs in index)
+        files = set()
+        for filepath in result.stdout.strip().split("\n"):
+            if filepath and Path(filepath).exists():
+                files.add(filepath)
+        return files
+    except subprocess.CalledProcessError:
+        return set()
+
+
 def update_references(old_basename: str, new_basename: str) -> list[str]:
-    """Update references in files that link to the renamed file."""
+    """Update references in all files that link to the renamed file."""
     updated: list[str] = []
     
-    for ref_file in FILES_WITH_REFERENCES:
+    # Find all files containing the old reference
+    ref_files = find_references_with_git_grep(old_basename)
+    
+    for ref_file in ref_files:
         path = Path(ref_file)
-        if not path.exists():
+        try:
+            content = path.read_text(encoding="utf-8")
+        except (OSError, UnicodeDecodeError):
             continue
         
-        content = path.read_text(encoding="utf-8")
         if old_basename not in content:
             continue
         
@@ -100,10 +117,10 @@ def main() -> int:
             if not git_mv(str(old_path), str(new_path)):
                 return 1
             
-            # Update references
+            # Update all references across the codebase
             updated_files = update_references(old_name, new_name)
             if updated_files:
-                print(f"  Updated references in: {', '.join(updated_files)}")
+                print(f"  Updated references in {len(updated_files)} files")
             
             fixed += 1
         
@@ -133,3 +150,4 @@ def main() -> int:
 
 if __name__ == "__main__":
     sys.exit(main())
+
