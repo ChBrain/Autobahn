@@ -9,10 +9,9 @@ The sign: Scharbeutz, B432. The B432 leads east to the coast - Scharbeutz, Haffk
 
 
 ## Holds
-
-* [km 68.9](piece_the_kilometerstein.md) on [the A1](place_a1.md).
-* 2.3 km north on [the A1](place_a1.md) to [Eutin](place_a1_15_eutin.md).
-* 3.2 km south on [the A1](place_a1.md) to [Pansdorf](place_a1_17_pansdorf.md).
+[km 68.9](piece_the_kilometerstein.md): Scharbeutz.
+- 2.3 km north: [Eutin](place_a1_15_eutin.md)
+- 3.2 km south: [Pansdorf](place_a1_17_pansdorf.md)
 
 
 ## Offers

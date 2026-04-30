@@ -9,10 +9,9 @@ The northern Oldenburg exit. The sign: Oldenburg in Holstein-Nord. Three exits f
 
 
 ## Holds
-
-* [km 33.8](piece_the_kilometerstein.md) on [the A1](place_a1.md).
-* 1.5 km north on [the A1](place_a1.md) to [Jahnshof](place_a1_08_jahnshof.md).
-* 1.4 km south on [the A1](place_a1.md) to [Oldenburg in Holstein-Mitte](place_a1_10_oldenburg_mitte.md).
+[km 33.8](piece_the_kilometerstein.md): Oldenburg in Holstein-Nord.
+- 1.5 km north: [Jahnshof](place_a1_08_jahnshof.md)
+- 1.4 km south: [Oldenburg in Holstein-Mitte](place_a1_10_oldenburg_mitte.md)
 
 
 ## Offers

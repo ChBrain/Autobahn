@@ -8,7 +8,7 @@
 Small exit. The sign: Trappenkamp. The Holsteinische Schweiz nature park to the east. The road passing through the moraine landscape - hills and lakes, the A21 cutting through terrain the ice sheet shaped.
 
 ## Holds
-* [km 34.0](piece_the_kilometerstein.md) on [A21](place_a21.md).
+[km 34.0](piece_the_kilometerstein.md): Trappenkamp.
 * [Bornhöved](place_a21_08_bornhoeved.md) is next on [A21](place_a21.md) going north.
 * [Daldorf](place_a21_10_daldorf.md) is next on [A21](place_a21.md) going south.
 

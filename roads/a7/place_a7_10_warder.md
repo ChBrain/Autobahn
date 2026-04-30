@@ -8,10 +8,9 @@
 Small exit south of Rendsburg. The sign: Warder, Nortorf. Rural. The road here flat - the bridge descent done. A brief stretch where the Autobahn is unremarkable.
 
 ## Holds
-
-* [km 76.3](piece_the_kilometerstein.md) on [the A7](place_a7.md).
-* 12.4 km north on [the A7](place_a7.md) to [Kreuz Rendsburg](place_a7_09_kreuz_rendsburg.md).
-* 6 km south on [the A7](place_a7.md) to [Bordesholm](place_a7_11_bordesholm.md).
+[km 76.3](piece_the_kilometerstein.md): Warder.
+- 12.4 km north: [Kreuz Rendsburg](place_a7_09_kreuz_rendsburg.md)
+- 6 km south: [Bordesholm](place_a7_11_bordesholm.md)
 
 ## Offers
 Ausfahrt 10 - the exit ramp. The ordinary road below.

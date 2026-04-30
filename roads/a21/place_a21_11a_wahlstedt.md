@@ -8,7 +8,7 @@
 The sign: Wahlstedt. The town is a satellite of Bad Segeberg - grew rapidly after the war as a settlement for expellees from the eastern territories. Now a small town of 10,000 with no particular character that the A21 exit captures.
 
 ## Holds
-* [km 42.8](piece_the_kilometerstein.md) on [A21](place_a21.md).
+[km 42.8](piece_the_kilometerstein.md): Wahlstedt.
 * [Daldorf](place_a21_10_daldorf.md) is next on [A21](place_a21.md) going north.
 * [Schackendorf](place_a21_service_schackendorf.md) is next on [A21](place_a21.md) going south.
 

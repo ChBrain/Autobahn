@@ -8,7 +8,7 @@
 The northern Bad Oldesloe exit. The sign: Bad Oldesloe-Nord. The town bypassed to the east. A spa town on the Trave.
 
 ## Holds
-* [km 62.2](piece_the_kilometerstein.md) on [A21](place_a21.md).
+[km 62.2](piece_the_kilometerstein.md): Bad Oldesloe-Nord.
 * [Leezen](place_a21_15_leezen.md) is next on [A21](place_a21.md) going north.
 * [Bad Oldesloe-Süd](place_a21_17_bad_oldesloe_sued.md) is next on [A21](place_a21.md) going south.
 

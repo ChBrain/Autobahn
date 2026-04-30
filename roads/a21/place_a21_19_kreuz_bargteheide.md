@@ -8,7 +8,7 @@
 Exit 19. The southern terminus of the A21. The A1 junction. The A21 ends here - or begins here, depending on direction. The A1 continues north to Lübeck and south to Hamburg. The junction signed: A1 Lübeck, A1 Hamburg, A21 Kiel.
 
 ## Holds
-* [km 74.0](piece_the_kilometerstein.md) on [A21](place_a21.md).
+[km 74.0](piece_the_kilometerstein.md): Kreuz Bargteheide.
 * [Tremsbüttel](place_a21_18_tremsbuettel.md) is next on [A21](place_a21.md) going north.
 
 ## Offers

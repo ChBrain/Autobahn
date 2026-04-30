@@ -9,10 +9,9 @@ The sign: Eutin, B76. The B76 connects here - east toward Lübeck-Travemünde, w
 
 
 ## Holds
-
-* [km 66.6](piece_the_kilometerstein.md) on [the A1](place_a1.md).
-* 5.3 km north on [the A1](place_a1.md) to [Neustadt in Holstein-Mitte](place_a1_14_neustadt_mitte.md).
-* 2.3 km south on [the A1](place_a1.md) to [Scharbeutz](place_a1_16_scharbeutz.md).
+[km 66.6](piece_the_kilometerstein.md): Eutin.
+- 5.3 km north: [Neustadt in Holstein-Mitte](place_a1_14_neustadt_mitte.md)
+- 2.3 km south: [Scharbeutz](place_a1_16_scharbeutz.md)
 
 
 ## Offers

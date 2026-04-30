@@ -8,7 +8,7 @@
 Small exit. The sign: Daldorf. The road here crossing the Segeberger Forst - the forest that runs south of Bad Segeberg. The landscape wooded, the road cutting through it.
 
 ## Holds
-* [km 37.0](piece_the_kilometerstein.md) on [A21](place_a21.md).
+[km 37.0](piece_the_kilometerstein.md): Daldorf.
 * [Trappenkamp](place_a21_09_trappenkamp.md) is next on [A21](place_a21.md) going north.
 * [Wahlstedt](place_a21_11a_wahlstedt.md) is next on [A21](place_a21.md) going south.
 

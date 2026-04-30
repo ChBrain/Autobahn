@@ -9,10 +9,9 @@ The sign: Heiligenhafen-Mitte. The town of Heiligenhafen accessible from here - 
 
 
 ## Holds
-
-* [km 25.3](piece_the_kilometerstein.md) on [the A1](place_a1.md).
-* 3.3 km north on [the A1](place_a1.md) to [Heiligenhafen-Ost](place_a1_05_heiligenhafen_ost.md).
-* 3.7 km south on [the A1](place_a1.md) to [Gremersdorf](place_a1_07_gremersdorf.md).
+[km 25.3](piece_the_kilometerstein.md): Heiligenhafen-Mitte.
+- 3.3 km north: [Heiligenhafen-Ost](place_a1_05_heiligenhafen_ost.md)
+- 3.7 km south: [Gremersdorf](place_a1_07_gremersdorf.md)
 
 
 ## Offers

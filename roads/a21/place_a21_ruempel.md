@@ -8,7 +8,7 @@
 One-way entry. The sign: Rümpel. The Hamburg commuter belt proper. The road here dense with settlements - the villages connecting into a continuous suburban fabric. This exit allows entry to the A21 northbound only - no exit here, and no entry from the south.
 
 ## Holds
-* [km 66.6](piece_the_kilometerstein.md) on [A21](place_a21.md).
+[km 66.6](piece_the_kilometerstein.md): Rümpel.
 * [Bad Oldesloe-Süd](place_a21_17_bad_oldesloe_sued.md) is next on [A21](place_a21.md) going north.
 * [Tremsbüttel](place_a21_18_tremsbuettel.md) is next on [A21](place_a21.md) going south.
 

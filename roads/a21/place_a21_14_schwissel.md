@@ -8,7 +8,7 @@
 Exit 14. The sign: Schwissel. The road passing through the Segeberger Forst south of Bad Segeberg. The landscape wooded, fields beginning to open.
 
 ## Holds
-* [km 51.5](piece_the_kilometerstein.md) on [A21](place_a21.md).
+[km 51.5](piece_the_kilometerstein.md): Schwissel.
 * [Bad Segeberg-Süd](place_a21_13_bad_segeberg_sued.md) is next on [A21](place_a21.md) going north.
 * [Leezen](place_a21_15_leezen.md) is next on [A21](place_a21.md) going south.
 

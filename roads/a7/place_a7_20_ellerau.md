@@ -8,10 +8,9 @@
 The sign: Ellerau. The Hamburg commuter belt - the settlements south of Henstedt-Ulzburg merging into each other. The road still open but the density increasing.
 
 ## Holds
-
-* [km 130.3](piece_the_kilometerstein.md) on [the A7](place_a7.md).
-* 4 km north on [the A7](place_a7.md) to [Henstedt-Ulzburg](place_a7_19_henstedt_ulzburg.md).
-* 4 km south on [the A7](place_a7.md) to [Quickborn](place_a7_21_quickborn.md).
+[km 130.3](piece_the_kilometerstein.md): Ellerau.
+- 4 km north: [Henstedt-Ulzburg](place_a7_19_henstedt_ulzburg.md)
+- 4 km south: [Quickborn](place_a7_21_quickborn.md)
 
 ## Offers
 Ausfahrt 20 - the exit ramp.

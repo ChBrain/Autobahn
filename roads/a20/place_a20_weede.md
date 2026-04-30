@@ -8,7 +8,7 @@
 The current western terminus of the A20 in Schleswig-Holstein. The road ends here - to the west the B206 continues toward Bad Segeberg. Extension to Bad Segeberg and beyond planned and contested for decades. The A20 stops here and the traffic disperses.
 
 ## Holds
-* [km 4.4](piece_the_kilometerstein.md) on [A20](place_a20.md).
+[km 4.4](piece_the_kilometerstein.md): Weede.
 * [Geschendorf](place_a20_geschendorf.md) is next on [A20](place_a20.md) going east.
 
 ## Offers

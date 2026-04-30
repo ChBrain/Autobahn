@@ -8,7 +8,7 @@
 The Lübeck-Zentrum exit. The sign: Lübeck-Zentrum. The Altstadt on the Trave island - the seven towers visible from the road. The Hanseatic city.
 
 ## Holds
-* [km 88.5](piece_the_kilometerstein.md) on [A1](place_a1.md).
+[km 88.5](piece_the_kilometerstein.md): Lübeck-Zentrum.
 * [Bad Schwartau](place_a1_21_bad_schwartau.md) is next on [A1](place_a1.md) going north.
 * [Lübeck-Moisling](place_a1_23_luebeck_moisling.md) is next on [A1](place_a1.md) going south.
 

@@ -9,10 +9,9 @@ Very small exit. The sign: Jahnshof. A hamlet. The road here unremarkable - the 
 
 
 ## Holds
-
-* [km 32.3](piece_the_kilometerstein.md) on [the A1](place_a1.md).
-* 3.3 km north on [the A1](place_a1.md) to [Gremersdorf](place_a1_07_gremersdorf.md).
-* 1.5 km south on [the A1](place_a1.md) to [Oldenburg in Holstein-Nord](place_a1_09_oldenburg_nord.md).
+[km 32.3](piece_the_kilometerstein.md): Jahnshof.
+- 3.3 km north: [Gremersdorf](place_a1_07_gremersdorf.md)
+- 1.5 km south: [Oldenburg in Holstein-Nord](place_a1_09_oldenburg_nord.md)
 
 
 ## Offers

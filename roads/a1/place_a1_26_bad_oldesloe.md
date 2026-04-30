@@ -8,10 +8,9 @@
 The Bad Oldesloe exit. The sign: Bad Oldesloe. The Trave valley opening to the west. The road leaving the A1 toward the capital of Stormarn.
 
 ## Holds
-
-* [km 108.0](piece_the_kilometerstein.md) on [the A1](place_a1.md).
-* 7.0 km north on [the A1](place_a1.md) to [Reinfeld](place_a1_25_reinfeld.md).
-* 10.0 km south on [the A1](place_a1.md) to [Kreuz Bargteheide](place_a1_27_kreuz_bargteheide.md).
+[km 108.0](piece_the_kilometerstein.md): Bad Oldesloe.
+- 7.0 km north: [Reinfeld](place_a1_25_reinfeld.md)
+- 10.0 km south: [Kreuz Bargteheide](place_a1_27_kreuz_bargteheide.md)
 
 ## Offers
 Ausfahrt 26 - the exit ramp. The ordinary road below.

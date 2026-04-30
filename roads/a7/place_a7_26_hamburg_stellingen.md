@@ -8,10 +8,9 @@
 The Stellingen exit. The sign: Hamburg-Stellingen. The Volkspark to the right. Six lanes, overhead signs, the speed limit dropping in stages. The Lärmschutztunnel Stellingen: the road briefly underground.
 
 ## Holds
-
-* [km 150.7](piece_the_kilometerstein.md) on [the A7](place_a7.md).
-* 3 km north on [the A7](place_a7.md) to [Dreieck Hamburg-Nordwest](place_a7_25_dreieck_hamburg_nordwest.md).
-* 1 km south on [the A7](place_a7.md) to [Hamburg-Volkspark](place_a7_27_hamburg_volkspark.md).
+[km 150.7](piece_the_kilometerstein.md): Hamburg-Stellingen.
+- 3 km north: [Dreieck Hamburg-Nordwest](place_a7_25_dreieck_hamburg_nordwest.md)
+- 1 km south: [Hamburg-Volkspark](place_a7_27_hamburg_volkspark.md)
 
 ## Offers
 Ausfahrt 26 - the exit ramp. The ordinary road below.

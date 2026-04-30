@@ -8,7 +8,7 @@
 The sign: Bornhöved. Rural Ostholstein. The Holsteinische Schweiz to the east - the lake district beginning here. The Bornhöveder Seenkette: a chain of glacial lakes running north to south.
 
 ## Holds
-* [km 30.3](piece_the_kilometerstein.md) on [A21](place_a21.md).
+[km 30.3](piece_the_kilometerstein.md): Bornhöved.
 * [Wankendorf](place_a21_07_wankendorf.md) is next on [A21](place_a21.md) going north.
 * [Trappenkamp](place_a21_09_trappenkamp.md) is next on [A21](place_a21.md) going south.
 

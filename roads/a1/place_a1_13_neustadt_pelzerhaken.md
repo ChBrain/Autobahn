@@ -9,10 +9,9 @@ The northern Neustadt exit. The sign: Neustadt in Holstein, Pelzerhaken, B501. T
 
 
 ## Holds
-
-* [km 55.8](piece_the_kilometerstein.md) on [the A1](place_a1.md).
-* 11.4 km north on [the A1](place_a1.md) to [Lensahn](place_a1_12_lensahn.md).
-* 5.5 km south on [the A1](place_a1.md) to [Neustadt in Holstein-Mitte](place_a1_14_neustadt_mitte.md).
+[km 55.8](piece_the_kilometerstein.md): Neustadt in Holstein-Pelzerhaken.
+- 11.4 km north: [Lensahn](place_a1_12_lensahn.md)
+- 5.5 km south: [Neustadt in Holstein-Mitte](place_a1_14_neustadt_mitte.md)
 
 
 ## Offers
