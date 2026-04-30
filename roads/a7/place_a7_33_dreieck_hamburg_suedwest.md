@@ -11,7 +11,7 @@ The Dreieck Hamburg-Südwest. The A261 branching west toward Stade and the A1. T
 
 * [km 171](piece_the_kilometerstein.md) on [the A7](place_a7.md).
 * 4.0 km north on [the A7](place_a7.md) to [Hamburg-Heimfeld](place_a7_32_hamburg_heimfeld.md).
-* 1.0 km south on [the A7](place_a7.md) to [Hamburg-Marmstorf](place_a7_34_hamburg_marmstorff.md).
+* 1.0 km south on [the A7](place_a7.md) to [Hamburg-Marmstorf](place_a7_34_hamburg_marmstorf.md).
 
 ## Offers
 [The A261](place_a261.md) west. Stade. Connection to [the A1](place_a1.md).
