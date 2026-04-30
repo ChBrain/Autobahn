@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Validate state place_*.md files (bundeslaender) for basic compliance.
+"""Validate state place_*.md files for basic compliance.
 
 Checks each state file for:
   - UTF-8 encoding with no byte-order mark
@@ -10,7 +10,7 @@ Exit status:
   0 if every file passes, 1 otherwise.
 
 Usage:
-  scripts/validate_states.py            # walks bundeslaender folder
+  scripts/validate_states.py            # walks states folder
   scripts/validate_states.py FILE...    # validates only the given files
 """
 from __future__ import annotations
@@ -28,8 +28,8 @@ REQUIRED_SECTIONS = ["Owner", "Shown", "Holds", "Offers", "Withheld"]
 
 
 def find_state_files(root: Path) -> list[Path]:
-    """Find all bundeslaender place_*.md files."""
-    return sorted(p for p in (root / "bundeslaender").rglob("place_*.md") if ".git" not in p.parts)
+    """Find all state place_*.md files."""
+    return sorted(p for p in (root / "states").rglob("place_*.md") if ".git" not in p.parts)
 
 
 def validate(path: Path) -> list[str]:

@@ -18,7 +18,7 @@ Usage:
 Typical manifests:
   - autobahn.md                            # all-bundle (world manifest)
   - roads/<road>/place_<road>.md           # per-road bundle
-  - bundeslaender/place_<bundesland>.md    # per-Bundesland bundle
+  - states/place_<state>.md    # per-state bundle
 
 Cross-bundle links (a bundled file linking to a target outside the bundle)
 are warned by default; `--strict` upgrades the warning to a failure. The

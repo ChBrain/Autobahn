@@ -234,14 +234,14 @@ The world deploys flat to Claude.ai: every file lands in one folder. Build a dep
 ```
 python scripts/deploy.py autobahn.md                            # all-bundle
 python scripts/deploy.py roads/a7/place_a7.md                   # per-road bundle
-python scripts/deploy.py bundeslaender/place_schleswig_holstein.md  # per-Bundesland bundle
+python scripts/deploy.py states/place_schleswig_holstein.md     # per-state bundle
 ```
 
 The bundle is exactly the manifest plus every `*.md` file linked from it. Single-hop closure: links from inside bundled files are not followed. The manifest is the source of truth - if a deployment needs the world frame (`instructions.md`, `stack.md`, the engine pieces, personas, vehicles, props), the manifest must link to them. The frame is a choice.
 
 The deployer asserts every basename in the bundle is unique, rewrites every internal link to its bare filename, and emits `dist/<derived>.zip`. Cross-bundle links (a bundled file linking to a target outside the bundle) are warned by default; `--strict` upgrades the warning to a failure.
 
-The road index files in `roads/<road>/`, the Bundesland files in `bundeslaender/`, and `autobahn.md` at the repo root are the manifests authors maintain. Adding a new deployment scope means adding a new manifest file at the appropriate path.
+The road index files in `roads/<road>/`, the state files in `states/`, and `autobahn.md` at the repo root are the manifests authors maintain. Adding a new deployment scope means adding a new manifest file at the appropriate path.
 
 The single author-facing rule: **every file basename in the world is unique**.
 
@@ -250,7 +250,7 @@ The single author-facing rule: **every file basename in the world is unique**.
 ## To document
 
 - **Geographic coordinates** - each place node to carry latitude, longitude, and altitude (from OSM or BASt sources). Enables geographic validation: compass directions verified against bearing, distances against geodetic calculations, elevation changes detected. Lookup table vs. per-file embedding still open. Proposed: validate directions against bearing; validate distances against haversine; detect anomalies (altitude spikes, direction contradictions). Requires authoritative source identification and accuracy tolerance definition.
-- **Bundesland files** - the 16 federal state files in `bundeslaender/`, their structure, subtitle tagline pattern, and how they aggregate roads and nodes. Needs its own `## Bundesland` chapter and `validate_bundeslaender.py` script.
+- **State files** - the 16 federal state files in `states/`, their structure, subtitle tagline pattern, and how they aggregate roads and nodes. Needs its own `## State` chapter and `validate_states.py` script.
 - **Naming conventions in use** - CONVERTED: German infixes replaced with English (`_bruecke_` → `_bridge_`, `_raststaette_` → `_service_`). Road-tied stops (service/rest/roadhouse) now require road prefix: `place_{road}_service_*`, `place_{road}_rest_*`, `place_{road}_roadhouse_*`; optional exit numbers if official AS-number exists. ✅ Migration complete. Tunnel naming still pending.
 - **Navigation links placement** - FIXED: neighbour links (distance + direction markers) moved from `## Shown` to `## Holds` across 51 files (A1, A7, A20, A23, A24, A25, A210, A215). Validator `validate_navigation_links.py` enforces rule; all 187 files pass.
 - **Engine files** - `instructions.md`, `stack.md`, and the pieces in `engine/` (kilometerstein, driver seat, infotainment, etc.)

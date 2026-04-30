@@ -25,7 +25,7 @@ jobs:
           shopt -s nullglob
           # Every manifest produces one zip. Globs cover the three current
           # scopes; new manifests at these paths auto-build with no workflow change.
-          for manifest in autobahn.md roads/*/place_*.md bundeslaender/place_*.md; do
+          for manifest in autobahn.md roads/*/place_*.md states/place_*.md; do
             [ -f "$manifest" ] || continue
             python3 scripts/deploy.py --strict "$manifest"
           done
