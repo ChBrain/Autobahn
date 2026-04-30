@@ -62,7 +62,7 @@ Northbound from Hamburg: the Schnelsen tunnels end. The density drops immediatel
   - [Kreuz Bad Bramstedt](place_a7_kreuz_bad_bramstedt.md)
   - [Bad Bramstedt](place_a7_17_bad_bramstedt.md)
   - [Kaltenkirchen](place_a7_18_kaltenkirchen.md)
-  - [Rasthof Holmmoor](place_a7_roadhouse_holmmoor.md)
+  - [Raststätte Holmmoor](place_a7_service_holmmoor.md)
   - [Henstedt-Ulzburg](place_a7_19_henstedt_ulzburg.md)
   - [Ellerau](place_a7_20_ellerau.md)
   - [Quickborn](place_a7_21_quickborn.md)

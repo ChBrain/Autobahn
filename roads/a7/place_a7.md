@@ -33,7 +33,7 @@ Four lanes for most of the stretch - two northbound, two southbound, the central
 * [km 126.7](piece_the_kilometerstein.md): [Henstedt-Ulzburg](place_a7_19_henstedt_ulzburg.md).
 * [km 130.3](piece_the_kilometerstein.md): [Ellerau](place_a7_20_ellerau.md).
 * [km 133.7](piece_the_kilometerstein.md): [Quickborn](place_a7_21_quickborn.md).
-* [km 136.6](piece_the_kilometerstein.md): [Rasthof Holmmoor](place_a7_roadhouse_holmmoor.md).
+* [km 136.6](piece_the_kilometerstein.md): [Raststätte Holmmoor](place_a7_service_holmmoor.md).
 * [km 141.0](piece_the_kilometerstein.md): [Norderstedt-Mitte/Dreieck Garstedt](place_a7_22_norderstedt_mitte.md).
 * [km 144.8](piece_the_kilometerstein.md): [Hamburg-Schnelsen-Nord](place_a7_23_hamburg_schnelsen_nord.md).
 * [km 146.2](piece_the_kilometerstein.md): [Hamburg-Schnelsen](place_a7_24_hamburg_schnelsen.md).

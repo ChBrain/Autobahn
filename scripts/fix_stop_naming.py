@@ -10,7 +10,7 @@ Target files (4 total):
   - place_service_aalbek.md → place_a7_service_aalbek.md
   - place_service_brokenlande.md → place_a7_service_brokenlande.md
   - place_service_huettener_berge.md → place_a7_service_huettener_berge.md
-  - place_rasthof_holmmoor.md → place_a7_roadhouse_holmmoor.md
+  - place_rasthof_holmmoor.md → place_a7_service_holmmoor.md
 
 Usage:
   scripts/fix_stop_naming.py
@@ -32,7 +32,7 @@ RENAMES = {
     "place_service_aalbek.md": "place_a7_service_aalbek.md",
     "place_service_brokenlande.md": "place_a7_service_brokenlande.md",
     "place_service_huettener_berge.md": "place_a7_service_huettener_berge.md",
-    "place_rasthof_holmmoor.md": "place_a7_roadhouse_holmmoor.md",
+    "place_rasthof_holmmoor.md": "place_a7_service_holmmoor.md",
 }
 
 
@@ -134,7 +134,7 @@ def main() -> int:
             
             # Commit
             subprocess.run(
-                ["git", "commit", "-m", f"fix: add road prefix to {fixed} stop files\n\n- place_service_aalbek → place_a7_service_aalbek\n- place_service_brokenlande → place_a7_service_brokenlande\n- place_service_huettener_berge → place_a7_service_huettener_berge\n- place_rasthof_holmmoor → place_a7_roadhouse_holmmoor\n\nAll stop files now follow convention: place_{{road}}_{{type}}_{{name}}"],
+                ["git", "commit", "-m", f"fix: add road prefix to {fixed} stop files\n\n- place_service_aalbek → place_a7_service_aalbek\n- place_service_brokenlande → place_a7_service_brokenlande\n- place_service_huettener_berge → place_a7_service_huettener_berge\n- place_rasthof_holmmoor → place_a7_service_holmmoor\n\nAll stop files now follow convention: place_{{road}}_{{type}}_{{name}}"],
                 cwd=str(root_path),
                 check=True,
             )

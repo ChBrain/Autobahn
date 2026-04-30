@@ -1,4 +1,4 @@
-# Rasthof Holmmoor
+# Raststätte Holmmoor
 
 ## Owner
 - Project: Autobahn
