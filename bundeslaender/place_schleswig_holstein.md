@@ -77,7 +77,7 @@ Northbound from Hamburg: the Schnelsen tunnels end. The density drops immediatel
   - [Lübeck-Süd](place_a20_2b_luebeck_sued.md)
   - [Groß Sarau](place_a20_3_gross_sarau.md)
 - [A21](place_a21.md) - Nettelsee to Kreuz Bargteheide
-  - [Nettelsee](place_a21_06_nettelsee.md)
+  - [Nettelsee](place_a21_nettelsee.md)
   - [Wankendorf](place_a21_07_wankendorf.md)
   - [Bornhöved](place_a21_08_bornhoeved.md)
   - [Trappenkamp](place_a21_09_trappenkamp.md)

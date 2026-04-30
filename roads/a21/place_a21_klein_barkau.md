@@ -9,7 +9,7 @@ Exit. The sign: Klein Barkau. The road running through the outer Kiel metropolit
 
 ## Holds
 * [km 11.4](piece_the_kilometerstein.md) on [A21](place_a21.md).
-* [Nettelsee](place_a21_06_nettelsee.md) is next on [A21](place_a21.md) going north.
+* [Nettelsee](place_a21_nettelsee.md) is next on [A21](place_a21.md) going north.
 * [Wankendorf](place_a21_07_wankendorf.md) is next on [A21](place_a21.md) going south.
 
 ## Offers
