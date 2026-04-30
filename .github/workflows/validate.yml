@@ -32,7 +32,23 @@ jobs:
           fi
           # --diff-filter=ACMRT skips deletions; the validator must not be handed paths that no longer exist.
           RAW=$(git diff --name-only --diff-filter=ACMRT "$RANGE" | { grep 'place_.*\.md$' || true; })
-          FILES=$(printf '%s\n' "$RAW" | tr '\n' ' ' | sed 's/ *$//')
+          # When a road index file changes, expand to its sibling nodes - their
+          # km math depends on the index. Without this, an index-only edit
+          # would leave node files unvalidated against the new chain.
+          EXPANDED="$RAW"
+          for f in $RAW; do
+            case "$f" in
+              roads/*/place_*.md)
+                road_dir=$(dirname "$f")
+                road=$(basename "$road_dir")
+                stem=$(basename "$f" .md)
+                if [ "$stem" = "place_${road}" ] || [ "$stem" = "place_the_${road}" ]; then
+                  EXPANDED="$EXPANDED $(find "$road_dir" -maxdepth 1 -name 'place_*.md' -type f)"
+                fi
+                ;;
+            esac
+          done
+          FILES=$(printf '%s\n' $EXPANDED | sort -u | tr '\n' ' ' | sed 's/ *$//')
           echo "files=$FILES" >> "$GITHUB_OUTPUT"
       - name: Validate changed files
         if: steps.changed.outputs.files != ''
