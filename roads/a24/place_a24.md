@@ -12,7 +12,7 @@
 * [km 6.6](piece_the_kilometerstein.md): [Kreuz Hamburg-Ost](place_a24_03_kreuz_hamburg_ost.md).
 * [km 10.9](piece_the_kilometerstein.md): [Reinbek](place_a24_04_reinbek.md).
 * [km 17.4](piece_the_kilometerstein.md): [Witzhave](place_a24_05_witzhave.md).
-* [km 23.1](piece_the_kilometerstein.md): [Schwarzenbek-Große](place_a24_06_schwarzenbek_grande.md).
+* [km 23.1](piece_the_kilometerstein.md): [Schwarzenbek/Grande](place_a24_06_schwarzenbek_grande.md).
 * [km 33.2](piece_the_kilometerstein.md): [Talkau](place_a24_07_talkau.md).
 * [km 39.1](piece_the_kilometerstein.md): [Hornbek](place_a24_08a_hornbek.md).
 * [km 44.9](piece_the_kilometerstein.md): [Gudow](place_a24_08b_gudow.md).
@@ -25,4 +25,4 @@
 
 ---
 
-v0.1.0 - KAI Worlds
+v0.1.1 - KAI Worlds

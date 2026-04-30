@@ -7,7 +7,7 @@
 ## Shown
 The sign at the Danish border: Bundesrepublik Deutschland. Then the A7 begins and the road is the same road - only the sign changes. Flat. Fields. Wind turbines on both sides. The sky dominant. The North Sea coast 40 km west; the Baltic 40 km east. The road straight and open through the entire state, uncommitted to elevation. The landscape that does not announce itself.
 
-Entering from Hamburg south: the Maschen marshalling yard visible from the A7. The density drops immediately. The signs thin. The road continues.
+Northbound from Hamburg: the Schnelsen tunnels end. The density drops immediately. The signs thin. The road continues.
 
 ## Holds
 - [A1](place_a1.md) - Puttgarden to Dreieck Hamburg-Ost, Vogelfluglinie
@@ -112,16 +112,13 @@ Entering from Hamburg south: the Maschen marshalling yard visible from the A7. T
   - [Pinneberg-Süd](place_a23_18_pinneberg_sued.md)
   - [Halstenbek/Rellingen](place_a23_19_halstenbek_rellingen.md)
   - [Halstenbek-Krupunder](place_a23_20_halstenbek_krupunder.md)
-- [A24](place_a24.md) - Gudow to Hamburg-Horn
-  - [Gudow](place_a24_01_gudow.md)
-  - [Ratzeburg](place_a24_02_ratzeburg.md)
-  - [Zarrentin](place_a24_03_zarrentin.md)
-  - [Berkenthin](place_a24_04_berkenthin.md)
-  - [Pansdorf](place_a24_05_pansdorf.md)
-  - [Lübeck-Nord](place_a24_06_luebeck_nord.md)
-  - [Lübeck-Zentrum](place_a24_07_luebeck_zentrum.md)
-  - [Lübeck-Süd](place_a24_08_luebeck_sued.md)
-  - [Kreuz Bad Schwartau](place_a24_08b_kreuz_bad_schwartau.md)
+- [A24](place_a24.md) - Hamburg-Horn to Gudow
+  - [Reinbek](place_a24_04_reinbek.md)
+  - [Witzhave](place_a24_05_witzhave.md)
+  - [Schwarzenbek/Grande](place_a24_06_schwarzenbek_grande.md)
+  - [Talkau](place_a24_07_talkau.md)
+  - [Hornbek](place_a24_08a_hornbek.md)
+  - [Gudow](place_a24_08b_gudow.md)
 - [A25](place_a25.md) - Dreieck Hamburg-Südost to Geesthacht
   - [Geesthacht](place_a25_7_geesthacht.md)
 - [A210](place_a210.md) - Westerrönfeld to Kreuz Kiel-West
@@ -147,4 +144,4 @@ Two state languages: German and Danish. The Danish minority - recognised, school
 
 ---
 
-v0.1.4 - KAI Worlds
+v0.1.6 - KAI Worlds
