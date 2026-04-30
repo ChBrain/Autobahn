@@ -133,10 +133,6 @@ that run the simulation regardless of road.
 - [Sachsen-Anhalt](states/place_sachsen_anhalt.md)
 - [Schleswig-Holstein](states/place_schleswig_holstein.md)
 - [Thüringen](states/place_thueringen.md)
-- [Sachsen](place_sachsen.md)
-- [Sachsen-Anhalt](place_sachsen_anhalt.md)
-- [Schleswig-Holstein](place_schleswig_holstein.md)
-- [Thüringen](place_thueringen.md)
 
 ---
 
