@@ -78,22 +78,6 @@ A federal state index is the parent file for a Bundesland. It holds the complete
 
 ---
 
-### Region
-
-A geographic or administrative subdivision within a federal state.
-
-**Shown** is what defines the region—its character, major towns, landscape, and relationship to the state.
-
-**Holds** carries references to roads passing through, cities within, and geographic features.
-
-**Offers** is the region itself—what it makes accessible to someone arriving.
-
-**Withheld** is what requires seeking—specific local knowledge, regional culture, what the motorway bypasses.
-
-**Naming:** `states/{state}/place_{state}_{region}.md` or as named in the state's structure.
-
----
-
 ## Roads
 
 A road and all its child places are modelled using the Place component from KAI HACKS AI Architecture. The road index is a Place that holds Places.
