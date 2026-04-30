@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Road kilometre marker validation for index files in the Autobahn world.
+"""Road kilometre marker validation for road index files.
 
 Companion to validate_roads.py. Checks km values in Holds sections of road
 index files (place_<road>.md or place_the_<road>.md):
@@ -7,6 +7,10 @@ index files (place_<road>.md or place_the_<road>.md):
   - km values are in strictly ascending order
   - No duplicate km values
   - All values are valid floats
+
+Read-only. The index has no parent in the architecture's hierarchy, so most
+issues here cannot be auto-resolved - the validator can only state the
+contradiction and ask for human engagement.
 
 Exit status:
   0 if every file passes, 1 otherwise.
@@ -21,11 +25,10 @@ import re
 import sys
 from pathlib import Path
 
-# Import the math validator
-try:
-    from validate_roads_km_math import main as validate_km_math
-except ImportError:
-    validate_km_math = None
+HERE = Path(__file__).resolve().parent
+sys.path.insert(0, str(HERE))
+
+from findings import Issue
 
 HOLDS_BLOCK_RE = re.compile(r"^## Holds\r?\n(.*?)(?=\r?\n##|\Z)", re.MULTILINE | re.DOTALL)
 KM_ENTRY_RE = re.compile(
@@ -55,84 +58,91 @@ def find_place_files(root: Path) -> list[Path]:
     return sorted(p for p in root.rglob("place_*.md") if ".git" not in p.parts)
 
 
-def validate(path: Path, root: Path) -> list[str]:
-    errors: list[str] = []
-    
-    kind = classify(path, root)
-    if kind != "road_index":
-        return []  # Only validate road index files
+def validate(path: Path, root: Path) -> list[Issue]:
+    """Validate km values inside a road index. No-op for non-index files."""
+    if classify(path, root) != "road_index":
+        return []
 
     try:
         text = path.read_text(encoding="utf-8")
     except (UnicodeDecodeError, OSError):
-        return ["could not read file as UTF-8"]
+        return []
+
+    issues: list[Issue] = []
 
     holds_match = HOLDS_BLOCK_RE.search(text)
     if not holds_match:
-        return ["no Holds section found"]
+        return [Issue(error="no Holds section found", verdict=None)]
 
     holds_text = holds_match.group(1)
     km_matches = KM_ENTRY_RE.findall(holds_text)
 
     if not km_matches:
-        return ["Holds section has no km entries"]
+        return [Issue(error="Holds section has no km entries", verdict=None)]
 
     km_values: list[float] = []
     for i, km_str in enumerate(km_matches):
         try:
-            km = float(km_str)
-            km_values.append(km)
+            km_values.append(float(km_str))
         except ValueError:
-            errors.append(f"entry {i+1}: km value '{km_str}' is not a valid float")
-            continue
+            issues.append(Issue(
+                error=f"entry {i+1}: km value '{km_str}' is not a valid float",
+                verdict=None,
+            ))
+            km_values.append(float("nan"))
 
-    # Check for ascending order
-    for i in range(1, len(km_values)):
-        if km_values[i] <= km_values[i - 1]:
-            errors.append(
-                f"km values not in ascending order: "
-                f"entry {i} has {km_values[i-1]}, "
-                f"entry {i+1} has {km_values[i]}"
-            )
-
-    # Check for duplicates
-    seen = set()
+    # Strict-ascending: same value triggers ascending error AND duplicate. Report once.
+    seen_at: dict[float, int] = {}
     for i, km in enumerate(km_values):
-        if km in seen:
-            errors.append(f"entry {i+1}: duplicate km value {km}")
-        seen.add(km)
+        if km != km:  # NaN from earlier failure
+            continue
+        if km in seen_at:
+            issues.append(Issue(
+                error=f"duplicate km {km} at entries {seen_at[km]+1} and {i+1}",
+                verdict=None,
+            ))
+        else:
+            seen_at[km] = i
 
-    return errors
+    for i in range(1, len(km_values)):
+        prev, curr = km_values[i-1], km_values[i]
+        if prev != prev or curr != curr:
+            continue
+        if curr < prev:
+            issues.append(Issue(
+                error=f"entry {i+1} (km {curr}) is before entry {i} (km {prev})",
+                verdict=None,
+            ))
+        # equal case already covered by duplicate check above
+
+    return issues
 
 
 def main(argv: list[str]) -> int:
     root = Path(__file__).resolve().parent.parent
     targets = [Path(a) for a in argv[1:]] if len(argv) > 1 else find_place_files(root)
 
-    # Only validate road index files
     targets = [p for p in targets if classify(p, root) == "road_index"]
-
     if not targets:
-        print("OK: no km checks needed (no road index files)")
-    else:
-        failed = 0
-        for path in targets:
-            errors = validate(path, root)
-            if errors:
-                failed += 1
-                print(f"FAIL {path}")
-                for err in errors:
-                    print(f"  - {err}")
+        print("OK: no road index files in scope")
+        return 0
 
-        total = len(targets)
-        if failed:
-            print(f"\n{failed}/{total} files failed km validation")
-            return 1
-        print(f"OK: {total} files passed km validation")
+    failed = 0
+    for path in targets:
+        issues = validate(path, root)
+        if issues:
+            failed += 1
+            print(f"FAIL {path}")
+            for issue in issues:
+                print(f"  - {issue.error}")
+                if issue.verdict:
+                    print(f"    verdict: {issue.verdict}")
 
-    # Cascade to km math validation
-    if validate_km_math:
-        return validate_km_math(argv)
+    total = len(targets)
+    if failed:
+        print(f"\n{failed}/{total} files failed km validation")
+        return 1
+    print(f"OK: {total} files passed km validation")
     return 0
 
 

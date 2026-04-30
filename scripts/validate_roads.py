@@ -14,7 +14,9 @@ nodes; everything else `place_*.md` in the folder is a node.
   roads/<road>/place_<road>.md         -> road index
   roads/<road>/place_the_<road>.md     -> road index (legacy form)
   roads/<road>/place_*.md (other)      -> road node
-  bundeslaender/place_*.md             -> bundesland (not checked here)
+  states/place_*.md                    -> bundesland (not checked here)
+
+Read-only. Emits Issue records; orchestration is validate.py's job.
 
 Exit status:
   0 if every file passes, 1 otherwise.
@@ -29,6 +31,11 @@ import re
 import sys
 from pathlib import Path
 
+HERE = Path(__file__).resolve().parent
+sys.path.insert(0, str(HERE))
+
+from findings import Issue
+
 # `\r?\n` so the regex still matches if a file slipped in with CRLF endings.
 OWNER_BLOCK_RE = re.compile(r"## Owner\r?\n(.*?)(?=\r?\n##|\Z)", re.DOTALL)
 PLACE_LINE_RE = re.compile(
@@ -38,12 +45,7 @@ PLACE_LINE_RE = re.compile(
 
 
 def classify(path: Path, root: Path) -> str:
-    """Return 'road_index', 'road_node', 'bundesland', or 'other'.
-
-    A file inside `roads/<road>/` is the road index iff its basename is
-    `place_<road>.md` or the legacy `place_the_<road>.md`. Anything else
-    matching `place_*.md` in that folder is a node.
-    """
+    """Return 'road_index', 'road_node', 'bundesland', or 'other'."""
     path = path.resolve()
     root = root.resolve()
     try:
@@ -66,31 +68,40 @@ def find_place_files(root: Path) -> list[Path]:
     return sorted(p for p in root.rglob("place_*.md") if ".git" not in p.parts)
 
 
-def validate(path: Path, root: Path) -> list[str]:
-    errors: list[str] = []
+def validate(path: Path, root: Path) -> list[Issue]:
+    issues: list[Issue] = []
 
     try:
         text = path.read_text(encoding="utf-8")
     except (UnicodeDecodeError, OSError):
-        return ["could not read file as UTF-8 - run validate_general.py first"]
+        # General layer reports encoding failures; nothing useful to add here.
+        return []
 
     owner_match = OWNER_BLOCK_RE.search(text)
     owner_text = owner_match.group(1) if owner_match else ""
 
     if "- Project: Autobahn" not in owner_text:
-        errors.append("Owner block missing `- Project: Autobahn`")
+        issues.append(Issue(
+            error="Owner block missing `- Project: Autobahn`",
+            verdict="insert `- Project: Autobahn` as a bullet under `## Owner`",
+        ))
 
     kind = classify(path, root)
     has_place_line = bool(PLACE_LINE_RE.search(owner_text))
 
     if kind == "road_node" and not has_place_line:
-        errors.append(
-            "road node Owner missing `- Place: [Road](place_road.md) in [Bundesland](place_bundesland.md)`"
-        )
+        # Road derivable from path; bundesland needs lookup the validator doesn't have.
+        issues.append(Issue(
+            error="road node Owner missing `- Place: [Road](place_road.md) in [Bundesland](place_bundesland.md)`",
+            verdict=None,  # bundesland mapping not known to the validator
+        ))
     elif kind == "road_index" and has_place_line:
-        errors.append("road index Owner must not contain a `- Place:` line")
+        issues.append(Issue(
+            error="road index Owner must not contain a `- Place:` line",
+            verdict="remove the `- Place:` line from the Owner block",
+        ))
 
-    return errors
+    return issues
 
 
 def main(argv: list[str]) -> int:
@@ -99,23 +110,21 @@ def main(argv: list[str]) -> int:
 
     failed = 0
     for path in targets:
-        errors = validate(path, root)
-        if errors:
+        issues = validate(path, root)
+        if issues:
             failed += 1
             print(f"FAIL {path}")
-            for err in errors:
-                print(f"  - {err}")
+            for issue in issues:
+                print(f"  - {issue.error}")
+                if issue.verdict:
+                    print(f"    verdict: {issue.verdict}")
 
     total = len(targets)
     if failed:
         print(f"\n{failed}/{total} files failed road architecture validation")
         return 1
     print(f"OK: {total} files passed road architecture validation")
-    
-    # Pass to next validator
-    print()
-    import validate_roads_km
-    return validate_roads_km.main(["validate_roads_km"] + [str(f) for f in targets])
+    return 0
 
 
 if __name__ == "__main__":
