@@ -31,13 +31,18 @@ sys.path.insert(0, str(HERE))
 
 from findings import Issue
 
-# Files that fail: standalone (no road prefix)
-STANDALONE_RE = {
-    "service":   re.compile(r"^place_service_[a-z_]+\.md$"),
-    "rest":      re.compile(r"^place_rest_[a-z_]+\.md$"),
-    "roadhouse": re.compile(r"^place_roadhouse_[a-z_]+\.md$"),
-    "rasthof":   re.compile(r"^place_rasthof_[a-z_]+\.md$"),
-}
+# Type infix anywhere in the basename. Files containing this MUST follow
+# the strict pattern below; otherwise the name is malformed regardless of
+# whether the missing piece is the road, the type spelling, or punctuation.
+TYPE_INFIX_RE = re.compile(r"_(service|rest|roadhouse|rasthof)_")
+
+# Strict architecture form: place_<road>[_<NN>]_<type>_<name>.md
+# - road: a + digits (e.g., a1, a226)
+# - optional exit number: 1-3 digits + optional letter (e.g., 5, 12, 2a)
+# - type: service / rest / roadhouse (rasthof is legacy, see below)
+STRICT_STOP_RE = re.compile(
+    r"^place_a\d+(?:_\d{1,3}[a-z]?)?_(service|rest|roadhouse)_[a-z_]+\.md$"
+)
 
 
 def find_place_files(root: Path) -> list[Path]:
@@ -46,13 +51,24 @@ def find_place_files(root: Path) -> list[Path]:
 
 def validate(path: Path) -> list[Issue]:
     basename = path.name
-    for kind, regex in STANDALONE_RE.items():
-        if regex.match(basename):
-            return [Issue(
-                error=f"standalone {kind} file missing road prefix",
-                verdict=None,  # rule names the type, not which road owns it
-            )]
-    return []
+    m = TYPE_INFIX_RE.search(basename)
+    if not m:
+        return []
+    if STRICT_STOP_RE.match(basename):
+        return []
+
+    type_word = m.group(1)
+    if type_word == "rasthof":
+        # Architecturally rasthof is a roadhouse; the rename is determined.
+        return [Issue(
+            error="`_rasthof_` infix in filename",
+            verdict="rename `_rasthof_` to `_roadhouse_` (rasthof is a type of roadhouse)",
+        )]
+    return [Issue(
+        error=(f"road-tied stop name does not match "
+               f"`place_<road>[_<NN>]_{type_word}_<name>.md`"),
+        verdict=None,  # rule names the type, not which road owns it
+    )]
 
 
 def main(argv: list[str]) -> int:
