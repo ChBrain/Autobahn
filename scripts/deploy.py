@@ -123,16 +123,22 @@ def build_zip(bundle: set[Path], out_path: Path) -> None:
 
 
 def default_out_path(manifest: Path) -> Path:
-    """Map a manifest filename to a release-friendly zip name in dist/."""
+    """Map a manifest filename to a release-friendly zip name in dist/.
+
+    Internal filenames use underscores; release names use hyphens. The
+    derived segment is hyphenated so URLs match across the README,
+    GitHub releases, and the deployer.
+    """
     stem = manifest.stem
     if stem == "autobahn":
         name = "autobahn"
     elif stem.startswith("place_the_"):
-        name = "autobahn-" + stem[len("place_the_"):]
+        name = "autobahn-" + stem[len("place_the_"):].replace("_", "-")
     elif stem.startswith("place_"):
-        name = "autobahn-" + stem[len("place_"):]
+        name = "autobahn-" + stem[len("place_"):].replace("_", "-")
     else:
-        name = "autobahn-" + stem
+        name = "autobahn-" + stem.replace("_", "-")
+    return ROOT / "dist" / f"{name}.zip"
     return ROOT / "dist" / f"{name}.zip"
 
 
