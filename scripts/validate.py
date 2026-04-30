@@ -62,6 +62,7 @@ class Finding:
     path: Path
     layer: str
     issue: Issue
+    implicit: bool = False  # surfaced from a file pulled in for gating, not in the user's scope
 
 
 @dataclass(frozen=True)
@@ -259,6 +260,12 @@ def schedule(targets: list[Path]) -> tuple[list[Finding], list[Skip]]:
                 findings.extend(gate_findings)
                 findings.extend(sibling_findings)
             elif gate_failed:
+                # Mark these as implicit so the exit code is not influenced
+                # by pre-existing brokenness in files the user did not touch.
+                structural = [
+                    Finding(f.path, f.layer, f.issue, implicit=True)
+                    for f in structural
+                ]
                 # The user didn't ask about the index, but they need to know
                 # why their node was skipped.
                 findings.extend(structural)
@@ -311,7 +318,10 @@ def render_text(findings: list[Finding], skips: list[Skip]) -> None:
         except ValueError:
             display = f.path
         tag = "determined" if f.issue.verdict else "human"
-        print(f"  FAIL {display}  [{f.layer}] [{tag}]")
+        # `INFO` for implicit (pre-existing brokenness in a file the user did
+        # not touch); `FAIL` when the file is in the user's scope.
+        marker = "INFO" if f.implicit else "FAIL"
+        print(f"  {marker} {display}  [{f.layer}] [{tag}]")
         print(f"    error:   {f.issue.error}")
         if f.issue.verdict:
             print(f"    verdict: {f.issue.verdict}")
@@ -396,16 +406,20 @@ def main() -> int:
         render_json(findings, skips)
     else:
         render_text(findings, skips)
-        total_fail = len(findings)
+        explicit = [f for f in findings if not f.implicit]
+        implicit = [f for f in findings if f.implicit]
         total_skip = len(skips)
         total_files = len(targets)
-        determined = sum(1 for f in findings if f.issue.verdict)
-        human = total_fail - determined
-        print(f"Summary: {total_files} file(s), "
-              f"{total_fail} finding(s) ({determined} determined / {human} human), "
-              f"{total_skip} skipped")
+        determined = sum(1 for f in explicit if f.issue.verdict)
+        human = len(explicit) - determined
+        summary = (f"Summary: {total_files} file(s), "
+                   f"{len(explicit)} finding(s) ({determined} determined / {human} human), "
+                   f"{total_skip} skipped")
+        if implicit:
+            summary += f", {len(implicit)} info (pre-existing, out of scope)"
+        print(summary)
 
-    return 1 if findings else 0
+    return 1 if any(not f.implicit for f in findings) else 0
 
 
 if __name__ == "__main__":
