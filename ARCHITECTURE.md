@@ -56,7 +56,7 @@ Files are UTF-8, no byte-order mark.
 
 A federal state (Bundesland) and all its child places are modelled using the Place component from KAI HACKS AI Architecture. The federal state index is a Place that holds Places.
 
-Every federal state has its own folder at `bundeslaender/<state>/`. The federal state index file lives in this folder alongside references to roads, regions, and other geographic features that define it.
+Every federal state has its own folder at `states/<state>/`. The federal state index file lives in this folder alongside references to roads, regions, and other geographic features that define it.
 
 It holds child places—motorways, cities, regions, geographic landmarks—each connected to its parent state. The result is a hierarchical graph where each child Place references its state as structural parent. Unlike roads (ordered by kilometre), federal states organize geographically by location, region, and the roads that traverse them.
 
@@ -74,7 +74,7 @@ A federal state index is the parent file for a Bundesland. It holds the complete
 
 **Withheld** is what requires seeking within the state—specific geographic details, regional character, what the motorway passes but does not expose.
 
-**Naming:** `bundeslaender/place_{state}.md`
+**Naming:** `states/place_{state}.md`
 
 ---
 
@@ -90,7 +90,7 @@ A geographic or administrative subdivision within a federal state.
 
 **Withheld** is what requires seeking—specific local knowledge, regional culture, what the motorway bypasses.
 
-**Naming:** `bundeslaender/{state}/place_{state}_{region}.md` or as named in the state's structure.
+**Naming:** `states/{state}/place_{state}_{region}.md` or as named in the state's structure.
 
 ---
 
@@ -275,14 +275,14 @@ The world deploys flat to Claude.ai: every file lands in one folder. Build a dep
 ```
 python scripts/deploy.py autobahn.md                            # all-bundle
 python scripts/deploy.py roads/a7/place_a7.md                   # per-road bundle
-python scripts/deploy.py bundeslaender/place_schleswig_holstein.md  # per-Bundesland bundle
+python scripts/deploy.py states/place_schleswig_holstein.md  # per-state bundle
 ```
 
 The bundle is exactly the manifest plus every `*.md` file linked from it. Single-hop closure: links from inside bundled files are not followed. The manifest is the source of truth - if a deployment needs the world frame (`instructions.md`, `stack.md`, the engine pieces, personas, vehicles, props), the manifest must link to them. The frame is a choice.
 
 The deployer asserts every basename in the bundle is unique, rewrites every internal link to its bare filename, and emits `dist/<derived>.zip`. Cross-bundle links (a bundled file linking to a target outside the bundle) are warned by default; `--strict` upgrades the warning to a failure.
 
-The road index files in `roads/<road>/`, the Bundesland files in `bundeslaender/`, and `autobahn.md` at the repo root are the manifests authors maintain. Adding a new deployment scope means adding a new manifest file at the appropriate path.
+The road index files in `roads/<road>/`, the state files in `states/`, and `autobahn.md` at the repo root are the manifests authors maintain. Adding a new deployment scope means adding a new manifest file at the appropriate path.
 
 The single author-facing rule: **every file basename in the world is unique**.
 
@@ -291,7 +291,7 @@ The single author-facing rule: **every file basename in the world is unique**.
 ## To document
 
 - **Geographic coordinates** - each place node to carry latitude, longitude, and altitude (from OSM or BASt sources). Enables geographic validation: compass directions verified against bearing, distances against geodetic calculations, elevation changes detected. Lookup table vs. per-file embedding still open. Proposed: validate directions against bearing; validate distances against haversine; detect anomalies (altitude spikes, direction contradictions). Requires authoritative source identification and accuracy tolerance definition.
-- **Bundesland files** - the 16 federal state files in `bundeslaender/`, their structure, subtitle tagline pattern, and how they aggregate roads and nodes. Needs its own `## Bundesland` chapter and `validate_bundeslaender.py` script.
+- **State files** - the 16 federal state files in `states/`, their structure, subtitle tagline pattern, and how they aggregate roads and nodes. Needs its own `## State` chapter and `validate_states.py` script.
 - **Naming conventions in use** - CONVERTED: German infixes replaced with English (`_bruecke_` → `_bridge_`, `_raststaette_` → `_service_`). Tunnel naming still pending (e.g. `place_a7_elbtunnel.md`). See files: `place_a1_volme_bridge.md`, `place_a1_bridge_hengstey.md`, `place_a20_service_kronberg.md`.
 - **Standalone Raststätte files** - files like `place_service_aalbek.md` carry no road prefix; naming rule not yet defined
 - **Numbered rest stop pattern** - Raststätten can carry an exit number mid-chain (e.g. `place_a1_28_service_buddikate_ost.md`); not covered by the current spec

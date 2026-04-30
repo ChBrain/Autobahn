@@ -114,7 +114,7 @@ that run the simulation regardless of road.
 - [the A210](place_a210.md)
 - [the A215](place_a215.md)
 
-## Bundeslaender
+## States
 
 - [Baden-Württemberg](place_baden_wuerttemberg.md)
 - [Bayern](place_bayern.md)
