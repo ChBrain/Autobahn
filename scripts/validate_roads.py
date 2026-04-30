@@ -14,7 +14,7 @@ nodes; everything else `place_*.md` in the folder is a node.
   roads/<road>/place_<road>.md         -> road index
   roads/<road>/place_the_<road>.md     -> road index (legacy form)
   roads/<road>/place_*.md (other)      -> road node
-  bundeslaender/place_*.md             -> bundesland (not checked here)
+  states/place_*.md                    -> state (checked by validate_states.py)
 
 Exit status:
   0 if every file passes, 1 otherwise.
@@ -38,7 +38,7 @@ PLACE_LINE_RE = re.compile(
 
 
 def classify(path: Path, root: Path) -> str:
-    """Return 'road_index', 'road_node', 'bundesland', or 'other'.
+    """Return 'road_index', 'road_node', 'state', or 'other'.
 
     A file inside `roads/<road>/` is the road index iff its basename is
     `place_<road>.md` or the legacy `place_the_<road>.md`. Anything else
@@ -51,8 +51,8 @@ def classify(path: Path, root: Path) -> str:
     except ValueError:
         return "other"
     parts = rel.parts
-    if parts[0] == "bundeslaender":
-        return "bundesland"
+    if parts[0] == "states":
+        return "state"
     if parts[0] == "roads" and len(parts) >= 3:
         road = parts[1]
         stem = path.stem
@@ -83,6 +83,10 @@ def validate(path: Path, root: Path) -> list[str]:
     kind = classify(path, root)
     has_place_line = bool(PLACE_LINE_RE.search(owner_text))
 
+    # Skip state files - they are checked by validate_states.py
+    if kind == "state":
+        return []
+
     if kind == "road_node" and not has_place_line:
         errors.append(
             "road node Owner missing `- Place: [Road](place_road.md) in [Bundesland](place_bundesland.md)`"
@@ -112,10 +116,10 @@ def main(argv: list[str]) -> int:
         return 1
     print(f"OK: {total} files passed road architecture validation")
     
-    # Pass to next validator
+    # Pass to state validator
     print()
-    import validate_roads_km
-    return validate_roads_km.main(["validate_roads_km"] + [str(f) for f in targets])
+    import validate_states
+    return validate_states.main(["validate_states"] + [str(f) for f in targets])
 
 
 if __name__ == "__main__":

@@ -4,7 +4,8 @@
 Runs validation pipeline:
   1. validate_general.py - encoding, section order, footer
   2. validate_roads.py - road architecture compliance
-  3. validate_roads_km.py - kilometre marker ordering and format
+  3. validate_states.py - state architecture compliance
+  4. validate_roads_km.py - kilometre marker ordering and format
 
 Exit status:
   0 if all validators pass, 1 if any fail.
