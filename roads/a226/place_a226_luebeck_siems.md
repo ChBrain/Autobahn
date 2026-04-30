@@ -9,9 +9,9 @@ The eastern terminus of the A226. The motorway ends here and the port begins. Th
 
 ## Holds
 
-[km 4.5](piece_the_kilometerstein.md): Lübeck-Siems.
+[km 4.9](piece_the_kilometerstein.md): Lübeck-Siems.
 
-* 2.5 km west on [A226](place_a226.md) to [Lübeck-Dänischburg](place_a226_luebeck_daenischburg.md).
+* 2.9 km west on [A226](place_a226.md) to [Lübeck-Dänischburg](place_a226_luebeck_daenischburg.md).
 
 ## Offers
 The Skandinavienkai. Ferry departures to Helsinki, Stockholm, Gothenburg, Riga, and Malmö. The Baltic sea corridor. The connection between the German road network and Scandinavia by water rather than by the Vogelfluglinie.

@@ -12,7 +12,7 @@ The only ordinary exit on the A226. The sign: Lübeck-Dänischburg. The road her
 [km 2.0](piece_the_kilometerstein.md): Lübeck-Dänischburg.
 
 * 2.0 km west on [A226](place_a226.md) to [Dreieck Bad Schwartau](place_a226_dreieck_bad_schwartau.md).
-* 2.5 km east on [A226](place_a226.md) to [Lübeck-Siems](place_a226_luebeck_siems.md).
+* 2.9 km east on [A226](place_a226.md) to [Lübeck-Siems](place_a226_luebeck_siems.md).
 
 ## Offers
 Ausfahrt Lübeck-Dänischburg — the exit ramp. The ordinary road below.
