@@ -9,10 +9,9 @@ The sign: Neustadt in Holstein-Mitte. The town accessible from here. The Priwall
 
 
 ## Holds
-
-* [km 61.3](piece_the_kilometerstein.md) on [the A1](place_a1.md).
-* 5.5 km north on [the A1](place_a1.md) to [Neustadt in Holstein-Pelzerhaken](place_a1_13_neustadt_pelzerhaken.md).
-* 5.3 km south on [the A1](place_a1.md) to [Eutin](place_a1_15_eutin.md).
+[km 61.3](piece_the_kilometerstein.md): Neustadt in Holstein-Mitte.
+- 5.5 km north: [Neustadt in Holstein-Pelzerhaken](place_a1_13_neustadt_pelzerhaken.md)
+- 5.3 km south: [Eutin](place_a1_15_eutin.md)
 
 
 ## Offers

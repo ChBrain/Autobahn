@@ -14,8 +14,9 @@ The Elbtunnel: the descent from Hamburg-Othmarschen. Daylight gone. Tile walls. 
 - [the A23](place_a23.md) - Hamburg-Eidelstedt to Dreieck Hamburg-Nordwest
   - [Hamburg-Eidelstedt](place_a23_21_hamburg_eidelstedt.md)
   - [Dreieck Hamburg-Nordwest](place_a23_22_dreieck_hamburg_nordwest.md)
-- [the A24](place_the_a24.md) - Hamburg-Horn, Hamburg-Jenfeld, Kreuz Hamburg-Ost
-- [the A25](place_the_a25.md) - Dreieck Hamburg-Südost to Hamburg-Neuallermöhe-West
+- [the A24](place_a24.md) - Hamburg-Horn, Hamburg-Jenfeld, Kreuz Hamburg-Ost
+- [the A25](place_a25.md) - Dreieck Hamburg-Südost to Hamburg-Neuallermöhe-West
+- [the A255](../roads/a255/place_a255.md) - Neue Elbbrücken to Kreuz Hamburg-Süd
 
 ## Offers
 100 km/h throughout. Dense junctions with short weaving distances. The Elbtunnel mandatory for the A7 crossing - no alternative, 60 km/h, one of the highest-traffic tunnels in Germany. The Lärmschutztunnel sections: the road acoustically contained, exits spaced for urban density.

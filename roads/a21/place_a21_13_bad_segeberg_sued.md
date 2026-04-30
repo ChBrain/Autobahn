@@ -8,7 +8,7 @@
 Exit 13. The sign: Bad Segeberg-Süd. The road passing close to the town. The Kalkberg amphitheatre is accessible from here via the B206.
 
 ## Holds
-* [km 48.8](piece_the_kilometerstein.md) on [A21](place_a21.md).
+[km 48.8](piece_the_kilometerstein.md): Bad Segeberg-Süd.
 * [Bad Segeberg-Nord](place_a21_12_bad_segeberg_nord.md) is next on [A21](place_a21.md) going north.
 * [Daldorf](place_a21_10_daldorf.md) is next on [A21](place_a21.md) going south.
 

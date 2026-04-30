@@ -8,7 +8,7 @@
 The junction of the A1 and the A20. The A20 branching east toward Wismar, Rostock, and the Baltic coast of Mecklenburg-Vorpommern. The A1 continuing south toward Hamburg. The junction signed: A1 Hamburg, A20 Wismar/Rostock.
 
 ## Holds
-* [km 94.2](piece_the_kilometerstein.md) on [A1](place_a1.md).
+[km 94.2](piece_the_kilometerstein.md): Kreuz Lübeck.
 * [Lübeck-Moisling](place_a1_23_luebeck_moisling.md) is next on [A1](place_a1.md) going north.
 * [Reinfeld](place_a1_25_reinfeld.md) is next on [A1](place_a1.md) going south.
 

@@ -8,7 +8,7 @@
 The sign: Lübeck. The A20 passing through the southwestern edge of the city. The Elbe-Lübeck-Kanal running nearby - the waterway connecting the Trave to the Elbe.
 
 ## Holds
-* [km 32.0](piece_the_kilometerstein.md) on [A20](place_a20.md).
+[km 32.0](piece_the_kilometerstein.md): Lübeck-Genin.
 * [Kreuz Lübeck](place_a20_1_kreuz_luebeck.md) is next on [A20](place_a20.md) going west.
 * [Lübeck-Süd](place_a20_2b_luebeck_sued.md) is next on [A20](place_a20.md) going east.
 

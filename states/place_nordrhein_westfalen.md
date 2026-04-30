@@ -10,7 +10,7 @@ The road widens. Trucks in the right lane continuous. The Ruhr valley on both si
 The A40 westbound at peak hour: the most congested Autobahn in Germany by frequency. The infrastructure of a post-industrial region that moved goods by road when it moved goods by everything.
 
 ## Holds
-- [the A40](../roads/place_the_a40.md) - Essen to Dortmund, Ruhrschnellweg
+- [the A40](../roads/a40/place_the_a40.md) - Essen to Dortmund, Ruhrschnellweg
 
 ## Offers
 100 km/h through urban sections of the A40. High truck density. The road surface older in places - NRW maintains the highest volume network in Germany. Congestion at predictable points: Kreuz Kaiserberg (A40/A3), Kreuz Duisburg (A40/A59), Dreieck Herne (A40/A43). The road is aware of the volume. The volume is not surprised by the road.

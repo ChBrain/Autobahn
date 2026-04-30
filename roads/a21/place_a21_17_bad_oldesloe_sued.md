@@ -8,7 +8,7 @@
 The southern Bad Oldesloe exit. The sign: Bad Oldesloe-Süd. The town accessible from here. The B75 connecting east toward Lübeck.
 
 ## Holds
-* [km 64.7](piece_the_kilometerstein.md) on [A21](place_a21.md).
+[km 64.7](piece_the_kilometerstein.md): Bad Oldesloe-Süd.
 * [Bad Oldesloe-Nord](place_a21_16_bad_oldesloe_nord.md) is next on [A21](place_a21.md) going north.
 * [Rümpel](place_a21_ruempel.md) is next on [A21](place_a21.md) going south.
 

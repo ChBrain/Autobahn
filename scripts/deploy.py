@@ -47,6 +47,18 @@ def repo_md_index(root: Path) -> dict[str, list[Path]]:
     return index
 
 
+def check_repo_basename_uniqueness(basenames: dict[str, list[Path]]) -> list[str]:
+    """ARCHITECTURE.md: every file basename in the world is unique. Without
+    that invariant, basename-form links resolve ambiguously (resolve_link
+    silently picks the first match). Surface collisions at deploy time."""
+    return [
+        f"basename collision: {name!r} appears at "
+        + ", ".join(str(p.relative_to(ROOT)) for p in paths)
+        for name, paths in sorted(basenames.items())
+        if len(paths) > 1
+    ]
+
+
 def parse_links(text: str) -> list[str]:
     """Return every markdown link target ending in .md (anchors not stripped)."""
     return [m.group(1) for m in LINK_RE.finditer(text)]
@@ -123,16 +135,22 @@ def build_zip(bundle: set[Path], out_path: Path) -> None:
 
 
 def default_out_path(manifest: Path) -> Path:
-    """Map a manifest filename to a release-friendly zip name in dist/."""
+    """Map a manifest filename to a release-friendly zip name in dist/.
+
+    Internal filenames use underscores; release names use hyphens. The
+    derived segment is hyphenated so URLs match across the README,
+    GitHub releases, and the deployer.
+    """
     stem = manifest.stem
     if stem == "autobahn":
         name = "autobahn"
     elif stem.startswith("place_the_"):
-        name = "autobahn-" + stem[len("place_the_"):]
+        name = "autobahn-" + stem[len("place_the_"):].replace("_", "-")
     elif stem.startswith("place_"):
-        name = "autobahn-" + stem[len("place_"):]
+        name = "autobahn-" + stem[len("place_"):].replace("_", "-")
     else:
-        name = "autobahn-" + stem
+        name = "autobahn-" + stem.replace("_", "-")
+    return ROOT / "dist" / f"{name}.zip"
     return ROOT / "dist" / f"{name}.zip"
 
 
@@ -149,6 +167,13 @@ def main(argv: list[str]) -> int:
         return 2
 
     basenames = repo_md_index(ROOT)
+
+    repo_collisions = check_repo_basename_uniqueness(basenames)
+    for c in repo_collisions:
+        print(f"WARN {c}")
+    if repo_collisions and args.strict:
+        print(f"\n--strict: {len(repo_collisions)} basename collision(s) in the repo")
+        return 1
 
     bundle, errors = collect_bundle(args.manifest, basenames)
     if errors:
@@ -175,7 +200,11 @@ def main(argv: list[str]) -> int:
 
     out_path = args.out if args.out else default_out_path(args.manifest)
     build_zip(bundle, out_path)
-    print(f"Wrote {out_path.relative_to(ROOT)}")
+    try:
+        display = out_path.relative_to(ROOT)
+    except ValueError:
+        display = out_path
+    print(f"Wrote {display}")
     return 0
 
 

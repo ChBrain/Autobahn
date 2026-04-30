@@ -8,10 +8,9 @@
 The Veddel exit. The sign: Hamburg-Veddel. The island visible from the carriageway — a narrow strip of land between the Norderelbe and the Spreehafen, low-rise residential blocks and port warehousing side by side. Three lanes. The road straight and fast through the island.
 
 ## Holds
-
-* [km 0.6](piece_the_kilometerstein.md) on [the A255](place_a255.md).
-* 0.6 km north on [the A255](place_a255.md) to [Neue Elbbrücken](place_a255_00_neue_elbbruecken.md).
-* 1.3 km south on [the A255](place_a255.md) to [Kreuz Hamburg-Süd](place_a255_02_kreuz_hamburg_sued.md).
+[km 0.6](piece_the_kilometerstein.md): Hamburg-Veddel.
+- 0.6 km north: [Neue Elbbrücken](place_a255_00_neue_elbbruecken.md)
+- 1.3 km south: [Kreuz Hamburg-Süd](place_a255_02_kreuz_hamburg_sued.md)
 
 ## Offers
 Ausfahrt — the exit ramp. The Veddel below.

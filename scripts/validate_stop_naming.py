@@ -3,11 +3,15 @@
 
 Enforces the rule from ARCHITECTURE.md:
   - Motorway Service Area: `place_{road}[_{NN}]_service_{name}.md`
-  - Motorway Rest Area: `place_{road}[_{NN}]_rest_{name}.md`
-  - Roadhouse: `place_{road}[_{NN}]_roadhouse_{name}.md`
+  - Motorway Rest Area:    `place_{road}[_{NN}]_rest_{name}.md`
+  - Roadhouse:             `place_{road}[_{NN}]_roadhouse_{name}.md`
 
-All road-tied stops MUST have a road prefix. Exit number (NN) is optional,
-included only if an official AS-number exists for that stop.
+All road-tied stops MUST carry a road prefix. Exit number (NN) is optional,
+included only when the stop has an official AS-number.
+
+Read-only. The rule names the type but not the road, so when a violating
+file is found the verdict cannot determine which road owns it - human
+engagement required.
 
 Exit status:
   0 if every file passes, 1 otherwise.
@@ -22,17 +26,22 @@ import re
 import sys
 from pathlib import Path
 
-# Regex patterns for road-tied stops WITHOUT proper road prefix
-# These FAIL: place_service_*, place_rest_*, place_roadhouse_* (standalone, no road)
-STANDALONE_SERVICE_RE = re.compile(r"^place_service_[a-z_]+\.md$")
-STANDALONE_REST_RE = re.compile(r"^place_rest_[a-z_]+\.md$")
-STANDALONE_ROADHOUSE_RE = re.compile(r"^place_roadhouse_[a-z_]+\.md$")
-STANDALONE_RASTHOF_RE = re.compile(r"^place_rasthof_[a-z_]+\.md$")
+HERE = Path(__file__).resolve().parent
+sys.path.insert(0, str(HERE))
 
-# Regex pattern for CORRECT road-tied stops WITH road prefix
-# Pattern: place_<road>[_<NN>]_<type>_<name>.md
-CORRECT_STOP_RE = re.compile(
-    r"^place_a\d+(?:_\d{2})?_(service|rest|roadhouse)_[a-z_]+\.md$"
+from findings import Issue
+
+# Type infix anywhere in the basename. Files containing this MUST follow
+# the strict pattern below; otherwise the name is malformed regardless of
+# whether the missing piece is the road, the type spelling, or punctuation.
+TYPE_INFIX_RE = re.compile(r"_(service|rest|roadhouse|rasthof)_")
+
+# Strict architecture form: place_<road>[_<NN>]_<type>_<name>.md
+# - road: a + digits (e.g., a1, a226)
+# - optional exit number: 1-3 digits + optional letter (e.g., 5, 12, 2a)
+# - type: service / rest / roadhouse (rasthof is legacy, see below)
+STRICT_STOP_RE = re.compile(
+    r"^place_a\d+(?:_\d{1,3}[a-z]?)?_(service|rest|roadhouse)_[a-z_]+\.md$"
 )
 
 
@@ -40,30 +49,26 @@ def find_place_files(root: Path) -> list[Path]:
     return sorted(p for p in root.rglob("place_*.md") if ".git" not in p.parts)
 
 
-def validate(path: Path) -> list[str]:
-    """Check that road-tied stops have the road prefix."""
-    errors: list[str] = []
+def validate(path: Path) -> list[Issue]:
     basename = path.name
+    m = TYPE_INFIX_RE.search(basename)
+    if not m:
+        return []
+    if STRICT_STOP_RE.match(basename):
+        return []
 
-    # Check for standalone service/rest/roadhouse/rasthof files (FAIL)
-    if STANDALONE_SERVICE_RE.match(basename):
-        errors.append(
-            f"standalone service file missing road prefix; should be `place_{{road}}_service_...`"
-        )
-    elif STANDALONE_REST_RE.match(basename):
-        errors.append(
-            f"standalone rest area file missing road prefix; should be `place_{{road}}_rest_...`"
-        )
-    elif STANDALONE_ROADHOUSE_RE.match(basename):
-        errors.append(
-            f"standalone roadhouse file missing road prefix; should be `place_{{road}}_roadhouse_...`"
-        )
-    elif STANDALONE_RASTHOF_RE.match(basename):
-        errors.append(
-            f"standalone rasthof file missing road prefix; should be `place_{{road}}_roadhouse_...` (rasthof is a type of roadhouse)"
-        )
-
-    return errors
+    type_word = m.group(1)
+    if type_word == "rasthof":
+        # Architecturally rasthof is a roadhouse; the rename is determined.
+        return [Issue(
+            error="`_rasthof_` infix in filename",
+            verdict="rename `_rasthof_` to `_roadhouse_` (rasthof is a type of roadhouse)",
+        )]
+    return [Issue(
+        error=(f"road-tied stop name does not match "
+               f"`place_<road>[_<NN>]_{type_word}_<name>.md`"),
+        verdict=None,  # rule names the type, not which road owns it
+    )]
 
 
 def main(argv: list[str]) -> int:
@@ -72,12 +77,14 @@ def main(argv: list[str]) -> int:
 
     failed = 0
     for path in targets:
-        errors = validate(path)
-        if errors:
+        issues = validate(path)
+        if issues:
             failed += 1
             print(f"FAIL {path}")
-            for err in errors:
-                print(f"  - {err}")
+            for issue in issues:
+                print(f"  - {issue.error}")
+                if issue.verdict:
+                    print(f"    verdict: {issue.verdict}")
 
     total = len(targets)
     if failed:

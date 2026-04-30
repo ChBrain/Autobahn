@@ -8,10 +8,9 @@
 The southern Neumünster exit. The sign: Neumünster-Süd, B205. The last exit for Neumünster. The road widening to six lanes ahead.
 
 ## Holds
-
-* [km 99.4](piece_the_kilometerstein.md) on [the A7](place_a7.md).
-* 3 km north on [the A7](place_a7.md) to [Neumünster-Mitte](place_a7_14_neumuenster_mitte.md).
-* 4.6 km south on [the A7](place_a7.md) to [Großenaspe](place_a7_16_grossenaspe.md).
+[km 99.4](piece_the_kilometerstein.md): Neumünster-Süd.
+- 3 km north: [Neumünster-Mitte](place_a7_14_neumuenster_mitte.md)
+- 4.6 km south: [Großenaspe](place_a7_16_grossenaspe.md)
 
 ## Offers
 Ausfahrt 15 - the exit ramp. The ordinary road below.

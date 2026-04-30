@@ -8,7 +8,7 @@
 The sign: Lübeck-Moisling. Industrial western Lübeck. The road here dense - Lübeck's port and logistics area visible to the left. The A20 junction approaching.
 
 ## Holds
-* [km 91.8](piece_the_kilometerstein.md) on [A1](place_a1.md).
+[km 91.8](piece_the_kilometerstein.md): Lübeck-Moisling.
 * [Lübeck-Zentrum](place_a1_22_luebeck_zentrum.md) is next on [A1](place_a1.md) going north.
 * [Kreuz Lübeck](place_a1_24_kreuz_luebeck.md) is next on [A1](place_a1.md) going south.
 

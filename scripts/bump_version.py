@@ -31,10 +31,17 @@ FOOTER_RE = re.compile(
     r"(v)(\d+)\.(\d+)\.(\d+)(\s*[-–—]\s*KAI Worlds)"
 )
 ROOT = Path(__file__).resolve().parent.parent
+SKIP_DIRS = {".git", "scripts", ".github", "dist"}
 
 
-def find_place_files() -> list[Path]:
-    return sorted(p for p in ROOT.rglob("place_*.md") if ".git" not in p.parts)
+def find_world_files() -> list[Path]:
+    """Every *.md in the world. The footer regex filters which actually
+    get rewritten; files without a footer (README, ARCHITECTURE, etc.)
+    pass through untouched."""
+    return sorted(
+        p for p in ROOT.rglob("*.md")
+        if not any(part in SKIP_DIRS for part in p.relative_to(ROOT).parts)
+    )
 
 
 def current_max_version(files: list[Path]) -> tuple[int, int, int]:
@@ -76,7 +83,7 @@ def main(argv: list[str]) -> int:
     parser.add_argument("--dry-run", action="store_true", help="Print changes without writing")
     args = parser.parse_args(argv[1:])
 
-    files = find_place_files()
+    files = find_world_files()
     current = current_max_version(files)
     new = bump(current, args.part)
 

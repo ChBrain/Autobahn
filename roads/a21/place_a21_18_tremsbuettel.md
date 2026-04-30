@@ -8,7 +8,7 @@
 The sign: Tremsbüttel. The road approaching the Kreuz Bargteheide. The A1 visible on the overhead signs ahead. The final exit before the junction.
 
 ## Holds
-* [km 70.7](piece_the_kilometerstein.md) on [A21](place_a21.md).
+[km 70.7](piece_the_kilometerstein.md): Tremsbüttel.
 * [Rümpel](place_a21_ruempel.md) is next on [A21](place_a21.md) going north.
 * [Kreuz Bargteheide](place_a21_19_kreuz_bargteheide.md) is next on [A21](place_a21.md) going south.
 

@@ -8,9 +8,8 @@
 The Waltershof exit. The sign: Hamburg-Waltershof, Hafen. South of [the Elbtunnel](place_a7_elbtunnel.md). The port visible - containers, cranes, the smell of the harbour if the window is open. The road here industrial. The A7 south toward Hannover.
 
 ## Holds
-
-* [km 161.6](piece_the_kilometerstein.md) on [the A7](place_a7.md).
-* 4 km north on [the A7](place_a7.md) to [Hamburg-Othmarschen](place_a7_29_hamburg_othmarschen.md).
+[km 161.6](piece_the_kilometerstein.md): Hamburg-Waltershof.
+- 4 km north: [Hamburg-Othmarschen](place_a7_29_hamburg_othmarschen.md)
 * South on [the A7](place_a7.md) — not yet built in this world.
 
 ## Offers

@@ -3,10 +3,12 @@
 
 Enforces the rule from ARCHITECTURE.md:
   - Shown: what the driver sees from the carriageway
-  - Holds: carries the kilometerstein position AND navigation links to adjacent stops
+  - Holds: kilometerstein position AND navigation links to adjacent stops
 
-This validator checks that neighbour links (distance + direction markers like
-"3.4 km north: [Name](...md)") appear in ## Holds, not in ## Shown.
+Neighbour links (`- 3.4 km north: [Name](...md)`) must appear in `## Holds`,
+not in `## Shown`.
+
+Read-only. The fix is determined by the rule, so the verdict is concrete.
 
 Exit status:
   0 if every file passes, 1 otherwise.
@@ -21,17 +23,16 @@ import re
 import sys
 from pathlib import Path
 
-# Regex for a neighbour link: "- <number> km <direction>: [Name](...md)"
-# Captures lines like:
-#   - 3.4 km north: [Neumünster-Nord](place_a7_13_neumuenster_nord.md)
-#   - 2 km south: [Exit](place_exit.md)
-#   - 43 km south: [Heide-West](place_a23_02_heide_west.md) - where B5 becomes A23
+HERE = Path(__file__).resolve().parent
+sys.path.insert(0, str(HERE))
+
+from findings import Issue
+
 NEIGHBOUR_LINK_RE = re.compile(
     r"^-\s+[\d.]+\s+km\s+\w+:\s+\[.+?\]\(place_[^)]+\.md\)",
     re.MULTILINE,
 )
 
-# Regex to extract sections: "## Section" followed by content until next ## or EOF
 SECTION_RE = re.compile(r"^## (\w+)\r?\n(.*?)(?=^##|\Z)", re.MULTILINE | re.DOTALL)
 
 
@@ -39,28 +40,25 @@ def find_place_files(root: Path) -> list[Path]:
     return sorted(p for p in root.rglob("place_*.md") if ".git" not in p.parts)
 
 
-def validate(path: Path) -> list[str]:
-    """Check that navigation links appear only in ## Holds, not in ## Shown."""
-    errors: list[str] = []
-
+def validate(path: Path) -> list[Issue]:
     try:
         text = path.read_text(encoding="utf-8")
     except (UnicodeDecodeError, OSError):
-        return ["could not read file as UTF-8"]
+        return []
 
-    # Extract all sections
     sections = {name: content for name, content in SECTION_RE.findall(text)}
+    if "Shown" not in sections:
+        return []
 
-    # Check for neighbour links in ## Shown
-    if "Shown" in sections:
-        shown_links = NEIGHBOUR_LINK_RE.findall(sections["Shown"])
-        if shown_links:
-            errors.append(
-                f"found {len(shown_links)} neighbour link(s) in ## Shown; must move to ## Holds:\n"
-                + "\n".join(f"    {link}" for link in shown_links)
-            )
+    shown_links = NEIGHBOUR_LINK_RE.findall(sections["Shown"])
+    if not shown_links:
+        return []
 
-    return errors
+    return [Issue(
+        error=(f"{len(shown_links)} neighbour link(s) in ## Shown:\n"
+               + "\n".join(f"      {link}" for link in shown_links)),
+        verdict="move neighbour links from ## Shown to ## Holds (after the kilometerstein line)",
+    )]
 
 
 def main(argv: list[str]) -> int:
@@ -69,12 +67,14 @@ def main(argv: list[str]) -> int:
 
     failed = 0
     for path in targets:
-        errors = validate(path)
-        if errors:
+        issues = validate(path)
+        if issues:
             failed += 1
             print(f"FAIL {path}")
-            for err in errors:
-                print(f"  - {err}")
+            for issue in issues:
+                print(f"  - {issue.error}")
+                if issue.verdict:
+                    print(f"    verdict: {issue.verdict}")
 
     total = len(targets)
     if failed:

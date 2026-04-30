@@ -9,10 +9,9 @@ The sign: Bad Schwartau. The Lübeck suburb. The city of Lübeck begins here for
 
 
 ## Holds
-
-* [km 85.2](piece_the_kilometerstein.md) on [the A1](place_a1.md).
-* 2.2 km north on [the A1](place_a1.md) to [Dreieck Bad Schwartau](place_a1_20_dreieck_bad_schwartau.md).
-* 3.3 km south on [the A1](place_a1.md) to [Lübeck-Zentrum](place_a1_22_luebeck_zentrum.md).
+[km 85.2](piece_the_kilometerstein.md): Bad Schwartau.
+- 2.2 km north: [Dreieck Bad Schwartau](place_a1_20_dreieck_bad_schwartau.md)
+- 3.3 km south: [Lübeck-Zentrum](place_a1_22_luebeck_zentrum.md)
 
 
 ## Offers

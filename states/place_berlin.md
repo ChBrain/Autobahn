@@ -12,8 +12,8 @@ The A111 descending into Tunnel Tegel - the road going underground where the air
 Speed limits throughout. The Berlin road network never unrestricted.
 
 ## Holds
-- [the A111](../roads/place_the_a111.md) - Waidmannsluster Damm to Dreieck Funkturm, via Tunnel Tegel
-- [the A115](../roads/place_the_a115.md) - AVUS, Dreieck Funkturm to Kreuz Zehlendorf and the Brandenburg border
+- [the A111](../roads/a111/place_the_a111.md) - Waidmannsluster Damm to Dreieck Funkturm, via Tunnel Tegel
+- [the A115](../roads/a115/place_the_a115.md) - AVUS, Dreieck Funkturm to Kreuz Zehlendorf and the Brandenburg border
 
 ## Offers
 Speed limits on all motorways - typically 100 km/h, lower in tunnels and at junctions. Dense exits. Short distances between junctions. The AVUS on the A115: historically a racing circuit, now a federal motorway with traffic lights at the northern end.

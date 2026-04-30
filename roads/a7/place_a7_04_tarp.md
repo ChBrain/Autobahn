@@ -8,10 +8,9 @@
 Small exit. Rural. The sign: Tarp. Fields on both sides. The road here flat and open - the deep flat of the Schleswig plain.
 
 ## Holds
-
-* [km 17.3](piece_the_kilometerstein.md) on [the A7](place_a7.md).
-* 8.2 km north on [the A7](place_a7.md) to [Kreuz Flensburg](place_a7_03_kreuz_flensburg.md).
-* 16.4 km south on [the A7](place_a7.md) to [Schleswig/Schuby](place_a7_05_schleswig_schuby.md).
+[km 17.3](piece_the_kilometerstein.md): Tarp.
+- 8.2 km north: [Kreuz Flensburg](place_a7_03_kreuz_flensburg.md)
+- 16.4 km south: [Schleswig/Schuby](place_a7_05_schleswig_schuby.md)
 
 ## Offers
 Ausfahrt 4 - the exit ramp. The ordinary road below.

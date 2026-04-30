@@ -9,10 +9,9 @@ The sign: Lensahn. Rural Ostholstein. The road here passing through the agricult
 
 
 ## Holds
-
-* [km 44.4](piece_the_kilometerstein.md) on [the A1](place_a1.md).
-* 8.3 km north on [the A1](place_a1.md) to [Oldenburg in Holstein-Süd](place_a1_11_oldenburg_sued.md).
-* 11.4 km south on [the A1](place_a1.md) to [Neustadt in Holstein-Pelzerhaken](place_a1_13_neustadt_pelzerhaken.md).
+[km 44.4](piece_the_kilometerstein.md): Lensahn.
+- 8.3 km north: [Oldenburg in Holstein-Süd](place_a1_11_oldenburg_sued.md)
+- 11.4 km south: [Neustadt in Holstein-Pelzerhaken](place_a1_13_neustadt_pelzerhaken.md)
 
 
 ## Offers

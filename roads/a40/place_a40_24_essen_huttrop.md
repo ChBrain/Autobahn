@@ -2,7 +2,7 @@
 
 ## Owner
 - Project: Autobahn
-- Place: the A40
+- Place: [A40](place_the_a40.md) in [Nordrhein-Westfalen](place_nordrhein_westfalen.md)
 
 ## Shown
 Ausfahrt 24. km 63,9. Das Schild: Essen-Huttrop, Steele, B227.

@@ -9,10 +9,9 @@ Exit 25. The sign: Reinfeld, B75. The B75 connects here toward Lübeck east and 
 
 
 ## Holds
-
-* [km 101.0](piece_the_kilometerstein.md) on [the A1](place_a1.md).
-* 6.8 km north on [the A1](place_a1.md) to [Kreuz Lübeck](place_a1_24_kreuz_luebeck.md).
-* 7.0 km south on [the A1](place_a1.md) to [Bad Oldesloe](place_a1_26_bad_oldesloe.md).
+[km 101.0](piece_the_kilometerstein.md): Reinfeld.
+- 6.8 km north: [Kreuz Lübeck](place_a1_24_kreuz_luebeck.md)
+- 7.0 km south: [Bad Oldesloe](place_a1_26_bad_oldesloe.md)
 * [Hamberge](place_a1_hamberge.md) is next on [the A1](place_a1.md) going south.
 
 

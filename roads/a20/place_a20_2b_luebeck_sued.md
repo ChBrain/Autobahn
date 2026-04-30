@@ -8,7 +8,7 @@
 The sign: Lübeck-Süd. The southern edge of the city. The A20 leaving the built area and moving east through open ground toward the state line.
 
 ## Holds
-* [km 39.0](piece_the_kilometerstein.md) on [A20](place_a20.md).
+[km 39.0](piece_the_kilometerstein.md): Lübeck-Süd.
 * [Lübeck-Genin](place_a20_2a_luebeck_genin.md) is next on [A20](place_a20.md) going west.
 * [Groß Sarau](place_a20_3_gross_sarau.md) is next on [A20](place_a20.md) going east.
 

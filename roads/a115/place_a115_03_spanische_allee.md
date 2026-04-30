@@ -2,7 +2,7 @@
 
 ## Owner
 - Project: Autobahn
-- Place: the A115
+- Place: [A115](place_the_a115.md) in [Berlin](place_berlin.md)
 
 ## Shown
 Ausfahrt 3. km 18,3. Das Schild: Spanische Allee. Die Raststätte Grunewald liegt direkt an dieser Ausfahrt - rechts, Tankstelle, das alte Verwaltungsgebäude der AVUS GmbH aus dem Jahr 1935, heute Raststätte. Der Grunewald endet hier. Hinter der Rampe: Nikolassee, Zehlendorf, die ersten Wohnhäuser. Berlin beginnt wieder.

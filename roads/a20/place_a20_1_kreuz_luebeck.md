@@ -8,7 +8,7 @@
 The junction of the A20 and the A1. The A1 runs north toward Fehmarn and south toward Hamburg. The A20 continues east toward Wismar, Rostock, Stralsund - the Ostseeautobahn running the length of the Baltic coast. The junction signed: A1 Hamburg, A1 Fehmarn, A20 Rostock.
 
 ## Holds
-* [km 27.7](piece_the_kilometerstein.md) on [A20](place_a20.md).
+[km 27.7](piece_the_kilometerstein.md): Kreuz Lübeck.
 * [Geschendorf](place_a20_geschendorf.md) is next on [A20](place_a20.md) going west.
 * [Groß Sarau](place_a20_3_gross_sarau.md) is next on [A20](place_a20.md) going east.
 

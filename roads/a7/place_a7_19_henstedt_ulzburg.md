@@ -8,10 +8,9 @@
 The Henstedt-Ulzburg exit. The sign: Henstedt-Ulzburg, Norderstedt. The exit between Kaltenkirchen and Ellerau. The ordinary road below.
 
 ## Holds
-
-* [km 126.7](piece_the_kilometerstein.md) on [the A7](place_a7.md).
-* 5 km north on [the A7](place_a7.md) to [Kaltenkirchen](place_a7_18_kaltenkirchen.md).
-* 4 km south on [the A7](place_a7.md) to [Ellerau](place_a7_20_ellerau.md).
+[km 126.7](piece_the_kilometerstein.md): Henstedt-Ulzburg.
+- 5 km north: [Kaltenkirchen](place_a7_18_kaltenkirchen.md)
+- 4 km south: [Ellerau](place_a7_20_ellerau.md)
 
 ## Offers
 Ausfahrt 19 - the exit ramp. The ordinary road below.

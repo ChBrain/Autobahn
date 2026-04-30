@@ -23,11 +23,25 @@ jobs:
         run: |
           mkdir -p dist
           shopt -s nullglob
-          # Every manifest produces one zip. Globs cover the three current
-          # scopes; new manifests at these paths auto-build with no workflow change.
-          for manifest in autobahn.md roads/*/place_*.md states/place_*.md; do
-            [ -f "$manifest" ] || continue
-            python3 scripts/deploy.py --strict "$manifest"
+          # Manifests, not arbitrary place files. The road index is the
+          # manifest for its road; nodes are bundle contents, not manifests.
+          # `roads/*/place_*.md` would match every node and break the build.
+          #
+          # No --strict: per-road bundles don't carry the engine frame, and
+          # the world bundle is single-hop (no nodes). Both will always have
+          # cross-bundle links by design - they show as WARN in the log,
+          # which is the intended signal level for that pattern.
+          build() { python3 scripts/deploy.py "$1"; }
+          build autobahn.md
+          for road_dir in roads/*/; do
+            road=$(basename "$road_dir")
+            for stem in "place_${road}" "place_the_${road}"; do
+              manifest="${road_dir}${stem}.md"
+              [ -f "$manifest" ] && build "$manifest"
+            done
+          done
+          for manifest in states/place_*.md; do
+            [ -f "$manifest" ] && build "$manifest"
           done
           ls -la dist
 

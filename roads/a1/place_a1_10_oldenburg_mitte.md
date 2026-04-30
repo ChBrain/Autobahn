@@ -9,10 +9,9 @@ The central Oldenburg exit. The sign: Oldenburg in Holstein-Mitte. The town acce
 
 
 ## Holds
-
-* [km 35.2](piece_the_kilometerstein.md) on [the A1](place_a1.md).
-* 1.4 km north on [the A1](place_a1.md) to [Oldenburg in Holstein-Nord](place_a1_09_oldenburg_nord.md).
-* 0.9 km south on [the A1](place_a1.md) to [Oldenburg in Holstein-Süd](place_a1_11_oldenburg_sued.md).
+[km 35.2](piece_the_kilometerstein.md): Oldenburg in Holstein-Mitte.
+- 1.4 km north: [Oldenburg in Holstein-Nord](place_a1_09_oldenburg_nord.md)
+- 0.9 km south: [Oldenburg in Holstein-Süd](place_a1_11_oldenburg_sued.md)
 
 
 ## Offers
