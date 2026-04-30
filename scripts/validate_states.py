@@ -109,10 +109,7 @@ def main(argv: list[str]) -> int:
         return 1
     print(f"OK: {total} files passed state architecture validation")
     
-    # Pass to km validator
-    print()
-    import validate_roads_km
-    return validate_roads_km.main(["validate_roads_km"] + [str(f) for f in targets])
+    return 0
 
 
 if __name__ == "__main__":

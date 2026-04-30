@@ -54,7 +54,7 @@ Files are UTF-8, no byte-order mark.
 ---
 ## Federal States
 
-A federal state (Bundesland) and all its child places are modelled using the Place component from KAI HACKS AI Architecture. The federal state index is a Place that holds Places.
+A federal state and all its child places are modelled using the Place component from KAI HACKS AI Architecture. The federal state index is a Place that holds Places.
 
 Every federal state has its own folder at `states/<state>/`. The federal state index file lives in this folder alongside references to roads, regions, and other geographic features that define it.
 
@@ -275,7 +275,6 @@ The single author-facing rule: **every file basename in the world is unique**.
 ## To document
 
 - **Geographic coordinates** - each place node to carry latitude, longitude, and altitude (from OSM or BASt sources). Enables geographic validation: compass directions verified against bearing, distances against geodetic calculations, elevation changes detected. Lookup table vs. per-file embedding still open. Proposed: validate directions against bearing; validate distances against haversine; detect anomalies (altitude spikes, direction contradictions). Requires authoritative source identification and accuracy tolerance definition.
-- **State files** - the 16 federal state files in `states/`, their structure, subtitle tagline pattern, and how they aggregate roads and nodes. Needs its own `## State` chapter and `validate_states.py` script.
 - **Naming conventions in use** - CONVERTED: German infixes replaced with English (`_bruecke_` → `_bridge_`, `_raststaette_` → `_service_`). Tunnel naming still pending (e.g. `place_a7_elbtunnel.md`). See files: `place_a1_volme_bridge.md`, `place_a1_bridge_hengstey.md`, `place_a20_service_kronberg.md`.
 - **Standalone Raststätte files** - files like `place_service_aalbek.md` carry no road prefix; naming rule not yet defined
 - **Numbered rest stop pattern** - Raststätten can carry an exit number mid-chain (e.g. `place_a1_28_service_buddikate_ost.md`); not covered by the current spec

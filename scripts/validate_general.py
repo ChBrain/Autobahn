@@ -81,10 +81,7 @@ def main(argv: list[str]) -> int:
         return 1
     print(f"OK: {total} files passed general validation")
     
-    # Pass to next validator
-    print()
-    import validate_roads
-    return validate_roads.main(["validate_roads"] + [str(f) for f in targets])
+    return 0
 
 
 if __name__ == "__main__":
