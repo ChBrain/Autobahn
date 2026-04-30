@@ -121,6 +121,10 @@ Northbound from Hamburg: the Schnelsen tunnels end. The density drops immediatel
   - [Gudow](place_a24_08b_gudow.md)
 - [A25](place_a25.md) - Dreieck Hamburg-Südost to Geesthacht
   - [Geesthacht](place_a25_7_geesthacht.md)
+- [A226](place_a226.md) - Dreieck Bad Schwartau to Lübeck-Siems
+  - [Dreieck Bad Schwartau](place_a226_dreieck_bad_schwartau.md)
+  - [Lübeck-Dänischburg](place_a226_luebeck_daenischburg.md)
+  - [Lübeck-Siems](place_a226_luebeck_siems.md)
 - [A210](place_a210.md) - Westerrönfeld to Kreuz Kiel-West
   - [Westerrönfeld](place_a210_01_westerroehnfeld.md)
   - [Schacht-Audorf](place_a210_02_schacht_audorf.md)
