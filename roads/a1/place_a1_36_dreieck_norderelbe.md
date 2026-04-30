@@ -12,7 +12,6 @@ The Dreieck Norderelbe. The A255 branching north toward the Elbbrücken and Hamb
 * [km 151](piece_the_kilometerstein.md) on [the A1](place_a1.md).
 * 3.0 km north on [the A1](place_a1.md) to [Dreieck Hamburg-Südost](place_a1_35_dreieck_hamburg_suedost.md).
 * 4.3 km south on [the A1](place_a1.md) to [Dreieck Hamburg-Stillhorn](place_a1_37_dreieck_hamburg_stillhorn.md).
-* [The A255](place_a255.md) north to Hamburg city centre via Elbbrücken.
 
 ## Offers
 [The A255](place_a255.md) north. Hamburg city centre.

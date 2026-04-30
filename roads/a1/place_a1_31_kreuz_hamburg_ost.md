@@ -11,8 +11,6 @@ The Kreuz Hamburg-Ost junction. The A24 splitting west into Hamburg and east tow
 
 * [km 139.0](piece_the_kilometerstein.md) on [the A1](place_a1.md).
 * 3.0 km north on [the A1](place_a1.md) to [Barsbüttel](place_a1_30_barsbuettel.md).
-* [The A24](place_a24.md) west to Hamburg.
-* [The A24](place_a24.md) east to Berlin.
 
 ## Offers
 [The A24](place_a24.md) west. Hamburg. [The A24](place_a24.md) east. Berlin.
