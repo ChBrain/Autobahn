@@ -2,7 +2,7 @@
 
 ## Owner
 - Project: Autobahn
-- Place: the A115
+- Place: [A115](place_the_a115.md) in [Berlin](place_berlin.md)
 
 ## Shown
 Ausfahrt 4. km 16,8. Ein Kleeblatt - vier Auffahrten, 12 Hektar, fertiggestellt 1940. Die B1 kreuzt hier die A115: Potsdamer Chaussee von West nach Ost. Das Schild: Zehlendorf, B1, Potsdam. Richtung Norden: drei Spuren beginnen hier wieder - die enge Zweispurigkeit des Grunewald-Abschnitts endet. Der Nikolassee liegt östlich, durch den Wald nicht sichtbar.

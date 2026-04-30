@@ -2,7 +2,7 @@
 
 ## Owner
 - Project: Autobahn
-- Place: the A115
+- Place: [A115](place_the_a115.md) in [Berlin](place_berlin.md)
 
 ## Shown
 Ausfahrt 2. km 23,3. Das Schild: Hüttenweg. Der Grunewald auf beiden Seiten - Wald, nichts anderes. Zwei Spuren hier, die Fahrbahn schmaler als nördlich vom Dreieck Funkturm und südlich vom Kreuz Zehlendorf. Die Strecke geradeaus, fast schnurgerade. Berlin unsichtbar.
