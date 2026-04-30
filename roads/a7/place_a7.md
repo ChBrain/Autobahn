@@ -15,17 +15,17 @@ Four lanes for most of the stretch - two northbound, two southbound, the central
 * [km 33.7](piece_the_kilometerstein.md): [Schleswig/Schuby](place_a7_05_schleswig_schuby.md).
 * [km 39.2](piece_the_kilometerstein.md): [Schleswig/Jagel](place_a7_06_schleswig_jagel.md).
 * [km 50.9](piece_the_kilometerstein.md): [Owschlag](place_a7_07_owschlag.md).
-* [km 55.4](piece_the_kilometerstein.md): [Raststätte Hüttener Berge](place_service_huettener_berge.md).
+* [km 55.4](piece_the_kilometerstein.md): [Raststätte Hüttener Berge](place_a7_service_huettener_berge.md).
 * [km 58.1](piece_the_kilometerstein.md): [Rendsburg/Büdelsdorf](place_a7_08_rendsburg_buedelsdorf.md).
 * [km 63.9](piece_the_kilometerstein.md): [Kreuz Rendsburg](place_a7_09_kreuz_rendsburg.md).
 * [km 76.3](piece_the_kilometerstein.md): [Warder](place_a7_10_warder.md).
 * [km 83.5](piece_the_kilometerstein.md): [Bordesholm](place_a7_11_bordesholm.md).
 * [km 84.4](piece_the_kilometerstein.md): [Dreieck Bordesholm](place_a7_12_dreieck_bordesholm.md).
 * [km 90.3](piece_the_kilometerstein.md): [Neumünster-Nord](place_a7_13_neumuenster_nord.md).
-* [km 93.7](piece_the_kilometerstein.md): [Raststätte Aalbek](place_service_aalbek.md).
+* [km 93.7](piece_the_kilometerstein.md): [Raststätte Aalbek](place_a7_service_aalbek.md).
 * [km 96.4](piece_the_kilometerstein.md): [Neumünster-Mitte](place_a7_14_neumuenster_mitte.md).
 * [km 99.4](piece_the_kilometerstein.md): [Neumünster-Süd](place_a7_15_neumuenster_sued.md).
-* [km 102.6](piece_the_kilometerstein.md): [Raststätte Brokenlande](place_service_brokenlande.md).
+* [km 102.6](piece_the_kilometerstein.md): [Raststätte Brokenlande](place_a7_service_brokenlande.md).
 * [km 104.0](piece_the_kilometerstein.md): [Großenaspe](place_a7_16_grossenaspe.md).
 * [km 115.1](piece_the_kilometerstein.md): [Bad Bramstedt](place_a7_17_bad_bramstedt.md).
 * [km 117.6](piece_the_kilometerstein.md): [Kreuz Bad Bramstedt](place_a7_kreuz_bad_bramstedt.md).
@@ -33,7 +33,7 @@ Four lanes for most of the stretch - two northbound, two southbound, the central
 * [km 126.7](piece_the_kilometerstein.md): [Henstedt-Ulzburg](place_a7_19_henstedt_ulzburg.md).
 * [km 130.3](piece_the_kilometerstein.md): [Ellerau](place_a7_20_ellerau.md).
 * [km 133.7](piece_the_kilometerstein.md): [Quickborn](place_a7_21_quickborn.md).
-* [km 136.6](piece_the_kilometerstein.md): [Rasthof Holmmoor](place_rasthof_holmmoor.md).
+* [km 136.6](piece_the_kilometerstein.md): [Rasthof Holmmoor](place_a7_roadhouse_holmmoor.md).
 * [km 141.0](piece_the_kilometerstein.md): [Norderstedt-Mitte/Dreieck Garstedt](place_a7_22_norderstedt_mitte.md).
 * [km 144.8](piece_the_kilometerstein.md): [Hamburg-Schnelsen-Nord](place_a7_23_hamburg_schnelsen_nord.md).
 * [km 146.2](piece_the_kilometerstein.md): [Hamburg-Schnelsen](place_a7_24_hamburg_schnelsen.md).
