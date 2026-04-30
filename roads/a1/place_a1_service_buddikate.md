@@ -1,4 +1,4 @@
-# Rastst\u00e4tte Buddikate
+# Raststätte Buddikate
 
 ## Owner
 - Project: Autobahn
@@ -9,7 +9,7 @@ The Buddikate service area on both sides of the road. Fuel, food, parking. The A
 
 ## Holds
 
-[km 120.0](piece_the_kilometerstein.md): Rastst\u00e4tte Buddikate.
+[km 120.0](piece_the_kilometerstein.md): Raststätte Buddikate.
 
 * 2.0 km north on [the A1](place_a1.md) to [Kreuz Bargteheide](place_a1_27_kreuz_bargteheide.md).
 * 7.0 km south on [the A1](place_a1.md) to [Ahrensburg](place_a1_28_ahrensburg.md).

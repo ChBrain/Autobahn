@@ -49,6 +49,9 @@ def validate(path: Path) -> list[str]:
     if "\ufffd" in text:
         errors.append("contains U+FFFD replacement character")
 
+    if re.search(r"\\u[0-9a-fA-F]{4}", text):
+        errors.append("contains literal Unicode escape sequences (use UTF-8 characters directly)")
+
     headings = SECTION_RE.findall(text)
     seen = [h for h in headings if h in REQUIRED_SECTIONS]
     if seen != REQUIRED_SECTIONS:
