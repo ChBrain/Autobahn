@@ -2,8 +2,8 @@
 
 ## Owner
 - **Project:** REMEMBER
-- **Process:** [Govern Traffic](../processes/process_govern-traffic.md)
-- **Place:** [Bundesverkehrsministerium Bonn, Robert-Schuman-Platz 1](../places/place_bonn-robert-schuman-platz.md)
+- **Process:** [Govern Traffic](../processes/process_govern_traffic.md)
+- **Place:** [Bundesverkehrsministerium Bonn, Robert-Schuman-Platz 1](../places/place_bonn_robert_schuman_platz.md)
 
 ## Has
 Constitutional mandate to govern federal roads, rail, waterways, aviation, and shipping. Second-largest ministry budget in the federal government. Direct authority over Deutsche Bundesbahn and Lufthansa. 44 subordinate agencies. A ministry staff that predates the minister and will outlast them.

@@ -2,11 +2,11 @@
 
 ## Owner
 - **Project:** REMEMBER
-- **Place:** [Bundesverkehrsministerium Bonn, Robert-Schuman-Platz 1](../places/place_bonn-robert-schuman-platz.md)
+- **Place:** [Bundesverkehrsministerium Bonn, Robert-Schuman-Platz 1](../places/place_bonn_robert_schuman_platz.md)
 - **Persona:** [Hans-Christoph Seebohm](../personas/persona_seebohm.md)
 
 ## Place
-[Bundesverkehrsministerium Bonn, Robert-Schuman-Platz 1](../places/place_bonn-robert-schuman-platz.md)
+[Bundesverkehrsministerium Bonn, Robert-Schuman-Platz 1](../places/place_bonn_robert_schuman_platz.md)
 
 ## Load Bearing
 Remove this piece and the postwar BRD has no federal road policy. The Autobahn network inherited from the Third Reich sits unextended, unregulated, without a governance framework. Every subsequent minister inherits either the network Seebohm built or the regulatory model he imposed. Both are still present in the system in 2025.
@@ -44,5 +44,5 @@ A national motorway network extending to 1,400 km by 1966. A set of laws restric
 
 ---
 
-*piece_federal-motorway-network.md: 01.05.2026*
+*piece_federal_motorway_network.md: 01.05.2026*
 *v0.2.0 - KAI Worlds*

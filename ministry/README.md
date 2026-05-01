@@ -12,16 +12,16 @@ The world exists so the decisions that built and broke the German transport netw
 ## Phase 1
 
 **Processes**
-- [Govern Traffic](processes/process_govern-traffic.md)
-- [Take Office](processes/process_take-office.md)
-- [Run Office](processes/process_run-office.md)
-- [Leave Office](processes/process_leave-office.md)
+- [Govern Traffic](processes/process_govern_traffic.md)
+- [Take Office](processes/process_take_office.md)
+- [Run Office](processes/process_run_office.md)
+- [Leave Office](processes/process_leave_office.md)
 
 **Positions**
-- [Bundesminister fur Verkehr (1949-1998)](positions/position_bundesminister-fuer-verkehr-1949-1998.md)
+- [Bundesminister fur Verkehr (1949-1998)](positions/position_bundesminister_fuer_verkehr_1949_1998.md)
 
 **Pieces**
-- [Federal Motorway Network + Road Transport Regulation](pieces/piece_federal-motorway-network.md)
+- [Federal Motorway Network + Road Transport Regulation](pieces/piece_federal_motorway_network.md)
 
 **Places**
 - [Bundesverkehrsministerium Bonn](places/place_bonn-robert-schuman-platz.md)

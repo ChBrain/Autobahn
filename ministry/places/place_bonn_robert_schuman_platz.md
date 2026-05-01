@@ -8,7 +8,7 @@
 A purpose-built government building on a polygonal plaza in Bonn-Hochkreuz. Construction began 1986, completed 1989. Grey concrete and glass, six storeys, two wings connected by a recessed central body. Red granite sphere by sculptor Leo Kornbrust stands on the plaza. Underground Stadtbahn access at Robert-Schuman-Platz station. To the northeast: the former Bundesministerium fur Post und Telekommunikation. To the south: the Rhine, two kilometres away.
 
 ## Holds
-- [Federal Motorway Network + Road Transport Regulation](../pieces/piece_federal-motorway-network.md)
+- [Federal Motorway Network + Road Transport Regulation](../pieces/piece_federal_motorway_network.md)
 - Minister's office, top floor, overlooking the plaza
 - Permanent secretary staff predating every minister since 1949
 - Classified briefing files on all active infrastructure commitments
