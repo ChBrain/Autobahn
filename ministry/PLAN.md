@@ -136,7 +136,7 @@ Status: DONE / IN PROGRESS / OPEN
 | Phase | Status | Minister | System | In Office | New Position | New Place | Piece | Post |
 |-------|--------|----------|--------|-----------|--------------|-----------|-------|------|
 | 1 | DONE | Hans-Christoph Seebohm | BRD | 1949-1966 | Bundesminister fur Verkehr (1949-1998) | Bonn, Robert-Schuman-Platz 1 | Federal Motorway Network + Road Transport Regulation | [Dree Minister, een Tunnel](https://autobahnaktuell.substack.com/p/dree-minister-een-tunnel) |
-| 2 | OPEN | Hans Reingruber | DDR | 1949-1953 | Minister fur Verkehrswesen (DDR 1949-1990) | MfV DDR, Franzosische Strasse 53-56 | MfV Foundation | -- |
+| 2 | IN PROGRESS | Hans Reingruber | DDR | 1949-1953 | Minister fur Verkehrswesen (DDR 1949-1990) | MfV DDR, Franzosische Strasse 53-56 | MfV Foundation | -- |
 | 3 | OPEN | Roman Chwalek | DDR | 1953-1954 | -- | -- | MfV Reorganization | -- |
 | 4 | OPEN | Erwin Kramer | DDR | 1954-1970 | -- | -- | Reichsbahn National Transport Plan | -- |
 | 5 | OPEN | Georg Leber | BRD | 1966-1972 | -- | -- | Modal Shift Program: Road to Rail | -- |
