@@ -51,53 +51,54 @@ Four lanes for most of the stretch - two northbound, two southbound, the central
 
 ### Niedersachsen Extension (Hamburg → Göttingen)
 
-* [km 179.2](piece_the_kilometerstein.md): [Seevetal-Fleestedt](place_a7_35_seevetal_fleestedt.md).
-* [km 183.8](piece_the_kilometerstein.md): [Maschener Kreuz](place_a7_36_maschen.md).
-* [km 186.2](piece_the_kilometerstein.md): [Horster Dreieck](place_a7_37_horst.md).
-* [km 201.6](piece_the_kilometerstein.md): [Seevetal-Ramelsloh](place_a7_38_seevetal_ramelsloh.md).
-* [km 206.5](piece_the_kilometerstein.md): [Thieshope](place_a7_39_thieshope.md).
-* [km 213.9](piece_the_kilometerstein.md): [Garlstorf](place_a7_40_garlstorf.md).
-* [km 219.5](piece_the_kilometerstein.md): [Egestorf](place_a7_41_egestorf.md).
-* [km 223.2](piece_the_kilometerstein.md): [Evendorf](place_a7_42_evendorf.md).
-* [km 232.7](piece_the_kilometerstein.md): [Bispingen](place_a7_43_bispingen.md).
-* [km 235.0](piece_the_kilometerstein.md): [Schneverdingen](place_a7_43a_schneverdingen.md).
-* [km 244.6](piece_the_kilometerstein.md): [Soltau-Ost](place_a7_44_soltau_ost.md).
-* [km 251.6](piece_the_kilometerstein.md): [Soltau-Süd](place_a7_45_soltau_sued.md).
-* [km 261.6](piece_the_kilometerstein.md): [Dorfmark](place_a7_46_dorfmark.md).
-* [km 268.0](piece_the_kilometerstein.md): [Bad Fallingbostel](place_a7_47_bad_fallingbostel.md).
-* [km 275.6](piece_the_kilometerstein.md): [Dreieck Walsrode](place_a7_48_walsrode.md).
-* [km 276.8](piece_the_kilometerstein.md): [Westenholz](place_a7_49_westenholz.md).
-* [km 287.9](piece_the_kilometerstein.md): [Schwarmstedt](place_a7_50_schwarmstedt.md).
-* [km 296.1](piece_the_kilometerstein.md): [Berkhof](place_a7_51_berkhof.md).
-* [km 303.0](piece_the_kilometerstein.md): [Mellendorf](place_a7_52_mellendorf.md).
-* [km 304.7](piece_the_kilometerstein.md): [Dreieck Hannover-Nord](place_a7_53_hannover_nord.md).
-* [km 311.0](piece_the_kilometerstein.md): [Großburgwedel](place_a7_54_grossburgwedel.md).
-* [km 318.0](piece_the_kilometerstein.md): [Altwarmbüchen](place_a7_55_altwarmbuechen.md).
-* [km 318.9](piece_the_kilometerstein.md): [Kreuz Hannover/Kirchhorst](place_a7_56_hannover_kirchhorst.md).
-* [km 325.0](piece_the_kilometerstein.md): [Kreuz Hannover-Ost](place_a7_57_hannover_ost.md).
-* [km 335.0](piece_the_kilometerstein.md): [Hannover-Anderten](place_a7_58_hannover_anderten.md).
-* [km 340.9](piece_the_kilometerstein.md): [Laatzen](place_a7_59_laatzen.md).
-* [km 341.7](piece_the_kilometerstein.md): [Dreieck Hannover-Süd](place_a7_60_hannover_sued.md).
-* [km 356.8](piece_the_kilometerstein.md): [Hildesheim-Drispenstedt](place_a7_61_hildesheim_drispenstedt.md).
-* [km 360.0](piece_the_kilometerstein.md): [Hildesheim](place_a7_62_hildesheim.md).
-* [km 373.4](piece_the_kilometerstein.md): [Derneburg/Salzgitter](place_a7_63_derneburg_salzgitter.md).
-* [km 376.6](piece_the_kilometerstein.md): [Dreieck Salzgitter](place_a7_64_salzgitter.md).
-* [km 386.9](piece_the_kilometerstein.md): [Bockenem](place_a7_65_bockenem.md).
-* [km 393.0](piece_the_kilometerstein.md): [Rhüden](place_a7_66_rhuedem.md).
-* [km 400.2](piece_the_kilometerstein.md): [Seesen](place_a7_67_seesen.md).
-* [km 412.5](piece_the_kilometerstein.md): [Echte](place_a7_68_echte.md).
-* [km 421.8](piece_the_kilometerstein.md): [Northeim-Nord](place_a7_69_northeim_nord.md).
-* [km 426.6](piece_the_kilometerstein.md): [Northeim-West](place_a7_70_northeim_west.md).
-* [km 435.0](piece_the_kilometerstein.md): [Nörten-Hardenberg](place_a7_71_noerten_hardenberg.md).
-* [km 444.4](piece_the_kilometerstein.md): [Göttingen-Nord](place_a7_72_goettingen_nord.md).
-* [km 447.9](piece_the_kilometerstein.md): [Göttingen](place_a7_73_goettingen.md).
+* [km 176](piece_the_kilometerstein.md): [Seevetal-Fleestedt](place_a7_35_seevetal_fleestedt.md).
+* [km 180](piece_the_kilometerstein.md): [Maschener Kreuz](place_a7_36_maschen.md).
+* [km 182](piece_the_kilometerstein.md): [Horster Dreieck](place_a7_37_horst.md).
+* [km 185](piece_the_kilometerstein.md): [Seevetal-Ramelsloh](place_a7_38_seevetal_ramelsloh.md).
+* [km 190](piece_the_kilometerstein.md): [Thieshope](place_a7_39_thieshope.md).
+* [km 197](piece_the_kilometerstein.md): [Garlstorf](place_a7_40_garlstorf.md).
+* [km 203](piece_the_kilometerstein.md): [Egestorf](place_a7_41_egestorf.md).
+* [km 207](piece_the_kilometerstein.md): [Evendorf](place_a7_42_evendorf.md).
+* [km 216](piece_the_kilometerstein.md): [Bispingen](place_a7_43_bispingen.md).
+* [km 219](piece_the_kilometerstein.md): [Schneverdingen](place_a7_43a_schneverdingen.md).
+* [km 228](piece_the_kilometerstein.md): [Soltau-Ost](place_a7_44_soltau_ost.md).
+* [km 235](piece_the_kilometerstein.md): [Soltau-Süd](place_a7_45_soltau_sued.md).
+* [km 245](piece_the_kilometerstein.md): [Dorfmark](place_a7_46_dorfmark.md).
+* [km 252](piece_the_kilometerstein.md): [Bad Fallingbostel](place_a7_47_bad_fallingbostel.md).
+* [km 259](piece_the_kilometerstein.md): [Dreieck Walsrode](place_a7_48_walsrode.md).
+* [km 260](piece_the_kilometerstein.md): [Westenholz](place_a7_49_westenholz.md).
+* [km 271](piece_the_kilometerstein.md): [Schwarmstedt](place_a7_50_schwarmstedt.md).
+* [km 279](piece_the_kilometerstein.md): [Berkhof](place_a7_51_berkhof.md).
+* [km 286](piece_the_kilometerstein.md): [Mellendorf](place_a7_52_mellendorf.md).
+* [km 288](piece_the_kilometerstein.md): [Dreieck Hannover-Nord](place_a7_53_hannover_nord.md).
+* [km 294](piece_the_kilometerstein.md): [Großburgwedel](place_a7_54_grossburgwedel.md).
+* [km 301](piece_the_kilometerstein.md): [Altwarmbüchen](place_a7_55_altwarmbuechen.md).
+* [km 302](piece_the_kilometerstein.md): [Kreuz Hannover/Kirchhorst](place_a7_56_hannover_kirchhorst.md).
+* [km 306](piece_the_kilometerstein.md): [Kreuz Hannover-Ost](place_a7_57_hannover_ost.md).
+* [km 310](piece_the_kilometerstein.md): [Hannover-Anderten](place_a7_58_hannover_anderten.md).
+* [km 316](piece_the_kilometerstein.md): [Laatzen](place_a7_59_laatzen.md).
+* [km 317](piece_the_kilometerstein.md): [Dreieck Hannover-Süd](place_a7_60_hannover_sued.md).
+* [km 332](piece_the_kilometerstein.md): [Hildesheim-Drispenstedt](place_a7_61_hildesheim_drispenstedt.md).
+* [km 335](piece_the_kilometerstein.md): [Hildesheim](place_a7_62_hildesheim.md).
+* [km 349](piece_the_kilometerstein.md): [Derneburg/Salzgitter](place_a7_63_derneburg_salzgitter.md).
+* [km 352](piece_the_kilometerstein.md): [Dreieck Salzgitter](place_a7_64_salzgitter.md).
+* [km 362](piece_the_kilometerstein.md): [Bockenem](place_a7_65_bockenem.md).
+* [km 368](piece_the_kilometerstein.md): [Rhüden](place_a7_66_rhuedem.md).
+* [km 375](piece_the_kilometerstein.md): [Seesen](place_a7_67_seesen.md).
+* [km 388](piece_the_kilometerstein.md): [Echte](place_a7_68_echte.md).
+* [km 397](piece_the_kilometerstein.md): [Northeim-Nord](place_a7_69_northeim_nord.md).
+* [km 402](piece_the_kilometerstein.md): [Northeim-West](place_a7_70_northeim_west.md).
+* [km 410](piece_the_kilometerstein.md): [Nörten-Hardenberg](place_a7_71_noerten_hardenberg.md).
+* [km 420](piece_the_kilometerstein.md): [Göttingen-Nord](place_a7_72_goettingen_nord.md).
+* [km 442](piece_the_kilometerstein.md): [Göttingen](place_a7_73_goettingen.md).
+* [km 449](piece_the_kilometerstein.md): [Dreieck Drammetal](place_a7_74_dreieck_drammetal.md).
 
 
 ## Offers
 Continuous movement in either direction. Every child place reachable from every other by staying on the road. The road does not require a reason to use it.
 
 ## Withheld
-The southern continuation: Göttingen marks the border with Hesse, where the A7 continues into the southern German states — ultimately reaching Füssen in the Bavarian Alps at the Austrian border, eight hundred kilometres south of [Hamburg-Waltershof](place_a7_30_hamburg_waltershof.md). The A7 is one continuous numbered road across the entire federal republic, but most drivers know only the segment they traverse. The Hannover A7/A2 junction complex: internal geometry (3D stack interchange plans, truck checkpoint protocols, Kraftfahrt-Bundesamt coordination). The Raststätte staffing schedules and rest-hour enforcement mechanisms. The demographic data: who stops where, when, why.
+The southern continuation: Drammetal marks the border with Hesse, where the A7 continues into the southern German states — ultimately reaching Füssen in the Bavarian Alps at the Austrian border, eight hundred kilometres south of [Hamburg-Waltershof](place_a7_30_hamburg_waltershof.md). The A7 is one continuous numbered road across the entire federal republic, but most drivers know only the segment they traverse. The Hannover A7/A2 junction complex: internal geometry (3D stack interchange plans, truck checkpoint protocols, Kraftfahrt-Bundesamt coordination). The Raststätte staffing schedules and rest-hour enforcement mechanisms. The demographic data: who stops where, when, why.
 
 ---
 
