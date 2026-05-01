@@ -9,8 +9,8 @@ The Dreieck Hamburg-Stillhorn. The A26 branching west toward Stade. The Süderel
 
 ## Holds
 [km 154](piece_the_kilometerstein.md): Dreieck Hamburg-Stillhorn.
-- 3.0 km north: [Dreieck Norderelbe](place_a1_36_dreieck_norderelbe.md)
-- 2.0 km south: [Hamburg-Harburg](place_a1_38_hamburg_harburg.md)
+- 0.5 km north: [Raststätte Hamburg-Stillhorn](place_a1_service_hamburg_stillhorn.md)
+- 0.7 km south: [Norderelbbrücke](place_a1_norderelbbruecke.md)
 
 ## Offers
 
