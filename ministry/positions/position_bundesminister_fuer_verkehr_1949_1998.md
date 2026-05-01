@@ -19,5 +19,5 @@ The minister either adapts - subordinating the network to the coalition - or com
 
 ---
 
-*position_bundesminister-fuer-verkehr-1949-1998.md: 01.05.2026*
+*position_bundesminister_fuer_verkehr_1949_1998.md: 01.05.2026*
 *v0.2.0 - KAI Worlds*

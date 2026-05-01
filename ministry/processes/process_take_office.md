@@ -20,5 +20,5 @@ The minister is now in office. [Run Office](process_run_office.md) begins. The b
 
 ---
 
-*process_take-office.md: 01.05.2026*
+*process_take_office.md: 01.05.2026*
 *v0.2.0 - KAI Worlds*

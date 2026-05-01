@@ -24,7 +24,7 @@ The world exists so the decisions that built and broke the German transport netw
 - [Federal Motorway Network + Road Transport Regulation](pieces/piece_federal_motorway_network.md)
 
 **Places**
-- [Bundesverkehrsministerium Bonn](places/place_bonn-robert-schuman-platz.md)
+- [Bundesverkehrsministerium Bonn](places/place_bonn_robert_schuman_platz.md)
 
 **Personas**
 - [Hans-Christoph Seebohm](personas/persona_seebohm.md)
