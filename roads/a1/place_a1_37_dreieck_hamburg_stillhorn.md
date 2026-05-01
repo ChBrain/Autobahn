@@ -8,10 +8,9 @@
 The Dreieck Hamburg-Stillhorn. The A26 branching west toward Stade. The Süderelbe crossing immediately ahead southbound — 330 metres over the southern arm of the Elbe. The last Hamburg junction before Lower Saxony.
 
 ## Holds
-
-* [km 154](piece_the_kilometerstein.md) on [the A1](place_a1.md).
-* 4.3 km north on [the A1](place_a1.md) to [Dreieck Norderelbe](place_a1_36_dreieck_norderelbe.md).
-* 1.7 km south on [the A1](place_a1.md) to [Hamburg-Harburg](place_a1_38_hamburg_harburg.md).
+[km 154](piece_the_kilometerstein.md): Dreieck Hamburg-Stillhorn.
+- 0.5 km north: [Raststätte Hamburg-Stillhorn](place_a1_service_hamburg_stillhorn.md)
+- 0.7 km south: [Norderelbbrücke](place_a1_norderelbbruecke.md)
 
 ## Offers
 

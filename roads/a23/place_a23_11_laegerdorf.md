@@ -10,8 +10,8 @@ The sign: Lägerdorf. The landscape here: chalk deposits visible in the fields, 
 
 ## Holds
 [km 99.7](piece_the_kilometerstein.md): Lägerdorf.
-- 6 km north: [Itzehoe-Süd](place_a23_10_itzehoe_sued.md)
-- 7 km south: [Hohenfelde](place_a23_12_hohenfelde.md)
+- 4.1 km north: [Itzehoe-Süd](place_a23_10_itzehoe_sued.md)
+- 4.3 km south: [Hohenfelde](place_a23_12_hohenfelde.md)
 
 
 ## Offers

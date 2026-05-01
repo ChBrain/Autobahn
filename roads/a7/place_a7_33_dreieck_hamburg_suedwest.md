@@ -8,10 +8,9 @@
 The Dreieck Hamburg-Südwest. The A261 branching west toward Stade and the A1. The A7 continuing south toward Horster Dreieck and Hannover. The city's southwestern edge — Eißendorf and Marmstorf on the high ground, the Harburger Berge beginning beyond.
 
 ## Holds
-
-* [km 171](piece_the_kilometerstein.md) on [the A7](place_a7.md).
-* 4.0 km north on [the A7](place_a7.md) to [Hamburg-Heimfeld](place_a7_32_hamburg_heimfeld.md).
-* 1.0 km south on [the A7](place_a7.md) to [Hamburg-Marmstorf](place_a7_34_hamburg_marmstorff.md).
+[km 171](piece_the_kilometerstein.md): Dreieck Hamburg-Südwest.
+- 4.0 km north: [Hamburg-Heimfeld](place_a7_32_hamburg_heimfeld.md)
+- 1.0 km south: [Hamburg-Marmstorf](place_a7_34_hamburg_marmstorf.md)
 
 ## Offers
 [The A261](place_a261.md) west. Stade. Connection to [the A1](place_a1.md).

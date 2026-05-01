@@ -10,7 +10,7 @@ The sign: Tornesch. The Hamburg commuter belt beginning. The road increasingly s
 
 ## Holds
 [km 122.0](piece_the_kilometerstein.md): Tornesch.
-- 6 km north: [Elmshorn](place_a23_14_elmshorn.md)
+- 4.0 km north: [Elmshorn](place_a23_14_elmshorn.md)
 - 5 km south: [Pinneberg-Nord](place_a23_16_pinneberg_nord.md)
 
 

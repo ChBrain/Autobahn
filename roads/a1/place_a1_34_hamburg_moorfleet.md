@@ -8,8 +8,7 @@
 The Moorfleet exit. The sign: Hamburg-Moorfleet. The Autohof visible from the carriageway. The exit ramp is part of the [Dreieck Hamburg-Südost](place_a1_35_dreieck_hamburg_suedost.md) — a Doppelanschlussstelle, its ramps integrated into the same node.
 
 ## Holds
-
-* [km 148](piece_the_kilometerstein.md) on [the A1](place_a1.md).
+[km 148](piece_the_kilometerstein.md): Hamburg-Moorfleet.
 
 ## Offers
 Ausfahrt 34 - the exit ramp. The Autohof at Moorfleet: fuel, food, parking, accessible via the exit.

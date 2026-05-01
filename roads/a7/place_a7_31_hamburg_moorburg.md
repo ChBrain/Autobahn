@@ -8,10 +8,9 @@
 The Moorburg exit. The sign: Hamburg-Moorburg. The port's industrial southern fringe. The site of the former Vattenfall coal power station to the west — decommissioned 2021, chimney demolished November 2024, the footprint now visible as cleared industrial ground. The road descending toward the Süderelbe marshland.
 
 ## Holds
-
-* [km 165](piece_the_kilometerstein.md) on [the A7](place_a7.md).
-* 3.4 km north on [the A7](place_a7.md) to [Hamburg-Waltershof](place_a7_30_hamburg_waltershof.md).
-* 2.0 km south on [the A7](place_a7.md) to [Hamburg-Heimfeld](place_a7_32_hamburg_heimfeld.md).
+[km 165](piece_the_kilometerstein.md): Hamburg-Moorburg.
+- 3.4 km north: [Hamburg-Waltershof](place_a7_30_hamburg_waltershof.md)
+- 2.0 km south: [Hamburg-Heimfeld](place_a7_32_hamburg_heimfeld.md)
 
 ## Offers
 Ausfahrt 31 - the exit ramp. The ordinary road below.

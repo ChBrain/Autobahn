@@ -9,7 +9,7 @@ The first exit south of the Danish border. The sign: Flensburg, Harrislee, B199.
 
 ## Holds
 [km 3.9](piece_the_kilometerstein.md): Flensburg/Harrislee.
-- 4 km north: [Grenzübergang Ellund](place_a7_01_grenzuebergang_ellund.md)
+- 3.9 km north: [Grenzübergang Ellund](place_a7_01_grenzuebergang_ellund.md)
 - 5.2 km south: [Kreuz Flensburg](place_a7_03_kreuz_flensburg.md)
 
 ## Offers

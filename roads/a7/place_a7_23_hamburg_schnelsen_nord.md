@@ -9,8 +9,8 @@ Hamburg. The city limit passed. The northern Schnelsen exit. The sign: Hamburg-S
 
 ## Holds
 [km 144.8](piece_the_kilometerstein.md): Hamburg-Schnelsen-Nord.
-- 4 km north: [Norderstedt-Mitte](place_a7_22_norderstedt_mitte.md)
-- 1 km south: [Hamburg-Schnelsen](place_a7_24_hamburg_schnelsen.md)
+- 3.8 km north: [Norderstedt-Mitte](place_a7_22_norderstedt_mitte.md)
+- 1.4 km south: [Hamburg-Schnelsen](place_a7_24_hamburg_schnelsen.md)
 
 ## Offers
 Ausfahrt 23 - the exit ramp. The ordinary road below.

@@ -10,8 +10,8 @@ The sign: Itzehoe-Süd. The southern end of the Itzehoe crossing. The road conti
 
 ## Holds
 [km 95.6](piece_the_kilometerstein.md): Itzehoe-Süd.
-- 5 km north: [Itzehoe-Mitte](place_a23_09_itzehoe_mitte.md)
-- 6 km south: [Lägerdorf](place_a23_11_laegerdorf.md)
+- 5.3 km north: [Itzehoe-Mitte](place_a23_09_itzehoe_mitte.md)
+- 4.1 km south: [Lägerdorf](place_a23_11_laegerdorf.md)
 
 
 ## Offers

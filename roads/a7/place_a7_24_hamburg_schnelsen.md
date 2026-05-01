@@ -9,8 +9,8 @@ The Hamburg-Schnelsen exit. The sign: Hamburg-Schnelsen, Niendorf. The road here
 
 ## Holds
 [km 146.2](piece_the_kilometerstein.md): Hamburg-Schnelsen.
-- 1 km north: [Hamburg-Schnelsen-Nord](place_a7_23_hamburg_schnelsen_nord.md)
-- 2 km south: [Dreieck Hamburg-Nordwest](place_a7_25_dreieck_hamburg_nordwest.md)
+- 1.4 km north: [Hamburg-Schnelsen-Nord](place_a7_23_hamburg_schnelsen_nord.md)
+- 2.2 km south: [Dreieck Hamburg-Nordwest](place_a7_25_dreieck_hamburg_nordwest.md)
 
 ## Offers
 Ausfahrt 24 - the exit ramp. The ordinary road below.

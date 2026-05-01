@@ -10,8 +10,8 @@ Small exit. Rural. The sign: Hanerau-Hademarschen. The road south of the canal -
 
 ## Holds
 [km 72.6](piece_the_kilometerstein.md): Hanerau-Hademarschen.
-- 10 km north: [Schafstedt](place_a23_05_schafstedt.md)
-- 9 km south: [Schenefeld](place_a23_07_schenefeld.md)
+- 5.3 km north: [Schafstedt](place_a23_05_schafstedt.md)
+- 6.1 km south: [Schenefeld](place_a23_07_schenefeld.md)
 
 
 ## Offers

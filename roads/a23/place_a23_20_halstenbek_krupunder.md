@@ -11,7 +11,7 @@ The sign: Halstenbek-Krupunder. The last exit before Hamburg. The state line of 
 ## Holds
 [km 135.0](piece_the_kilometerstein.md): Halstenbek-Krupunder.
 - 2 km north: [Halstenbek/Rellingen](place_a23_19_halstenbek_rellingen.md)
-- 2 km south: [Hamburg-Eidelstedt](place_a23_21_hamburg_eidelstedt.md)
+- 3.0 km south: [Hamburg-Eidelstedt](place_a23_21_hamburg_eidelstedt.md)
 
 
 ## Offers

@@ -8,10 +8,8 @@
 The Hamburg-Harburg exit. The sign: Hamburg-Harburg. The Süderelbe just crossed. The city's southern district. The Landesgrenze Hamburg-Niedersachsen immediately to the south — the last exit before the road leaves Hamburg entirely.
 
 ## Holds
-
-* [km 156](piece_the_kilometerstein.md) on [the A1](place_a1.md).
-* 1.7 km north on [the A1](place_a1.md) to [Dreieck Hamburg-Stillhorn](place_a1_37_dreieck_hamburg_stillhorn.md).
-* South on [the A1](place_a1.md) to Maschener Kreuz — Niedersachsen.
+[km 156](piece_the_kilometerstein.md): Hamburg-Harburg.
+- 1.3 km north: [Norderelbbrücke](place_a1_norderelbbruecke.md)
 
 ## Offers
 Ausfahrt 38 - the exit ramp. Harburg below.

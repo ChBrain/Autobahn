@@ -10,8 +10,8 @@ The Kiel Canal crossing. The Hochbrücke Hohenhörn: high enough for ocean-going
 
 ## Holds
 [km 67.3](piece_the_kilometerstein.md): Schafstedt.
-- 11 km north: [Albersdorf](place_a23_04_albersdorf.md)
-- 10 km south: [Hanerau-Hademarschen](place_a23_06_hanerau_hademarschen.md)
+- 5.5 km north: [Albersdorf](place_a23_04_albersdorf.md)
+- 5.3 km south: [Hanerau-Hademarschen](place_a23_06_hanerau_hademarschen.md)
 
 
 ## Offers

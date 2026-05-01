@@ -9,8 +9,8 @@ Exit 22. The sign: Norderstedt-Mitte, Garstedt. The exit ramp leads east into No
 
 ## Holds
 [km 141.0](piece_the_kilometerstein.md): Norderstedt-Mitte / Dreieck Garstedt.
-- 7 km north: [Quickborn](place_a7_21_quickborn.md)
-- 4 km south: [Hamburg-Schnelsen-Nord](place_a7_23_hamburg_schnelsen_nord.md)
+- 7.3 km north: [Quickborn](place_a7_21_quickborn.md)
+- 3.8 km south: [Hamburg-Schnelsen-Nord](place_a7_23_hamburg_schnelsen_nord.md)
 
 ## Offers
 Ausfahrt 22 - the exit ramp.

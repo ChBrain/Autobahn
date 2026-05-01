@@ -9,7 +9,7 @@ The Bordesholm exit. The sign: Bordesholm. The Dreieck Bordesholm visible ahead 
 
 ## Holds
 [km 83.5](piece_the_kilometerstein.md): Bordesholm.
-- 6 km north: [Warder](place_a7_10_warder.md)
+- 7.2 km north: [Warder](place_a7_10_warder.md)
 - 1 km south: [Dreieck Bordesholm](place_a7_12_dreieck_bordesholm.md)
 
 ## Offers

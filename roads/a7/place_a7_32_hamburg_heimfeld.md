@@ -8,10 +8,9 @@
 The Heimfeld exit. The sign: Hamburg-Heimfeld. The southern approach to Harburg. The road in the corridor between the port freight infrastructure to the north and the Harburger Berge rising to the south.
 
 ## Holds
-
-* [km 167](piece_the_kilometerstein.md) on [the A7](place_a7.md).
-* 2.0 km north on [the A7](place_a7.md) to [Hamburg-Moorburg](place_a7_31_hamburg_moorburg.md).
-* 4.0 km south on [the A7](place_a7.md) to [Dreieck Hamburg-Südwest](place_a7_33_dreieck_hamburg_suedwest.md).
+[km 167](piece_the_kilometerstein.md): Hamburg-Heimfeld.
+- 2.0 km north: [Hamburg-Moorburg](place_a7_31_hamburg_moorburg.md)
+- 4.0 km south: [Dreieck Hamburg-Südwest](place_a7_33_dreieck_hamburg_suedwest.md)
 
 ## Offers
 Ausfahrt 32 - the exit ramp. The ordinary road below.

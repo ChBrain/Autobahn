@@ -9,8 +9,8 @@ The sign: Ellerau. The Hamburg commuter belt - the settlements south of Henstedt
 
 ## Holds
 [km 130.3](piece_the_kilometerstein.md): Ellerau.
-- 4 km north: [Henstedt-Ulzburg](place_a7_19_henstedt_ulzburg.md)
-- 4 km south: [Quickborn](place_a7_21_quickborn.md)
+- 3.6 km north: [Henstedt-Ulzburg](place_a7_19_henstedt_ulzburg.md)
+- 3.4 km south: [Quickborn](place_a7_21_quickborn.md)
 
 ## Offers
 Ausfahrt 20 - the exit ramp.
