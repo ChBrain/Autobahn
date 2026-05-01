@@ -1,0 +1,13 @@
+{
+  "hooks": {
+    "UserPromptSubmit": [
+      {
+        "type": "command",
+        "windows": "pwsh -NoProfile -ExecutionPolicy Bypass -File .github/hooks/detect-release.ps1",
+        "command": "bash .github/hooks/detect-release.sh",
+        "cwd": "${workspaceRoot}",
+        "timeout": 5
+      }
+    ]
+  }
+}

@@ -1,5 +1,19 @@
 # Autobahn - Copilot Instructions
 
+## Release Agent
+
+For releases, use the `@autobahn-release` agent instead of the default agent. It enforces approval gates and prevents accidental bypasses:
+
+```
+/autobahn-release
+@autobahn-release please release X.Y.Z
+```
+
+This agent requires explicit user approval before:
+- Merging any PR
+- Creating release tags
+- Creating GitHub Releases
+
 ## Git workflow
 
 **Before any file edit:**
