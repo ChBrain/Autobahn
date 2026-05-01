@@ -385,6 +385,38 @@ def render_json(findings: list[Finding], skips: list[Skip]) -> None:
     print(json.dumps(out, indent=2, ensure_ascii=False))
 
 
+def render_checks(findings: list[Finding], skips: list[Skip]) -> None:
+    """Output per-validator check results for GitHub workflow annotations."""
+    # All validators that might run
+    validators = [
+        ("general", "Filename format, UTF-8, sections, footer"),
+        ("roads", "Road structure validation"),
+        ("roads_km", "Kilometer position format"),
+        ("roads_km_math", "Kilometer math consistency"),
+        ("states", "State file structure"),
+        ("navigation", "Navigation link integrity"),
+        ("stop_naming", "Stop naming conventions"),
+    ]
+    
+    explicit_findings = [f for f in findings if not f.implicit]
+    by_layer: dict[str, list[Finding]] = {}
+    for f in explicit_findings:
+        by_layer.setdefault(f.layer, []).append(f)
+    
+    print("::group::Validator Results")
+    # Output status for each validator
+    for validator, description in validators:
+        issues = by_layer.get(validator, [])
+        if issues:
+            count = len(issues)
+            files = len(set(f.path for f in issues))
+            print(f"  ❌ {validator}: {description}")
+            print(f"     → {count} issue(s) in {files} file(s)")
+        else:
+            print(f"  ✅ {validator}: {description}")
+    print("::endgroup::")
+
+
 # ---------------------------------------------------------------------------
 # Entry
 # ---------------------------------------------------------------------------
@@ -393,6 +425,7 @@ def main() -> int:
     parser = argparse.ArgumentParser(description="Validate Autobahn place files.")
     parser.add_argument("files", nargs="*", type=Path, help="Files to validate (default: walk repo)")
     parser.add_argument("--json", action="store_true", help="Emit findings as JSON")
+    parser.add_argument("--checks", action="store_true", help="Emit per-validator check results for workflow")
     args = parser.parse_args()
 
     if args.files:
@@ -404,6 +437,8 @@ def main() -> int:
 
     if args.json:
         render_json(findings, skips)
+    elif args.checks:
+        render_checks(findings, skips)
     else:
         render_text(findings, skips)
         explicit = [f for f in findings if not f.implicit]

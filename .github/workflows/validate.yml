@@ -53,6 +53,9 @@ jobs:
       - name: Validate changed files
         if: steps.changed.outputs.files != ''
         run: python3 scripts/validate.py ${{ steps.changed.outputs.files }}
+      - name: Show validator results
+        if: steps.changed.outputs.files != ''
+        run: python3 scripts/validate.py --checks ${{ steps.changed.outputs.files }}
       - name: No place_*.md files changed
         if: steps.changed.outputs.files == ''
         run: echo "No place_*.md files changed - skipping validation"
