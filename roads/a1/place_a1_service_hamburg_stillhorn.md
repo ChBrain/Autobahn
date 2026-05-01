@@ -8,10 +8,9 @@
 The Raststätte Hamburg-Stillhorn. Both directions: Ost and West. The only full service stop on the motorway network within the Hamburg city boundary. Fuel, food, parking. The A1 continuing south toward the Süderelbe crossing.
 
 ## Holds
-
-* [km 154](piece_the_kilometerstein.md) on [the A1](place_a1.md).
-* [Dreieck Norderelbe](place_a1_36_dreieck_norderelbe.md) to the north.
-* [Dreieck Hamburg-Stillhorn](place_a1_37_dreieck_hamburg_stillhorn.md) to the south.
+[km 154](piece_the_kilometerstein.md): Raststätte Hamburg-Stillhorn.
+- 3.0 km north: [Dreieck Norderelbe](place_a1_36_dreieck_norderelbe.md)
+- [Dreieck Hamburg-Stillhorn](place_a1_37_dreieck_hamburg_stillhorn.md) at the same km marker.
 
 ## Offers
 Fuel. Food. Parking. Truck facilities. Both directions.
