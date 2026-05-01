@@ -4,7 +4,7 @@
 - Project: Autobahn
 
 ## Shown
-Four lanes for most of the stretch - two northbound, two southbound, the central barrier between them. The road surface varying by section. The overhead signs at regular intervals - green, white lettering, distances counting down to Hamburg southbound and up to Flensburg northbound simultaneously; south of Hamburg, signs count toward Hannover and beyond to Würzburg. [The Kilometerstein](piece_the_kilometerstein.md) every hundred metres on the right verge. The sky above: open for most of the stretch, enclosed briefly in [the Elbtunnel](place_a7_elbtunnel.md). The northern terminus: the German-Danish border at Ellund/Frøslev, where the Danish E45 becomes the A7. The road does not change at the border. The number does. The southern reach: the Niedersachsen transition through agricultural Heide landscape, then urbanising as Hannover approaches, then opening again toward Göttingen and the Hesse border.
+Four lanes for most of the stretch - two northbound, two southbound, the central barrier between them. The road surface varying by section. The overhead signs at regular intervals - green, white lettering, distances counting down to Hamburg southbound and up to Flensburg northbound simultaneously; south of Hamburg, signs count toward Hannover and beyond to Würzburg. [The Kilometerstein](piece_the_kilometerstein.md) every hundred metres on the right verge. The sky above: open for most of the stretch, enclosed briefly in [the Elbtunnel](place_a7_elbtunnel.md). The northern terminus: the German-Danish border at Ellund/Frøslev, where the Danish E45 becomes the A7. The road does not change at the border. The number does. Between Hamburg-Marmstorf (km 172) and Seevetal-Fleestedt (km 176), a 4 km transition segment marks the Niedersachsen entry. The southern reach: the Niedersachsen extension (255 km, km 176 to km 431) through agricultural Heide landscape, then urbanising as Hannover approaches, then opening again toward Göttingen and the Hesse border.
 
 ## Holds
 
@@ -49,7 +49,7 @@ Four lanes for most of the stretch - two northbound, two southbound, the central
 * [km 171](piece_the_kilometerstein.md): [Dreieck Hamburg-Südwest](place_a7_33_dreieck_hamburg_suedwest.md).
 * [km 172](piece_the_kilometerstein.md): [Hamburg-Marmstorf](place_a7_34_hamburg_marmstorf.md).
 
-### Niedersachsen Extension (Hamburg → Göttingen)
+### Niedersachsen Extension (km 172-431: Hamburg → Hesse Border)
 
 * [km 176](piece_the_kilometerstein.md): [Seevetal-Fleestedt](place_a7_35_seevetal_fleestedt.md).
 * [km 180](piece_the_kilometerstein.md): [Maschener Kreuz](place_a7_36_maschen.md).
@@ -98,7 +98,7 @@ Four lanes for most of the stretch - two northbound, two southbound, the central
 Continuous movement in either direction. Every child place reachable from every other by staying on the road. The road does not require a reason to use it.
 
 ## Withheld
-The southern continuation: Drammetal marks the border with Hesse, where the A7 continues into the southern German states — ultimately reaching Füssen in the Bavarian Alps at the Austrian border, eight hundred kilometres south of [Hamburg-Waltershof](place_a7_30_hamburg_waltershof.md). The A7 is one continuous numbered road across the entire federal republic, but most drivers know only the segment they traverse. The Hannover A7/A2 junction complex: internal geometry (3D stack interchange plans, truck checkpoint protocols, Kraftfahrt-Bundesamt coordination). The Raststätte staffing schedules and rest-hour enforcement mechanisms. The demographic data: who stops where, when, why.
+The southern continuation: Drammetal marks the border with Hesse (km 431), where the A7 continues into the southern German states — ultimately reaching Füssen in the Bavarian Alps at the Austrian border, approximately 500 kilometres south of Drammetal. The A7 is one continuous numbered road across the entire federal republic, but most drivers know only the segment they traverse. The Hannover A7/A2 junction complex: internal geometry (3D stack interchange plans, truck checkpoint protocols, Kraftfahrt-Bundesamt coordination). The Raststätte staffing schedules and rest-hour enforcement mechanisms. The demographic data: who stops where, when, why. Service area locations and staffing protocols (deferred to Phase 2 infrastructure planning).
 
 ---
 
