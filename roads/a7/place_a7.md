@@ -49,25 +49,48 @@ Four lanes for most of the stretch - two northbound, two southbound, the central
 * [km 171](piece_the_kilometerstein.md): [Dreieck Hamburg-Südwest](place_a7_33_dreieck_hamburg_suedwest.md).
 * [km 172](piece_the_kilometerstein.md): [Hamburg-Marmstorf](place_a7_34_hamburg_marmstorf.md).
 
-### Niedersachsen Extension (Phase 1: Hamburg → Hannover)
+### Niedersachsen Extension (Hamburg → Göttingen)
 
-* [km 180](piece_the_kilometerstein.md): [Maschen](place_a7_35_maschen.md).
-* [km 195](piece_the_kilometerstein.md): [Rastplatz Heide](place_a7_service_heide_transition.md).
-* [km 225](piece_the_kilometerstein.md): [Raststätte Bad Fallingbostel](place_a7_service_bad_fallingbostel.md).
-* [km 256](piece_the_kilometerstein.md): [Bad Fallingbostel-Süd](place_a7_36_bad_fallingbostel_sued.md).
-* [km 310](piece_the_kilometerstein.md): [Rastplatz Hannover-Nah](place_a7_service_hannover_nah.md).
-* [km 325](piece_the_kilometerstein.md): [Raststätte Hannover-Süd](place_a7_service_hannover_sued.md).
-* [km 330](piece_the_kilometerstein.md): [Hannover-Süd/A2-Kreuz](place_a7_37_hannover_sued_a2_kreuz.md).
-* [km 340](piece_the_kilometerstein.md): [Hannover-Mitte](place_a7_38_hannover_mitte.md).
-* [km 355](piece_the_kilometerstein.md): [Hannover-Nord/A37-Abzweig](place_a7_39_hannover_nord_a37.md).
-* [km 365](piece_the_kilometerstein.md): [Hannover-Nordwest](place_a7_40_hannover_nordwest.md).
-
-### Niedersachsen Extension (Phase 2: Hannover → Göttingen)
-
-* [km 380](piece_the_kilometerstein.md): [Rastplatz Post-Hannover](place_a7_service_hannover_post.md).
-* [km 390](piece_the_kilometerstein.md): [Raststätte Sehnde](place_a7_service_sehnde.md).
-* [km 410](piece_the_kilometerstein.md): [Rastplatz Zentral-Niedersachsen](place_a7_service_zentral_niedersachsen.md).
-* [km 450](piece_the_kilometerstein.md): [Göttingen](place_a7_41_goettingen.md).
+* [km 179.2](piece_the_kilometerstein.md): [Seevetal-Fleestedt](place_a7_35_seevetal_fleestedt.md).
+* [km 183.8](piece_the_kilometerstein.md): [Maschener Kreuz](place_a7_36_maschen.md).
+* [km 186.2](piece_the_kilometerstein.md): [Horster Dreieck](place_a7_37_horst.md).
+* [km 201.6](piece_the_kilometerstein.md): [Seevetal-Ramelsloh](place_a7_38_seevetal_ramelsloh.md).
+* [km 206.5](piece_the_kilometerstein.md): [Thieshope](place_a7_39_thieshope.md).
+* [km 213.9](piece_the_kilometerstein.md): [Garlstorf](place_a7_40_garlstorf.md).
+* [km 219.5](piece_the_kilometerstein.md): [Egestorf](place_a7_41_egestorf.md).
+* [km 223.2](piece_the_kilometerstein.md): [Evendorf](place_a7_42_evendorf.md).
+* [km 232.7](piece_the_kilometerstein.md): [Bispingen](place_a7_43_bispingen.md).
+* [km 235.0](piece_the_kilometerstein.md): [Schneverdingen](place_a7_43a_schneverdingen.md).
+* [km 244.6](piece_the_kilometerstein.md): [Soltau-Ost](place_a7_44_soltau_ost.md).
+* [km 251.6](piece_the_kilometerstein.md): [Soltau-Süd](place_a7_45_soltau_sued.md).
+* [km 261.6](piece_the_kilometerstein.md): [Dorfmark](place_a7_46_dorfmark.md).
+* [km 268.0](piece_the_kilometerstein.md): [Bad Fallingbostel](place_a7_47_bad_fallingbostel.md).
+* [km 275.6](piece_the_kilometerstein.md): [Dreieck Walsrode](place_a7_48_walsrode.md).
+* [km 276.8](piece_the_kilometerstein.md): [Westenholz](place_a7_49_westenholz.md).
+* [km 287.9](piece_the_kilometerstein.md): [Schwarmstedt](place_a7_50_schwarmstedt.md).
+* [km 296.1](piece_the_kilometerstein.md): [Berkhof](place_a7_51_berkhof.md).
+* [km 303.0](piece_the_kilometerstein.md): [Mellendorf](place_a7_52_mellendorf.md).
+* [km 304.7](piece_the_kilometerstein.md): [Dreieck Hannover-Nord](place_a7_53_hannover_nord.md).
+* [km 311.0](piece_the_kilometerstein.md): [Großburgwedel](place_a7_54_grossburgwedel.md).
+* [km 318.0](piece_the_kilometerstein.md): [Altwarmbüchen](place_a7_55_altwarmbuechen.md).
+* [km 318.9](piece_the_kilometerstein.md): [Kreuz Hannover/Kirchhorst](place_a7_56_hannover_kirchhorst.md).
+* [km 325.0](piece_the_kilometerstein.md): [Kreuz Hannover-Ost](place_a7_57_hannover_ost.md).
+* [km 335.0](piece_the_kilometerstein.md): [Hannover-Anderten](place_a7_58_hannover_anderten.md).
+* [km 340.9](piece_the_kilometerstein.md): [Laatzen](place_a7_59_laatzen.md).
+* [km 341.7](piece_the_kilometerstein.md): [Dreieck Hannover-Süd](place_a7_60_hannover_sued.md).
+* [km 356.8](piece_the_kilometerstein.md): [Hildesheim-Drispenstedt](place_a7_61_hildesheim_drispenstedt.md).
+* [km 360.0](piece_the_kilometerstein.md): [Hildesheim](place_a7_62_hildesheim.md).
+* [km 373.4](piece_the_kilometerstein.md): [Derneburg/Salzgitter](place_a7_63_derneburg_salzgitter.md).
+* [km 376.6](piece_the_kilometerstein.md): [Dreieck Salzgitter](place_a7_64_salzgitter.md).
+* [km 386.9](piece_the_kilometerstein.md): [Bockenem](place_a7_65_bockenem.md).
+* [km 393.0](piece_the_kilometerstein.md): [Rhüden](place_a7_66_rhuedem.md).
+* [km 400.2](piece_the_kilometerstein.md): [Seesen](place_a7_67_seesen.md).
+* [km 412.5](piece_the_kilometerstein.md): [Echte](place_a7_68_echte.md).
+* [km 421.8](piece_the_kilometerstein.md): [Northeim-Nord](place_a7_69_northeim_nord.md).
+* [km 426.6](piece_the_kilometerstein.md): [Northeim-West](place_a7_70_northeim_west.md).
+* [km 435.0](piece_the_kilometerstein.md): [Nörten-Hardenberg](place_a7_71_noerten_hardenberg.md).
+* [km 444.4](piece_the_kilometerstein.md): [Göttingen-Nord](place_a7_72_goettingen_nord.md).
+* [km 447.9](piece_the_kilometerstein.md): [Göttingen](place_a7_73_goettingen.md).
 
 
 ## Offers
