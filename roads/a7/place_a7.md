@@ -90,8 +90,8 @@ Four lanes for most of the stretch - two northbound, two southbound, the central
 * [km 402](piece_the_kilometerstein.md): [Northeim-West](place_a7_70_northeim_west.md).
 * [km 410](piece_the_kilometerstein.md): [Nörten-Hardenberg](place_a7_71_noerten_hardenberg.md).
 * [km 420](piece_the_kilometerstein.md): [Göttingen-Nord](place_a7_72_goettingen_nord.md).
-* [km 442](piece_the_kilometerstein.md): [Göttingen](place_a7_73_goettingen.md).
-* [km 449](piece_the_kilometerstein.md): [Dreieck Drammetal](place_a7_74_dreieck_drammetal.md).
+* [km 423](piece_the_kilometerstein.md): [Göttingen](place_a7_73_goettingen.md).
+* [km 431](piece_the_kilometerstein.md): [Dreieck Drammetal](place_a7_74_dreieck_drammetal.md).
 
 
 ## Offers
@@ -102,4 +102,4 @@ The southern continuation: Drammetal marks the border with Hesse, where the A7 c
 
 ---
 
-v0.3.0 - KAI Worlds
+v0.2.0 - KAI Worlds
