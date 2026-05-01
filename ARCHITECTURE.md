@@ -53,6 +53,19 @@ Files are UTF-8, no byte-order mark.
 
 ---
 
+### Filenames
+
+All filenames use underscores only. No hyphens. Every file basename in the world is unique.
+
+**Pattern:** `{type}_{descriptor}.md` where descriptor uses underscores to separate words:
+- `place_a1_hamburg_zentrum.md` (not `place_a1_hamburg-zentrum.md`)
+- `piece_federal_motorway_network.md` (not `piece_federal-motorway-network.md`)
+- `persona_hans_christoph_seebohm.md` (not `persona_hans-christoph-seebohm.md`)
+
+The deployer (`scripts/deploy.py`) asserts uniqueness of basenames across the entire bundle and resolves all links by basename. Filename validation is enforced by `scripts/validate_general.py`.
+
+---
+
 ## Roads
 
 A road and all its child places are modelled using the Place component from KAI HACKS AI Architecture. The road index is a Place that holds Places.

@@ -2,6 +2,7 @@
 """General validation for all place_*.md files in the Autobahn world.
 
 Checks each file for:
+  - Filename format: underscores only, no hyphens
   - UTF-8 encoding with no byte-order mark
   - No Unicode replacement character (U+FFFD)
   - No literal Unicode escape sequences
@@ -40,6 +41,14 @@ def find_place_files(root: Path) -> list[Path]:
 
 def validate(path: Path) -> list[Issue]:
     issues: list[Issue] = []
+
+    # Check filename: no hyphens allowed, only underscores
+    if "-" in path.name:
+        issues.append(Issue(
+            error="filename contains hyphen: use underscore instead",
+            verdict=f"rename to {path.name.replace('-', '_')}",
+        ))
+
     raw = path.read_bytes()
 
     if raw.startswith(b"\xef\xbb\xbf"):
