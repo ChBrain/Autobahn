@@ -7,6 +7,13 @@
         "command": "bash .github/hooks/detect-release.sh",
         "cwd": "${workspaceRoot}",
         "timeout": 5
+      },
+      {
+        "type": "command",
+        "windows": "pwsh -NoProfile -ExecutionPolicy Bypass -File .github/hooks/detect-governance.ps1",
+        "command": "bash .github/hooks/detect-governance.sh",
+        "cwd": "${workspaceRoot}",
+        "timeout": 5
       }
     ]
   }
