@@ -10,33 +10,23 @@ $input_json = [Console]::In.ReadToEnd() | ConvertFrom-Json
 # Extract user message
 $user_message = $input_json.userMessage -or $input_json.prompt -or ""
 
-# Governance action keywords - must be present
+# Governance decision keywords
 $governance_keywords = @(
     "expand",
     "extend",
-    "specify"
-)
-
-# Infrastructure file scope - must be mentioned
-$file_scope_keywords = @(
-    "roads/",
-    "states/"
+    "specify",
+    "network.*expansion",
+    "infrastructure.*decision",
+    "bundesland",
+    "road.*specification",
+    "network.*specification"
 )
 
 # Check for governance keyword
-$has_governance = $false
+$is_governance = $false
 foreach ($keyword in $governance_keywords) {
     if ($user_message -imatch $keyword) {
-        $has_governance = $true
-        break
-    }
-}
-
-# Check for file scope
-$has_scope = $false
-foreach ($keyword in $file_scope_keywords) {
-    if ($user_message -imatch [regex]::Escape($keyword)) {
-        $has_scope = $true
+        $is_governance = $true
         break
     }
 }
@@ -45,11 +35,11 @@ foreach ($keyword in $file_scope_keywords) {
 $output = @{
     hookSpecificOutput = @{
         hookEventName = "UserPromptSubmit"
-        decision = if ($has_governance -and $has_scope) { "block" } else { "continue" }
+        decision = if ($is_governance) { "block" } else { "continue" }
     }
 }
 
-if ($has_governance -and $has_scope) {
+if ($is_governance) {
     $output.systemMessage = @"
 🏛️ **Infrastructure Governance**
 
