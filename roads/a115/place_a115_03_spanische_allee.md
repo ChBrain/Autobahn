@@ -25,4 +25,4 @@ Das war auch die Einfahrt nach West-Berlin. Wer auf der Transitstrecke aus West-
 ---
 
 *place_a115_03_spanische_allee.md - 13.04.2026*
-*v0.1.0 - KAI Worlds / Autobahn Aktuell*
+*v0.2.0 - KAI Worlds / Autobahn Aktuell*

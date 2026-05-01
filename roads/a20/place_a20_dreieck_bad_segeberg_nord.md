@@ -19,4 +19,4 @@ Inside the Kalkberg, five kilometres south of where this junction will be, aroun
 
 ---
 
-v0.1.0 - KAI Worlds
+v0.2.0 - KAI Worlds

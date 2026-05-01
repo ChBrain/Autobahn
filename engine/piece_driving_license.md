@@ -17,4 +17,4 @@ Issued once per persona. Carried in a wallet, a bag, a glovebox. Produced at bor
 
 ---
 
-v0.1.1 - KAI Worlds
+v0.2.0 - KAI Worlds

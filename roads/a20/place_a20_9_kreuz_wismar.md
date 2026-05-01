@@ -21,4 +21,4 @@ The Sternberger Seenland. The lake district begins a few kilometres south of her
 
 ---
 
-v0.1.0 - KAI Worlds / Autobahn
+v0.2.0 - KAI Worlds / Autobahn

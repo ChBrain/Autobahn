@@ -20,4 +20,4 @@ A car passes through the merge at exactly the right moment, exactly the right sp
 
 ---
 
-v0.1.0 - KAI Worlds
+v0.2.0 - KAI Worlds

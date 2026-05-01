@@ -25,4 +25,4 @@ The western extension. The A20 ends at Weede. The planned continuation through S
 
 ---
 
-v0.1.2 - KAI Worlds
+v0.2.0 - KAI Worlds

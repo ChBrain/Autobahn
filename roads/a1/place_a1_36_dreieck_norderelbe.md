@@ -21,4 +21,4 @@ The BallinStadt on the Veddel — 800 metres from the junction — was built in 
 ---
 ---
 
-v0.1.0 - KAI Worlds
+v0.2.0 - KAI Worlds

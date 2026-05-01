@@ -22,4 +22,4 @@ The French marshal who accepted Blücher's surrender at Ratekau in November 1806
 
 ---
 
-v0.1.2 - KAI Worlds
+v0.2.0 - KAI Worlds

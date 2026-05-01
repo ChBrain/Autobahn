@@ -23,5 +23,5 @@ The name means "behind the weir" — the weir that controlled the Eider here lon
 
 ---
 
-v0.1.2 - KAI Worlds
+v0.2.0 - KAI Worlds
 

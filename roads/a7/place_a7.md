@@ -58,4 +58,4 @@ The southern terminus. Füssen, in the Bavarian Alps at the Austrian border — 
 
 ---
 
-v0.1.1 - KAI Worlds
+v0.2.0 - KAI Worlds

@@ -23,5 +23,5 @@ The Schwarze Au flows through the Sachsenwald a few kilometres south — only 15
 
 ---
 
-v0.1.3 - KAI Worlds
+v0.2.0 - KAI Worlds
 

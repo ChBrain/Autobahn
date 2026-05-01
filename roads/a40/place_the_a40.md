@@ -33,4 +33,4 @@ Die Stadtgrenze zwischen Essen und Bochum liegt zwischen Kray und Wattenscheid. 
 ---
 
 *place_the_a40.md - 14.04.2026*
-*v0.1.0 - KAI Worlds / Autobahn Aktuell*
+*v0.2.0 - KAI Worlds / Autobahn Aktuell*

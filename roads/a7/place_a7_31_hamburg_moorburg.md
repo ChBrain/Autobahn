@@ -21,4 +21,4 @@ Moorburg has belonged to Hamburg since 1375 — making it the oldest Hamburg dis
 ---
 ---
 
-v0.1.0 - KAI Worlds
+v0.2.0 - KAI Worlds

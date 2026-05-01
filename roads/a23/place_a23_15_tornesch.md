@@ -23,5 +23,5 @@ In 1931 the first commercial plant to use the Scholler process was built in Torn
 
 ---
 
-v0.1.5 - KAI Worlds
+v0.2.0 - KAI Worlds
 

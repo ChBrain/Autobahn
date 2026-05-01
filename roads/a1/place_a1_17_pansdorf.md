@@ -22,4 +22,4 @@ The raised ground on Pansdorf's western edge is called the Blocksberg — a Wend
 
 ---
 
-v0.1.2 - KAI Worlds
+v0.2.0 - KAI Worlds

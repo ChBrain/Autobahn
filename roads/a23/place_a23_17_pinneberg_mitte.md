@@ -23,5 +23,5 @@ The Drostei was built in 1765 for Heinrich Carl von Schimmelmann - Danish financ
 
 ---
 
-v0.1.4 - KAI Worlds
+v0.2.0 - KAI Worlds
 

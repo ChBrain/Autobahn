@@ -17,4 +17,4 @@ Occupied in June and July. By children who read until they felt sick. By adults 
 
 ---
 
-v0.1.1 - KAI Worlds
+v0.2.0 - KAI Worlds

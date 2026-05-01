@@ -23,5 +23,5 @@ The great flood of February 1962 sent the Elbe five metres above normal into the
 
 ---
 
-v0.1.4 - KAI Worlds
+v0.2.0 - KAI Worlds
 

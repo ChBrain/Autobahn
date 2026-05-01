@@ -22,4 +22,4 @@ Before this road was built, archaeologists worked the ground here from October 2
 
 ---
 
-v0.1.2 - KAI Worlds
+v0.2.0 - KAI Worlds

@@ -19,4 +19,4 @@ The St. Nikolai church at the centre of Moorfleet has stood since at least 1331 
 ---
 ---
 
-v0.1.0 - KAI Worlds
+v0.2.0 - KAI Worlds

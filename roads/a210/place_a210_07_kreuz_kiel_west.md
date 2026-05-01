@@ -22,5 +22,5 @@ For centuries Kiel's significance was not its harbour but its credit market. The
 
 ---
 
-v0.1.2 - KAI Worlds
+v0.2.0 - KAI Worlds
 

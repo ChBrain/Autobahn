@@ -20,4 +20,4 @@ The Hanse. Lübeck was its capital for three centuries - the dominant city in a 
 
 ---
 
-v0.1.2 - KAI Worlds
+v0.2.0 - KAI Worlds

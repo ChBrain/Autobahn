@@ -20,4 +20,4 @@ In the garden of Rohlfshagen manor, a few hundred metres from this exit, four ye
 
 ---
 
-v0.1.2 - KAI Worlds
+v0.2.0 - KAI Worlds

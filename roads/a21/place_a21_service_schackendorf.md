@@ -20,4 +20,4 @@ Schackendorf replaced a village. Its predecessor, Rickersdorf, stood in the sout
 
 ---
 
-v0.1.2 - KAI Worlds
+v0.2.0 - KAI Worlds

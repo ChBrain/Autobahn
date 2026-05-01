@@ -20,4 +20,4 @@ Bad Bramstedt castle. Two kilometres east - a moated castle on a 13th-century si
 
 ---
 
-v0.1.1 - KAI Worlds
+v0.2.0 - KAI Worlds

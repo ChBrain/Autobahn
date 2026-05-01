@@ -23,4 +23,4 @@ Die Südkehre. Hier wendeten die Rennwagen. Bis 1940 war der Hüttenweg die Kehr
 ---
 
 *place_a115_02_huettenweg.md - 13.04.2026*
-*v0.1.0 - KAI Worlds / Autobahn Aktuell*
+*v0.2.0 - KAI Worlds / Autobahn Aktuell*

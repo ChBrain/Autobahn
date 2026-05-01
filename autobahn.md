@@ -136,4 +136,4 @@ that run the simulation regardless of road.
 
 ---
 
-v0.1.2 - KAI Worlds
+v0.2.0 - KAI Worlds

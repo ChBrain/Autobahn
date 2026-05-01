@@ -23,5 +23,5 @@ In January 1871 Kaiser Wilhelm I gave Otto von Bismarck the Sachsenwald — 6,00
 
 ---
 
-v0.1.3 - KAI Worlds
+v0.2.0 - KAI Worlds
 

@@ -19,4 +19,4 @@ The Kieler Matrosenaufstand of 3 November 1918. The Kaiserliche Marine ordered a
 
 ---
 
-v0.1.0 - KAI Worlds
+v0.2.0 - KAI Worlds

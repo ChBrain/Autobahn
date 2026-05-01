@@ -21,4 +21,4 @@ The Haake — the forested hill country directly west of the junction — develo
 ---
 ---
 
-v0.1.0 - KAI Worlds
+v0.2.0 - KAI Worlds

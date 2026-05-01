@@ -21,4 +21,4 @@ On the Autobahn today in the hands of someone who is either very comfortable or 
 
 ---
 
-v0.1.1 - KAI Worlds
+v0.2.0 - KAI Worlds

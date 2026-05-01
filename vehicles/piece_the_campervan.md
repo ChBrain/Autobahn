@@ -21,4 +21,4 @@ Purchased when someone decided the hotel years were over. On the Autobahn today 
 
 ---
 
-v0.1.1 - KAI Worlds
+v0.2.0 - KAI Worlds

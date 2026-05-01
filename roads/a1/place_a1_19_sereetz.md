@@ -24,4 +24,4 @@ The Brodtener Ufer. Three kilometres northeast — the only active chalk cliff o
 
 ---
 
-v0.1.3 - KAI Worlds
+v0.2.0 - KAI Worlds

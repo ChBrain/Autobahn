@@ -23,4 +23,4 @@ The road passes through the Harburger Berge — an Ice Age moraine landscape who
 
 ---
 
-v0.1.0 - KAI Worlds
+v0.2.0 - KAI Worlds

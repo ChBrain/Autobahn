@@ -18,4 +18,4 @@ The Roland at the Marktplatz - the statue of Roland, symbol of civic freedom and
 
 ---
 
-v0.1.0 - KAI Worlds
+v0.2.0 - KAI Worlds

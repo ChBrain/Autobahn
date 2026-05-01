@@ -148,4 +148,4 @@ Two state languages: German and Danish. The Danish minority - recognised, school
 
 ---
 
-v0.1.6 - KAI Worlds
+v0.2.0 - KAI Worlds
