@@ -11,26 +11,17 @@ if [ -z "$user_message" ]; then
   user_message=$(echo "$input_json" | grep -o '"prompt":"[^"]*' | cut -d'"' -f4)
 fi
 
-# Governance action keywords - must be present
-has_governance=false
-for keyword in "expand" "extend" "specify"; do
+# Governance decision keywords
+is_governance=false
+for keyword in "expand" "extend" "specify" "network.*expansion" "infrastructure.*decision" "bundesland" "road.*specification" "network.*specification"; do
   if echo "$user_message" | grep -qi "$keyword"; then
-    has_governance=true
-    break
-  fi
-done
-
-# File scope keywords - must be mentioned
-has_scope=false
-for keyword in "roads/" "states/"; do
-  if echo "$user_message" | grep -q "$keyword"; then
-    has_scope=true
+    is_governance=true
     break
   fi
 done
 
 # Build output
-if [ "$has_governance" = true ] && [ "$has_scope" = true ]; then
+if [ "$is_governance" = true ]; then
   cat <<EOF
 {
   "hookSpecificOutput": {
