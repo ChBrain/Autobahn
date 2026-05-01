@@ -19,4 +19,4 @@ The Hünengrab in the Kleckerwald — on the road between Buchholz and Klecken, 
 
 ---
 
-v0.1.0 - KAI Worlds
+v0.2.0 - KAI Worlds

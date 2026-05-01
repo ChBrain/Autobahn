@@ -23,5 +23,5 @@ The raised hedgerow boundaries crossing the fields here — the Knicks — are m
 
 ---
 
-v0.1.2 - KAI Worlds
+v0.2.0 - KAI Worlds
 

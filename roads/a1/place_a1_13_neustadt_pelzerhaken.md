@@ -22,4 +22,4 @@ At the harbour in Neustadt, a few kilometres from this exit, the Fischeramt has 
 
 ---
 
-v0.1.2 - KAI Worlds
+v0.2.0 - KAI Worlds

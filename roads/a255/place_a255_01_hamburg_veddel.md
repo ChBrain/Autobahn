@@ -21,4 +21,4 @@ The island's name likely derives from the Low German "Wede" â€” wooded pasture â
 ---
 ---
 
-v0.1.0 - KAI Worlds
+v0.2.0 - KAI Worlds

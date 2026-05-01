@@ -20,4 +20,4 @@ The Flensburg Förde. The fjord runs east of the city - the water visible from h
 
 ---
 
-v0.1.1 - KAI Worlds
+v0.2.0 - KAI Worlds

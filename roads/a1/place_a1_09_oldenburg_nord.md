@@ -22,4 +22,4 @@ Starigard in Slavic, Oldenburg in Low German, Brandehuse in Norse — three name
 
 ---
 
-v0.1.2 - KAI Worlds
+v0.2.0 - KAI Worlds

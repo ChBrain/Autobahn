@@ -22,5 +22,5 @@ A few kilometres west, on an island in the Bordesholmer See, stood the Augustini
 
 ---
 
-v0.1.2 - KAI Worlds
+v0.2.0 - KAI Worlds
 

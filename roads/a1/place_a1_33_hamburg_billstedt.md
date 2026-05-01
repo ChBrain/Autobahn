@@ -21,4 +21,4 @@ The Spökelburg — the haunted castle — is a tree-covered medieval earthwork 
 ---
 ---
 
-v0.1.0 - KAI Worlds
+v0.2.0 - KAI Worlds

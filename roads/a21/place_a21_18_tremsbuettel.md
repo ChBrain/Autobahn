@@ -20,4 +20,4 @@ On the night of 26 June 1966, the Beatles played two concerts in Hamburg — the
 
 ---
 
-v0.1.2 - KAI Worlds
+v0.2.0 - KAI Worlds

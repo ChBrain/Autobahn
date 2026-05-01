@@ -22,4 +22,4 @@ The Boberger Niederung — 5 km north of the exit — is Hamburg's last remainin
 ---
 ---
 
-v0.1.0 - KAI Worlds
+v0.2.0 - KAI Worlds

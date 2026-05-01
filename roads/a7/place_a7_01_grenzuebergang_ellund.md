@@ -19,4 +19,4 @@ Frøslev-Padborglejren. Two kilometres north, across the border, the internment 
 
 ---
 
-v0.1.1 - KAI Worlds
+v0.2.0 - KAI Worlds

@@ -20,4 +20,4 @@ The road south goes to Hamburg. Hamburg adopted the Lübisches Recht - Lübeck's
 
 ---
 
-v0.1.2 - KAI Worlds
+v0.2.0 - KAI Worlds

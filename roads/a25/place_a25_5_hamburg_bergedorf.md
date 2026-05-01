@@ -22,4 +22,4 @@ The Bergedorfer Schloss — Hamburg's only surviving medieval castle, founded ar
 ---
 ---
 
-v0.1.0 - KAI Worlds
+v0.2.0 - KAI Worlds

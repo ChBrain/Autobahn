@@ -22,4 +22,4 @@ On 3 May 1945, the day the Cap Arcona was bombed in the bay visible from this ex
 
 ---
 
-v0.1.2 - KAI Worlds
+v0.2.0 - KAI Worlds

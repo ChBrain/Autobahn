@@ -17,4 +17,4 @@ Selected once and left. The Driver does not think of it as a choice after the fi
 
 ---
 
-v0.1.0 - KAI Worlds
+v0.2.0 - KAI Worlds

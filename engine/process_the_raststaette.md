@@ -18,4 +18,4 @@ Resistance: the time - the destination not getting closer while the car is still
 
 ---
 
-v0.1.1 - KAI Worlds
+v0.2.0 - KAI Worlds

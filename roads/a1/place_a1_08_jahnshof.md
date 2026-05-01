@@ -22,4 +22,4 @@ Seven kilometres west of this exit, on the Hohwachter Bucht, the Ferien- und Fre
 
 ---
 
-v0.1.2 - KAI Worlds
+v0.2.0 - KAI Worlds

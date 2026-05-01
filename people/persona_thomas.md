@@ -20,4 +20,4 @@ He says bald for the twelfth time. The word comes out slightly shorter than the 
 
 ---
 
-v0.1.0 - KAI Worlds
+v0.2.0 - KAI Worlds

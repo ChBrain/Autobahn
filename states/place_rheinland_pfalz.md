@@ -20,4 +20,4 @@ The Loreley: the rock and the Rhine bend visible for approximately 6 seconds at 
 
 ---
 
-v0.1.0 - KAI Worlds
+v0.2.0 - KAI Worlds

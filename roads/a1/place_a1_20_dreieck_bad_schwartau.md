@@ -24,4 +24,4 @@ The Dom. Lübeck's cathedral, begun 1173 by Henry the Lion — the oldest buildi
 
 ---
 
-v0.1.3 - KAI Worlds
+v0.2.0 - KAI Worlds

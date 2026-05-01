@@ -22,4 +22,4 @@ The Buddikate on this sign is not the original Buddikate. The real one stood in 
 
 ---
 
-v0.1.0 - KAI Worlds
+v0.2.0 - KAI Worlds

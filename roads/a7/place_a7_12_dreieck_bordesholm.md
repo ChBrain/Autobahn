@@ -22,4 +22,4 @@ The Eider source. The river begins in the lake district west of here - the morai
 
 ---
 
-v0.1.2 - KAI Worlds
+v0.2.0 - KAI Worlds

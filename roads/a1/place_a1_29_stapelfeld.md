@@ -22,4 +22,4 @@ Directly east of this exit lies the Höltigbaum nature reserve — 558 hectares 
 
 ---
 
-v0.1.0 - KAI Worlds
+v0.2.0 - KAI Worlds

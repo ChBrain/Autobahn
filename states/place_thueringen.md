@@ -18,4 +18,4 @@ Weimar: 15 km from the A4 - Goethe, Schiller, Bauhaus, Buchenwald, all within 10
 
 ---
 
-v0.1.0 - KAI Worlds
+v0.2.0 - KAI Worlds

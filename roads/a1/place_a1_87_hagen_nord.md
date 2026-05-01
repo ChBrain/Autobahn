@@ -25,4 +25,4 @@ The A1-Tunnel Hagen-Vorhalle begins immediately south of this exit — 820 metre
 ---
 
 *place_a1_87_hagen_nord.md - 12.04.2026*
-*v0.1.0 - KAI Worlds / Autobahn Aktuell*
+*v0.2.0 - KAI Worlds / Autobahn Aktuell*

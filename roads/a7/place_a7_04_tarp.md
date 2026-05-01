@@ -20,4 +20,4 @@ Angeln. The land east of here, between the Flensburg Förde and the Schlei, is t
 
 ---
 
-v0.1.1 - KAI Worlds
+v0.2.0 - KAI Worlds

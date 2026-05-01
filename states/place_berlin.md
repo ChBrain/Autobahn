@@ -23,4 +23,4 @@ The cobblestone line in the pavement across the city - 155 km of double cobblest
 
 ---
 
-v0.1.0 - KAI Worlds
+v0.2.0 - KAI Worlds

@@ -21,4 +21,4 @@ The car that wants to be driven. Rear-wheel drive as default — the handling ba
 
 ---
 
-v0.1.1 - KAI Worlds
+v0.2.0 - KAI Worlds

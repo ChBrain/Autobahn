@@ -22,5 +22,5 @@ Husum had no harbour until 1362. The Grote Mandrenke - the great North Sea storm
 
 ---
 
-v0.1.1 - KAI Worlds
+v0.2.0 - KAI Worlds
 

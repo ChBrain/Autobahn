@@ -23,4 +23,4 @@ The Golf does not know which journey it is on. It is always on one.
 
 ---
 
-v0.1.1 - KAI Worlds
+v0.2.0 - KAI Worlds

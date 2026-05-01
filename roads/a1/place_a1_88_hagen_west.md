@@ -25,4 +25,4 @@ The noise. Residents of Vorhalle have complained about A1 traffic noise for year
 ---
 
 *place_a1_88_hagen_west.md - 12.04.2026*
-*v0.1.0 - KAI Worlds / Autobahn Aktuell*
+*v0.2.0 - KAI Worlds / Autobahn Aktuell*

@@ -23,5 +23,5 @@ Wacken is six kilometres southeast. For four days in August the bass from the ma
 
 ---
 
-v0.1.4 - KAI Worlds
+v0.2.0 - KAI Worlds
 

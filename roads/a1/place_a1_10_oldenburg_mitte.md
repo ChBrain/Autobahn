@@ -22,4 +22,4 @@ The Wagri built their fortress here around the 7th century. The earthworks — t
 
 ---
 
-v0.1.2 - KAI Worlds
+v0.2.0 - KAI Worlds
