@@ -4,7 +4,7 @@
 - Project: Autobahn
 
 ## Shown
-Four lanes for most of the stretch - two northbound, two southbound, the central barrier between them. The road surface varying by section. The overhead signs at regular intervals - green, white lettering, distances counting down to Hamburg southbound and up to Flensburg northbound simultaneously. [The Kilometerstein](piece_the_kilometerstein.md) every hundred metres on the right verge. The sky above: open for most of the stretch, enclosed briefly in [the Elbtunnel](place_a7_elbtunnel.md). The northern terminus: the German-Danish border at Ellund/Frøslev, where the Danish E45 becomes the A7. The road does not change at the border. The number does.
+Four lanes for most of the stretch - two northbound, two southbound, the central barrier between them. The road surface varying by section. The overhead signs at regular intervals - green, white lettering, distances counting down to Hamburg southbound and up to Flensburg northbound simultaneously; south of Hamburg, signs count toward Hannover and beyond to Würzburg. [The Kilometerstein](piece_the_kilometerstein.md) every hundred metres on the right verge. The sky above: open for most of the stretch, enclosed briefly in [the Elbtunnel](place_a7_elbtunnel.md). The northern terminus: the German-Danish border at Ellund/Frøslev, where the Danish E45 becomes the A7. The road does not change at the border. The number does. The southern reach: the Niedersachsen transition through agricultural Heide landscape, then urbanising as Hannover approaches, then opening again toward Göttingen and the Hesse border.
 
 ## Holds
 
@@ -49,13 +49,33 @@ Four lanes for most of the stretch - two northbound, two southbound, the central
 * [km 171](piece_the_kilometerstein.md): [Dreieck Hamburg-Südwest](place_a7_33_dreieck_hamburg_suedwest.md).
 * [km 172](piece_the_kilometerstein.md): [Hamburg-Marmstorf](place_a7_34_hamburg_marmstorf.md).
 
+### Niedersachsen Extension (Phase 1: Hamburg → Hannover)
+
+* [km 180](piece_the_kilometerstein.md): [Maschen](place_a7_35_maschen.md).
+* [km 195](piece_the_kilometerstein.md): [Rastplatz Heide](place_a7_service_heide_transition.md).
+* [km 225](piece_the_kilometerstein.md): [Raststätte Bad Fallingbostel](place_a7_service_bad_fallingbostel.md).
+* [km 256](piece_the_kilometerstein.md): [Bad Fallingbostel-Süd](place_a7_36_bad_fallingbostel_sued.md).
+* [km 310](piece_the_kilometerstein.md): [Rastplatz Hannover-Nah](place_a7_service_hannover_nah.md).
+* [km 325](piece_the_kilometerstein.md): [Raststätte Hannover-Süd](place_a7_service_hannover_sued.md).
+* [km 330](piece_the_kilometerstein.md): [Hannover-Süd/A2-Kreuz](place_a7_37_hannover_sued_a2_kreuz.md).
+* [km 340](piece_the_kilometerstein.md): [Hannover-Mitte](place_a7_38_hannover_mitte.md).
+* [km 355](piece_the_kilometerstein.md): [Hannover-Nord/A37-Abzweig](place_a7_39_hannover_nord_a37.md).
+* [km 365](piece_the_kilometerstein.md): [Hannover-Nordwest](place_a7_40_hannover_nordwest.md).
+
+### Niedersachsen Extension (Phase 2: Hannover → Göttingen)
+
+* [km 380](piece_the_kilometerstein.md): [Rastplatz Post-Hannover](place_a7_service_hannover_post.md).
+* [km 390](piece_the_kilometerstein.md): [Raststätte Sehnde](place_a7_service_sehnde.md).
+* [km 410](piece_the_kilometerstein.md): [Rastplatz Zentral-Niedersachsen](place_a7_service_zentral_niedersachsen.md).
+* [km 450](piece_the_kilometerstein.md): [Göttingen](place_a7_41_goettingen.md).
+
 
 ## Offers
 Continuous movement in either direction. Every child place reachable from every other by staying on the road. The road does not require a reason to use it.
 
 ## Withheld
-The southern terminus. Füssen, in the Bavarian Alps at the Austrian border — eight hundred kilometres south of [Hamburg-Waltershof](place_a7_30_hamburg_waltershof.md), at the other end of the same numbered road. The overhead signs north of Hamburg already count down to Hannover and Würzburg. Most Drivers know only one end.
+The southern continuation: Göttingen marks the border with Hesse, where the A7 continues into the southern German states — ultimately reaching Füssen in the Bavarian Alps at the Austrian border, eight hundred kilometres south of [Hamburg-Waltershof](place_a7_30_hamburg_waltershof.md). The A7 is one continuous numbered road across the entire federal republic, but most drivers know only the segment they traverse. The Hannover A7/A2 junction complex: internal geometry (3D stack interchange plans, truck checkpoint protocols, Kraftfahrt-Bundesamt coordination). The Raststätte staffing schedules and rest-hour enforcement mechanisms. The demographic data: who stops where, when, why.
 
 ---
 
-v0.2.0 - KAI Worlds
+v0.3.0 - KAI Worlds
