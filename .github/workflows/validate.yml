@@ -59,3 +59,15 @@ jobs:
       - name: No place_*.md files changed
         if: steps.changed.outputs.files == ''
         run: echo "No place_*.md files changed - skipping validation"
+
+  deploy-check:
+    name: Check deploy bundles
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+      - name: Check autobahn.md bundle integrity
+        run: python3 scripts/deploy.py --check autobahn.md
