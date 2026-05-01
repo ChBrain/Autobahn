@@ -33,6 +33,10 @@ jobs:
           # which is the intended signal level for that pattern.
           build() { python3 scripts/deploy.py "$1"; }
           build autobahn.md
+          # Build module manifests (e.g., ministry.md)
+          for manifest in *.md; do
+            [ "$manifest" != "autobahn.md" ] && [ "$manifest" != "README.md" ] && [ "$manifest" != "REFERENCES.md" ] && [ "$manifest" != "ARCHITECTURE.md" ] && build "$manifest"
+          done
           for road_dir in roads/*/; do
             road=$(basename "$road_dir")
             for stem in "place_${road}" "place_the_${road}"; do
