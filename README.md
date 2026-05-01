@@ -20,7 +20,7 @@ Direction is in the Driver, not the place. The road goes both ways. The world pi
 
 ### Modules
 
-- **REMEMBER** — Federal transport minister tenures (1949-present) | [Zip ↓](https://github.com/ChBrain/Autobahn/releases/latest/download/remember.zip) · [PDF ↓](https://github.com/ChBrain/Autobahn/releases/latest/download/remember.pdf)
+- **Ministry** — Federal transport minister tenures (1949-present) | [Zip ↓](https://github.com/ChBrain/Autobahn/releases/latest/download/autobahn-ministry.zip) · [PDF ↓](https://github.com/ChBrain/Autobahn/releases/latest/download/autobahn-ministry.pdf)
 
 ### By Bundesland
 
