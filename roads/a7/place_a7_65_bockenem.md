@@ -10,7 +10,7 @@ The Bockenem exit. The sign: Bockenem, B243. The road in the Leinebergland now -
 ## Holds
 [km 362](piece_the_kilometerstein.md): Bockenem.
 - 10.0 km north: [Dreieck Salzgitter](place_a7_64_salzgitter.md)
-- 6.0 km south: [Rhüden](place_a7_66_rhuedem.md)
+- 6.0 km south: [Rhüden](place_a7_66_rhueden.md)
 
 ## Offers
 Ausfahrt 65 - the exit ramp. The ordinary road below.

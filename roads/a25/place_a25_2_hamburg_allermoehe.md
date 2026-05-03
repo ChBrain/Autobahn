@@ -11,7 +11,7 @@ The Allermöhe exit. The sign: Hamburg-Allermöhe. The Marsch flat on both sides
 
 * [km 3.4](piece_the_kilometerstein.md) on [the A25](place_a25.md).
 * 3.4 km west on [the A25](place_a25.md) to [Dreieck Hamburg-Südost](place_a25_dreieck_hamburg_suedost.md).
-* 2.3 km east on [the A25](place_a25.md) to [Hamburg-Neuallermöhe-West](place_a25_3_hamburg_neuallermoehewest.md).
+* 2.3 km east on [the A25](place_a25.md) to [Hamburg-Neuallermöhe-West](place_a25_3_hamburg_neuallermoehe_west.md).
 
 ## Offers
 Ausfahrt 2 - the exit ramp. The ordinary road below.

@@ -83,7 +83,7 @@ Four lanes for most of the stretch - two northbound, two southbound, the central
 * [km 349](piece_the_kilometerstein.md): [Derneburg/Salzgitter](place_a7_63_derneburg_salzgitter.md).
 * [km 352](piece_the_kilometerstein.md): [Dreieck Salzgitter](place_a7_64_salzgitter.md).
 * [km 362](piece_the_kilometerstein.md): [Bockenem](place_a7_65_bockenem.md).
-* [km 368](piece_the_kilometerstein.md): [Rhüden](place_a7_66_rhuedem.md).
+* [km 368](piece_the_kilometerstein.md): [Rhüden](place_a7_66_rhueden.md).
 * [km 375](piece_the_kilometerstein.md): [Seesen](place_a7_67_seesen.md).
 * [km 388](piece_the_kilometerstein.md): [Echte](place_a7_68_echte.md).
 * [km 397](piece_the_kilometerstein.md): [Northeim-Nord](place_a7_69_northeim_nord.md).

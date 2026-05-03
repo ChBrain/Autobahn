@@ -9,7 +9,7 @@ The Seesen exit. The sign: Seesen, B243. The Harz to the east - the massif prope
 
 ## Holds
 [km 375](piece_the_kilometerstein.md): Seesen.
-- 7.0 km north: [Rhüden](place_a7_66_rhuedem.md)
+- 7.0 km north: [Rhüden](place_a7_66_rhueden.md)
 - 13.0 km south: [Echte](place_a7_68_echte.md)
 
 ## Offers

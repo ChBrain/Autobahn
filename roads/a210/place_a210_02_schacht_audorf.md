@@ -10,7 +10,7 @@ The sign: Schacht-Audorf. The road continuing east from Westerrönfeld. The Nord
 
 ## Holds
 [km 3.9](piece_the_kilometerstein.md): Schacht-Audorf.
-- 3.9 km west: [Westerrönfeld](place_a210_01_westerroehnfeld.md)
+- 3.9 km west: [Westerrönfeld](place_a210_01_westerroenfeld.md)
 - 2.9 km east: [Kreuz Rendsburg](place_a210_03_kreuz_rendsburg.md)
 
 
