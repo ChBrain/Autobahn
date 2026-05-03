@@ -143,7 +143,7 @@ Rastplatz. Parking and basic facilities only. No fuel, no food. Directly on the 
 
 **Withheld** is what requires seeking - specific, geographical, not visible from the carriageway.
 
-**Naming:** `place_{road}[_{NN}]_rest_{name}.md` — road prefix mandatory; exit number `NN` (zero-padded two digits) included only if an official AS-number exists for this stop.
+**Naming:** `place_{road}[_{NN}]_rest_{name}.md` - road prefix mandatory; exit number `NN` (zero-padded two digits) included only if an official AS-number exists for this stop.
 
 ---
 
@@ -159,7 +159,7 @@ Raststätte. Restaurant and hotel complex. No fuel. Directly on the motorway. In
 
 **Withheld** is what requires seeking - specific, geographical, not visible from the carriageway.
 
-**Naming:** `place_{road}[_{NN}]_service_{name}.md` — road prefix mandatory; exit number `NN` (zero-padded two digits) included only if an official AS-number exists for this stop.
+**Naming:** `place_{road}[_{NN}]_service_{name}.md` - road prefix mandatory; exit number `NN` (zero-padded two digits) included only if an official AS-number exists for this stop.
 
 ---
 
@@ -175,7 +175,7 @@ Rasthof. Full services directly on the motorway. Fuel, food, parking.
 
 **Withheld** is what requires seeking - specific, geographical, not visible from the carriageway.
 
-**Naming:** `place_{road}[_{NN}]_roadhouse_{name}.md` — road prefix mandatory; exit number `NN` (zero-padded two digits) included only if an official AS-number exists for this stop.
+**Naming:** `place_{road}[_{NN}]_roadhouse_{name}.md` - road prefix mandatory; exit number `NN` (zero-padded two digits) included only if an official AS-number exists for this stop.
 
 ---
 
