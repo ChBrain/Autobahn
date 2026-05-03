@@ -5,6 +5,7 @@ Checks each file for:
   - Filename format: ASCII only, underscores only (no hyphens or special chars)
   - UTF-8 encoding with no byte-order mark
   - No Unicode replacement character (U+FFFD)
+  - No em-dash (U+2014) - forbidden by repository style
   - No literal Unicode escape sequences
   - Required sections present in order: Owner, Shown, Holds, Offers, Withheld
   - Trailing version footer: `vX.Y.Z - KAI Worlds`
@@ -31,8 +32,9 @@ sys.path.insert(0, str(HERE))
 from findings import Issue
 
 REQUIRED_SECTIONS = ["Owner", "Shown", "Holds", "Offers", "Withheld"]
-FOOTER_RE = re.compile(r"v\d+\.\d+\.\d+\s*[-–—]\s*KAI Worlds")
+FOOTER_RE = re.compile(r"v\d+\.\d+\.\d+\s*-\s*KAI Worlds")
 SECTION_RE = re.compile(r"^## (.+?)\s*$", re.MULTILINE)
+EM_DASH = "—"
 
 
 def find_place_files(root: Path) -> list[Path]:
@@ -78,6 +80,12 @@ def validate(path: Path) -> list[Issue]:
         issues.append(Issue(
             error="contains U+FFFD replacement character",
             verdict=None,  # original character is lost - human must restore
+        ))
+
+    if EM_DASH in text:
+        issues.append(Issue(
+            error="contains em-dash (U+2014) - forbidden in this repository",
+            verdict="replace each em-dash with a hyphen `-` or rephrase",
         ))
 
     if re.search(r"\\u[0-9a-fA-F]{4}", text):
