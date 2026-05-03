@@ -20,4 +20,4 @@ Glücksburg. Eight kilometres northeast, a white castle built out into a lake co
 
 ---
 
-v0.2.0 - KAI Worlds
+v0.2.1 - KAI Worlds

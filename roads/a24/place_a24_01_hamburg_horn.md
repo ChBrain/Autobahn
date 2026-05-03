@@ -22,5 +22,5 @@ Horn was a border village for four centuries. From 1460, when Holstein became a 
 
 ---
 
-v0.2.0 - KAI Worlds
+v0.2.1 - KAI Worlds
 

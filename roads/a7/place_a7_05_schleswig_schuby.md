@@ -20,4 +20,4 @@ Haithabu. Three kilometres east - the Viking-age settlement occupied from the ea
 
 ---
 
-v0.2.0 - KAI Worlds
+v0.2.1 - KAI Worlds

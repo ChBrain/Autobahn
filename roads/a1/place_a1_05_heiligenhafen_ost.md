@@ -22,4 +22,4 @@ In 1881 the writer Theodor Storm stayed in Heiligenhafen and wrote his novella H
 
 ---
 
-v0.2.0 - KAI Worlds
+v0.2.1 - KAI Worlds

@@ -21,4 +21,4 @@ The Stift at Ramelsloh. Three kilometres east - a collegiate foundation establis
 
 ---
 
-v0.2.0 - KAI Worlds
+v0.2.1 - KAI Worlds
