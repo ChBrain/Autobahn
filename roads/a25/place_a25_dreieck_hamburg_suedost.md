@@ -5,19 +5,18 @@
 - Place: [A25](place_a25.md) in [Hamburg](place_hamburg.md)
 
 ## Shown
-Exit 1. The junction of the A25 and the A1. The A25 is a short feeder road - 4 kilometres - connecting the Hamburg-Bergedorf area to the A1. The A1 runs north to Lübeck, south through Hamburg.
-
-- 4 km east/south: [Hamburg-Neuallermöhe-West](place_a25_3_hamburg_neuallermoehe_west.md)
+The junction of the A25 and the A1. The A25 ends here in the west - a short feeder, 18 km in total, connecting Bergedorf and the Vier- und Marschlande to the A1. Northbound on the A1 leads to Lübeck. Southbound through Hamburg toward Bremen.
 
 ## Holds
-[The Kilometerstein](piece_the_kilometerstein.md).
+[km 0.0](piece_the_kilometerstein.md): Dreieck Hamburg-Südost.
+- 3.4 km east: [Hamburg-Allermöhe](place_a25_2_hamburg_allermoehe.md)
 
 ## Offers
-Ausfahrt 1 - the exit ramp.
+Ausfahrt 1 - the connection to [the A1](place_a1.md).
 
 ## Withheld
-The Norderelbe. The southern arm of the Elbe delta runs a few kilometres south - one of Germany's great rivers, wide here, the port of Hamburg visible to the west.
+The Norderelbe. The southern arm of the Elbe delta runs a few kilometres south - the river's main shipping channel, the port of Hamburg downstream to the west.
 
 ---
 
-v0.2.1 - KAI Worlds
+v0.2.2 - KAI Worlds

@@ -5,19 +5,19 @@
 - Place: [A25](place_a25.md) in [Hamburg](place_hamburg.md)
 
 ## Shown
-The eastern terminus of the A25 in SH. The sign: Hamburg-Neuallermöhe-West. The road ends here - the A25 continuing east into Hamburg proper toward Geesthacht and Bergedorf.
-
-- 4 km west/north: [Dreieck Hamburg-Südost](place_a25_dreieck_hamburg_suedost.md)
+The Neuallermöhe-West exit. The sign: Hamburg-Neuallermöhe-West. The Marsch flat to the south, the new district visible to the north - dense low-rise housing on land that was Bille-Niederung wetland forty years ago.
 
 ## Holds
-[The Kilometerstein](piece_the_kilometerstein.md).
+[km 5.7](piece_the_kilometerstein.md): Hamburg-Neuallermöhe-West.
+- 2.3 km west: [Hamburg-Allermöhe](place_a25_2_hamburg_allermoehe.md)
+- 1.9 km east: [Hamburg-Nettelnburg](place_a25_4_hamburg_nettelnburg.md)
 
 ## Offers
-Ausfahrt 2 - the exit ramp.
+Ausfahrt 3 - the exit ramp. The ordinary road below.
 
 ## Withheld
-The Elbe. A few kilometres south the Elbe runs east-west - one of Germany's great rivers.
+Neuallermöhe was planned in the 1970s and built across the 1980s and 1990s on drained Bille-Niederung Marsch - one of postwar Hamburg's largest planned residential extensions. The historic village of Allermöhe (next exit west) is documented from 1162. Same Marsch, same name root, eight centuries between them. The exit reaches the newer one.
 
 ---
 
-v0.2.1 - KAI Worlds
+v0.2.2 - KAI Worlds

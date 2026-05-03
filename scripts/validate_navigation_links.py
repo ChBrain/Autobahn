@@ -29,7 +29,7 @@ sys.path.insert(0, str(HERE))
 from findings import Issue
 
 NEIGHBOUR_LINK_RE = re.compile(
-    r"^-\s+[\d.]+\s+km\s+\w+:\s+\[.+?\]\(place_[^)]+\.md\)",
+    r"^-\s+[\d.]+\s+km\s+[\w/-]+:\s+\[.+?\]\(place_[^)]+\.md\)",
     re.MULTILINE,
 )
 
