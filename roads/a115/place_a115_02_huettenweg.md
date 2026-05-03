@@ -11,8 +11,8 @@ Ausfahrt 2. km 23,3. Das Schild: Hüttenweg. Der Grunewald auf beiden Seiten - W
 - Richtung Kreuz Zehlendorf: [Spanische Allee (3)](place_a115_03_spanische_allee.md), 4,5 km.
 
 ## Holds
-[The Kilometerstein](piece_the_kilometerstein.md).
-Die Enge. Zwischen Dreieck Funkturm und Kreuz Zehlendorf nur zwei Spuren - die schmalste Stelle der A115. Verbreiterung auf drei Spuren geplant seit Jahren. Noch nicht gebaut.
+[km 23.3](piece_the_kilometerstein.md): Hüttenweg (2).
+* [Spanische Allee (3)](place_a115_03_spanische_allee.md) is south on [A115](place_the_a115.md).
 
 ## Offers
 Ausfahrt 2 - die Rampe. Hüttenweg, Grunewald. Für Fahrer die in den Grunewald wollen oder nach Dahlem. Für alle anderen: Durchfahrt.

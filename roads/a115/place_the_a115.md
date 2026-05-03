@@ -9,7 +9,9 @@ Zweispurig zwischen Dreieck Funkturm und Kreuz Zehlendorf - die schmalste Stelle
 Die A115 ist die AVUS - Automobil-Verkehrs- und Übungsstraße, eröffnet 1921. Die erste zweckgebaute Fernverkehrsstraße Deutschlands. Bis 1998 Rennstrecke, zuletzt Formel 1 in 1959. Die Tribune steht noch, nördlich vom Dreieck Funkturm, jetzt Büros hinter Glas. Die Rennstrecke ist jetzt eine Bundesautobahn. Die Kurven sind so flach, dass man sie bei normaler Fahrt nicht spürt.
 
 ## Holds
-[Hüttenweg (2)](place_a115_02_huettenweg.md). [Spanische Allee (3)](place_a115_03_spanische_allee.md). [Kreuz Zehlendorf (4)](place_a115_04_kreuz_zehlendorf.md).
+* [km 16.8](piece_the_kilometerstein.md): [Kreuz Zehlendorf (4)](place_a115_04_kreuz_zehlendorf.md).
+* [km 18.3](piece_the_kilometerstein.md): [Spanische Allee (3)](place_a115_03_spanische_allee.md).
+* [km 23.3](piece_the_kilometerstein.md): [Hüttenweg (2)](place_a115_02_huettenweg.md).
 
 ## Offers
 Durchfahrt durch den Grunewald. Verbindung zwischen dem Dreieck Funkturm im Norden und dem Dreieck Nuthetal im Süden, 600 Meter jenseits der Berliner Landesgrenze. Wer auf der A115 fährt fährt durch Wald, nicht durch Stadt - auch wenn die Stadt auf beiden Seiten liegt.

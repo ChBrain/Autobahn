@@ -11,8 +11,8 @@ Ausfahrt 5. km 17,0. Das Schild: Holzhauser Straße. Das Ende des [Tunnel Tegel]
 - Richtung Charlottenburg: Seidelstraße (6), 1,3 km.
 
 ## Holds
-[The Kilometerstein](piece_the_kilometerstein.md).
-Das Tunnelende. Die 900 Meter unter Tegel enden hier - der Tunnel Tegel Ortskern und der Tunnel Ernststraße hintereinander, dann diese Ausfahrt, dann wieder offene Fahrbahn.
+[km 17.0](piece_the_kilometerstein.md): Holzhauser Straße (5).
+* [Waidmannsluster Damm (4)](place_a111_04_waidmannsluster_damm.md) is north on [A111](place_the_a111.md).
 
 ## Offers
 Ausfahrt 5 - die Rampe. Holzhauser Straße, Reinickendorf-Mitte. Erste Ausfahrt nach den Tunneln. Die Umleitung wenn Ausfahrt 4 gesperrt ist: Holzhauser Straße - Berliner Straße - Karolinenstraße - Waidmannsluster Damm.

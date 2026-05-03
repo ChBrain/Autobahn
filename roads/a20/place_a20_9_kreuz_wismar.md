@@ -11,7 +11,9 @@ AS 9. Junction of the A20 and the A14. The A14 runs south toward Schwerin. The A
 - ca. 55 km west: Kreuz Lübeck
 
 ## Holds
-[The Kilometerstein](piece_the_kilometerstein.md).
+[km 99.7](piece_the_kilometerstein.md): Kreuz Wismar.
+* [Wismar-Mitte](place_a20_8_wismar_mitte.md) is west on [A20](place_a20.md).
+* [Zurow](place_a20_10_zurow.md) is east on [A20](place_a20.md).
 
 ## Offers
 Ausfahrt 9 - the exit ramp toward Wismar and Poel.
