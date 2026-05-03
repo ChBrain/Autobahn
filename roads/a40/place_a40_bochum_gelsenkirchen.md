@@ -1,7 +1,8 @@
 # Place: A40 westwärts. Bochum nach Gelsenkirchen-Süd.
 
 ## Owner
-- **Project:** Autobahn
+- Project: Autobahn
+- Place: [A40](place_the_a40.md) in [Nordrhein-Westfalen](place_nordrhein_westfalen.md)
 
 ## Shown
 Ruhrschnellweg. Offiziell. Lokal: Ruhrschleichweg. Meistgestaute Autobahn Deutschlands.
