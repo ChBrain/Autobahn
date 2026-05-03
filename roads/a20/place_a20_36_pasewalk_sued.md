@@ -20,4 +20,4 @@ Die Nikolaikirche steht seit dem 12. Jahrhundert -- die größte Feldsteinkirche
 
 ---
 
-v0.2.1 - KAI Worlds
+v0.2.2 - KAI Worlds

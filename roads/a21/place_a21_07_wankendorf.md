@@ -22,4 +22,4 @@ Gut Depenau lies just south of this exit, in the bog and farmland between the ro
 
 ---
 
-v0.2.2 - KAI Worlds
+v0.2.3 - KAI Worlds

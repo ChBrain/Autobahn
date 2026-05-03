@@ -22,4 +22,4 @@ Wenige Kilometer nördlich liegt Heiligendamm -- 1793 das erste Seebad Deutschla
 
 ---
 
-v0.2.1 - KAI Worlds
+v0.2.2 - KAI Worlds

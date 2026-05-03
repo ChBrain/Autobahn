@@ -20,4 +20,4 @@ Schloss Derneburg. Four kilometres west - a 12th-century monastery converted to 
 
 ---
 
-v0.2.2 - KAI Worlds
+v0.2.3 - KAI Worlds

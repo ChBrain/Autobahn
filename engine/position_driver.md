@@ -25,4 +25,4 @@ On the loss of the decision - accelerates.
 
 ---
 
-v0.2.2 - KAI Worlds
+v0.2.3 - KAI Worlds

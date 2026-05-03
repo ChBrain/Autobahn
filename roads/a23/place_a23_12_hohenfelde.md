@@ -23,5 +23,5 @@ Schloss Breitenburg stands a few kilometres from this exit in the Stör lowlands
 
 ---
 
-v0.2.2 - KAI Worlds
+v0.2.3 - KAI Worlds
 

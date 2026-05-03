@@ -16,10 +16,10 @@ The sign: Bad Sülze. A small spa town on the Recknitz - the river here marking 
 Ausfahrt 20 - the exit ramp toward Bad Sülze and the Recknitz valley.
 
 ## Withheld
-Der Name kommt vom Salz. "Sulta" -- lateinisch für Saline -- bereits 1243 belegt. Jahrhundertelang siedete man hier Sole zu Salz, lieferte ins ganze Land. 1664 verordnete der Herzog seinen Bürgern, ausschließlich Salz aus Sülze zu kaufen -- Salzzwang, bis die Zollgrenzen 1866 fielen. 1907 wurde die Produktion eingestellt. Das Salz ist weg. Der Name blieb.
+The name comes from salt. "Sulta" -- Latin for saline -- documented as early as 1243. For centuries, people boiled brine to salt here, supplied the entire region. In 1664 the Duke ordered his citizens to buy salt exclusively from Sülze -- a salt monopoly that lasted until tariff borders fell in 1866. Production stopped in 1907. The salt is gone. The name remained.
 
-Entlang der Recknitz, wenige Kilometer westlich, liegt ein slawischer Burgwall aus dem 9. Jahrhundert -- noch als Wall im Gelände sichtbar. Bevor die deutschen Siedler kamen, bevor das Salz gesiedet wurde, lag hier slawisches Territorium. Die Landschaft ist älter als ihre Geschichte.
+Along the Recknitz, a few kilometers to the west, lies a Slavic fortress wall from the 9th century -- still visible as an embankment in the terrain. Before the German settlers arrived, before the salt works were built, this was Slavic territory. The landscape is older than its documented history.
 
 ---
 
-v0.2.1 - KAI Worlds
+v0.2.2 - KAI Worlds

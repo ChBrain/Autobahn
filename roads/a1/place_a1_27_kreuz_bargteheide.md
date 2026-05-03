@@ -22,4 +22,4 @@ The church in Bargteheide has stood for more than 700 years - longer than the to
 
 ---
 
-v0.2.2 - KAI Worlds
+v0.2.3 - KAI Worlds

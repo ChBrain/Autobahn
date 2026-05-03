@@ -23,5 +23,5 @@ Until 1864, Pinneberg was inside the Duchy of Holstein under the Danish crown. T
 
 ---
 
-v0.2.2 - KAI Worlds
+v0.2.3 - KAI Worlds
 

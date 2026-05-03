@@ -22,4 +22,4 @@ Von hier führt der Rügendamm auf die größte deutsche Insel. Wer hier abfähr
 
 ---
 
-v0.2.1 - KAI Worlds
+v0.2.2 - KAI Worlds

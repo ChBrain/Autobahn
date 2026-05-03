@@ -22,4 +22,4 @@ In Teutendorf, heute ein Ortsteil von Sanitz, wurde 1812 Friedrich von Flotow ge
 
 ---
 
-v0.2.1 - KAI Worlds
+v0.2.2 - KAI Worlds

@@ -20,4 +20,4 @@ The Alps: present on the horizon from most of southern Bavaria but unreachable f
 
 ---
 
-v0.2.2 - KAI Worlds
+v0.2.3 - KAI Worlds

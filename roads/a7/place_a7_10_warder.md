@@ -20,4 +20,4 @@ Nortorf church. Four kilometres west, a 13th-century granite church in the town 
 
 ---
 
-v0.2.2 - KAI Worlds
+v0.2.3 - KAI Worlds

@@ -20,4 +20,4 @@ St. Michael's church. Two kilometres west - built by Bishop Bernward between 101
 
 ---
 
-v0.2.2 - KAI Worlds
+v0.2.3 - KAI Worlds

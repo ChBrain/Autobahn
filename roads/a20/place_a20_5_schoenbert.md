@@ -16,8 +16,8 @@ The sign: Schönberg. A small town west of Grevesmühlen, close to the old inner
 Ausfahrt 5 - the exit ramp toward Schönberg and the Baltic coast.
 
 ## Withheld
-Schönberg war die Hauptstadt des Fürstentums Ratzeburg -- ein winziges Territorium eingeklemmt zwischen Lübeck, Holstein und Mecklenburg-Schwerin, das sich bis 1918 seine Eigenständigkeit bewahrte. Das Besondere: im Gegensatz zum Rest Mecklenburgs gab es hier keine Leibeigenschaft, keine Gutswirtschaft, keine Großgrundbesitzer. Nur freie Bauern. Die Grenze verlief dreißig Kilometer westlich. Auf dieser Seite Güter und Kontrolle. Auf jener Seite Freiheit -- in demselben Land, zur selben Zeit.
+Schönberg was the capital of the Principality of Ratzeburg -- a tiny territory wedged between Lübeck, Holstein, and Mecklenburg-Schwerin that maintained its independence until 1918. The distinction: unlike the rest of Mecklenburg, there was no serfdom here, no manor economy, no large landowners. Only free farmers. The border ran thirty kilometers to the west. On this side: estates and control. On that side: freedom -- in the same land, at the same time.
 
 ---
 
-v0.2.1 - KAI Worlds
+v0.2.2 - KAI Worlds

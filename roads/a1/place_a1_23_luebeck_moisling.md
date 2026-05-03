@@ -20,4 +20,4 @@ The Jewish cemetery in Moisling is the oldest on the territory of the city of LÃ
 
 ---
 
-v0.2.2 - KAI Worlds
+v0.2.3 - KAI Worlds

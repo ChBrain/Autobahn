@@ -16,10 +16,10 @@ The sign: Tessin. A small town east of Sanitz - flat land, open fields, the road
 Ausfahrt 19 - the exit ramp toward Tessin.
 
 ## Withheld
-Der Dreißigjährige Krieg zog durch diese Landschaft wie durch wenige andere in Deutschland -- kaiserliche, schwedische und dänische Truppen, Plünderungen, Seuchen. Mecklenburg verlor ein Drittel seiner Bevölkerung. Die Dörfer entlang der A20 tragen noch heute Namen die älter sind als der Krieg. Die Menschen die sie nach 1648 bewohnten waren oft andere.
+The Thirty Years War swept through this landscape like through few others in Germany -- imperial, Swedish, and Danish troops, plundering, plague. Mecklenburg lost a third of its population. The villages along the A20 still bear names older than the war. The people who inhabited them after 1648 were often different.
 
-Wer das Land danach aufbaute war Friedrich Franz I. -- Herzog ab 1785, erster Großherzog ab 1815, einer der prägendsten mecklenburgischen Herrscher. Er schaffte die Leibeigenschaft ab, baute Chausseen, gründete die erste psychiatrische Klinik Nordeuropas. Heute kaum bekannt außerhalb Mecklenburgs. Das Land erinnert sich kaum an ihn. Dabei fuhr er es.
+Who rebuilt the land afterward was Friedrich Franz I. -- Duke from 1785, first Grand Duke from 1815, one of the most influential Mecklenburg rulers. He abolished serfdom, built roads, founded the first psychiatric clinic in Northern Europe. Today barely known outside Mecklenburg. The land hardly remembers him. Yet he shaped it.
 
 ---
 
-v0.2.1 - KAI Worlds
+v0.2.2 - KAI Worlds

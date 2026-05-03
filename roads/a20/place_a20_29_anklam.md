@@ -20,4 +20,4 @@ Otto Lilienthal wurde 1848 in Anklam geboren. Er baute Gleitflugzeuge aus Weiden
 
 ---
 
-v0.2.1 - KAI Worlds
+v0.2.2 - KAI Worlds

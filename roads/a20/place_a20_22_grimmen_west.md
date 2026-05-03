@@ -16,10 +16,10 @@ The sign: Grimmen-West. A small town on the Trebel - the road here moving throug
 Ausfahrt 22 - the exit ramp toward Grimmen centre.
 
 ## Withheld
-Grimmen hat drei mittelalterliche Backsteintore noch intakt -- Stralsunder Tor, Mühlentor, Greifswalder Tor, alle aus dem 14. Jahrhundert. Der Krieg hat die Altstadt verschont. Was die Flammen nicht holten, steht noch.
+Grimmen still has three intact medieval brick gates -- the Stralsund Gate, the Mill Gate, the Greifswald Gate, all from the 14th century. The war spared the old town. What the flames did not take still stands.
 
-1695-1697 verfolgte Bürgermeister Johannes Flittner Frauen wegen Hexerei -- mindestens sieben wurden verbrannt. Nicht im Mittelalter: im Zeitalter der Aufklärung, während andere Städte damit längst aufgehört hatten. Eine Gedenktafel hängt noch heute. Die Tore stehen. Die Frauen nicht.
+From 1695-1697, Mayor Johannes Flittner pursued women for witchcraft -- at least seven were burned. Not in the Middle Ages: in the Age of Enlightenment, while other cities had long since stopped. A memorial plaque hangs there today. The gates stand. The women do not.
 
 ---
 
-v0.2.1 - KAI Worlds
+v0.2.2 - KAI Worlds

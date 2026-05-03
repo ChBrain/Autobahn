@@ -25,4 +25,4 @@ When challenged on his expellee speeches, Seebohm cites kilometres of motorway b
 
 *persona_seebohm.md: 01.05.2026*
 *Type: Real*
-*v0.2.2 - KAI Worlds*
+*v0.2.3 - KAI Worlds*

@@ -19,4 +19,4 @@ The Swabian wine country: the Neckar valley vineyard slopes visible from the A81
 
 ---
 
-v0.2.2 - KAI Worlds
+v0.2.3 - KAI Worlds
