@@ -31,23 +31,67 @@ Never commit or edit directly on `main`.
 
 ## Release procedure
 
-1. Work on a feature branch
-2. Run `python scripts/validate.py FILE...` on changed files - all must pass before opening a PR
-3. Run `python scripts/deploy.py --check <manifest>` on any manifest you touched - it must pass strict mode before opening a PR
-4. For minor or major releases only: run `python scripts/bump_version.py --minor` (or `--major`) and commit the result. Skip for patch releases.
-5. Open a PR - the PR template checklist must pass before merge
-6. Merge to `main` via PR only
-7. Create a GitHub release with a version tag to trigger the release workflow
-8. The workflow runs `scripts/deploy.py` on every manifest (`autobahn.md`, every `roads/*/place_*.md`, every `states/place_*.md`) and uploads each resulting zip as a release asset
+**See [VERSIONING.md](../VERSIONING.md) for complete workflow with examples.**
+
+Quick summary:
+
+1. **Create feature branch**
+   ```bash
+   git checkout -b feat/my-change
+   ```
+
+2. **Declare intent upfront** with `.bump-type`:
+   ```bash
+   echo "PATCH" > .bump-type  # or MINOR/MAJOR
+   git add .bump-type && git commit -m "chore: declare bump type"
+   ```
+
+3. **(Optional) Get ministerial review:**
+   ```bash
+   python scripts/minister_review.py
+   ```
+
+4. **Make changes and bump version**:
+   ```bash
+   # Edit files
+   nano roads/a20/place_a20.md
+   
+   # Bump version to match declared type
+   python scripts/bump_version.py --patch  # if declared PATCH
+   
+   # Commit
+   git add -A && git commit -m "feat: add new road"
+   ```
+
+5. **Pre-commit hook validates**:
+   - ✓ Version bump matches declared type (PATCH/MINOR/MAJOR)
+   - ✗ Rejects scope creep (declared PATCH, bumped MINOR)
+
+6. **Open PR and merge**:
+   ```bash
+   git push -u origin feat/my-change
+   ```
+   All tests pass, merge to main.
+
+7. **(For MINOR/MAJOR only) Create GitHub release**:
+   - Patch bumps are already done - version merged to main
+   - Minor/major releases: create GitHub release with tag (v0.3.0)
+   - Release workflow syncs versions and deploys
 
 ## Versioning
 
-- **File footer patch** - LLM increments per file during content edits, by editing the footer in place. No release needed. `bump_version.py` does not offer this; it is per-file.
-- **Patch release** - user-triggered GitHub tag bump only. No file footer changes.
-- **Minor release** - user-triggered. Run `bump_version.py --minor` to update all file footers, then PR + tag.
-- **Major release** - user-triggered. Run `bump_version.py --major` for structural changes, then PR + tag.
+- **Intent-first model** - Every branch declares PATCH/MINOR/MAJOR upfront in `.bump-type` file
+- **Pre-commit hook** - Validates version bumps match declared type (prevents scope creep)
+- **Version merges with code** - Not separate automation, version is part of the commit
+- **Minor/major via tags** - Only release tags trigger minor/major bumps and deployment
 
-Never run `bump_version.py` unless the user explicitly asks for a release.
+**Important:**
+- Always declare `.bump-type` on first commit of feature branch
+- Use `python scripts/bump_version.py --patch` (or --minor/--major) to bump
+- Hook prevents scope creep: can't declare PATCH and bump MINOR
+- Minor/major bumps are release-only (via GitHub release tags)
+
+See [VERSIONING.md](../VERSIONING.md) for full details, examples, and minister reviews.
 
 ## Deployment
 

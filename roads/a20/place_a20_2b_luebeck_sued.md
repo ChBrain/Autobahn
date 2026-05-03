@@ -20,4 +20,4 @@ The Ratzeburger See lies a few kilometres south - a long, narrow lake crossing w
 
 ---
 
-v0.2.0 - KAI Worlds
+v0.2.1 - KAI Worlds

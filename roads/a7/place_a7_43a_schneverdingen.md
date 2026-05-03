@@ -20,4 +20,4 @@ The Pietzmoor. Eight kilometres west - a raised bog over 8,000 years old, the pe
 
 ---
 
-v0.2.0 - KAI Worlds
+v0.2.1 - KAI Worlds

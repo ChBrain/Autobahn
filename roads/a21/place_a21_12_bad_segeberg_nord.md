@@ -20,4 +20,4 @@ The Marienkirche in Bad Segeberg, a few kilometres from this exit, was the first
 
 ---
 
-v0.2.0 - KAI Worlds
+v0.2.1 - KAI Worlds

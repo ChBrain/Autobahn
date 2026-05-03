@@ -25,4 +25,4 @@ Die Villa Borsig. Zehn Minuten von dieser Ausfahrt auf der Halbinsel Reiherwerde
 ---
 
 *place_a111_04_waidmannsluster_damm.md - 13.04.2026*
-*v0.2.0 - KAI Worlds / Autobahn Aktuell*
+*v0.2.1 - KAI Worlds / Autobahn Aktuell*

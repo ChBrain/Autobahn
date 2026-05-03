@@ -20,4 +20,4 @@ The Hügelgräber west of the exit. The sandy terrain here was settled continuou
 
 ---
 
-v0.2.0 - KAI Worlds
+v0.2.1 - KAI Worlds

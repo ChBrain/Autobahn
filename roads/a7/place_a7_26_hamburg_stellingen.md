@@ -20,4 +20,4 @@ Hagenbeck. The zoo is 800 metres east - founded 1907, the first to keep animals 
 
 ---
 
-v0.2.0 - KAI Worlds
+v0.2.1 - KAI Worlds

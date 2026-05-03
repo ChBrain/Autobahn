@@ -23,5 +23,5 @@ On 17 February 1500, the Danish king and his brother invaded Dithmarschen with a
 
 ---
 
-v0.2.0 - KAI Worlds
+v0.2.1 - KAI Worlds
 

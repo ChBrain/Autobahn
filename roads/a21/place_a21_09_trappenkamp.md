@@ -20,4 +20,4 @@ Trappenkamp did not exist before 1936. In 1934 the Kriegsmarine ordered a naval 
 
 ---
 
-v0.2.0 - KAI Worlds
+v0.2.1 - KAI Worlds

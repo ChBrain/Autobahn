@@ -23,5 +23,5 @@ The Bonifatiuskirche. Founded in 826 on Ansgar's initiative - the first Christia
 
 ---
 
-v0.2.0 - KAI Worlds
+v0.2.1 - KAI Worlds
 

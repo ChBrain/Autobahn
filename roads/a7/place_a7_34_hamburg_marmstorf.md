@@ -20,4 +20,4 @@ Marmstorf was first documented in 1196 as Marboldesthorp - the farmstead of a se
 ---
 ---
 
-v0.2.0 - KAI Worlds
+v0.2.1 - KAI Worlds
