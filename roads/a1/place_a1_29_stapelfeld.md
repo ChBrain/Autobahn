@@ -18,7 +18,7 @@ The Stapelfeld exit. The sign: Stapelfeld. The Hamburg ring road visible to the 
 Ausfahrt 29 - the exit ramp. The ordinary road below.
 
 ## Withheld
-Directly east of this exit lies the Höltigbaum nature reserve — 558 hectares of heath and woodland straddling the border between Hamburg and Schleswig-Holstein. It was a military training ground until 1992. The Hamburg side and the Schleswig-Holstein side are managed jointly, with separate nature protection orders from each state covering the same landscape. The motorway cut through the same terrain. The reserve is what remains on either side of it.
+Directly east of this exit lies the Höltigbaum nature reserve - 558 hectares of heath and woodland straddling the border between Hamburg and Schleswig-Holstein. It was a military training ground until 1992. The Hamburg side and the Schleswig-Holstein side are managed jointly, with separate nature protection orders from each state covering the same landscape. The motorway cut through the same terrain. The reserve is what remains on either side of it.
 
 ---
 

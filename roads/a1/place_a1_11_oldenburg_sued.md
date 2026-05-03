@@ -18,7 +18,7 @@ The southern Oldenburg exit. The sign: Oldenburg in Holstein-Süd, B202. The B20
 Ausfahrt 11 - the exit ramp. The ordinary road below.
 
 ## Withheld
-When people in Holstein speak of "the Oldenburgers," they do not mean the citizens of this town. They mean the House of Oldenburg — the dynasty whose name comes from the Aldenburg on the Hunte river in what is now Lower Saxony, first documented in 1108. Oldenburg in Holstein was never part of that duchy. It shares only the name — which itself came from a Slavic word the Germans translated.
+When people in Holstein speak of "the Oldenburgers," they do not mean the citizens of this town. They mean the House of Oldenburg - the dynasty whose name comes from the Aldenburg on the Hunte river in what is now Lower Saxony, first documented in 1108. Oldenburg in Holstein was never part of that duchy. It shares only the name - which itself came from a Slavic word the Germans translated.
 
 ---
 

@@ -6,7 +6,7 @@
 
 
 ## Shown
-The Elmshorn exit. The sign: Elmshorn, B431. The town bypassed - the A23 circumnavigates the centre. The rail line Hamburg–Westerland visible briefly crossing the road.
+The Elmshorn exit. The sign: Elmshorn, B431. The town bypassed - the A23 circumnavigates the centre. The rail line Hamburg-Westerland visible briefly crossing the road.
 
 ## Holds
 [km 118.0](piece_the_kilometerstein.md): Elmshorn.

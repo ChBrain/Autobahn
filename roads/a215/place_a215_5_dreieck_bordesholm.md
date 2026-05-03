@@ -18,7 +18,7 @@ Ausfahrt 5 - the exit ramp.
 
 
 ## Withheld
-A few kilometres west, on an island in the Bordesholmer See, stood the Augustinian monastery founded in 1330. When it was dissolved in 1566 its most important object was removed: the carved wooden altar by Hans Brüggemann — 392 figures across multiple panels, considered one of the greatest works of late Gothic sculpture in northern Europe. It now stands in Schleswig Cathedral, 45 kilometres north. The lake and the island are still there.
+A few kilometres west, on an island in the Bordesholmer See, stood the Augustinian monastery founded in 1330. When it was dissolved in 1566 its most important object was removed: the carved wooden altar by Hans Brüggemann - 392 figures across multiple panels, considered one of the greatest works of late Gothic sculpture in northern Europe. It now stands in Schleswig Cathedral, 45 kilometres north. The lake and the island are still there.
 
 ---
 

@@ -18,7 +18,7 @@ The sign: Scharbeutz, B432. The B432 leads east to the coast - Scharbeutz, Haffk
 Ausfahrt 16 - the exit ramp. The ordinary road below.
 
 ## Withheld
-Timmendorfer Strand's first visitor arrived in 1865 — a pastor named Friedrich August Gleiss who bought a plot of land in the empty coastal strip between Niendorf and Scharbeutz and built himself a house in three months. He found the fishing village of Niendorf too noisy and wanted to be left alone. The house still stands. The resort grew up around his desire for solitude.
+Timmendorfer Strand's first visitor arrived in 1865 - a pastor named Friedrich August Gleiss who bought a plot of land in the empty coastal strip between Niendorf and Scharbeutz and built himself a house in three months. He found the fishing village of Niendorf too noisy and wanted to be left alone. The house still stands. The resort grew up around his desire for solitude.
 
 ---
 

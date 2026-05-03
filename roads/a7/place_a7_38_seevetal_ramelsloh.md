@@ -16,7 +16,7 @@ The Seevetal-Ramelsloh exit. The sign: Seevetal-Ramelsloh, Hittfeld. Rural again
 Ausfahrt 38 - the exit ramp. The ordinary road below.
 
 ## Withheld
-The Haupthof Hittfeld. Two kilometres west — a farmstead recorded in the possession of Siegfried III, son of Duke Otto of Northeim, and purchased in 1156 by Heinrich der Löwe, Duke of Saxony and Bavaria. The purchase deed survives. Heinrich was at that point the most powerful territorial prince in the German kingdom. He bought a farm here. The exit reaches the village the farm anchored.
+The Haupthof Hittfeld. Two kilometres west - a farmstead recorded in the possession of Siegfried III, son of Duke Otto of Northeim, and purchased in 1156 by Heinrich der Löwe, Duke of Saxony and Bavaria. The purchase deed survives. Heinrich was at that point the most powerful territorial prince in the German kingdom. He bought a farm here. The exit reaches the village the farm anchored.
 
 ---
 

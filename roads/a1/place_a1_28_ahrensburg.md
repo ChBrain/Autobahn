@@ -18,7 +18,7 @@ The Ahrensburg exit. The sign: Ahrensburg. The road leaving the A1 toward the to
 Ausfahrt 28 - the exit ramp. The ordinary road below.
 
 ## Withheld
-Schloss Ahrensburg sits on an artificial island in a moat fed by the river Hunnau — built around 1585 in the Renaissance style, one of the finest water castles in northern Germany. The moat was never defensive; it was aesthetic from the start. The four octagonal corner towers with copper roofs were added during construction. The white facades came later, applied in the 18th century over the original red brick. The castle the tourists photograph is a baroque repaint of a Renaissance original.
+Schloss Ahrensburg sits on an artificial island in a moat fed by the river Hunnau - built around 1585 in the Renaissance style, one of the finest water castles in northern Germany. The moat was never defensive; it was aesthetic from the start. The four octagonal corner towers with copper roofs were added during construction. The white facades came later, applied in the 18th century over the original red brick. The castle the tourists photograph is a baroque repaint of a Renaissance original.
 
 ---
 

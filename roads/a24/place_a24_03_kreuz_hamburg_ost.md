@@ -19,7 +19,7 @@ Ausfahrt 3 - the exit ramp.
 
 
 ## Withheld
-In January 1871 Kaiser Wilhelm I gave Otto von Bismarck the Sachsenwald — 6,000 hectares of forest beginning a few kilometres east of this junction — as a personal gift in recognition of his role in founding the German Reich. Bismarck is buried there at Friedrichsruh. The family still owns most of it. As one of only two uninhabited municipal areas in Schleswig-Holstein, the Sachsenwald sets its own trade tax rate through a nominated estate manager. The rate has been unchanged since 1958 at roughly half that of Hamburg. By 2024 at least 21 companies were registered at a forest hut there. The Kaiser's gift is still working.
+In January 1871 Kaiser Wilhelm I gave Otto von Bismarck the Sachsenwald - 6,000 hectares of forest beginning a few kilometres east of this junction - as a personal gift in recognition of his role in founding the German Reich. Bismarck is buried there at Friedrichsruh. The family still owns most of it. As one of only two uninhabited municipal areas in Schleswig-Holstein, the Sachsenwald sets its own trade tax rate through a nominated estate manager. The rate has been unchanged since 1958 at roughly half that of Hamburg. By 2024 at least 21 companies were registered at a forest hut there. The Kaiser's gift is still working.
 
 ---
 

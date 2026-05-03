@@ -16,7 +16,7 @@ The Großburgwedel exit. The sign: Großburgwedel, B3. The Hannover ring. The ro
 Ausfahrt 54 - the exit ramp. The ordinary road below.
 
 ## Withheld
-The Hannover Messe. The world's largest industrial trade fair — running annually since 1947, held on the largest exhibition ground in the world, expanded further for Expo 2000. The fairground is fifteen kilometres southwest of this exit. The A37, which branches from the A7 two exits south, was built specifically as the Messeschnellweg — the fairground expressway — and can be converted to a four-lane one-way road during major fairs to handle the inbound traffic. The road south is already configured for it.
+The Hannover Messe. The world's largest industrial trade fair - running annually since 1947, held on the largest exhibition ground in the world, expanded further for Expo 2000. The fairground is fifteen kilometres southwest of this exit. The A37, which branches from the A7 two exits south, was built specifically as the Messeschnellweg - the fairground expressway - and can be converted to a four-lane one-way road during major fairs to handle the inbound traffic. The road south is already configured for it.
 
 ---
 

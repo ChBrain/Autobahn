@@ -98,7 +98,7 @@ Four lanes for most of the stretch - two northbound, two southbound, the central
 Continuous movement in either direction. Every child place reachable from every other by staying on the road. The road does not require a reason to use it.
 
 ## Withheld
-The southern continuation: Drammetal marks the border with Hesse (km 431), where the A7 continues into the southern German states — ultimately reaching Füssen in the Bavarian Alps at the Austrian border, approximately 500 kilometres south of Drammetal. The A7 is one continuous numbered road across the entire federal republic, but most drivers know only the segment they traverse. The Hannover A7/A2 junction complex: internal geometry (3D stack interchange plans, truck checkpoint protocols, Kraftfahrt-Bundesamt coordination). The Raststätte staffing schedules and rest-hour enforcement mechanisms. The demographic data: who stops where, when, why. Service area locations and staffing protocols (deferred to Phase 2 infrastructure planning).
+The southern continuation: Drammetal marks the border with Hesse (km 431), where the A7 continues into the southern German states - ultimately reaching Füssen in the Bavarian Alps at the Austrian border, approximately 500 kilometres south of Drammetal. The A7 is one continuous numbered road across the entire federal republic, but most drivers know only the segment they traverse. The Hannover A7/A2 junction complex: internal geometry (3D stack interchange plans, truck checkpoint protocols, Kraftfahrt-Bundesamt coordination). The Raststätte staffing schedules and rest-hour enforcement mechanisms. The demographic data: who stops where, when, why. Service area locations and staffing protocols (deferred to Phase 2 infrastructure planning).
 
 ---
 

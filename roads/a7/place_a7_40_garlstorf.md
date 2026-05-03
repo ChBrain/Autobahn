@@ -16,7 +16,7 @@ The Garlstorf exit. The sign: Garlstorf, Salzhausen. The Lüneburger Heide prope
 Ausfahrt 40 - the exit ramp. The ordinary road below.
 
 ## Withheld
-The Soderstorf grave field. A few kilometres east — 938 Bronze Age graves recovered from a single site, one of the largest prehistoric burial grounds in the southern Lüneburger Heide. The scale implies a settled, multigenerational community using this landscape continuously for centuries, not a scattered presence. Most were excavated in the 19th century, improperly. The exit reaches the road toward it. The road does not indicate what the ground contains.
+The Soderstorf grave field. A few kilometres east - 938 Bronze Age graves recovered from a single site, one of the largest prehistoric burial grounds in the southern Lüneburger Heide. The scale implies a settled, multigenerational community using this landscape continuously for centuries, not a scattered presence. Most were excavated in the 19th century, improperly. The exit reaches the road toward it. The road does not indicate what the ground contains.
 
 ---
 

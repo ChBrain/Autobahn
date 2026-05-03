@@ -17,7 +17,7 @@ Exit 36. A junction. The A250 branching east toward Lüneburg. The A7 continuing
 The A7 south, toward Hannover. [The A250](place_a250.md) east, toward Lüneburg and the Lüneburger Heide.
 
 ## Withheld
-The Stift at Ramelsloh. Three kilometres east — a collegiate foundation established around 845 by Ansgar, the first Archbishop of Hamburg-Bremen, the missionary who brought Christianity to Scandinavia. The chapter survived for a thousand years before dissolution in 1865. The village it anchored is now a quiet suburb between the junction and the Elbe. The foundation is older than the Duchy of Saxony, older than the German kingdom, older than most things the road passes.
+The Stift at Ramelsloh. Three kilometres east - a collegiate foundation established around 845 by Ansgar, the first Archbishop of Hamburg-Bremen, the missionary who brought Christianity to Scandinavia. The chapter survived for a thousand years before dissolution in 1865. The village it anchored is now a quiet suburb between the junction and the Elbe. The foundation is older than the Duchy of Saxony, older than the German kingdom, older than most things the road passes.
 
 ---
 

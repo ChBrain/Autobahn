@@ -48,5 +48,7 @@ Example responses:
 ## Notes
 
 - Canonical source: `ministry/personas/persona_seebohm.md`
-- This mirrors configuration in `.github/agents/seebohm.agent.md` and `.claude/agents/seebohm.md`
+- Legacy documentation: The main Autobahn agent has been refactored into a position-based agent (`minister-transport`) that dynamically selects personas based on tenure context
+- This file documents a persona-specific configuration for Google Gemini, preserved for reference
+- For the generic transport minister agent used across the main platform, see `.github/agents/minister-transport.agent.md` and `.claude/agents/minister-transport.md`
 - Deploy to Gemini with local file context to `ministry/personas/persona_seebohm.md` if available

@@ -16,7 +16,7 @@ The Schneverdingen exit. The sign: Schneverdingen, B3. The largest town in the c
 Ausfahrt - the exit ramp. The ordinary road below.
 
 ## Withheld
-The Pietzmoor. Eight kilometres west — a raised bog over 8,000 years old, the peat surface higher than the surrounding land because it has been accumulating upward since the Mesolithic. Boardwalks cross it. The peat contains an unbroken pollen record of everything that has grown in this landscape since before agriculture existed here — eight millennia of botanical history in a single column of compressed plant matter. The exit reaches the road toward it.
+The Pietzmoor. Eight kilometres west - a raised bog over 8,000 years old, the peat surface higher than the surrounding land because it has been accumulating upward since the Mesolithic. Boardwalks cross it. The peat contains an unbroken pollen record of everything that has grown in this landscape since before agriculture existed here - eight millennia of botanical history in a single column of compressed plant matter. The exit reaches the road toward it.
 
 ---
 

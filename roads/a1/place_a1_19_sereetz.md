@@ -20,7 +20,7 @@ The sign: Sereetz. The last exit before the Dreieck. Lübeck fully present - the
 Ausfahrt 19 - the exit ramp. The ordinary road below.
 
 ## Withheld
-The Brodtener Ufer. Three kilometres northeast — the only active chalk cliff on the western Baltic coast, eroding at around half a metre per year. The cliff does not stop. A Bronze Age settlement and a medieval harbour have already gone into the water. What stands on the edge today will not be there in a generation.
+The Brodtener Ufer. Three kilometres northeast - the only active chalk cliff on the western Baltic coast, eroding at around half a metre per year. The cliff does not stop. A Bronze Age settlement and a medieval harbour have already gone into the water. What stands on the edge today will not be there in a generation.
 
 ---
 

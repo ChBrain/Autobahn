@@ -18,7 +18,7 @@ The sign: Heiligenhafen-Mitte. The town of Heiligenhafen accessible from here - 
 Ausfahrt 6 - the exit ramp. The ordinary road below.
 
 ## Withheld
-The St. Nikolai church in Heiligenhafen has stood for 750 years. Its stepped gable tower shows clear Danish architectural influence — the brickwork style came south across the water at a time when this coast was Danish territory. The church is visible from the harbour. The border it reflects has not existed since 1864.
+The St. Nikolai church in Heiligenhafen has stood for 750 years. Its stepped gable tower shows clear Danish architectural influence - the brickwork style came south across the water at a time when this coast was Danish territory. The church is visible from the harbour. The border it reflects has not existed since 1864.
 
 ---
 

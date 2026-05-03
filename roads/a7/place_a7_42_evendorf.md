@@ -16,7 +16,7 @@ Small exit. The sign: Evendorf. Deep in the Heide now - the road a corridor thro
 Ausfahrt 42 - the exit ramp. The ordinary road below.
 
 ## Withheld
-The Heidehonig economy. In the Middle Ages nearly every farmstead in the Heide kept bees behind a Bienenzaun — a wicker fence enclosure. The honey was traded at Celle, the largest Heidehonig market in the region. The Heidschnucken and the bees were interdependent: the sheep ate the young heather shoots and trampled the spider webs in which the bees would otherwise become trapped. The honey cannot be extracted by spinning — it is gelatinous, requiring a spiked roller to loosen it from the comb before pressing. The open heath the driver is passing through is what made this economy possible. The road does not indicate the connection.
+The Heidehonig economy. In the Middle Ages nearly every farmstead in the Heide kept bees behind a Bienenzaun - a wicker fence enclosure. The honey was traded at Celle, the largest Heidehonig market in the region. The Heidschnucken and the bees were interdependent: the sheep ate the young heather shoots and trampled the spider webs in which the bees would otherwise become trapped. The honey cannot be extracted by spinning - it is gelatinous, requiring a spiked roller to loosen it from the comb before pressing. The open heath the driver is passing through is what made this economy possible. The road does not indicate the connection.
 
 ---
 

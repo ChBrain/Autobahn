@@ -16,7 +16,7 @@ The Öjendorf exit. The sign: Hamburg-Öjendorf. The city's eastern edge. The ro
 Ausfahrt 32 - the exit ramp. The ordinary road below.
 
 ## Withheld
-The Öjendorfer See lies south of the exit ramp, not visible from the carriageway and not indicated on the motorway signs. Between 1950 and 1953, around 25 million tonnes of rubble from Hamburg's bombed eastern districts were deposited into a former sand pit here — transported by a dedicated Trümmerbahn from Hamm and Horn. The rubble was graded, covered, and the pit filled with water. The park opened in 1968. The rodelberg — the sledging hill — is built on what the war left behind. The exit offers it. The road does not say so.
+The Öjendorfer See lies south of the exit ramp, not visible from the carriageway and not indicated on the motorway signs. Between 1950 and 1953, around 25 million tonnes of rubble from Hamburg's bombed eastern districts were deposited into a former sand pit here - transported by a dedicated Trümmerbahn from Hamm and Horn. The rubble was graded, covered, and the pit filled with water. The park opened in 1968. The rodelberg - the sledging hill - is built on what the war left behind. The exit offers it. The road does not say so.
 
 ---
 ---

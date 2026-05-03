@@ -16,7 +16,7 @@ The western Northeim exit. The sign: Northeim-West, B3. The second and last exit
 Ausfahrt 70 - the exit ramp. The ordinary road below.
 
 ## Withheld
-The road to Lutter. On 16 August 1626, the Danish king Christian IV marched his army — 16,000 infantry, 6,500 cavalry, 22 guns — from Wolfenbüttel via Seesen to Northeim, where Tilly's imperial forces stood before the town. Outnumbered, Tilly withdrew south toward Nörten-Hardenberg to wait for Wallenstein's reinforcements. Christian IV failed to pursue. Eleven days later, on 27 August, the two armies met at Lutter am Barenberge. Between 40,000 combatants and up to 8,000 dead — one of the bloodiest battles ever fought on Lower Saxon territory. The Protestant cause in northern Germany collapsed. The approach march passed through this exit's town. The road south still follows the same valley.
+The road to Lutter. On 16 August 1626, the Danish king Christian IV marched his army - 16,000 infantry, 6,500 cavalry, 22 guns - from Wolfenbüttel via Seesen to Northeim, where Tilly's imperial forces stood before the town. Outnumbered, Tilly withdrew south toward Nörten-Hardenberg to wait for Wallenstein's reinforcements. Christian IV failed to pursue. Eleven days later, on 27 August, the two armies met at Lutter am Barenberge. Between 40,000 combatants and up to 8,000 dead - one of the bloodiest battles ever fought on Lower Saxon territory. The Protestant cause in northern Germany collapsed. The approach march passed through this exit's town. The road south still follows the same valley.
 
 ---
 

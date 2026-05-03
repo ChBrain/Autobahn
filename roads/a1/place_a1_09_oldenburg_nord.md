@@ -18,7 +18,7 @@ The northern Oldenburg exit. The sign: Oldenburg in Holstein-Nord. Three exits f
 Ausfahrt 9 - the exit ramp. The ordinary road below.
 
 ## Withheld
-Starigard in Slavic, Oldenburg in Low German, Brandehuse in Norse — three names for the same place, all still legible. The first two mean the same thing: old castle. The third means burned houses. One culture translated the name they found. Another remembered something different entirely.
+Starigard in Slavic, Oldenburg in Low German, Brandehuse in Norse - three names for the same place, all still legible. The first two mean the same thing: old castle. The third means burned houses. One culture translated the name they found. Another remembered something different entirely.
 
 ---
 

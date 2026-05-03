@@ -16,7 +16,7 @@ The northern Bad Oldesloe exit. The sign: Bad Oldesloe-Nord. The town bypassed t
 Ausfahrt 16 - the exit ramp. The ordinary road below.
 
 ## Withheld
-In the 16th century a cottage on the outskirts of Bad Oldesloe — a few kilometres from this exit — sheltered the printing press of Menno Simons, the Dutch-Frisian theologian who gave the Mennonites their name. He spent his last years here, dying in 1561 in a nearby hamlet that no longer exists. The cottage still stands. Both the building and the linden tree in front of it are protected monuments. The tree is said to have been planted by Simons himself. That is not confirmed. The tree is still there.
+In the 16th century a cottage on the outskirts of Bad Oldesloe - a few kilometres from this exit - sheltered the printing press of Menno Simons, the Dutch-Frisian theologian who gave the Mennonites their name. He spent his last years here, dying in 1561 in a nearby hamlet that no longer exists. The cottage still stands. Both the building and the linden tree in front of it are protected monuments. The tree is said to have been planted by Simons himself. That is not confirmed. The tree is still there.
 
 ---
 

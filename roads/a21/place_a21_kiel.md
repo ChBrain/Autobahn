@@ -15,7 +15,7 @@ The planned northern terminus of the A21. Today: nothing on the ground for the A
 The connection to the Kiel road network and [the A215](place_a215.md). The Baltic coast, the Förde, the harbour.
 
 ## Withheld
-The Kieler Matrosenaufstand of 3 November 1918. The Kaiserliche Marine ordered a final death-or-glory sortie against the British fleet — the war was already lost — and forty thousand sailors and dockworkers refused. Within a week the mutiny became a revolution that crossed Germany; on 9 November the Kaiser abdicated and the Weimar Republic was declared. The political order of the empire ended in the harbour north of where this road would arrive. Sailors led the mutiny that ended the monarchy. The harbour is several kilometres further on, not visible from the road that does not yet exist.
+The Kieler Matrosenaufstand of 3 November 1918. The Kaiserliche Marine ordered a final death-or-glory sortie against the British fleet - the war was already lost - and forty thousand sailors and dockworkers refused. Within a week the mutiny became a revolution that crossed Germany; on 9 November the Kaiser abdicated and the Weimar Republic was declared. The political order of the empire ended in the harbour north of where this road would arrive. Sailors led the mutiny that ended the monarchy. The harbour is several kilometres further on, not visible from the road that does not yet exist.
 
 ---
 

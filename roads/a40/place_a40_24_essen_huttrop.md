@@ -13,6 +13,8 @@ Ausfahrt 24. km 63,9. Das Schild: Essen-Huttrop, Steele, B227.
 Rechts die Hohenburgstraße nach Huttrop und Steele. Lärmschutzwände. Wohnbebauung hinter den Wänden. 100 km/h.
 
 ## Holds
+[km 70.0](piece_the_kilometerstein.md): Essen-Huttrop.
+
 Die letzte Essen-Ausfahrt vor dem Industrieband. Danach: Kray, ThyssenKrupp, Wattenscheid, Stadtgrenze.
 
 ## Offers

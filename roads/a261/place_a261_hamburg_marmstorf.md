@@ -13,10 +13,10 @@ The Marmstorf/Lürade exit. The sign: Hamburg-Marmstorf/Lürade. The road descen
 - 3.3 km south: [Tötensen (Rosengarten)](place_a261_toetensen.md)
 
 ## Offers
-Ausfahrt — the exit ramp. Marmstorf and Lürade below.
+Ausfahrt - the exit ramp. Marmstorf and Lürade below.
 
 ## Withheld
-Every year on the last Sunday of January, the reigning Schützenkönig of the Marmstorfer Schützenverein and a prominent challenger wager to meet "trockenen Fußes" — dry-footed — at the centre of the Feuerteich. How they get there is up to them. In past years: homemade rafts, a cable car, a hot-air balloon, a crane, a Harley-Davidson ridden across frozen ice. The stake is €250 each; the wette always ends unentschieden; the money is donated. The exit serves this village. The road does not indicate the pond exists or what happens on it every January.
+Every year on the last Sunday of January, the reigning Schützenkönig of the Marmstorfer Schützenverein and a prominent challenger wager to meet "trockenen Fußes" - dry-footed - at the centre of the Feuerteich. How they get there is up to them. In past years: homemade rafts, a cable car, a hot-air balloon, a crane, a Harley-Davidson ridden across frozen ice. The stake is €250 each; the wette always ends unentschieden; the money is donated. The exit serves this village. The road does not indicate the pond exists or what happens on it every January.
 
 ---
 

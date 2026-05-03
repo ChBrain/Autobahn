@@ -5,7 +5,7 @@
 
 ## Deployment
 
-REMEMBER is a content module for the Autobahn world. It has no engine of its own — it runs on the Autobahn engine already deployed in `ChBrain/Autobahn`.
+REMEMBER is a content module for the Autobahn world. It has no engine of its own - it runs on the Autobahn engine already deployed in `ChBrain/Autobahn`.
 
 ### Folder Structure
 

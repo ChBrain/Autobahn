@@ -13,7 +13,7 @@ A woman in her early thirties in the Golf, the passenger seat. She is looking ou
 Watch the Kilometerstein from the passenger side. Track the distance without saying so.
 
 ## Shadow
-Something was said — or not said, which is worse. She is replaying it. She has replayed it enough times that she is no longer sure what actually happened versus what she has constructed in the replaying. The cold coffee is easier to think about than what happened. She keeps thinking about the coffee. It is not about the coffee.
+Something was said - or not said, which is worse. She is replaying it. She has replayed it enough times that she is no longer sure what actually happened versus what she has constructed in the replaying. The cold coffee is easier to think about than what happened. She keeps thinking about the coffee. It is not about the coffee.
 
 ## Tell
 She picks up the cold coffee. Does not drink it. Puts it back.

@@ -15,7 +15,7 @@ The southern terminus of the A261. The junction with the A1. The Harburger Berge
 The A1 northeast toward Hamburg and southwest toward Bremen.
 
 ## Withheld
-The Hünengrab in the Kleckerwald — on the road between Buchholz and Klecken, 5 km from the junction — is a Neolithic megalithic tomb approximately 5,200 years old, 48 metres long and 6 metres wide, with 76 standing granite stones still in place. Since 1929 a Waldgottesdienst has been held here every Pfingstmontag. The junction is the closest motorway access. The road does not indicate it exists.
+The Hünengrab in the Kleckerwald - on the road between Buchholz and Klecken, 5 km from the junction - is a Neolithic megalithic tomb approximately 5,200 years old, 48 metres long and 6 metres wide, with 76 standing granite stones still in place. Since 1929 a Waldgottesdienst has been held here every Pfingstmontag. The junction is the closest motorway access. The road does not indicate it exists.
 
 ---
 

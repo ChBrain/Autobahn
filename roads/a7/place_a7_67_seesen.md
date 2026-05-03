@@ -16,7 +16,7 @@ The Seesen exit. The sign: Seesen, B243. The Harz to the east - the massif prope
 Ausfahrt 67 - the exit ramp. The ordinary road below.
 
 ## Withheld
-The Battle of Lutter am Barenberge. Ten kilometres east — on 27 August 1626, Tilly's Catholic League forces destroyed the army of Christian IV of Denmark in one of the decisive engagements of the Thirty Years' War. Between 40,000 combatants and up to 8,000 dead, making it one of the bloodiest battles ever fought on Lower Saxon territory. The Protestant cause in northern Germany collapsed. Christian IV had marched through Northeim and Seesen just days before; Tilly had retreated south to await Wallenstein's reinforcements. The Danish king failed to press his advantage and paid for it at Lutter. The battlefield is marked. The exit reaches the road toward it.
+The Battle of Lutter am Barenberge. Ten kilometres east - on 27 August 1626, Tilly's Catholic League forces destroyed the army of Christian IV of Denmark in one of the decisive engagements of the Thirty Years' War. Between 40,000 combatants and up to 8,000 dead, making it one of the bloodiest battles ever fought on Lower Saxon territory. The Protestant cause in northern Germany collapsed. Christian IV had marched through Northeim and Seesen just days before; Tilly had retreated south to await Wallenstein's reinforcements. The Danish king failed to press his advantage and paid for it at Lutter. The battlefield is marked. The exit reaches the road toward it.
 
 ---
 

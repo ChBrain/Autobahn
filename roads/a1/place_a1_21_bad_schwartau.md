@@ -18,7 +18,7 @@ The sign: Bad Schwartau. The Lübeck suburb. The city of Lübeck begins here for
 Ausfahrt 21 - the exit ramp. The ordinary road below.
 
 ## Withheld
-In 1258 the Bishop of Lübeck established a *Siechenhaus* — a leper house — at Schwartau, on the road from Lübeck to Eutin. Up to twelve lepers lived there under monastic rules, considered civilly dead from the moment they entered. When leprosy disappeared in the 15th century the house became an almshouse. The Georgskapelle of 1508, built on the same foundations, still stands on the same spot and is still used for services.
+In 1258 the Bishop of Lübeck established a *Siechenhaus* - a leper house - at Schwartau, on the road from Lübeck to Eutin. Up to twelve lepers lived there under monastic rules, considered civilly dead from the moment they entered. When leprosy disappeared in the 15th century the house became an almshouse. The Georgskapelle of 1508, built on the same foundations, still stands on the same spot and is still used for services.
 The spa. Bad Schwartau is a Kurort - a designated spa town - for its brine springs. A town of 22,000 people with a spa designation, on the outskirts of a major city.
 
 ---

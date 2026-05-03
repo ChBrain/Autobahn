@@ -16,7 +16,7 @@ The Mellendorf exit. The sign: Mellendorf, Wedemark. The Hannover outer ring app
 Ausfahrt 52 - the exit ramp. The ordinary road below.
 
 ## Withheld
-The Scorpions. Klaus Meine and Matthias Jabs — vocalist and lead guitarist of the Scorpions — are from the Wedemark, the municipality whose administrative centre is Mellendorf, two kilometres from this exit. The band formed in Hannover in 1965 and sold over 100 million records. Wind of Change, recorded after the fall of the Berlin Wall, became one of the most-heard songs in German history. The exit sign says Mellendorf, Wedemark.
+The Scorpions. Klaus Meine and Matthias Jabs - vocalist and lead guitarist of the Scorpions - are from the Wedemark, the municipality whose administrative centre is Mellendorf, two kilometres from this exit. The band formed in Hannover in 1965 and sold over 100 million records. Wind of Change, recorded after the fall of the Berlin Wall, became one of the most-heard songs in German history. The exit sign says Mellendorf, Wedemark.
 
 ---
 

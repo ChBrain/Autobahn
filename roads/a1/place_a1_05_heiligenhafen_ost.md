@@ -18,7 +18,7 @@ The northern terminus of the A1. The sign: Heiligenhafen-Ost. The B207 arrives f
 Ausfahrt 5 - the exit ramp. The ordinary road below.
 
 ## Withheld
-In 1881 the writer Theodor Storm stayed in Heiligenhafen and wrote his novella Hans und Heinz Kirch here — set in the town, about the harbour and the sea. The exit leads to that same harbour. Storm is buried in Husum, on the other coast. He came east once, and left a book.
+In 1881 the writer Theodor Storm stayed in Heiligenhafen and wrote his novella Hans und Heinz Kirch here - set in the town, about the harbour and the sea. The exit leads to that same harbour. Storm is buried in Husum, on the other coast. He came east once, and left a book.
 
 ---
 

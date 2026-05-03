@@ -18,7 +18,7 @@ Ausfahrt 1 - the exit ramp.
 
 
 ## Withheld
-Horn was a border village for four centuries. From 1460, when Holstein became a Danish duchy, the frontier ran through this district — a street still called Letzter Heller marking the point where Hamburg's jurisdiction ended and Danish territory began. Wealthy Hamburg merchants who built their country houses here in the 17th century were building at the absolute limit of the city they came from, with Denmark starting just beyond their gardens. The racecourse arrived in 1869. Horn was absorbed into Hamburg in 1883. The border that defined it for 414 years was a street name by then.
+Horn was a border village for four centuries. From 1460, when Holstein became a Danish duchy, the frontier ran through this district - a street still called Letzter Heller marking the point where Hamburg's jurisdiction ended and Danish territory began. Wealthy Hamburg merchants who built their country houses here in the 17th century were building at the absolute limit of the city they came from, with Denmark starting just beyond their gardens. The racecourse arrived in 1869. Horn was absorbed into Hamburg in 1883. The border that defined it for 414 years was a street name by then.
 
 ---
 
