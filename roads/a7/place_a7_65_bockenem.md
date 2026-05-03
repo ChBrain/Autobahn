@@ -20,4 +20,4 @@ The 1,000-year-old linden tree. In Bockenem's old village square - a torso of a 
 
 ---
 
-v0.2.2 - KAI Worlds
+v0.2.3 - KAI Worlds

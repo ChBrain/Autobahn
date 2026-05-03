@@ -22,3 +22,6 @@ jobs:
         env:
           GITHUB_EVENT_PATH: ${{ github.event_path }}
         run: python scripts/validate_version_bump.py
+
+      - name: Validate no German language bleed
+        run: python scripts/validate_german_bleed.py

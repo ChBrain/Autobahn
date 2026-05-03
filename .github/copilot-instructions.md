@@ -65,13 +65,14 @@ Quick summary:
 
 5. **Pre-commit hook validates**:
    - ✓ Version bump matches declared type (PATCH/MINOR/MAJOR)
+   - ✓ No German language bleed detected
    - ✗ Rejects scope creep (declared PATCH, bumped MINOR)
 
 6. **Open PR and merge**:
    ```bash
    git push -u origin feat/my-change
    ```
-   CI validates version bump rules, all tests pass, merge to main.
+   CI validates version bump rules, no German language bleed, all tests pass, merge to main.
 
 7. **(For MINOR/MAJOR only) Create GitHub release**:
    - Patch bumps are already done - version merged to main
@@ -114,6 +115,18 @@ Single author-facing rule: **every file basename in the world is unique.**
 ## Style
 
 - Do not use em dashes anywhere in this repository (place files, ARCHITECTURE, README, copilot-instructions, anything else). Use a hyphen (`-`) or rephrase.
+
+## Content standards
+
+**Language:** All place files must be in English. German proper names (Eigenname) and place names are acceptable, but German language content (sentences, phrases, and German-specific terminology) is not.
+
+Examples:
+- ✓ Allowed: "Ratzeburg is a city on the border"
+- ✓ Allowed: "Named after Friedrich Franz I"
+- ✗ Not allowed: "1949 bis 1990 verlief die Grenze..." (German sentence)
+- ✗ Not allowed: "Der Krieg hat die Stadt..." (German language content)
+
+The validator (`scripts/validate_german_bleed.py`) detects German verb phrases and language-specific terms. It is run automatically on all PRs as part of CI validation.
 
 ## File standards
 

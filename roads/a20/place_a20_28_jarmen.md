@@ -20,4 +20,4 @@ Von 1720 bis 1815 war Jarmen preußische Grenzstadt -- die Peene trennte Preußi
 
 ---
 
-v0.2.1 - KAI Worlds
+v0.2.2 - KAI Worlds

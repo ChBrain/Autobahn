@@ -23,5 +23,5 @@ The RAF destroyed two thirds of Kiel's city centre on 13 May 1943. The rebuildin
 
 ---
 
-v0.2.2 - KAI Worlds
+v0.2.3 - KAI Worlds
 

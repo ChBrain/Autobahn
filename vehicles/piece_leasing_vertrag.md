@@ -28,4 +28,4 @@ The excess kilometre charge is in the contract. Most Drivers do not read that pa
 ---
 
 *piece_leasing_vertrag.md - 15.04.2026*
-*v0.2.2 - KAI Worlds / Autobahn*
+*v0.2.3 - KAI Worlds / Autobahn*

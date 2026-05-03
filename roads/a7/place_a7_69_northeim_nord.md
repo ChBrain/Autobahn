@@ -20,4 +20,4 @@ Otto von Northeim. The town takes its name from his family. He was Duke of Bavar
 
 ---
 
-v0.2.2 - KAI Worlds
+v0.2.3 - KAI Worlds

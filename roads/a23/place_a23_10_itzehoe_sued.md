@@ -23,5 +23,5 @@ Krempe, twelve kilometres south-southwest. A town of 1,500 with a complete medie
 
 ---
 
-v0.2.2 - KAI Worlds
+v0.2.3 - KAI Worlds
 

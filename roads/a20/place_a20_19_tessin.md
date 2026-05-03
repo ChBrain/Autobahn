@@ -22,4 +22,4 @@ Who rebuilt the land afterward was Friedrich Franz I. -- Duke from 1785, first G
 
 ---
 
-v0.2.1 - KAI Worlds
+v0.2.2 - KAI Worlds

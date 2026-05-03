@@ -20,4 +20,4 @@ Kloster Brunshausen. Ten kilometres east near Bad Gandersheim - in 852 the Saxon
 
 ---
 
-v0.2.2 - KAI Worlds
+v0.2.3 - KAI Worlds

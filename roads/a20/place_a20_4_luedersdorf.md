@@ -16,8 +16,8 @@ The sign: Lüdersdorf. The first exit in Mecklenburg-Vorpommern after the state 
 Ausfahrt 4 - the exit ramp toward Lüdersdorf and Ratzeburg.
 
 ## Withheld
-Wenige Kilometer westlich liegt der Schaalsee -- ein geteilter See. Von 1949 bis 1990 verlief die innerdeutsche Grenze mitten durch das Wasser: BRD-Westufer, DDR-Ostufer. Das Sperrgebiet auf der Ostseite durfte nicht betreten werden. Dörfer wurden abgerissen. Natur wuchs ungestört. Heute ist das gesamte Gebiet UNESCO-Biosphärenreservat. Was die Grenze schützte, schützt jetzt das Schutzgebiet. Der See ist noch da. Die Grenze nicht.
+A few kilometers to the west lies Lake Schaalsee -- a divided lake. From 1949 to 1990, the inner-German border ran through the middle of the water: West German shore, East German shore. The restricted zone on the eastern side could not be entered. Villages were torn down. Nature grew undisturbed. Today the entire area is a UNESCO Biosphere Reserve. What the border protected, now the protected area protects. The lake is still there. The border is not.
 
 ---
 
-v0.2.1 - KAI Worlds
+v0.2.2 - KAI Worlds

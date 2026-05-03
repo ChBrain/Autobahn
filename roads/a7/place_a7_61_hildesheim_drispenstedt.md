@@ -20,4 +20,4 @@ The Bernward Column and the Hildesheim Rose. In the cathedral: a bronze column c
 
 ---
 
-v0.2.2 - KAI Worlds
+v0.2.3 - KAI Worlds

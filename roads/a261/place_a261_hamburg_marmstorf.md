@@ -20,4 +20,4 @@ Every year on the last Sunday of January, the reigning Schützenkönig of the Ma
 
 ---
 
-v0.2.2 - KAI Worlds
+v0.2.3 - KAI Worlds

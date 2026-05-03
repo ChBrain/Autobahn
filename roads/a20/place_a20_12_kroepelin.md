@@ -22,4 +22,4 @@ Nördlich, ein paar Kilometer, liegt die Küste. In der DDR Sperrgebiet -- kein 
 
 ---
 
-v0.2.1 - KAI Worlds
+v0.2.2 - KAI Worlds

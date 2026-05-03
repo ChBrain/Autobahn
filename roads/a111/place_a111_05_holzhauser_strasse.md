@@ -23,4 +23,4 @@ Was die Umleitung bedeutet. Wenn Ausfahrt 4 oder der Tunnel gesperrt sind: Holzh
 ---
 
 *place_a111_05_holzhauser_strasse.md - 13.04.2026*
-*v0.2.2 - KAI Worlds / Autobahn Aktuell*
+*v0.2.3 - KAI Worlds / Autobahn Aktuell*

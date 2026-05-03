@@ -22,4 +22,4 @@ Along the Recknitz, a few kilometers to the west, lies a Slavic fortress wall fr
 
 ---
 
-v0.2.1 - KAI Worlds
+v0.2.2 - KAI Worlds

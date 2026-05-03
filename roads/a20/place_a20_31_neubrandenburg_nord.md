@@ -22,4 +22,4 @@ Sie stehen noch heute -- Stargarder Tor, Treptower Tor, Friedländer Tor, Neues 
 
 ---
 
-v0.2.1 - KAI Worlds
+v0.2.2 - KAI Worlds

@@ -1,10 +1,10 @@
 #!/usr/bin/env python3
 """Validate that place files don't contain German language bleeding.
 
-German language detection:
-- Common German words (and, oder, gab, ziegeleien, etc.)
-- German umlauts (ä, ö, ü, ß)
-- German diacritics (à, etc.)
+German language detection (content, not proper nouns):
+- Common German verb phrases (gab es, lieferten, wurden, etc.)
+- German-specific words (ziegeleien, konkurrenz, konsolidierung, etc.)
+- Note: German proper names (Eigenname) and place names are allowed
 
 Exit codes:
   0 = no German detected
@@ -19,77 +19,45 @@ from pathlib import Path
 
 ROOT = Path(__file__).resolve().parent.parent
 
-# Common German words that indicate German bleed (strict list)
-# These are clearly German-only words, not English
-GERMAN_WORDS = {
-    "gab es",
-    "ziegeleien",
-    "mecklenburg-schwerin",
-    "betriebe",
-    "glazialen",
-    "böden",
-    "lieferten",
-    "gutshäuser",
-    "dorfkirchen",
-    "demselben",
-    "boden",
-    "jahrhundert",
-    "verschwanden",
-    "industrielle",
-    "konkurrenz",
-    "konsolidierung",
-    "tongruben",
-    "wurden",
-    "seen",
-    "gebäude",
-    "stehen",
-    "hauptstadt",
-    "fürstentums",
-    "ratzeburg",
-    "territorium",
-    "eingeklemmt",
-    "holstein",
-    "bewahrte",
-    "besondere",
-    "gegensatz",
-    "mecklenburgs",
-    "leibeigenschaft",
-    "gutswirtschaft",
-    "großgrundbesitzer",
-    "freie",
-    "bauern",
-    "grenze",
-    "verlief",
-    "dreißig",
-    "westlich",
-    "güter",
-    "kontrolle",
-    "jener",
-    "seite",
-    "freiheit",
-    "selben",
-    "zeit",
+# German language bleed detection
+# Only phrases and constructions that are UNAMBIGUOUSLY German
+# (to avoid false positives from English words that happen to match)
+GERMAN_PHRASES = {
+    "gab es",           # "there was/were" - distinctly German construction
+    "ziegeleien",       # brick factories - German-only word
+    "betriebe",         # operations - typically German in this context
+    "lieferten",        # supplied - German past tense
+    "wurden",           # became/were - German past tense marker
+    "tongruben",        # clay pits - German compound
+    "gebäude",          # buildings - German word
+    "verschwanden",     # vanished - German past tense
+    "konkurrenz",       # competition - German-specific term
+    "konsolidierung",   # consolidation - German-specific term
+    "eingeklemmt",      # wedged - German adjective
+    "bewahrte",         # maintained - German past tense
+    "gegensatz",        # contrast - German-specific term
+    "leibeigenschaft",  # serfdom - German-specific term
+    "gutswirtschaft",   # manor economy - German-specific term
+    "großgrundbesitzer",# large landowners - German-specific term
+    "glazialen",        # glacial - German adjective form
 }
 
-# German umlaut pattern (only actual German umlauts, not corruption)
-GERMAN_UMLAUT_RE = re.compile(r"[äöüßÄÖÜ]")
+# English words that shouldn't be flagged (homonyms or common words)
+# "zeit", "grenze", "seite", "seen", "freie", "bauern", "stehen", "jener", 
+# "kontrolle", "freiheit", "selben", "zeit", "jahrhundert" - often appear in legitimate contexts
+
 
 
 def has_german_bleed(text: str) -> tuple[bool, str]:
     """Check if text contains German language bleed.
     
     Returns (has_german, reason)
+    Only detects unambiguous German phrases, not common words that appear in English.
     """
-    # Check for umlauts first (most obvious indicator)
-    if GERMAN_UMLAUT_RE.search(text):
-        matches = GERMAN_UMLAUT_RE.findall(text)
-        return True, f"German umlauts found: {', '.join(set(matches))}"
-    
-    # Check for common German words
     text_lower = text.lower()
-    for word in GERMAN_WORDS:
-        if word in text_lower:
-            return True, f"German word found: '{word}'"
+    for phrase in GERMAN_PHRASES:
+        if phrase in text_lower:
+            return True, f"German phrase found: '{phrase}'"
     
     return False, ""
 

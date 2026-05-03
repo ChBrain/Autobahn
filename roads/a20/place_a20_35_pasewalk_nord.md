@@ -20,4 +20,4 @@ Die mittelalterliche Stadtmauer war 2.488 Meter lang -- mit über 60 Wiekhäuser
 
 ---
 
-v0.2.1 - KAI Worlds
+v0.2.2 - KAI Worlds

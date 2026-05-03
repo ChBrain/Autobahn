@@ -21,4 +21,4 @@ A commitment exists that did not exist before. It is named in the minister's pie
 ---
 
 *process_run_office.md: 01.05.2026*
-*v0.2.2 - KAI Worlds*
+*v0.2.3 - KAI Worlds*

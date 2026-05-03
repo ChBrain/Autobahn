@@ -22,4 +22,4 @@ Auf der anderen Seite der Warnow liegt der Überseehafen -- in der DDR das Tor z
 
 ---
 
-v0.2.1 - KAI Worlds
+v0.2.2 - KAI Worlds

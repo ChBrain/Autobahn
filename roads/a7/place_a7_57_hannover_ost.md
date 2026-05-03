@@ -21,4 +21,4 @@ Leibniz. Gottfried Wilhelm Leibniz spent 40 years in Hannover - as librarian, pr
 
 ---
 
-v0.2.2 - KAI Worlds
+v0.2.3 - KAI Worlds

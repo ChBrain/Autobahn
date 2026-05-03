@@ -20,4 +20,4 @@ In 1895, there were 236 brick factories in Mecklenburg-Schwerin -- small operati
 
 ---
 
-v0.2.1 - KAI Worlds
+v0.2.2 - KAI Worlds

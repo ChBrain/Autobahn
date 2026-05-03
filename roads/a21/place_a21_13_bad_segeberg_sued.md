@@ -20,4 +20,4 @@ The amphitheatre below the Kalkberg was opened on 10 October 1937 by Joseph Goeb
 
 ---
 
-v0.2.2 - KAI Worlds
+v0.2.3 - KAI Worlds
