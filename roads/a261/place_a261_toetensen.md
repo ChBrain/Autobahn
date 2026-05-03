@@ -20,4 +20,4 @@ The Wildpark Schwarze Berge - over 1,000 animals across around 100 species, incl
 
 ---
 
-v0.2.3 - KAI Worlds
+v0.2.4 - KAI Worlds

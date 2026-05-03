@@ -22,4 +22,4 @@ Dreizehn Kilometer nordwestlich liegt Poel. Eine flache Insel, ein Dorf, ein Dam
 
 ---
 
-v0.2.2 - KAI Worlds
+v0.2.3 - KAI Worlds

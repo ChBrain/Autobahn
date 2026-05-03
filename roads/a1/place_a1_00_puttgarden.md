@@ -19,4 +19,4 @@ Two heads of state opened this terminal in May 1963 - Danish King Frederik IX an
 
 ---
 
-v0.2.3 - KAI Worlds
+v0.2.4 - KAI Worlds

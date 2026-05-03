@@ -22,4 +22,4 @@ In 1760 the pastor here, a man named Hartmann, made Lensahn a wedding destinatio
 
 ---
 
-v0.2.3 - KAI Worlds
+v0.2.4 - KAI Worlds

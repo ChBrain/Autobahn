@@ -20,4 +20,4 @@ The Rolandsbrunnen. In Bad Bramstedt town centre stands a medieval Roland statue
 
 ---
 
-v0.2.3 - KAI Worlds
+v0.2.4 - KAI Worlds

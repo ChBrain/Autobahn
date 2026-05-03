@@ -23,5 +23,5 @@ Friedrichstadt. A Dutch city on the Eider, thirty kilometres northwest. Built 16
 
 ---
 
-v0.2.3 - KAI Worlds
+v0.2.4 - KAI Worlds
 

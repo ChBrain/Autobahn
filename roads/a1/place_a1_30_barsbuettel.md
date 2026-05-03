@@ -20,4 +20,4 @@ Barsbüttel was first documented in 1228 as *Bernekesbutle* - a Low German compo
 
 ---
 
-v0.2.3 - KAI Worlds
+v0.2.4 - KAI Worlds

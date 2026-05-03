@@ -20,4 +20,4 @@ The road to Lutter. On 16 August 1626, the Danish king Christian IV marched his 
 
 ---
 
-v0.2.3 - KAI Worlds
+v0.2.4 - KAI Worlds

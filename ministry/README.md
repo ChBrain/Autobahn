@@ -41,4 +41,4 @@ The world exists so the decisions that built and broke the German transport netw
 *Kai Schlueter - KAI HACKS AI - 2026*
 *CC BY-NC 4.0*
 *KAI Worlds - github.com/ChBrain/Autobahn*
-*v0.2.3 - KAI Worlds*
+*v0.2.4 - KAI Worlds*

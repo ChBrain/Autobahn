@@ -18,4 +18,4 @@ The Völklinger Hütte: the former iron and steel works on the Saar, visible fro
 
 ---
 
-v0.2.3 - KAI Worlds
+v0.2.4 - KAI Worlds

@@ -22,4 +22,4 @@ Ernst Moritz Arndt wurde 1769 auf Rügen geboren, lehrte in Greifswald -- sein G
 
 ---
 
-v0.2.2 - KAI Worlds
+v0.2.3 - KAI Worlds

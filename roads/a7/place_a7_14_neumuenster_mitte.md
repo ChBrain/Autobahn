@@ -20,4 +20,4 @@ The Stadtpark. Two kilometres east, a formal park laid out in the 1860s with a l
 
 ---
 
-v0.2.3 - KAI Worlds
+v0.2.4 - KAI Worlds

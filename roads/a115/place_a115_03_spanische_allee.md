@@ -26,4 +26,4 @@ This was also the entrance to West Berlin. Those who came on the transit route f
 ---
 
 *place_a115_03_spanische_allee.md - 13.04.2026*
-*v0.2.3 - KAI Worlds / Autobahn Aktuell*
+*v0.2.4 - KAI Worlds / Autobahn Aktuell*

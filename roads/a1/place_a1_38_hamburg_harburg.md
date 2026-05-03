@@ -20,4 +20,4 @@ The Horeburg - the medieval fortress that gave Harburg its name - was first docu
 ---
 ---
 
-v0.2.3 - KAI Worlds
+v0.2.4 - KAI Worlds

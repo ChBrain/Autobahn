@@ -26,4 +26,4 @@ The reparations obligation. Soviet freight movements through DDR territory take 
 *place_mfv_ddr_franzosische_strasse.md: 01.05.2026*
 *v0.1.0: REMEMBER*
 
-v0.2.3 - KAI Worlds
+v0.2.4 - KAI Worlds

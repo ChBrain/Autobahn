@@ -20,4 +20,4 @@ Bevor Gützkow eine Stadt war, war es ein Heiligtum. Slawischer Tempel, Fürsten
 
 ---
 
-v0.2.2 - KAI Worlds
+v0.2.3 - KAI Worlds

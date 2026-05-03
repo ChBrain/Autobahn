@@ -21,4 +21,4 @@ Stillhorn - the island the service stop is named after - was a separate Elbe isl
 ---
 ---
 
-v0.2.3 - KAI Worlds
+v0.2.4 - KAI Worlds

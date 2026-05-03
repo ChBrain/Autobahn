@@ -22,4 +22,4 @@ Die Leere drumherum ist kein Unfall. Mecklenburg wurde nie dicht besiedelt -- ni
 
 ---
 
-v0.2.2 - KAI Worlds
+v0.2.3 - KAI Worlds

@@ -51,4 +51,4 @@ The architecture is defined in [stack.md](stack.md).
 
 *instructions.md - 01.04.2026*
 
-v0.2.3 - KAI Worlds
+v0.2.4 - KAI Worlds

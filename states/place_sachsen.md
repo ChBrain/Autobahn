@@ -18,4 +18,4 @@ Dresden from the A4 bridge: the Frauenkirche and the Altstadt visible for approx
 
 ---
 
-v0.2.3 - KAI Worlds
+v0.2.4 - KAI Worlds

@@ -22,4 +22,4 @@ From 1695-1697, Mayor Johannes Flittner pursued women for witchcraft -- at least
 
 ---
 
-v0.2.2 - KAI Worlds
+v0.2.3 - KAI Worlds

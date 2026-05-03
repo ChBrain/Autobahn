@@ -20,4 +20,4 @@ The port that three powers fought to hold. Wismar's natural harbour made it one 
 
 ---
 
-v0.2.2 - KAI Worlds
+v0.2.3 - KAI Worlds

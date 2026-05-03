@@ -20,4 +20,4 @@ She checks the navigation ETA for the fourth time in twenty minutes. The number 
 
 ---
 
-v0.2.3 - KAI Worlds
+v0.2.4 - KAI Worlds
