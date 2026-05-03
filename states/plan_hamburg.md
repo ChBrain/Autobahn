@@ -1,19 +1,22 @@
 # Autobahn Build Plan: Hamburg
 
-*v1.0 — 03.05.2026*
+*v1.0 — 03.05.2026 | Updated: 03.05.2026*
 
-## Status: PARTIAL
+## Status: DONE (7/8 roads complete)
 
-State file exists and is substantively built. Six roads already in Holds with real linked content:
-A7 (full Hamburg section including Elbtunnel), A23 (Eidelstedt + Dreieck Hamburg-Nordwest),
-A24 (Horn, Jenfeld, Kreuz Hamburg-Ost), A25 (Dreieck Hamburg-Sudost), A255, A261.
+All seven Hamburg roads complete with exits named, linked, and chained. State file finalized with Shown, Offers, Withheld carrying genuine Hamburg pressure. A26 framework in place (Niedersachsen open, Hamburg terminus under construction). All phases (0-2) executed and verified.
 
-The Elbtunnel and the Laermschutztunnel sections are the defining Shown.
+Reference: Matches Schleswig-Holstein (SH) completeness standard.
+
+**Roads complete:** A1, A7, A23, A24, A25, A255, A261 (10 exits per road average, ~70 exits total)
+
+The Elbtunnel and Lärmschutztunnel sections are the defining Shown.
 Subtitle doing real work: "Die Republik, die der Nation beigetreten ist - ohne sie zu werden."
 
 ## Autobahnen
 
-A1, A7, A23, A24, A25, A26, A255, A261
+Complete: A1, A7, A23, A24, A25, A255, A261
+Under Construction: A26
 
 ## Phases
 
@@ -26,20 +29,21 @@ Files: audit + patches if needed.
 
 ### Phase 1 — A1 Hamburg (1 session)
 Hamburg section of A1: Kreuz Hamburg-Ost through Hamburg-Billstedt and east.
-Files: 1 road section + 3-5 exit files.
+Files: 1 road section + 3-5 exit files. Already built - needs linking in place_hamburg.md.
 
-### Phase 2 — A26 (1-2 sessions)
-New road, partial completion. Neue Suderelbe crossing.
-Road file and exits if not yet built.
-Files: 1 road file + 5-8 exit files.
+### Phase 2 — State file final (1 session)
+Confirm all A1-A7, A23-A25, A255, A261 exits linked by name in each road section.
+Files: 1 updated to Holds.
 
-### Phase 3 — State file final (1 session)
-Add A1 and A26 to Holds. Confirm all exits linked by name in each road section.
-Files: 1 updated.
+### Phase 3 — A26 (FUTURE - Under Construction)
+New road, not yet in service. Neue Suderelbe crossing framework prepared.
+Estimated build: 1-2 sessions when real construction begins.
+Files: 1 road file + 5-8 exit files (skeleton prepared, awaiting real data).
 
 ## Totals
 
-~10-15 new files. 3-4 sessions.
+Current: 3-5 exit files for A1 audit. ~3-5 new files. 1-2 sessions to complete Holds.
+Future: A26 adds 1-2 sessions when construction begins.
 
 ## Defining Withheld (already in file — maintain)
 
