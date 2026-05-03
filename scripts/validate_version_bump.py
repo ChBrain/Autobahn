@@ -38,8 +38,9 @@ def parse_version(s: str) -> tuple[int, int, int] | None:
 def get_current_version() -> tuple[int, int, int] | None:
     """Get version from main branch."""
     try:
+        # Check autobahn.md first (root file with version)
         result = subprocess.run(
-            ["git", "show", "origin/main:ARCHITECTURE.md"],
+            ["git", "show", "origin/main:autobahn.md"],
             cwd=ROOT,
             capture_output=True,
             text=True,
