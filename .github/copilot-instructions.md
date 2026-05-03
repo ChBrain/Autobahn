@@ -1,19 +1,5 @@
 # Autobahn - Copilot Instructions
 
-## Release Agent
-
-For releases, use the `@autobahn-release` agent instead of the default agent. It enforces approval gates and prevents accidental bypasses:
-
-```
-/autobahn-release
-@autobahn-release please release X.Y.Z
-```
-
-This agent requires explicit user approval before:
-- Merging any PR
-- Creating release tags
-- Creating GitHub Releases
-
 ## Git workflow
 
 **Before any file edit:**
@@ -74,10 +60,13 @@ Quick summary:
    ```
    CI validates version bump rules, no German language bleed, all tests pass, merge to main.
 
-7. **(For MINOR/MAJOR only) Create GitHub release**:
-   - Patch bumps are already done - version merged to main
-   - Minor/major releases: create GitHub release with tag (v0.3.0)
-   - Release workflow syncs versions and deploys
+7. **Release ceremony** (after merge to main):
+   ```bash
+   gh release create v0.3.0 --title "v0.3.0" --notes "Release notes here"
+   ```
+   - For PATCH releases: tag is v0.X.Y (already merged)
+   - For MINOR/MAJOR releases: creates GitHub Release, which triggers release.yml
+   - Release workflow syncs versions, generates deployment assets, and deploys
 
 ## Versioning
 
