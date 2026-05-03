@@ -17,7 +17,7 @@ Exit 60. A junction. The A39 branching south toward Braunschweig and Salzgitter.
 The A7 south toward Hildesheim and Göttingen. [The A39](place_a39.md) southeast toward Braunschweig.
 
 ## Withheld
-Herrenhausen. Seven kilometres northwest — the Großer Garten begun in 1666, the best-preserved early Baroque garden in Germany. Leibniz walked its grounds for four decades. George I of Great Britain is buried in the Berggarten mausoleum — he died in 1727 returning to Hannover and was interred there rather than in Westminster Abbey. The garden was where the Electress Sophia, who would have become Queen of England had she outlived Queen Anne, spent her final years. She died in the garden in 1714, six weeks before Anne. Her son became George I. The junction leads south. The garden is behind.
+Herrenhausen. Seven kilometres northwest - the Großer Garten begun in 1666, the best-preserved early Baroque garden in Germany. Leibniz walked its grounds for four decades. George I of Great Britain is buried in the Berggarten mausoleum - he died in 1727 returning to Hannover and was interred there rather than in Westminster Abbey. The garden was where the Electress Sophia, who would have become Queen of England had she outlived Queen Anne, spent her final years. She died in the garden in 1714, six weeks before Anne. Her son became George I. The junction leads south. The garden is behind.
 
 ---
 

@@ -17,7 +17,7 @@ Exit 48. A junction. The A27 branching west toward Walsrode and Bremen. The A7 c
 The A7 south toward Hannover. [The A27](place_a27.md) west toward Walsrode and Bremen.
 
 ## Withheld
-Kloster Walsrode. In the town centre — a women's foundation established in the 10th century by Count Walo and his wife Odelint, first documented in a royal deed of King Otto III in 986. The oldest foundation in the former Principality of Lüneburg by a considerable margin. The Benedictine rule was introduced in 1255; a lightning strike burned most of it in 1482; it survived the Reformation as a Lutheran Damenstift rather than being dissolved. It is still occupied. A stone figure of the founder Walo, carved around 1300, still stands in the chapel. The junction reaches the town.
+Kloster Walsrode. In the town centre - a women's foundation established in the 10th century by Count Walo and his wife Odelint, first documented in a royal deed of King Otto III in 986. The oldest foundation in the former Principality of Lüneburg by a considerable margin. The Benedictine rule was introduced in 1255; a lightning strike burned most of it in 1482; it survived the Reformation as a Lutheran Damenstift rather than being dissolved. It is still occupied. A stone figure of the founder Walo, carved around 1300, still stands in the chapel. The junction reaches the town.
 
 ---
 

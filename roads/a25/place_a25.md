@@ -4,7 +4,7 @@
 - Project: Autobahn
 
 ## Shown
-18 km. Two lanes per direction. The A25 runs from [Dreieck Hamburg-Südost](place_a25_dreieck_hamburg_suedost.md) in the west — where it meets the A1 — to [Geesthacht](place_a25_7_geesthacht.md) in the east. Exits 1–6 are within Hamburg. Exit 7 Geesthacht is in Schleswig-Holstein (Kreis Herzogtum Lauenburg). The road follows the north bank of the Elbe through the Hamburg Marsch before reaching the Geest edge at the SH border.
+18 km. Two lanes per direction. The A25 runs from [Dreieck Hamburg-Südost](place_a25_dreieck_hamburg_suedost.md) in the west - where it meets the A1 - to [Geesthacht](place_a25_7_geesthacht.md) in the east. Exits 1-6 are within Hamburg. Exit 7 Geesthacht is in Schleswig-Holstein (Kreis Herzogtum Lauenburg). The road follows the north bank of the Elbe through the Hamburg Marsch before reaching the Geest edge at the SH border.
 
 ## Holds
 * [km TBD](piece_the_kilometerstein.md): [Dreieck Hamburg-Südost](place_a25_dreieck_hamburg_suedost.md).

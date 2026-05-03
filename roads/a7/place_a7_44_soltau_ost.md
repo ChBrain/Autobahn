@@ -16,7 +16,7 @@ The eastern Soltau exit. The sign: Soltau-Ost, B3. The Heide thinning toward the
 Ausfahrt 44 - the exit ramp. The ordinary road below.
 
 ## Withheld
-The Battle of Soltau, 28 June 1519. On the heath south of here, a Brunswick army — exhausted from a forced march and burdened with an estimated thousand wagons of plunder — was caught and routed by Lüneburg forces in what some sources call the last knights' battle in Germany. The climax of the Hildesheim Diocesan Feud, a Welf-against-Welf conflict entangled with the imperial election of Charles V. An information hut marks the field at Wiedingen. A mural of the battle is on the council building in Soltau. The exit reaches both.
+The Battle of Soltau, 28 June 1519. On the heath south of here, a Brunswick army - exhausted from a forced march and burdened with an estimated thousand wagons of plunder - was caught and routed by Lüneburg forces in what some sources call the last knights' battle in Germany. The climax of the Hildesheim Diocesan Feud, a Welf-against-Welf conflict entangled with the imperial election of Charles V. An information hut marks the field at Wiedingen. A mural of the battle is on the council building in Soltau. The exit reaches both.
 
 ---
 

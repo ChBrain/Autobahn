@@ -6,7 +6,7 @@
 
 
 ## Shown
-The sign: Melsdorf. The last ordinary exit before Kiel. The city fully present — the Kieler Förde approaching to the east.
+The sign: Melsdorf. The last ordinary exit before Kiel. The city fully present - the Kieler Förde approaching to the east.
 
 ## Holds
 [km 25.5](piece_the_kilometerstein.md): Melsdorf.
@@ -19,7 +19,7 @@ Ausfahrt 6 - the exit ramp.
 
 
 ## Withheld
-The old military road from Kiel to Rendsburg ran through here. Carters on that road in wet weather called it purgatory — "dat reinste Fegfüer" — and one of the Melsdorf hamlets still carries the name Fegefeuer today. In 1885 and the years following, around 20 thatched farmsteads along the same road burned down. Arson was widely suspected but never proven. The village that rebuilt was a different one — it became an independent municipality in 1899, after six centuries as part of Gut Quarnbek's estate. The A210 now runs the same corridor.
+The old military road from Kiel to Rendsburg ran through here. Carters on that road in wet weather called it purgatory - "dat reinste Fegfüer" - and one of the Melsdorf hamlets still carries the name Fegefeuer today. In 1885 and the years following, around 20 thatched farmsteads along the same road burned down. Arson was widely suspected but never proven. The village that rebuilt was a different one - it became an independent municipality in 1899, after six centuries as part of Gut Quarnbek's estate. The A210 now runs the same corridor.
 
 ---
 

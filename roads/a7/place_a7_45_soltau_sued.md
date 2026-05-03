@@ -16,7 +16,7 @@ The southern Soltau exit. The sign: Soltau-Süd. The second and last exit for So
 Ausfahrt 45 - the exit ramp. The ordinary road below.
 
 ## Withheld
-The Böhme. The river leaves Soltau westward from this exit, running 65 kilometres to the Aller at Verden. At Verden in 782, Charlemagne had 4,500 Saxon prisoners executed in a single day — the Massacre of Verden, the bloodiest episode of the Saxon Wars, the moment that broke organised Saxon resistance to Frankish conquest. The water passing under this road reaches that ground. The exit sign says Soltau-Süd.
+The Böhme. The river leaves Soltau westward from this exit, running 65 kilometres to the Aller at Verden. At Verden in 782, Charlemagne had 4,500 Saxon prisoners executed in a single day - the Massacre of Verden, the bloodiest episode of the Saxon Wars, the moment that broke organised Saxon resistance to Frankish conquest. The water passing under this road reaches that ground. The exit sign says Soltau-Süd.
 
 ---
 

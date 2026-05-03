@@ -17,7 +17,7 @@ Exit 57. A major junction. The A2 crossing east-west - Berlin to the east, Dortm
 The A7 south. [The A2](place_a2.md) east toward Berlin, west toward Dortmund and the Ruhrgebiet.
 
 ## Withheld
-Leibniz. Gottfried Wilhelm Leibniz spent 40 years in Hannover — as librarian, privy councillor, and court philosopher to the Welf dukes. He invented calculus independently of Newton, developed the binary number system that underlies every digital computer, founded the Berlin Academy of Sciences, and proposed fire insurance as a concept. He died in Hannover in 1716, largely forgotten. His letters are on UNESCO's Memory of the World Register. The A2 branching east here leads toward Berlin, where he founded the Academy that outlasted him by centuries. The city he worked in is three kilometres west.
+Leibniz. Gottfried Wilhelm Leibniz spent 40 years in Hannover - as librarian, privy councillor, and court philosopher to the Welf dukes. He invented calculus independently of Newton, developed the binary number system that underlies every digital computer, founded the Berlin Academy of Sciences, and proposed fire insurance as a concept. He died in Hannover in 1716, largely forgotten. His letters are on UNESCO's Memory of the World Register. The A2 branching east here leads toward Berlin, where he founded the Academy that outlasted him by centuries. The city he worked in is three kilometres west.
 
 ---
 

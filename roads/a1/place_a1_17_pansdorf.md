@@ -18,7 +18,7 @@ The sign: Pansdorf. The road entering the Lübeck urban fringe - the holiday cha
 Ausfahrt 17 - the exit ramp. The ordinary road below.
 
 ## Withheld
-The raised ground on Pansdorf's western edge is called the Blocksberg — a Wendish ring fort built in the 8th or 9th century, when the Slavic Wagri controlled this territory. The wall is 120 metres across and up to 8 metres high. It is still intact and walkable. The name Blocksberg is traditionally associated in German folklore with witches and the devil. This one is a Slav fortification. The association with the supernatural came later.
+The raised ground on Pansdorf's western edge is called the Blocksberg - a Wendish ring fort built in the 8th or 9th century, when the Slavic Wagri controlled this territory. The wall is 120 metres across and up to 8 metres high. It is still intact and walkable. The name Blocksberg is traditionally associated in German folklore with witches and the devil. This one is a Slav fortification. The association with the supernatural came later.
 
 ---
 

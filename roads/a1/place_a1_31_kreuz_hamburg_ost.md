@@ -15,7 +15,7 @@ The Kreuz Hamburg-Ost junction. The A24 splitting west into Hamburg and east tow
 [The A24](place_a24.md) west. Hamburg. [The A24](place_a24.md) east. Berlin.
 
 ## Withheld
-The tunnel built inside this junction in 1937–39 to connect the A1 and the planned Berlin motorway was never used for traffic — the war stopped construction before it opened. Instead it was converted into a bomb-proof underground factory for aircraft parts, under the codename Kolibri. The junction drivers pass through today contains a wartime factory tunnel that was built as a road and never became one.
+The tunnel built inside this junction in 1937-39 to connect the A1 and the planned Berlin motorway was never used for traffic - the war stopped construction before it opened. Instead it was converted into a bomb-proof underground factory for aircraft parts, under the codename Kolibri. The junction drivers pass through today contains a wartime factory tunnel that was built as a road and never became one.
 
 ---
 

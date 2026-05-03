@@ -6,7 +6,7 @@
 
 
 ## Shown
-Small exit. The sign: Blumenthal. Rural — the A215 passing through open country south of Kiel. The Kiel urban area behind, the A7 corridor ahead.
+Small exit. The sign: Blumenthal. Rural - the A215 passing through open country south of Kiel. The Kiel urban area behind, the A7 corridor ahead.
 
 ## Holds
 [km 13.4](piece_the_kilometerstein.md): Blumenthal.
@@ -19,7 +19,7 @@ Ausfahrt 4 - the exit ramp.
 
 
 ## Withheld
-The raised hedgerow boundaries crossing the fields here — the Knicks — are medieval, some over a thousand years old. Dense ridges of earth planted with hawthorn, oak and elder, they served as property boundaries and windbreaks and now function as ecological corridors through otherwise open agricultural land. Found almost nowhere else in Germany in this density. The Holstein landscape is defined by them.
+The raised hedgerow boundaries crossing the fields here - the Knicks - are medieval, some over a thousand years old. Dense ridges of earth planted with hawthorn, oak and elder, they served as property boundaries and windbreaks and now function as ecological corridors through otherwise open agricultural land. Found almost nowhere else in Germany in this density. The Holstein landscape is defined by them.
 
 ---
 

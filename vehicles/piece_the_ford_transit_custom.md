@@ -17,9 +17,9 @@ The cab is high. The dashboard functional - no ambient lighting, no leather trim
 Livery: white. Company logo on both doors. Six years old. 187,000 kilometres on the clock. The rear right tyre newer than the others.
 
 ## Yearbook
-Ford Transit in production since 1965 — one of the longest-running commercial vehicle nameplates in Europe. Transit Custom introduced 2012 as a compact variant of the Transit range, built in Turkey. Second generation 2018–present. Europe's best-selling light commercial vehicle for most of its production history. The most common white van on German roads.
+Ford Transit in production since 1965 - one of the longest-running commercial vehicle nameplates in Europe. Transit Custom introduced 2012 as a compact variant of the Transit range, built in Turkey. Second generation 2018-present. Europe's best-selling light commercial vehicle for most of its production history. The most common white van on German roads.
 
-Built in Turkey. On the Autobahn today not for the journey — for the delivery. The cargo area is what matters. The cab is what the driver occupies while the cargo area moves. 187,000 kilometres. The rear right tyre newer than the others.
+Built in Turkey. On the Autobahn today not for the journey - for the delivery. The cargo area is what matters. The cab is what the driver occupies while the cargo area moves. 187,000 kilometres. The rear right tyre newer than the others.
 
 ---
 

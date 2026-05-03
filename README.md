@@ -20,7 +20,7 @@ Direction is in the Driver, not the place. The road goes both ways. The world pi
 
 ### Modules
 
-- **Ministry** — Federal transport minister tenures (1949-present) | [Zip ↓](https://github.com/ChBrain/Autobahn/releases/latest/download/autobahn-ministry.zip) · [PDF ↓](https://github.com/ChBrain/Autobahn/releases/latest/download/autobahn-ministry.pdf)
+- **Ministry** - Federal transport minister tenures (1949-present) | [Zip ↓](https://github.com/ChBrain/Autobahn/releases/latest/download/autobahn-ministry.zip) · [PDF ↓](https://github.com/ChBrain/Autobahn/releases/latest/download/autobahn-ministry.pdf)
 
 ### By Bundesland
 
@@ -31,18 +31,18 @@ Direction is in the Driver, not the place. The road goes both ways. The world pi
 
 | Road | Downloads |
 |------|-----------|
-| **A1** — Heiligenhafen - Lübeck - Vogelfluglinie | [Zip ↓](https://github.com/ChBrain/Autobahn/releases/latest/download/autobahn-a1.zip) · [PDF ↓](https://github.com/ChBrain/Autobahn/releases/latest/download/autobahn-a1.pdf) |
-| **A7** — Flensburg - Hamburg - 31 exits, Elbtunnel | [Zip ↓](https://github.com/ChBrain/Autobahn/releases/latest/download/autobahn-a7.zip) · [PDF ↓](https://github.com/ChBrain/Autobahn/releases/latest/download/autobahn-a7.pdf) |
-| **A20** — Weede - Kreuz Lübeck | [Zip ↓](https://github.com/ChBrain/Autobahn/releases/latest/download/autobahn-a20.zip) · [PDF ↓](https://github.com/ChBrain/Autobahn/releases/latest/download/autobahn-a20.pdf) |
-| **A21** — Nettelsee - Kreuz Bargteheide - 52 km | [Zip ↓](https://github.com/ChBrain/Autobahn/releases/latest/download/autobahn-a21.zip) · [PDF ↓](https://github.com/ChBrain/Autobahn/releases/latest/download/autobahn-a21.pdf) |
-| **A23** — Heide - Dreieck Hamburg-Nordwest | [Zip ↓](https://github.com/ChBrain/Autobahn/releases/latest/download/autobahn-a23.zip) · [PDF ↓](https://github.com/ChBrain/Autobahn/releases/latest/download/autobahn-a23.pdf) |
-| **A24** — Hamburg-Horn - Gudow | [Zip ↓](https://github.com/ChBrain/Autobahn/releases/latest/download/autobahn-a24.zip) · [PDF ↓](https://github.com/ChBrain/Autobahn/releases/latest/download/autobahn-a24.pdf) |
-| **A25** — Dreieck Hamburg-Südost - Neuallermöhe-West | [Zip ↓](https://github.com/ChBrain/Autobahn/releases/latest/download/autobahn-a25.zip) · [PDF ↓](https://github.com/ChBrain/Autobahn/releases/latest/download/autobahn-a25.pdf) |
-| **A255** — Neue Elbbrücken - Kreuz Hamburg-Süd | [Zip ↓](https://github.com/ChBrain/Autobahn/releases/latest/download/autobahn-a255.zip) · [PDF ↓](https://github.com/ChBrain/Autobahn/releases/latest/download/autobahn-a255.pdf) |
-| **A261** — Dreieck Hamburg-Südwest - Hamburg-Marmstorf | [Zip ↓](https://github.com/ChBrain/Autobahn/releases/latest/download/autobahn-a261.zip) · [PDF ↓](https://github.com/ChBrain/Autobahn/releases/latest/download/autobahn-a261.pdf) |
-| **A210** — Schacht-Audorf - Kreuz Kiel-West | [Zip ↓](https://github.com/ChBrain/Autobahn/releases/latest/download/autobahn-a210.zip) · [PDF ↓](https://github.com/ChBrain/Autobahn/releases/latest/download/autobahn-a210.pdf) |
-| **A215** — Kiel-Westring - Dreieck Bordesholm | [Zip ↓](https://github.com/ChBrain/Autobahn/releases/latest/download/autobahn-a215.zip) · [PDF ↓](https://github.com/ChBrain/Autobahn/releases/latest/download/autobahn-a215.pdf) |
-| **A226** — Dreieck Bad Schwartau - Lübeck-Siems - Skandinavienkai | [Zip ↓](https://github.com/ChBrain/Autobahn/releases/latest/download/autobahn-a226.zip) · [PDF ↓](https://github.com/ChBrain/Autobahn/releases/latest/download/autobahn-a226.pdf) |
+| **A1** - Heiligenhafen - Lübeck - Vogelfluglinie | [Zip ↓](https://github.com/ChBrain/Autobahn/releases/latest/download/autobahn-a1.zip) · [PDF ↓](https://github.com/ChBrain/Autobahn/releases/latest/download/autobahn-a1.pdf) |
+| **A7** - Flensburg - Hamburg - 31 exits, Elbtunnel | [Zip ↓](https://github.com/ChBrain/Autobahn/releases/latest/download/autobahn-a7.zip) · [PDF ↓](https://github.com/ChBrain/Autobahn/releases/latest/download/autobahn-a7.pdf) |
+| **A20** - Weede - Kreuz Lübeck | [Zip ↓](https://github.com/ChBrain/Autobahn/releases/latest/download/autobahn-a20.zip) · [PDF ↓](https://github.com/ChBrain/Autobahn/releases/latest/download/autobahn-a20.pdf) |
+| **A21** - Nettelsee - Kreuz Bargteheide - 52 km | [Zip ↓](https://github.com/ChBrain/Autobahn/releases/latest/download/autobahn-a21.zip) · [PDF ↓](https://github.com/ChBrain/Autobahn/releases/latest/download/autobahn-a21.pdf) |
+| **A23** - Heide - Dreieck Hamburg-Nordwest | [Zip ↓](https://github.com/ChBrain/Autobahn/releases/latest/download/autobahn-a23.zip) · [PDF ↓](https://github.com/ChBrain/Autobahn/releases/latest/download/autobahn-a23.pdf) |
+| **A24** - Hamburg-Horn - Gudow | [Zip ↓](https://github.com/ChBrain/Autobahn/releases/latest/download/autobahn-a24.zip) · [PDF ↓](https://github.com/ChBrain/Autobahn/releases/latest/download/autobahn-a24.pdf) |
+| **A25** - Dreieck Hamburg-Südost - Neuallermöhe-West | [Zip ↓](https://github.com/ChBrain/Autobahn/releases/latest/download/autobahn-a25.zip) · [PDF ↓](https://github.com/ChBrain/Autobahn/releases/latest/download/autobahn-a25.pdf) |
+| **A255** - Neue Elbbrücken - Kreuz Hamburg-Süd | [Zip ↓](https://github.com/ChBrain/Autobahn/releases/latest/download/autobahn-a255.zip) · [PDF ↓](https://github.com/ChBrain/Autobahn/releases/latest/download/autobahn-a255.pdf) |
+| **A261** - Dreieck Hamburg-Südwest - Hamburg-Marmstorf | [Zip ↓](https://github.com/ChBrain/Autobahn/releases/latest/download/autobahn-a261.zip) · [PDF ↓](https://github.com/ChBrain/Autobahn/releases/latest/download/autobahn-a261.pdf) |
+| **A210** - Schacht-Audorf - Kreuz Kiel-West | [Zip ↓](https://github.com/ChBrain/Autobahn/releases/latest/download/autobahn-a210.zip) · [PDF ↓](https://github.com/ChBrain/Autobahn/releases/latest/download/autobahn-a210.pdf) |
+| **A215** - Kiel-Westring - Dreieck Bordesholm | [Zip ↓](https://github.com/ChBrain/Autobahn/releases/latest/download/autobahn-a215.zip) · [PDF ↓](https://github.com/ChBrain/Autobahn/releases/latest/download/autobahn-a215.pdf) |
+| **A226** - Dreieck Bad Schwartau - Lübeck-Siems - Skandinavienkai | [Zip ↓](https://github.com/ChBrain/Autobahn/releases/latest/download/autobahn-a226.zip) · [PDF ↓](https://github.com/ChBrain/Autobahn/releases/latest/download/autobahn-a226.pdf) |
 
 ---
 
@@ -55,9 +55,9 @@ Direction is in the Driver, not the place. The road goes both ways. The world pi
 ## How to use
 
 1. Download a bundle (Bundesland or individual road)
-2. Create a new AI project — [Claude](https://claude.ai), Grok, Copilot, and Gemini all work
+2. Create a new AI project - [Claude](https://claude.ai), Grok, Copilot, and Gemini all work
 3. Upload the `.md` files to your project
-4. Start a conversation — bring what you have
+4. Start a conversation - bring what you have
 
 ---
 

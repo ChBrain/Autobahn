@@ -16,7 +16,7 @@ The northern Hildesheim exit. The sign: Hildesheim-Drispenstedt. The road descen
 Ausfahrt 61 - the exit ramp. The ordinary road below.
 
 ## Withheld
-The Bernward Column and the Hildesheim Rose. In the cathedral: a bronze column cast around 1020 by Bishop Bernward, depicting the life of Christ in spiralling relief — one of the masterworks of Ottonian art, UNESCO World Heritage. On the apse wall: a rosebush claimed to have grown since the time of Louis the Pious in the 9th century, reputedly the oldest living rosebush in the world. On 22 March 1945 an RAF raid destroyed most of the medieval city in minutes. The cathedral was gutted. The rosebush roots survived under the rubble and grew back. It still flowers. The exit reaches both.
+The Bernward Column and the Hildesheim Rose. In the cathedral: a bronze column cast around 1020 by Bishop Bernward, depicting the life of Christ in spiralling relief - one of the masterworks of Ottonian art, UNESCO World Heritage. On the apse wall: a rosebush claimed to have grown since the time of Louis the Pious in the 9th century, reputedly the oldest living rosebush in the world. On 22 March 1945 an RAF raid destroyed most of the medieval city in minutes. The cathedral was gutted. The rosebush roots survived under the rubble and grew back. It still flowers. The exit reaches both.
 
 ---
 

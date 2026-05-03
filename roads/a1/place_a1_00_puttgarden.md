@@ -15,7 +15,7 @@ The ferry terminal at the northern tip of Fehmarn. The sign: Puttgarden. The Sca
 The ferry to Rødby. The Vogelfluglinie crossing. The shortest sea route between Germany and Denmark.
 
 ## Withheld
-Two heads of state opened this terminal in May 1963 — Danish King Frederik IX and German President Heinrich Lübke — aboard the inaugural sailing with 5,000 guests. Sixty years later a tunnel is being bored under the same strait, 18 kilometres of immersed concrete between Puttgarden and Rødby. The ferry that justified the ceremony is scheduled to become redundant. The road that leads here will remain.
+Two heads of state opened this terminal in May 1963 - Danish King Frederik IX and German President Heinrich Lübke - aboard the inaugural sailing with 5,000 guests. Sixty years later a tunnel is being bored under the same strait, 18 kilometres of immersed concrete between Puttgarden and Rødby. The ferry that justified the ceremony is scheduled to become redundant. The road that leads here will remain.
 
 ---
 

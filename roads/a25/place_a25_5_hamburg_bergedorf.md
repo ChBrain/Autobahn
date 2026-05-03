@@ -17,7 +17,7 @@ The Bergedorf exit. The sign: Hamburg-Bergedorf. The Geest edge beginning to ris
 Ausfahrt 5 - the exit ramp. The ordinary road below.
 
 ## Withheld
-The Bergedorfer Schloss — Hamburg's only surviving medieval castle, founded around 1220 as a water castle in the Bille — served as the joint administrative seat of Hamburg and Lübeck for nearly 450 years, from 1420 until Hamburg bought out Lübeck's share in 1868. It is the last castle on Hamburg's territory. The exit reaches it. The sign says Hamburg-Bergedorf. The road does not carry the castle or what it administered.
+The Bergedorfer Schloss - Hamburg's only surviving medieval castle, founded around 1220 as a water castle in the Bille - served as the joint administrative seat of Hamburg and Lübeck for nearly 450 years, from 1420 until Hamburg bought out Lübeck's share in 1868. It is the last castle on Hamburg's territory. The exit reaches it. The sign says Hamburg-Bergedorf. The road does not carry the castle or what it administered.
 
 ---
 ---

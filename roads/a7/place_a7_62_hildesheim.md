@@ -16,7 +16,7 @@ The Hildesheim exit. The sign: Hildesheim, B1. The city close - the cathedral to
 Ausfahrt 62 - the exit ramp. The ordinary road below.
 
 ## Withheld
-St. Michael's church. Two kilometres west — built by Bishop Bernward between 1010 and 1033 as his burial church, UNESCO World Heritage. The painted wooden ceiling from the 12th century depicts the Tree of Jesse — Christ's genealogy traced through branching figures across the full width of the nave. Approximately 1,300 square metres of original Romanesque painting, one of the largest and best-preserved painted ceilings in existence. The church was badly damaged in 1945 and rebuilt. The ceiling survived. The exit reaches it.
+St. Michael's church. Two kilometres west - built by Bishop Bernward between 1010 and 1033 as his burial church, UNESCO World Heritage. The painted wooden ceiling from the 12th century depicts the Tree of Jesse - Christ's genealogy traced through branching figures across the full width of the nave. Approximately 1,300 square metres of original Romanesque painting, one of the largest and best-preserved painted ceilings in existence. The church was badly damaged in 1945 and rebuilt. The ceiling survived. The exit reaches it.
 
 ---
 

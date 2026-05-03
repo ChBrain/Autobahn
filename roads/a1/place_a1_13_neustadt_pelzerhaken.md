@@ -18,7 +18,7 @@ The northern Neustadt exit. The sign: Neustadt in Holstein, Pelzerhaken, B501. T
 Ausfahrt 13 - the exit ramp. The ordinary road below.
 
 ## Withheld
-At the harbour in Neustadt, a few kilometres from this exit, the Fischeramt has been in continuous operation since 1474 — Germany's oldest fishermen's guild. Membership is capped at thirty. A place only opens when a member dies. The oath of membership is still taken in Low German.
+At the harbour in Neustadt, a few kilometres from this exit, the Fischeramt has been in continuous operation since 1474 - Germany's oldest fishermen's guild. Membership is capped at thirty. A place only opens when a member dies. The oath of membership is still taken in Low German.
 
 ---
 

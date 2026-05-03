@@ -20,7 +20,7 @@ Exit 20. A junction, not an ordinary exit. The A226 branching east toward Lübec
 Ausfahrt 20 - the exit ramp. The ordinary road below.
 
 ## Withheld
-The Dom. Lübeck's cathedral, begun 1173 by Henry the Lion — the oldest building in the city, predating the merchant republic that made it famous by half a century. It was planted here as an act of political theatre: a bishop's seat in Slavic territory, anchoring Saxon authority before there was a city to anchor it to. The Holstentor gets the tourists. The Dom built the conditions for everything that came after. It is a few minutes from this exit and rarely crowded.
+The Dom. Lübeck's cathedral, begun 1173 by Henry the Lion - the oldest building in the city, predating the merchant republic that made it famous by half a century. It was planted here as an act of political theatre: a bishop's seat in Slavic territory, anchoring Saxon authority before there was a city to anchor it to. The Holstentor gets the tourists. The Dom built the conditions for everything that came after. It is a few minutes from this exit and rarely crowded.
 
 ---
 

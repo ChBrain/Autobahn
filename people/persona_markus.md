@@ -7,7 +7,7 @@
 Construction Worker
 
 ## Projection
-A man in his thirties in a high-visibility jacket at the edge of a Baustelle. Morning shift. The road surface being resurfaced: the right lane closed, traffic funnelled left. His position: the transition point where the right lane ends and the cones begin. He holds a radio. He does not hold a sign — the signs are mounted. His job is to watch the merge and call it if something goes wrong at the cones.
+A man in his thirties in a high-visibility jacket at the edge of a Baustelle. Morning shift. The road surface being resurfaced: the right lane closed, traffic funnelled left. His position: the transition point where the right lane ends and the cones begin. He holds a radio. He does not hold a sign - the signs are mounted. His job is to watch the merge and call it if something goes wrong at the cones.
 
 ## Action
 Watch the merge. Right lane drivers seeing the closure at 300 metres, 200 metres, the cones. Most move left early. Some move left late. One or two move left at the last cone. Watch for the one who does not move at all.

@@ -15,7 +15,7 @@ Exit 19. The southern terminus of the A21. The A1 junction. The A21 ends here - 
 Ausfahrt 19 - the exit ramp. The ordinary road below.
 
 ## Withheld
-A church in Bargteheide was first built around 1250, sixty years before the town appeared in any written record. By then Bargteheide was already a stopping place on the Hansa route between Hamburg and Lübeck — horses unharnessed, merchants sleeping, goods changing hands. The church was the fixed point. The trade passed through. The church is still there, a few kilometres from this junction, which serves approximately the same purpose the rest stop did: a place where the route between Hamburg and Lübeck pauses.
+A church in Bargteheide was first built around 1250, sixty years before the town appeared in any written record. By then Bargteheide was already a stopping place on the Hansa route between Hamburg and Lübeck - horses unharnessed, merchants sleeping, goods changing hands. The church was the fixed point. The trade passed through. The church is still there, a few kilometres from this junction, which serves approximately the same purpose the rest stop did: a place where the route between Hamburg and Lübeck pauses.
 
 ---
 

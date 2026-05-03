@@ -19,7 +19,7 @@ Ausfahrt 3 - the exit ramp.
 
 
 ## Withheld
-The Christian-Albrechts-Universität was founded in 1665 by Duke Christian Albrecht of Holstein-Gottorf — one of the oldest universities in northern Germany. Its institute GEOMAR, a few kilometres east on the Förde, is today one of the world's leading centres for ocean research. The Baltic Sea it studies is the most intensively monitored body of water on earth. A continuous measurement record from Boknis Eck in Eckernförde Bay has run unbroken since 1957.
+The Christian-Albrechts-Universität was founded in 1665 by Duke Christian Albrecht of Holstein-Gottorf - one of the oldest universities in northern Germany. Its institute GEOMAR, a few kilometres east on the Förde, is today one of the world's leading centres for ocean research. The Baltic Sea it studies is the most intensively monitored body of water on earth. A continuous measurement record from Boknis Eck in Eckernförde Bay has run unbroken since 1957.
 
 ---
 

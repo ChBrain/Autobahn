@@ -16,7 +16,7 @@ The Berkhof exit. The sign: Berkhof, Hannover-Nord. Hannover appearing on the ov
 Ausfahrt 51 - the exit ramp. The ordinary road below.
 
 ## Withheld
-The end of the Kingdom of Hannover. On 20 September 1866, Prussia formally annexed the Kingdom — weeks after the Hanoverian army had actually won its last battle at Langensalza, then surrendered anyway, hopelessly surrounded. King George V refused to abdicate and died in exile in Paris. His cousin Wilhelm I of Prussia signed the annexation. The kingdom that had supplied Britain with four consecutive monarchs ceased to exist in a matter of weeks. The overhead signs now say Hannover — the capital of what was briefly one of Europe's significant kingdoms and is now a Bundesland. The road does not carry the distinction.
+The end of the Kingdom of Hannover. On 20 September 1866, Prussia formally annexed the Kingdom - weeks after the Hanoverian army had actually won its last battle at Langensalza, then surrendered anyway, hopelessly surrounded. King George V refused to abdicate and died in exile in Paris. His cousin Wilhelm I of Prussia signed the annexation. The kingdom that had supplied Britain with four consecutive monarchs ceased to exist in a matter of weeks. The overhead signs now say Hannover - the capital of what was briefly one of Europe's significant kingdoms and is now a Bundesland. The road does not carry the distinction.
 
 ---
 

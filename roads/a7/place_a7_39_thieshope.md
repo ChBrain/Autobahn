@@ -16,7 +16,7 @@ Small exit. The sign: Thieshope. No town of significance. The road entering open
 Ausfahrt 39 - the exit ramp. The ordinary road below.
 
 ## Withheld
-The Hügelgräber west of the exit. The sandy terrain here was settled continuously from the Bronze Age — burial mounds from roughly 1700–500 BCE lie scattered through the heathland and forest within a few kilometres, low and grass-covered and unmarked. Niedersachsen was a contact zone between the Nordic Bronze Age of Scandinavia and the southern German Hügelgräber culture; the dead buried here were placed at that boundary. Most mounds in this region were improperly excavated in the 19th century. What was not taken is still in the ground. The exit reaches the land they are in.
+The Hügelgräber west of the exit. The sandy terrain here was settled continuously from the Bronze Age - burial mounds from roughly 1700-500 BCE lie scattered through the heathland and forest within a few kilometres, low and grass-covered and unmarked. Niedersachsen was a contact zone between the Nordic Bronze Age of Scandinavia and the southern German Hügelgräber culture; the dead buried here were placed at that boundary. Most mounds in this region were improperly excavated in the 19th century. What was not taken is still in the ground. The exit reaches the land they are in.
 
 ---
 

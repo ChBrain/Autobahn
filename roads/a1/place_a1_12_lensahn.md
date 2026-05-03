@@ -18,7 +18,7 @@ The sign: Lensahn. Rural Ostholstein. The road here passing through the agricult
 Ausfahrt 12 - the exit ramp. The ordinary road below.
 
 ## Withheld
-In 1760 the pastor here, a man named Hartmann, made Lensahn a wedding destination — advertising the village across the region and marrying couples who came from elsewhere. For a period Lensahn was the Heiratsparadies of Holstein. The same pastor also promoted the introduction of the potato.
+In 1760 the pastor here, a man named Hartmann, made Lensahn a wedding destination - advertising the village across the region and marrying couples who came from elsewhere. For a period Lensahn was the Heiratsparadies of Holstein. The same pastor also promoted the introduction of the potato.
 
 ---
 

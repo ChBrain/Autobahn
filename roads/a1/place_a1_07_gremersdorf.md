@@ -18,7 +18,7 @@ Small exit. The sign: Gremersdorf. Rural Wagrien - the peninsula between the Ost
 Ausfahrt 7 - the exit ramp. The ordinary road below.
 
 ## Withheld
-A few kilometres east of this exit, inside the Bundeswehr training range at Putlos, the Wienberg hill holds the largest concentration of Bronze Age long barrows in northern Germany — thirty to a hundred and fifty metres long, dating to around 2,500 BC. The military exclusion zone that keeps the coast empty here has also kept the graves intact. They have survived because no one is allowed near them.
+A few kilometres east of this exit, inside the Bundeswehr training range at Putlos, the Wienberg hill holds the largest concentration of Bronze Age long barrows in northern Germany - thirty to a hundred and fifty metres long, dating to around 2,500 BC. The military exclusion zone that keeps the coast empty here has also kept the graves intact. They have survived because no one is allowed near them.
 
 ---
 

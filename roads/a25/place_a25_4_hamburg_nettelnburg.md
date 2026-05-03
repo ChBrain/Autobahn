@@ -5,7 +5,7 @@
 - Place: [A25](place_a25.md) in [Hamburg](place_hamburg.md)
 
 ## Shown
-The Nettelnburg exit. The sign: Hamburg-Nettelnburg. The Marsch continuing. The road running east along the Elbe's north bank, the river not visible from the carriageway — the Marsch lying between the road and the water.
+The Nettelnburg exit. The sign: Hamburg-Nettelnburg. The Marsch continuing. The road running east along the Elbe's north bank, the river not visible from the carriageway - the Marsch lying between the road and the water.
 
 ## Holds
 
@@ -17,7 +17,7 @@ The Nettelnburg exit. The sign: Hamburg-Nettelnburg. The Marsch continuing. The 
 Ausfahrt 4 - the exit ramp. The ordinary road below.
 
 ## Withheld
-The Boberger Niederung — 5 km north of the exit — is Hamburg's last remaining inland dune field, an Ice Age remnant that survived only because in 1927 the parties negotiating its sale for sand extraction could not agree on a price. The dunes still move, 10 centimetres a year. The exit sits at the boundary of the Vier- und Marschlande, Hamburg's historic market garden landscape, and an Ice Age landscape that exists by commercial accident. The road does not indicate either.
+The Boberger Niederung - 5 km north of the exit - is Hamburg's last remaining inland dune field, an Ice Age remnant that survived only because in 1927 the parties negotiating its sale for sand extraction could not agree on a price. The dunes still move, 10 centimetres a year. The exit sits at the boundary of the Vier- und Marschlande, Hamburg's historic market garden landscape, and an Ice Age landscape that exists by commercial accident. The road does not indicate either.
 
 ---
 ---

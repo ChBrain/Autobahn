@@ -18,7 +18,7 @@ The Buddikate service area on both sides of the road. Fuel, food, parking. The A
 The service area. The ordinary stop.
 
 ## Withheld
-The Buddikate on this sign is not the original Buddikate. The real one stood in Rohlfshagen, about ten kilometres north — an inn dating back to around 1728 that became a motorway rest stop in 1938, one year after the A1 opened. It closed in 1967 when a new service area was built further south and given the same name. The inn in Rohlfshagen still exists. The name was taken without ceremony.
+The Buddikate on this sign is not the original Buddikate. The real one stood in Rohlfshagen, about ten kilometres north - an inn dating back to around 1728 that became a motorway rest stop in 1938, one year after the A1 opened. It closed in 1967 when a new service area was built further south and given the same name. The inn in Rohlfshagen still exists. The name was taken without ceremony.
 
 ---
 

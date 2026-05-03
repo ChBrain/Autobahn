@@ -16,7 +16,7 @@ The Bad Oldesloe exit. The sign: Bad Oldesloe. The Trave valley opening to the w
 Ausfahrt 26 - the exit ramp. The ordinary road below.
 
 ## Withheld
-The area around Bad Oldesloe has been continuously inhabited since the Mesolithic. The flint tools found here — small, finely worked blades dating to around 5,000 BC — are distinct enough to have been classified as their own cultural phase: the Oldesloer Stufe. The classification is named after this town. Archaeologists use it as a reference point for Mesolithic northern Europe. The motorway runs through one of the most continuously inhabited stretches of land in Germany.
+The area around Bad Oldesloe has been continuously inhabited since the Mesolithic. The flint tools found here - small, finely worked blades dating to around 5,000 BC - are distinct enough to have been classified as their own cultural phase: the Oldesloer Stufe. The classification is named after this town. Archaeologists use it as a reference point for Mesolithic northern Europe. The motorway runs through one of the most continuously inhabited stretches of land in Germany.
 
 ---
 

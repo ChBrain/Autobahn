@@ -16,7 +16,7 @@ The northern Göttingen exit. The sign: Göttingen-Nord, B27. The city approachi
 Ausfahrt 72 - the exit ramp. The ordinary road below.
 
 ## Withheld
-The Gauss-Weber telegraph. In 1833, Carl Friedrich Gauss and Wilhelm Weber strung a wire of 1.1 kilometres from Weber's laboratory over a church tower to Gauss's observatory — the world's first electromagnetic telegraph. The first message sent was "Michelmann kommt": the name of the observatory's servant. The line ran for twelve years until a lightning strike destroyed it on 16 December 1845. Weber was one of the Göttinger Sieben — dismissed in 1837 for refusing to swear loyalty to King Ernst August. He had built the telegraph here two years before his exile. The observatory still stands. The exit reaches it.
+The Gauss-Weber telegraph. In 1833, Carl Friedrich Gauss and Wilhelm Weber strung a wire of 1.1 kilometres from Weber's laboratory over a church tower to Gauss's observatory - the world's first electromagnetic telegraph. The first message sent was "Michelmann kommt": the name of the observatory's servant. The line ran for twelve years until a lightning strike destroyed it on 16 December 1845. Weber was one of the Göttinger Sieben - dismissed in 1837 for refusing to swear loyalty to King Ernst August. He had built the telegraph here two years before his exile. The observatory still stands. The exit reaches it.
 
 ---
 

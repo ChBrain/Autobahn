@@ -18,7 +18,7 @@ Ausfahrt 7 - the exit ramp.
 
 
 ## Withheld
-For centuries Kiel's significance was not its harbour but its credit market. The Kieler Umschlag — held each January in the week after Epiphany — was the annual gathering of Holstein's nobility to settle debts and extend loans. The city was a clearing house for aristocratic money long before it was a naval base. One of those aristocratic families produced Karl Peter Ulrich, born at Kiel Castle in 1728, heir through his father to the Swedish throne and through his mother — daughter of Peter the Great — to Russia. His aunt the Empress Elisabeth summoned him to St Petersburg in 1742. He became Tsar Peter III in 1762, was overthrown by his wife after six months, and murdered. His wife became Catherine the Great. The dynasty that ruled Russia until 1917 began in this city.
+For centuries Kiel's significance was not its harbour but its credit market. The Kieler Umschlag - held each January in the week after Epiphany - was the annual gathering of Holstein's nobility to settle debts and extend loans. The city was a clearing house for aristocratic money long before it was a naval base. One of those aristocratic families produced Karl Peter Ulrich, born at Kiel Castle in 1728, heir through his father to the Swedish throne and through his mother - daughter of Peter the Great - to Russia. His aunt the Empress Elisabeth summoned him to St Petersburg in 1742. He became Tsar Peter III in 1762, was overthrown by his wife after six months, and murdered. His wife became Catherine the Great. The dynasty that ruled Russia until 1917 began in this city.
 
 ---
 

@@ -16,7 +16,7 @@ The first exit south of Hamburg. The Landesgrenze behind. The sign: Seevetal-Fle
 Ausfahrt 35 - the exit ramp. The ordinary road below.
 
 ## Withheld
-The Hoopter Schanze. Ten kilometres west on the Elbe bank at Hoopte — a 17th-century military earthwork built on the dyke between the Elbe and the Ilmenau during the period of Danish occupation of the area. The ferry crossing at Zollenspieker beside it has operated since at least 1260; the name means customs warehouse. The crossing predates the duchy, the occupation, and the motorway by centuries. The exit reaches the road that runs to it.
+The Hoopter Schanze. Ten kilometres west on the Elbe bank at Hoopte - a 17th-century military earthwork built on the dyke between the Elbe and the Ilmenau during the period of Danish occupation of the area. The ferry crossing at Zollenspieker beside it has operated since at least 1260; the name means customs warehouse. The crossing predates the duchy, the occupation, and the motorway by centuries. The exit reaches the road that runs to it.
 
 ---
 

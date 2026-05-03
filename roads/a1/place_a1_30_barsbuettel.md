@@ -16,7 +16,7 @@ The Barsbüttel exit. The sign: Barsbüttel. The Hamburg state border close to t
 Ausfahrt 30 - the exit ramp. The ordinary road below.
 
 ## Withheld
-Barsbüttel was first documented in 1228 as *Bernekesbutle* — a Low German compound meaning roughly "Berneke's farmstead." It belonged to the Hamburg Cathedral Chapter for much of the medieval period. Eight centuries later it sits on the Hamburg state border with a motorway exit and an industrial estate. The name has barely changed. Everything else has.
+Barsbüttel was first documented in 1228 as *Bernekesbutle* - a Low German compound meaning roughly "Berneke's farmstead." It belonged to the Hamburg Cathedral Chapter for much of the medieval period. Eight centuries later it sits on the Hamburg state border with a motorway exit and an industrial estate. The name has barely changed. Everything else has.
 
 ---
 
