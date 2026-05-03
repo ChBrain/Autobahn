@@ -4,18 +4,22 @@
 - Project: Autobahn
 
 ## Shown
-Under construction - not yet in service. The Neue Elbe crossing would connect the A1/A25 interchange at Dreieck Hamburg-Südost to the port district via the Neue Suderelbe bridge. Two lanes per direction. The road would carry traffic between the southern suburbs and the central port access, bypassing downtown Hamburg.
+Partially open, Hamburg section under construction until at least 2028. The A26 runs west from Hamburg through the Altes Land and the Elbe marshes to Stade and Drochtersen on the lower Elbe. The Niedersachsen section from Drochtersen to Buxtehude is in service. The final 8.6 km into Kreuz Hamburg-Hafen remains under construction.
 
 ## Holds
 
+### Niedersachsen (place_niedersachsen.md)
+* [km 0.0](piece_the_kilometerstein.md): Drochtersen
+* [km 22.7](piece_the_kilometerstein.md): Stade-Süd
+* [km 23.7](piece_the_kilometerstein.md): Stade-Ost
+* [km 29.3](piece_the_kilometerstein.md): Dollern
+* [km 33.2](piece_the_kilometerstein.md): Horneburg
+* [km 37.8](piece_the_kilometerstein.md): Jork
+* [km 42.2](piece_the_kilometerstein.md): Buxtehude (permanently closed)
+* [km 46.2](piece_the_kilometerstein.md): Nördlicher Anschluss L 235 (closed)
+
 ### Hamburg (place_hamburg.md)
-*[Under construction - planned exits not yet built]*
-* [km 0.0](piece_the_kilometerstein.md): Dreieck Hamburg-Südost
-* [km 3.5](piece_the_kilometerstein.md): Hamburg-Veddel
-* [km 6.0](piece_the_kilometerstein.md): Neue Suderelbe
-* [km 8.5](piece_the_kilometerstein.md): Hamburg-Moorfleet
-* [km 11.0](piece_the_kilometerstein.md): Hamburg-Rothensburgsort
-* [km 13.5](piece_the_kilometerstein.md): Kreuz Hamburg-Süd
+*[Under construction - no exits]*
 
 ## Offers
 [TBD: Describe strategic value - port access, traffic distribution, connections.]
