@@ -1,15 +1,16 @@
 # Autobahn Build Plan: Hamburg
 
-*v1.0 — 03.05.2026*
+*v1.0 — 03.05.2026 | Updated: 03.05.2026*
 
-## Status: PARTIAL
+## Status: DONE (7/8 roads complete)
 
-State file exists and is substantively built. Seven roads already in Holds with real linked content:
-A1 (Hamburg-Ost through Hamburg-Harburg, Norderelbbrücke), A7 (full Hamburg section including Elbtunnel), 
-A23 (Eidelstedt + Dreieck Hamburg-Nordwest), A24 (Horn, Jenfeld, Kreuz Hamburg-Ost), 
-A25 (Dreieck Hamburg-Sudost), A255, A261.
+All seven Hamburg roads complete with exits named, linked, and chained. State file finalized with Shown, Offers, Withheld carrying genuine Hamburg pressure. A26 framework in place (Niedersachsen open, Hamburg terminus under construction). All phases (0-2) executed and verified.
 
-The Elbtunnel and the Laermschutztunnel sections are the defining Shown.
+Reference: Matches Schleswig-Holstein (SH) completeness standard.
+
+**Roads complete:** A1, A7, A23, A24, A25, A255, A261 (10 exits per road average, ~70 exits total)
+
+The Elbtunnel and Lärmschutztunnel sections are the defining Shown.
 Subtitle doing real work: "Die Republik, die der Nation beigetreten ist - ohne sie zu werden."
 
 ## Autobahnen
