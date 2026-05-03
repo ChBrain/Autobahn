@@ -3,8 +3,14 @@
 ## Owner
 - Project: Autobahn
 
+## Status
+**UNDER CONSTRUCTION** — not yet in service. Planned framework for future Neue Suderelbe crossing.
+
 ## Shown
-The Neue Elbe crossing. Two lanes per direction. The A26 connects the A1/A25 interchange at Dreieck Hamburg-Südost to the port district via the Neue Suderelbe bridge. The road carries traffic between the southern suburbs and the central port access, bypassing downtown Hamburg. [TBD: Add landscape features and tactical context.]
+[TBD: Road not yet complete. Framework prepared for future build.]
+
+## Planned Route
+The Neue Elbe crossing. Two lanes per direction. The A26 would connect the A1/A25 interchange at Dreieck Hamburg-Südost to the port district via the Neue Suderelbe bridge. The road would carry traffic between the southern suburbs and the central port access, bypassing downtown Hamburg.
 
 ## Holds
 
