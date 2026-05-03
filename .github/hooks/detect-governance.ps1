@@ -1,6 +1,6 @@
 #!/usr/bin/env pwsh
 # Autobahn Governance Detection Hook
-# Routes infrastructure governance decisions to @seebohm
+# Routes infrastructure governance decisions to @minister-transport
 
 param()
 
@@ -43,13 +43,13 @@ if ($is_governance) {
     $output.systemMessage = @"
 🏛️ **Infrastructure Governance**
 
-This appears to be an Autobahn network expansion decision. Please use the Seebohm governance agent:
+This appears to be an Autobahn network expansion or infrastructure governance decision. Please use the transport minister governance agent:
 
 \`\`\`
-@seebohm
+@minister-transport
 \`\`\`
 
-Seebohm governs infrastructure through technical authority, precision specifications, and 30-year infrastructure strategy. Use him to specify network expansions, road connections, and infrastructure policies.
+The minister-transport agent governs infrastructure through technical authority, precision specifications, and strategic vision. It dynamically selects the appropriate historical or current minister based on your context. Use it to specify network expansions, road connections, regulatory changes, and infrastructure policies.
 "@
 }
 

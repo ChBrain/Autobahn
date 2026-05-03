@@ -1,6 +1,6 @@
 #!/bin/bash
 # Autobahn Governance Detection Hook (Linux/macOS)
-# Routes infrastructure governance decisions to @seebohm
+# Routes infrastructure governance decisions to @minister-transport
 
 # Read JSON from stdin
 input_json=$(cat)
@@ -28,7 +28,7 @@ if [ "$is_governance" = true ]; then
     "hookEventName": "UserPromptSubmit",
     "decision": "block"
   },
-  "systemMessage": "🏛️ **Infrastructure Governance**\n\nThis appears to be an Autobahn network expansion decision. Please use the Seebohm governance agent:\n\n\`\`\`\n@seebohm\n\`\`\`\n\nSeebohm governs infrastructure through technical authority, precision specifications, and 30-year infrastructure strategy. Use him to specify network expansions, road connections, and infrastructure policies."
+  "systemMessage": "🏛️ **Infrastructure Governance**\n\nThis appears to be an Autobahn network expansion or infrastructure governance decision. Please use the transport minister governance agent:\n\n\`\`\`\n@minister-transport\n\`\`\`\n\nThe minister-transport agent governs infrastructure through technical authority, precision specifications, and strategic vision. It dynamically selects the appropriate historical or current minister based on your context. Use it to specify network expansions, road connections, regulatory changes, and infrastructure policies."
 }
 EOF
 else
