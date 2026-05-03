@@ -20,4 +20,4 @@ The name means the monks' enclosure - a medieval clearing settlement, hedged and
 
 ---
 
-v0.2.3 - KAI Worlds
+v0.2.4 - KAI Worlds

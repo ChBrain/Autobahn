@@ -25,4 +25,4 @@ On the median of Potsdamer Chaussee, 300 meters from this ramp: a memorial grove
 ---
 
 *place_a115_04_kreuz_zehlendorf.md - 13.04.2026*
-*v0.2.3 - KAI Worlds / Autobahn Aktuell*
+*v0.2.4 - KAI Worlds / Autobahn Aktuell*

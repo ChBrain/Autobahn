@@ -20,4 +20,4 @@ Pastor Wilhelm Bode. He served as pastor in Egestorf from 1886 for 37 years and 
 
 ---
 
-v0.2.3 - KAI Worlds
+v0.2.4 - KAI Worlds

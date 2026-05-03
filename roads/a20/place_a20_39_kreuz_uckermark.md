@@ -21,4 +21,4 @@ A few kilometers to the west lies Angermünde -- a city that has existed since 1
 
 ---
 
-v0.2.2 - KAI Worlds
+v0.2.3 - KAI Worlds

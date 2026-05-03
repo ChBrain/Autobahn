@@ -45,5 +45,5 @@ The ministry frame: instructions and stack specific to REMEMBER.
 ---
 
 *ministry.md - 01.05.2026*
-*v0.2.3 - KAI Worlds*
+*v0.2.4 - KAI Worlds*
 

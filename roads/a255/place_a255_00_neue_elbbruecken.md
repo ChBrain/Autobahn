@@ -20,4 +20,4 @@ The Neue Elbbrücken mark the point where the Elbe becomes impassable to ocean-g
 ---
 ---
 
-v0.2.3 - KAI Worlds
+v0.2.4 - KAI Worlds

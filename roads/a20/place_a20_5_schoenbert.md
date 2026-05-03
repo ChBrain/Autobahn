@@ -20,4 +20,4 @@ Schönberg was the capital of the Principality of Ratzeburg -- a tiny territory 
 
 ---
 
-v0.2.2 - KAI Worlds
+v0.2.3 - KAI Worlds

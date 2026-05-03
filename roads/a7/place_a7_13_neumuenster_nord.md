@@ -20,4 +20,4 @@ The Vicelinkirche. Three kilometres east in Neumünster city centre - standing o
 
 ---
 
-v0.2.3 - KAI Worlds
+v0.2.4 - KAI Worlds

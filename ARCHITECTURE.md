@@ -36,28 +36,37 @@ Every file closes with a version footer: `vX.Y.Z - KAI Worlds`.
 
 Versioning follows semantic versioning: `major.minor.patch`.
 
-**Automated system:**
+**Intent-first workflow:**
 
-- **Patch bumps** - Automatic on every merge to main. CI workflow (`auto-patch.yml`) increments `x.y.z → x.y.(z+1)` and commits back to main. Cannot be triggered manually.
-- **Minor/Major bumps** - User-triggered via GitHub release creation only.
-  - Create a GitHub release with version tag (e.g., `v0.3.0` for minor, `v1.0.0` for major)
-  - Release workflow (`release.yml`) detects bump type by comparing tag to current version
-  - All file footers auto-sync to match tag version
-  - Deployment runs automatically
+Every change declares its scope upfront to prevent scope creep. The workflow:
 
-**Guard rails:**
+1. **Declare intent** - On first commit of a feature branch, create `.bump-type` file with PATCH, MINOR, or MAJOR
+2. **Make changes** - Edit content files as needed
+3. **Bump version** - Run `python scripts/bump_version.py --patch` (or --minor/--major) to update all file footers
+4. **Validate** - Pre-commit hook verifies that declared bump type matches actual version change
+5. **Commit & PR** - Commit to feature branch, open PR
+6. **CI validation** - GitHub Actions validates `.bump-type` declaration matches actual bump (prevents scope creep)
+7. **Merge** - Once approved, merge to main
 
-- `scripts/bump_version.py --patch`: CI-only (blocked outside GitHub Actions via `GITHUB_ACTIONS` env check)
-- `scripts/bump_version.py`: No `--minor` or `--major` options (removed)
-- `scripts/release.py`: Handles release tag detection; cannot be run manually for version changes
-- Direct version footer edits: Auto-reverted by next merge, detected by CI validation
+**For minor/major releases only:**
+- After merge to main, create a GitHub release with version tag (e.g., `v0.3.0` for minor, `v1.0.0` for major)
+- Release workflow detects bump type and syncs all file footers
+- Deployment runs automatically
+
+**Scope protection:**
+
+The pre-commit hook prevents scope creep by rejecting commits where:
+- Declared type does not match actual version change (e.g., declared PATCH but bumped MINOR)
+- Version was not bumped when content was changed
+- `.bump-type` is missing on first content commit
 
 **Files:**
 
-- `scripts/bump_version.py` - Patch-only version bumper (CI-enforced)
-- `scripts/release.py` - Release tag handler (detects bump type and syncs versions)
-- `.github/workflows/auto-patch.yml` - Auto-patches on main merge
-- `.github/workflows/release.yml` - Handles release tag creation
+- `.bump-type` - Developer-created file declaring PATCH/MINOR/MAJOR intent (required on first content commit)
+- `scripts/bump_version.py` - Updates all version footers to match declared bump type
+- `.githooks/pre-commit` - Validates declared intent matches actual version change
+- `.github/workflows/validate-version-bump.yml` - CI validation of `.bump-type` on PR
+- `VERSIONING.md` - Complete workflow documentation with examples
 
 ---
 

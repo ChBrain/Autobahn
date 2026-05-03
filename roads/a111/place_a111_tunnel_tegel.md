@@ -26,4 +26,4 @@ Was oben ist. Der Tunnel Tegel Ortskern wurde 1979 in offener Bauweise gebaut - 
 ---
 
 *place_a111_tunnel_tegel.md - 13.04.2026*
-*v0.2.3 - KAI Worlds / Autobahn Aktuell*
+*v0.2.4 - KAI Worlds / Autobahn Aktuell*

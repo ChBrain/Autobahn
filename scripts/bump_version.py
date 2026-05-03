@@ -85,9 +85,21 @@ def main(argv: list[str]) -> int:
 
     # Guard: only allow in CI environment
     if not is_ci_environment():
-        print("ERROR: Patch bumps can only be triggered by CI on main.", file=sys.stderr)
-        print("       Manual patch bumps are not allowed.", file=sys.stderr)
-        print("       Minor/major bumps are handled by the release process.", file=sys.stderr)
+        print("", file=sys.stderr)
+        print("ERROR: bump_version.py is CI-ONLY and cannot run locally.", file=sys.stderr)
+        print("", file=sys.stderr)
+        print("This script is part of the CI/CD pipeline and should never be invoked", file=sys.stderr)
+        print("outside of GitHub Actions.", file=sys.stderr)
+        print("", file=sys.stderr)
+        print("CORRECT WORKFLOW:", file=sys.stderr)
+        print("  1. Create .bump-type file: echo 'PATCH' > .bump-type", file=sys.stderr)
+        print("  2. Commit it: git add .bump-type && git commit -m 'chore: declare bump type'", file=sys.stderr)
+        print("  3. Make content changes", file=sys.stderr)
+        print("  4. Commit changes: git add -A && git commit -m 'your message'", file=sys.stderr)
+        print("  5. Push and open PR - CI will validate and bump version on merge", file=sys.stderr)
+        print("", file=sys.stderr)
+        print("DO NOT run bump_version.py locally.", file=sys.stderr)
+        print("", file=sys.stderr)
         return 1
 
     files = find_world_files()

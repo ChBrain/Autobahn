@@ -20,4 +20,4 @@ Rostock war Hansestadt und blieb Hafenstadt. Im Mittelalter eine der bedeutendst
 
 ---
 
-v0.2.2 - KAI Worlds
+v0.2.3 - KAI Worlds

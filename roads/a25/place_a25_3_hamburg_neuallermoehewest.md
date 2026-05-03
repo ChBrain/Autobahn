@@ -20,4 +20,4 @@ The Elbe. A few kilometres south the Elbe runs east-west - one of Germany's grea
 
 ---
 
-v0.2.3 - KAI Worlds
+v0.2.4 - KAI Worlds

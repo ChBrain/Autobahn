@@ -19,4 +19,4 @@ The Radwegbrücke Volme-Mündung. The cycle bridge crosses the same water alongs
 ---
 
 *place_a1_volme_bridge.md - 12.04.2026*
-*v0.2.3 - KAI Worlds / Autobahn Aktuell*
+*v0.2.4 - KAI Worlds / Autobahn Aktuell*

@@ -21,4 +21,4 @@ The resistance: the minister's own legacy calculus. What gets documented, what g
 ---
 
 *process_leave_office.md: 01.05.2026*
-*v0.2.3 - KAI Worlds*
+*v0.2.4 - KAI Worlds*

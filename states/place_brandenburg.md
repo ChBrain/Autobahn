@@ -20,4 +20,4 @@ Mostly unrestricted speed outside the Berlin ring. Low traffic density compared 
 
 ---
 
-v0.2.3 - KAI Worlds
+v0.2.4 - KAI Worlds

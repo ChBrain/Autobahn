@@ -20,4 +20,4 @@ The Schlei. The fjord begins at Schleswig and reaches the Baltic forty kilometre
 
 ---
 
-v0.2.3 - KAI Worlds
+v0.2.4 - KAI Worlds

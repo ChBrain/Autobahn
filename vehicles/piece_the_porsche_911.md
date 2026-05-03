@@ -21,4 +21,4 @@ The shape barely changed. The silhouette identifiable from 200 metres across six
 
 ---
 
-v0.2.3 - KAI Worlds
+v0.2.4 - KAI Worlds

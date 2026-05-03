@@ -28,4 +28,4 @@ The B230F engine is considered one of the most reliable four-cylinders of its ge
 ---
 
 *piece_the_volvo_240.md - 13.04.2026*
-*v0.2.3 - KAI Worlds / Autobahn Aktuell*
+*v0.2.4 - KAI Worlds / Autobahn Aktuell*

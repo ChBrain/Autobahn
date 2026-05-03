@@ -20,4 +20,4 @@ A few kilometers to the west lies Lake Schaalsee -- a divided lake. From 1949 to
 
 ---
 
-v0.2.2 - KAI Worlds
+v0.2.3 - KAI Worlds

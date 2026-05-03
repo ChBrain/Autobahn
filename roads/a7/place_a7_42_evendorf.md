@@ -20,4 +20,4 @@ The Heidehonig economy. In the Middle Ages nearly every farmstead in the Heide k
 
 ---
 
-v0.2.3 - KAI Worlds
+v0.2.4 - KAI Worlds

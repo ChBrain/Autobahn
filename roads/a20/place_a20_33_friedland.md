@@ -22,4 +22,4 @@ Zwei mittelalterliche Stadttore stehen noch: das Anklamer Tor nach Osten, das Ne
 
 ---
 
-v0.2.2 - KAI Worlds
+v0.2.3 - KAI Worlds
