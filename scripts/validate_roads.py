@@ -6,6 +6,12 @@ Checks compliance with ARCHITECTURE.md ## Roads:
   - Road node files: Owner must contain
       `- Place: [Road](place_road.md) in [Bundesland](place_bundesland.md)`
   - Road index files: Owner must NOT contain a `- Place:` line
+  - Road index files: Must have all 5 required sections
+      (Owner, Shown, Holds, Offers, Withheld)
+  - Road index files: Must NOT contain forbidden sections
+      (Status, Planned Route, Plan, Future, TODO)
+  - Road index Holds: State subsections must have backreferences
+      (### StateName (place_state.md))
 
 File classification by path. Every road has its own folder at
 `roads/<road>/`. The road index file lives in that folder alongside its
@@ -44,6 +50,10 @@ PLACE_LINE_RE = re.compile(
 )
 HOLDS_SECTION_RE = re.compile(r"## Holds\r?\n(.*?)(?=\r?\n##|\Z)", re.DOTALL)
 STATE_SUBSECTION_RE = re.compile(r"^###\s+(\w+(?:\s+\w+)*)\s*(?:\((.*?)\))?\s*$", re.MULTILINE)
+SECTION_RE = re.compile(r"^## (.+)$", re.MULTILINE)
+
+REQUIRED_SECTIONS = ["Owner", "Shown", "Holds", "Offers", "Withheld"]
+FORBIDDEN_SECTIONS = ["Status", "Planned Route", "Plan", "Future", "TODO"]
 
 
 def classify(path: Path, root: Path) -> str:
@@ -121,6 +131,23 @@ def validate(path: Path, root: Path) -> list[Issue]:
                         error=f"state subsection '{state_name}' has invalid backreference format: `({backreference})`",
                         verdict=f"backreference must be `(place_state.md)` format",
                     ))
+        
+        # Check for forbidden sections
+        found_sections = set(SECTION_RE.findall(text))
+        for forbidden in FORBIDDEN_SECTIONS:
+            if forbidden in found_sections:
+                issues.append(Issue(
+                    error=f"road index contains forbidden section `## {forbidden}`",
+                    verdict=f"merge {forbidden} content into Shown or Holds section; do not create custom sections",
+                ))
+        
+        # Check for missing required sections (road indexes must have them all)
+        for required in REQUIRED_SECTIONS:
+            if required not in found_sections:
+                issues.append(Issue(
+                    error=f"road index missing required section `## {required}`",
+                    verdict=f"add `## {required}` section following architecture pattern",
+                ))
 
     return issues
 

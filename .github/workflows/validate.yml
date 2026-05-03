@@ -60,18 +60,6 @@ jobs:
         if: steps.changed.outputs.files == ''
         run: echo "No place_*.md files changed - skipping validation"
 
-  validate-road-structure:
-    name: Validate road index structure
-    runs-on: ubuntu-latest
-    steps:
-      - uses: actions/checkout@v4
-      - name: Set up Python
-        uses: actions/setup-python@v5
-        with:
-          python-version: '3.11'
-      - name: Check road index files (place_aX.md)
-        run: python3 scripts/validate_road_index_structure.py
-
   deploy-check:
     name: Check deploy bundles
     runs-on: ubuntu-latest
