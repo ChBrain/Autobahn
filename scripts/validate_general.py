@@ -9,6 +9,7 @@ Checks each file for:
   - No literal Unicode escape sequences
   - Required sections present in order: Owner, Shown, Holds, Offers, Withheld
   - Trailing version footer: `vX.Y.Z - KAI Worlds`
+  - Trailing newline at end of file (POSIX, .editorconfig insert_final_newline)
 
 Read-only. Emits Issue records with verdicts where the rule determines
 the fix. The orchestrator (validate.py) is responsible for sequencing.
@@ -66,6 +67,12 @@ def validate(path: Path) -> list[Issue]:
         issues.append(Issue(
             error="starts with UTF-8 BOM",
             verdict="strip the leading 3 bytes (EF BB BF)",
+        ))
+
+    if raw and not raw.endswith(b"\n"):
+        issues.append(Issue(
+            error="file does not end with a trailing newline",
+            verdict="append a newline (`\\n`) to the end of the file",
         ))
 
     try:
