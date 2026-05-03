@@ -23,5 +23,5 @@ Two kilometres north the railway crosses the Kiel Canal on a bridge 42 metres hi
 
 ---
 
-v0.2.1 - KAI Worlds
+v0.2.2 - KAI Worlds
 

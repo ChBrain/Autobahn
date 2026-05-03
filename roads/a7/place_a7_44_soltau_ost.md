@@ -20,4 +20,4 @@ The Battle of Soltau, 28 June 1519. On the heath south of here, a Brunswick army
 
 ---
 
-v0.2.1 - KAI Worlds
+v0.2.2 - KAI Worlds

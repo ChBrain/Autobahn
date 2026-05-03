@@ -21,4 +21,4 @@ Kloster Walsrode. In the town centre - a women's foundation established in the 1
 
 ---
 
-v0.2.1 - KAI Worlds
+v0.2.2 - KAI Worlds

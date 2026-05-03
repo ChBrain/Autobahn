@@ -23,5 +23,5 @@ The Christian-Albrechts-Universität was founded in 1665 by Duke Christian Albre
 
 ---
 
-v0.2.1 - KAI Worlds
+v0.2.2 - KAI Worlds
 

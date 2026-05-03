@@ -17,4 +17,4 @@ Claimed before the others could. Called from the driveway, settled by unspoken a
 
 ---
 
-v0.2.1 - KAI Worlds
+v0.2.2 - KAI Worlds

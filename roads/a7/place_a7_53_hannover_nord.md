@@ -21,4 +21,4 @@ The British kings. The A352 branching here leads toward Hannover Airport and the
 
 ---
 
-v0.2.1 - KAI Worlds
+v0.2.2 - KAI Worlds

@@ -21,4 +21,4 @@ Die Grenze. 600 Meter südlich von Kreuz Zehlendorf endet Berlin und beginnt Bra
 
 ---
 
-*v0.2.1 - KAI Worlds*
+*v0.2.2 - KAI Worlds*

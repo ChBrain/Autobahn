@@ -19,4 +19,4 @@ The slower vehicle is behind. The right lane is resumed. [Cruising](process_the_
 
 ---
 
-v0.2.1 - KAI Worlds
+v0.2.2 - KAI Worlds

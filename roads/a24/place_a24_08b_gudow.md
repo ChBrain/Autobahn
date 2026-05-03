@@ -22,5 +22,5 @@ The Schaalsee. Germany's deepest lake lies a few kilometres south - a glacial la
 
 ---
 
-v0.2.1 - KAI Worlds
+v0.2.2 - KAI Worlds
 

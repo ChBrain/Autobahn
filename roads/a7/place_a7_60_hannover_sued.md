@@ -21,4 +21,4 @@ Herrenhausen. Seven kilometres northwest - the Großer Garten begun in 1666, the
 
 ---
 
-v0.2.1 - KAI Worlds
+v0.2.2 - KAI Worlds

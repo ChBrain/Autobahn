@@ -24,4 +24,4 @@ Inherits Autobahn versioning scheme. Individual file headers show tenure dates a
 
 ---
 
-*v0.2.1 - KAI Worlds*
+*v0.2.2 - KAI Worlds*

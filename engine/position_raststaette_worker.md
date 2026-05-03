@@ -18,4 +18,4 @@ On the loss of the journey - refills the coffee machine.
 
 ---
 
-v0.2.1 - KAI Worlds
+v0.2.2 - KAI Worlds

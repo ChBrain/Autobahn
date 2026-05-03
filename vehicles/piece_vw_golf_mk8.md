@@ -30,4 +30,4 @@ The digital cockpit requires software updates. The car connects to a network. Ea
 ---
 
 *piece_vw_golf_mk8.md - 15.04.2026*
-*v0.2.1 - KAI Worlds / Autobahn*
+*v0.2.2 - KAI Worlds / Autobahn*

@@ -22,4 +22,4 @@ The Bothkamper See lies a kilometre west of this exit. On a filled headland push
 
 ---
 
-v0.2.1 - KAI Worlds
+v0.2.2 - KAI Worlds

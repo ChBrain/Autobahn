@@ -24,4 +24,4 @@ On the loss of invisibility - rides precisely.
 
 ---
 
-v0.2.1 - KAI Worlds
+v0.2.2 - KAI Worlds

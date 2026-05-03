@@ -20,4 +20,4 @@ The Georgia Augusta. Founded 1737 by George II of Britain as Elector of Hannover
 
 ---
 
-v0.2.1 - KAI Worlds
+v0.2.2 - KAI Worlds

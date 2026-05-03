@@ -20,4 +20,4 @@ The Himmelmoor. South-west of Kaltenkirchen, between Quickborn and Hasloh - one 
 
 ---
 
-v0.2.1 - KAI Worlds
+v0.2.2 - KAI Worlds

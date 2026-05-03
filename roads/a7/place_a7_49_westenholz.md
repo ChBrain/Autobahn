@@ -20,4 +20,4 @@ Louis Harms. Born in Walsrode on 5 May 1808, the son of the local pastor - one k
 
 ---
 
-v0.2.1 - KAI Worlds
+v0.2.2 - KAI Worlds

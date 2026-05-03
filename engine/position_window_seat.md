@@ -20,4 +20,4 @@ On the loss of the ability to stop - presses closer to the glass.
 
 ---
 
-v0.2.1 - KAI Worlds
+v0.2.2 - KAI Worlds

@@ -20,4 +20,4 @@ On the loss of agency - looks out the window.
 
 ---
 
-v0.2.1 - KAI Worlds
+v0.2.2 - KAI Worlds

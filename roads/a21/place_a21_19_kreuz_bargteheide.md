@@ -19,4 +19,4 @@ A church in Bargteheide was first built around 1250, sixty years before the town
 
 ---
 
-v0.2.1 - KAI Worlds
+v0.2.2 - KAI Worlds

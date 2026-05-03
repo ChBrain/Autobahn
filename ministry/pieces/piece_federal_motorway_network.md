@@ -45,4 +45,4 @@ A national motorway network extending to 1,400 km by 1966. A set of laws restric
 ---
 
 *piece_federal_motorway_network.md: 01.05.2026*
-*v0.2.1 - KAI Worlds*
+*v0.2.2 - KAI Worlds*

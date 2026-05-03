@@ -23,5 +23,5 @@ The Krückau running through Elmshorn is a tidal river - the water rises and fal
 
 ---
 
-v0.2.1 - KAI Worlds
+v0.2.2 - KAI Worlds
 
