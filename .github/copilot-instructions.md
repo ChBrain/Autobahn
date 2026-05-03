@@ -32,22 +32,32 @@ Never commit or edit directly on `main`.
 ## Release procedure
 
 1. Work on a feature branch
-2. Run `python scripts/validate.py FILE...` on changed files - all must pass before opening a PR
-3. Run `python scripts/deploy.py --check <manifest>` on any manifest you touched - it must pass strict mode before opening a PR
-4. For minor or major releases only: run `python scripts/bump_version.py --minor` (or `--major`) and commit the result. Skip for patch releases.
-5. Open a PR - the PR template checklist must pass before merge
+2. Make your changes and **include a patch version bump** in your commits:
+   - Run `python scripts/bump_version.py --patch` to update all file footers
+   - Include the bumped versions in your PR
+3. Run `python scripts/validate.py FILE...` on changed files - all must pass before opening a PR
+4. Run `python scripts/deploy.py --check <manifest>` on any manifest you touched - it must pass strict mode before opening a PR
+5. Open a PR - CI validates:
+   - That your version bump is patch-only (x.y.z → x.y.(z+1))
+   - All files pass validation
 6. Merge to `main` via PR only
-7. Create a GitHub release with a version tag to trigger the release workflow
-8. The workflow runs `scripts/deploy.py` on every manifest (`autobahn.md`, every `roads/*/place_*.md`, every `states/place_*.md`) and uploads each resulting zip as a release asset
+7. For **major or minor releases** (user-initiated):
+   - Create a GitHub release with version tag (e.g., `v0.3.0` for minor, `v1.0.0` for major)
+   - Release workflow detects bump type and syncs file versions
+   - Release workflow runs `scripts/deploy.py` on every manifest and uploads assets
 
 ## Versioning
 
-- **File footer patch** - LLM increments per file during content edits, by editing the footer in place. No release needed. `bump_version.py` does not offer this; it is per-file.
-- **Patch release** - user-triggered GitHub tag bump only. No file footer changes.
-- **Minor release** - user-triggered. Run `bump_version.py --minor` to update all file footers, then PR + tag.
-- **Major release** - user-triggered. Run `bump_version.py --major` for structural changes, then PR + tag.
+- **Patch bumps** - Developer-driven, included in work PRs. CI validates that only patch bumps occur in regular PRs (x.y.z → x.y.(z+1)).
+- **Release tag structure**:
+  - Minor release: Create tag `vX.(Y+1).0` (e.g., `v0.3.0` from `v0.2.0`)
+  - Major release: Create tag `(X+1).0.0` (e.g., `v1.0.0` from `v0.2.0`)
+- **Release workflow**: Creates PR from tag, syncs versions, deploys assets
 
-Never run `bump_version.py` unless the user explicitly asks for a release.
+**Important:**
+- Patch bumps must be included in every PR (CI enforces patch-only)
+- Do NOT manually edit version footers - use `python scripts/bump_version.py --patch` on your branch
+- Minor/major bumps are release-only (via GitHub release tags)
 
 ## Deployment
 
