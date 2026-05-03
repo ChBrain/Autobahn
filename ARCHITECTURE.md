@@ -115,6 +115,8 @@ The stretch of motorway between two adjacent stops, experienced from the carriag
 
 A point where two or more motorways meet.
 
+A junction connecting N motorways is described in N files - one per road, from that road's vantage. Each road owns its own view of the junction. Filenames are road-prefixed and unique by basename; cross-links between the per-road junction files are not required.
+
 **Shown** is what the driver sees approaching - the junction infrastructure, the signs, the branching ahead.
 
 **Holds** carries the kilometerstein position and navigation links to the adjacent stops on the same road.
