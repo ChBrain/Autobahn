@@ -96,6 +96,20 @@ def main() -> int:
     actual_bump = detect_bump_type(current, staged)
     if actual_bump == "NONE":
         print("X ERROR: Version didn't change")
+        print("")
+        print("This typically means you ran: python scripts/bump_version.py --patch")
+        print("")
+        print("IMPORTANT: bump_version.py is CI-only and should NOT run locally.")
+        print("")
+        print("RECOVERY STEPS:")
+        print("  git reset HEAD")
+        print("  git checkout -- .")
+        print("  git add -A")
+        print("  git commit -m 'your change (WITHOUT version bump)'")
+        print("  git push -u origin <branch>")
+        print("")
+        print("CI will validate your .bump-type and bump version automatically on merge.")
+        print("")
         return 1
 
     # Validate declared matches actual

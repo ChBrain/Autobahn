@@ -96,6 +96,29 @@ Quick summary:
 
 See [VERSIONING.md](../VERSIONING.md) for full details, examples, and minister reviews.
 
+## Version Bumping is CI-Only
+
+**CRITICAL:** Do not run `python scripts/bump_version.py` locally.
+
+This script only runs in GitHub Actions CI on merge to main. Running it locally causes the pre-commit hook to reject your commit with confusing errors.
+
+**Correct workflow:**
+1. Create `.bump-type` file with PATCH/MINOR/MAJOR on first commit
+2. Make content changes and commit normally (no manual version bump)
+3. Push and open PR
+4. CI validates `.bump-type` matches declared intent
+5. Merge to main → GitHub Actions automatically bumps version
+
+**If you accidentally ran bump_version.py locally:**
+```bash
+git reset HEAD
+git checkout -- .
+git add -A
+git commit -m "your change"
+git push -u origin <branch>
+```
+The pre-commit hook error message will guide recovery steps.
+
 ## Deployment
 
 The world deploys flat to Claude.ai. `scripts/deploy.py <manifest>` builds a flat zip from a manifest file (any `*.md` whose links enumerate the bundle). The bundle is exactly the manifest plus every `*.md` it links to - single-hop closure, no transitive walk. The author owns the cut.
