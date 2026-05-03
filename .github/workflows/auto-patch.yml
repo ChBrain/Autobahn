@@ -1,0 +1,57 @@
+name: auto-patch
+
+on:
+  push:
+    branches: [main]
+
+concurrency:
+  group: auto-patch
+  cancel-in-progress: false
+
+jobs:
+  auto-patch:
+    name: Auto-patch version on main push
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Configure git
+        run: |
+          git config user.name "GitHub Actions"
+          git config user.email "actions@github.com"
+
+      - name: Check if this is a release tag push
+        id: check_release
+        run: |
+          # If the pushed commit is tagged (release workflow), skip auto-patch
+          if git describe --exact-match --tags HEAD 2>/dev/null; then
+            echo "is_release_tag=true" >> $GITHUB_OUTPUT
+          else
+            echo "is_release_tag=false" >> $GITHUB_OUTPUT
+          fi
+
+      - name: Auto-bump patch version
+        if: steps.check_release.outputs.is_release_tag == 'false'
+        run: python scripts/bump_version.py --patch
+
+      - name: Commit and push if changed
+        if: steps.check_release.outputs.is_release_tag == 'false'
+        run: |
+          if git diff --quiet; then
+            echo "No version changes to commit"
+          else
+            git add -A
+            git commit -m "chore: auto-patch version bump [skip ci]"
+            git push
+            echo "✓ Auto-patch committed and pushed"
+          fi

@@ -36,14 +36,28 @@ Every file closes with a version footer: `vX.Y.Z - KAI Worlds`.
 
 Versioning follows semantic versioning: `major.minor.patch`.
 
-File footer versions and release tag versions are separate concerns:
+**Automated system:**
 
-- **File footer patch** - incremented by an LLM for content edits to a single file (corrections, additions, rewrites within one place). Does not require a release.
-- **Patch release** - a GitHub release tag bump (`v0.1.X`). No file footer changes. User-triggered.
-- **Minor release** - bumps all file footers world-wide via `scripts/bump_version.py --minor`, then PR + tag.
-- **Major release** - bumps all file footers world-wide via `scripts/bump_version.py --major` for structural changes, then PR + tag.
+- **Patch bumps** - Automatic on every merge to main. CI workflow (`auto-patch.yml`) increments `x.y.z → x.y.(z+1)` and commits back to main. Cannot be triggered manually.
+- **Minor/Major bumps** - User-triggered via GitHub release creation only.
+  - Create a GitHub release with version tag (e.g., `v0.3.0` for minor, `v1.0.0` for major)
+  - Release workflow (`release.yml`) detects bump type by comparing tag to current version
+  - All file footers auto-sync to match tag version
+  - Deployment runs automatically
 
-All releases (patch, minor, major) are user-triggered.
+**Guard rails:**
+
+- `scripts/bump_version.py --patch`: CI-only (blocked outside GitHub Actions via `GITHUB_ACTIONS` env check)
+- `scripts/bump_version.py`: No `--minor` or `--major` options (removed)
+- `scripts/release.py`: Handles release tag detection; cannot be run manually for version changes
+- Direct version footer edits: Auto-reverted by next merge, detected by CI validation
+
+**Files:**
+
+- `scripts/bump_version.py` - Patch-only version bumper (CI-enforced)
+- `scripts/release.py` - Release tag handler (detects bump type and syncs versions)
+- `.github/workflows/auto-patch.yml` - Auto-patches on main merge
+- `.github/workflows/release.yml` - Handles release tag creation
 
 ---
 

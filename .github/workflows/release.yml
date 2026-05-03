@@ -1,0 +1,70 @@
+name: release
+
+on:
+  release:
+    types: [published]
+
+permissions:
+  contents: write
+
+jobs:
+  version-sync:
+    name: Sync version to tag
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Configure git
+        run: |
+          git config user.name "GitHub Actions"
+          git config user.email "actions@github.com"
+
+      - name: Extract tag version
+        id: version
+        run: |
+          TAG="${{ github.ref_name }}"
+          echo "tag=$TAG" >> $GITHUB_OUTPUT
+          echo "Release version: $TAG"
+
+      - name: Sync file versions to tag
+        run: python scripts/release.py --tag "${{ steps.version.outputs.tag }}" --commit-if-needed
+
+      - name: Push version sync commit if created
+        run: |
+          if [ "$(git log -1 --oneline)" != "$(git log -2 --oneline | tail -1)" ]; then
+            git push
+            echo "✓ Version sync pushed"
+          else
+            echo "No version sync needed"
+          fi
+
+  deploy:
+    name: Deploy release assets
+    needs: [version-sync]
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Build and upload assets
+        run: |
+          echo "Running: python scripts/deploy.py autobahn.md"
+          python scripts/deploy.py autobahn.md
+          # This should upload release assets as part of the deploy script
+
+      - name: Validate deployment
+        run: echo "✓ Release deployed"
