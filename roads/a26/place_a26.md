@@ -3,24 +3,19 @@
 ## Owner
 - Project: Autobahn
 
-## Status
-**UNDER CONSTRUCTION** — not yet in service. Planned framework for future Neue Suderelbe crossing.
-
 ## Shown
-[TBD: Road not yet complete. Framework prepared for future build.]
-
-## Planned Route
-The Neue Elbe crossing. Two lanes per direction. The A26 would connect the A1/A25 interchange at Dreieck Hamburg-Südost to the port district via the Neue Suderelbe bridge. The road would carry traffic between the southern suburbs and the central port access, bypassing downtown Hamburg.
+Under construction — not yet in service. The Neue Elbe crossing would connect the A1/A25 interchange at Dreieck Hamburg-Südost to the port district via the Neue Suderelbe bridge. Two lanes per direction. The road would carry traffic between the southern suburbs and the central port access, bypassing downtown Hamburg.
 
 ## Holds
 
 ### Hamburg (place_hamburg.md)
-* [km TBD](piece_the_kilometerstein.md): [Dreieck Hamburg-Südost](place_a26_01_hamburg_dreieck_hamburg_suedost.md).
-* [km TBD](piece_the_kilometerstein.md): [Hamburg-Veddel](place_a26_02_hamburg_veddel.md).
-* [km TBD](piece_the_kilometerstein.md): [Neue Suderelbe](place_a26_03_neue_suderelbe.md).
-* [km TBD](piece_the_kilometerstein.md): [Hamburg-Moorfleet](place_a26_04_hamburg_moorfleet.md).
-* [km TBD](piece_the_kilometerstein.md): [Hamburg-Rothenburgsort](place_a26_05_hamburg_rothenburgsort.md).
-* [km TBD](piece_the_kilometerstein.md): [Kreuz Hamburg-Süd](place_a26_06_kreuz_hamburg_sued.md).
+*[Under construction — planned exits not yet built]*
+- Dreieck Hamburg-Südost
+- Hamburg-Veddel
+- Neue Suderelbe
+- Hamburg-Moorfleet
+- Hamburg-Rothenburgsort
+- Kreuz Hamburg-Süd
 
 ## Offers
 [TBD: Describe strategic value - port access, traffic distribution, connections.]
