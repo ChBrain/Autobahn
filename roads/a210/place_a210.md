@@ -4,10 +4,10 @@
 - Project: Autobahn
 
 ## Shown
-27 km. Two lanes per direction. The A210 runs from [Westerrönfeld](place_a210_01_westerroehnfeld.md) in the west - where the B202 from Rendsburg becomes motorway - to [Kreuz Kiel-West](place_a210_07_kreuz_kiel_west.md) in the east, where it meets the A215. The road connects the Rendsburg/A7 corridor to the Kiel urban network, crossing the flat interior of Schleswig-Holstein between the Kiel Canal and the Kieler Förde. The route follows the historic Ochsenweg drove road corridor through farmland and small towns.
+27 km. Two lanes per direction. The A210 runs from [Westerrönfeld](place_a210_01_westerroenfeld.md) in the west - where the B202 from Rendsburg becomes motorway - to [Kreuz Kiel-West](place_a210_07_kreuz_kiel_west.md) in the east, where it meets the A215. The road connects the Rendsburg/A7 corridor to the Kiel urban network, crossing the flat interior of Schleswig-Holstein between the Kiel Canal and the Kieler Förde. The route follows the historic Ochsenweg drove road corridor through farmland and small towns.
 
 ## Holds
-* [km 0.0](piece_the_kilometerstein.md): [Westerrönfeld](place_a210_01_westerroehnfeld.md).
+* [km 0.0](piece_the_kilometerstein.md): [Westerrönfeld](place_a210_01_westerroenfeld.md).
 * [km 3.9](piece_the_kilometerstein.md): [Schacht-Audorf](place_a210_02_schacht_audorf.md).
 * [km 6.8](piece_the_kilometerstein.md): [Kreuz Rendsburg](place_a210_03_kreuz_rendsburg.md).
 * [km 13.5](piece_the_kilometerstein.md): [Bredenbek](place_a210_04_bredenbek.md).
