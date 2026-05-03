@@ -13,8 +13,8 @@ Ausfahrt 4. km 14,9. Das Schild: Waidmannsluster Damm, Hermsdorfer Damm. Eine St
 Die letzte Ausfahrt vor den Tunneln. Wer hier nicht rausfährt fährt durch.
 
 ## Holds
-[The Kilometerstein](piece_the_kilometerstein.md).
-Die Rampe. Die Brücke über ihr.
+[km 14.9](piece_the_kilometerstein.md): Waidmannsluster Damm (4).
+* [Holzhauser Straße (5)](place_a111_05_holzhauser_strasse.md) is next on [A111](place_the_a111.md) going south.
 
 ## Offers
 Ausfahrt 4 - die Rampe. Waidmannsluster Damm Richtung Tegel, Hermsdorf, Tegeler See. Die letzte Ausfahrt vor den Tunneln für Fahrer Richtung Charlottenburg.

@@ -30,7 +30,7 @@ sys.path.insert(0, str(HERE))
 
 from findings import Issue
 
-HOLDS_BLOCK_RE = re.compile(r"^## Holds\r?\n(.*?)(?=\r?\n##|\Z)", re.MULTILINE | re.DOTALL)
+HOLDS_BLOCK_RE = re.compile(r"^## Holds\r?\n(.*?)(?=\r?\n## |\Z)", re.MULTILINE | re.DOTALL)
 KM_ENTRY_RE = re.compile(
     r"^\s*\*\s*\[km\s+([\d.]+)\]\(piece_the_kilometerstein\.md\):",
     re.MULTILINE,

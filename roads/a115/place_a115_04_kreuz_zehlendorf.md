@@ -11,9 +11,8 @@ Ausfahrt 4. km 16,8. Ein Kleeblatt - vier Auffahrten, 12 Hektar, fertiggestellt 
 - Richtung Dreieck Nuthetal: Kleinmachnow (5), 1,3 km. Landesgrenze Berlin-Brandenburg, 0,6 km südlich.
 
 ## Holds
-[The Kilometerstein](piece_the_kilometerstein.md).
-Die Landesgrenze. 600 Meter südlich dieser Ausfahrt: Berlin endet, Brandenburg beginnt. Keine Markierung auf der Fahrbahn. Die Fahrer merken es nicht.
-Den Mauerweg. Er läuft unmittelbar südlich des Kreuzes durch - der Berliner Mauerweg, 160 Kilometer entlang der ehemaligen innerdeutschen Grenze. Hier war die Grenze.
+[km 16.8](piece_the_kilometerstein.md): Kreuz Zehlendorf (4).
+* [Spanische Allee (3)](place_a115_03_spanische_allee.md) is north on [A115](place_the_a115.md).
 
 ## Offers
 Ausfahrt 4 - die Rampe. Zehlendorf, B1 Richtung Potsdam oder Richtung Stadtmitte. Für Fahrer von Leipzig oder Brandenburg: die erste echte Berliner Ausfahrt nach der Grenze.

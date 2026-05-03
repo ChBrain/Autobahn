@@ -11,8 +11,9 @@ Ausfahrt 3. km 18,3. Das Schild: Spanische Allee. Die Raststätte Grunewald lieg
 - Richtung Kreuz Zehlendorf: 1,5 km.
 
 ## Holds
-[The Kilometerstein](piece_the_kilometerstein.md).
-Den Übergang. Hier endet der Wald. Südlich dieser Ausfahrt: Grunewald. Nördlich: Berlin. Die Grenze ist nicht markiert. Sie ist trotzdem da.
+[km 18.3](piece_the_kilometerstein.md): Spanische Allee (3).
+* [Kreuz Zehlendorf (4)](place_a115_04_kreuz_zehlendorf.md) is south on [A115](place_the_a115.md).
+* [Hüttenweg (2)](place_a115_02_huettenweg.md) is north on [A115](place_the_a115.md).
 
 ## Offers
 Ausfahrt 3 - die Rampe. Spanische Allee, Nikolassee, Zehlendorf. Die erste Stadtausfahrt nach dem Wald. Für Fahrer von Leipzig oder Potsdam: hier hört die Durchfahrt auf und die Stadt beginnt.

@@ -93,6 +93,30 @@ A road index is the parent file for a motorway. It holds the complete kilometre 
 
 **Naming:** `roads/{road}/place_{road}.md`
 
+### Index Organization by State
+
+When a road spans multiple Bundesländer (states), the kilometre chain in **Holds** must be organized into subsections by state. Each subsection carries a state name and mandatory backreference: `### State Name (place_state.md)`.
+
+Subsection order follows the road's direction from its starting terminus. Within each subsection, entries maintain kilometre sequence. State backreferences link the road to its geographic context and are required for validation.
+
+Example:
+```
+### Schleswig-Holstein (place_schleswig_holstein.md)
+* [km 0.0](...): [Dreieck Bad Segeberg-Nord](place_a20_dreieck_bad_segeberg_nord.md).
+...
+* [km 42.7](...): [Groß Sarau](place_a20_3_gross_sarau.md).
+
+### Mecklenburg-Vorpommern (place_mecklenburg_vorpommern.md)
+* [km 49.1](...): [Lüdersdorf](place_a20_4_luedersdorf.md).
+...
+
+### Brandenburg (place_brandenburg.md)
+* [km 335](...): [Prenzlau-Ost](place_a20_37_prenzlau_ost.md).
+...
+```
+
+Validation enforced by `scripts/validate_roads.py`.
+
 ---
 
 ### Exit
