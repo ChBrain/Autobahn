@@ -21,7 +21,7 @@ The Elbtunnel: the descent from Hamburg-Othmarschen. Daylight gone. Tile walls. 
 - [the A261](../roads/a261/place_a261.md) - **Hamburg section:** Dreieck Hamburg-Südwest to Hamburg-Marmstorf/Lürade
 
 ### Hamburg (Under Construction)
-- [the A26](../roads/a26/place_a26.md) - **Planned:** Dreieck Hamburg-Südost to Kreuz Hamburg-Süd (Neue Suderelbe crossing) - not yet in service
+- [the A26](../roads/a26/place_a26.md) - **Hamburg terminus:** Kreuz Hamburg-Hafen connection (Niedersachsen section open, Hamburg km 46+ under construction until 2028)
 
 ## Offers
 100 km/h throughout. Dense junctions with short weaving distances. The Elbtunnel mandatory for the A7 crossing - no alternative, 60 km/h, one of the highest-traffic tunnels in Germany. The Lärmschutztunnel sections: the road acoustically contained, exits spaced for urban density.
@@ -31,4 +31,4 @@ The port - the third largest in Europe. Reachable from A7 Waltershof. The contai
 
 ---
 
-v0.2.4 - KAI Worlds
+v0.2.7 - KAI Worlds
