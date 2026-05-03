@@ -71,7 +71,7 @@ Quick summary:
    ```bash
    git push -u origin feat/my-change
    ```
-   All tests pass, merge to main.
+   CI validates version bump rules, all tests pass, merge to main.
 
 7. **(For MINOR/MAJOR only) Create GitHub release**:
    - Patch bumps are already done - version merged to main
@@ -82,6 +82,7 @@ Quick summary:
 
 - **Intent-first model** - Every branch declares PATCH/MINOR/MAJOR upfront in `.bump-type` file
 - **Pre-commit hook** - Validates version bumps match declared type (prevents scope creep)
+- **CI validation** - Validates patch-only for work PRs, major/minor/patch for release PRs
 - **Version merges with code** - Not separate automation, version is part of the commit
 - **Minor/major via tags** - Only release tags trigger minor/major bumps and deployment
 
@@ -89,6 +90,7 @@ Quick summary:
 - Always declare `.bump-type` on first commit of feature branch
 - Use `python scripts/bump_version.py --patch` (or --minor/--major) to bump
 - Hook prevents scope creep: can't declare PATCH and bump MINOR
+- CI validates: work PRs must be patch-only, release PRs can be major/minor
 - Minor/major bumps are release-only (via GitHub release tags)
 
 See [VERSIONING.md](../VERSIONING.md) for full details, examples, and minister reviews.
