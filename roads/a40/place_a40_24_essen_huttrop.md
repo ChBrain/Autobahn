@@ -26,4 +26,4 @@ Die Stadtgrenze liegt 4,3 km östlich, zwischen Kray und Wattenscheid. Kein Schi
 ---
 
 *place_a40_24_essen_huttrop.md - 14.04.2026*
-*v0.2.0 - KAI Worlds / Autobahn Aktuell*
+*v0.2.1 - KAI Worlds / Autobahn Aktuell*

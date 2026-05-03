@@ -31,4 +31,4 @@ Das Berger Feld - Industriebrache, Zeche Consolidation, Schachtanlage 3/4. Abget
 
 ---
 *place_a40_bochum_gelsenkirchen.md - 20.04.2026*
-v0.2.0 - KAI Worlds / Autobahn Aktuell
+v0.2.1 - KAI Worlds / Autobahn Aktuell

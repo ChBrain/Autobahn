@@ -31,33 +31,69 @@ Never commit or edit directly on `main`.
 
 ## Release procedure
 
-1. Work on a feature branch
-2. Make your changes and **include a patch version bump** in your commits:
-   - Run `python scripts/bump_version.py --patch` to update all file footers
-   - Include the bumped versions in your PR
-3. Run `python scripts/validate.py FILE...` on changed files - all must pass before opening a PR
-4. Run `python scripts/deploy.py --check <manifest>` on any manifest you touched - it must pass strict mode before opening a PR
-5. Open a PR - CI validates:
-   - That your version bump is patch-only (x.y.z → x.y.(z+1))
-   - All files pass validation
-6. Merge to `main` via PR only
-7. For **major or minor releases** (user-initiated):
-   - Create a GitHub release with version tag (e.g., `v0.3.0` for minor, `v1.0.0` for major)
-   - Release workflow detects bump type and syncs file versions
-   - Release workflow runs `scripts/deploy.py` on every manifest and uploads assets
+**See [VERSIONING.md](../VERSIONING.md) for complete workflow with examples.**
+
+Quick summary:
+
+1. **Create feature branch**
+   ```bash
+   git checkout -b feat/my-change
+   ```
+
+2. **Declare intent upfront** with `.bump-type`:
+   ```bash
+   echo "PATCH" > .bump-type  # or MINOR/MAJOR
+   git add .bump-type && git commit -m "chore: declare bump type"
+   ```
+
+3. **(Optional) Get ministerial review:**
+   ```bash
+   python scripts/minister_review.py
+   ```
+
+4. **Make changes and bump version**:
+   ```bash
+   # Edit files
+   nano roads/a20/place_a20.md
+   
+   # Bump version to match declared type
+   python scripts/bump_version.py --patch  # if declared PATCH
+   
+   # Commit
+   git add -A && git commit -m "feat: add new road"
+   ```
+
+5. **Pre-commit hook validates**:
+   - ✓ Version bump matches declared type (PATCH/MINOR/MAJOR)
+   - ✗ Rejects scope creep (declared PATCH, bumped MINOR)
+
+6. **Open PR and merge**:
+   ```bash
+   git push -u origin feat/my-change
+   ```
+   CI validates version bump rules, all tests pass, merge to main.
+
+7. **(For MINOR/MAJOR only) Create GitHub release**:
+   - Patch bumps are already done - version merged to main
+   - Minor/major releases: create GitHub release with tag (v0.3.0)
+   - Release workflow syncs versions and deploys
 
 ## Versioning
 
-- **Patch bumps** - Developer-driven, included in work PRs. CI validates that only patch bumps occur in regular PRs (x.y.z → x.y.(z+1)).
-- **Release tag structure**:
-  - Minor release: Create tag `vX.(Y+1).0` (e.g., `v0.3.0` from `v0.2.0`)
-  - Major release: Create tag `(X+1).0.0` (e.g., `v1.0.0` from `v0.2.0`)
-- **Release workflow**: Creates PR from tag, syncs versions, deploys assets
+- **Intent-first model** - Every branch declares PATCH/MINOR/MAJOR upfront in `.bump-type` file
+- **Pre-commit hook** - Validates version bumps match declared type (prevents scope creep)
+- **CI validation** - Validates patch-only for work PRs, major/minor/patch for release PRs
+- **Version merges with code** - Not separate automation, version is part of the commit
+- **Minor/major via tags** - Only release tags trigger minor/major bumps and deployment
 
 **Important:**
-- Patch bumps must be included in every PR (CI enforces patch-only)
-- Do NOT manually edit version footers - use `python scripts/bump_version.py --patch` on your branch
+- Always declare `.bump-type` on first commit of feature branch
+- Use `python scripts/bump_version.py --patch` (or --minor/--major) to bump
+- Hook prevents scope creep: can't declare PATCH and bump MINOR
+- CI validates: work PRs must be patch-only, release PRs can be major/minor
 - Minor/major bumps are release-only (via GitHub release tags)
+
+See [VERSIONING.md](../VERSIONING.md) for full details, examples, and minister reviews.
 
 ## Deployment
 

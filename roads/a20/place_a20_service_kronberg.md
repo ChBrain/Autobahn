@@ -23,5 +23,5 @@ Before the A20 was built through here, archaeologists worked the route for years
 
 ---
 
-v0.2.0 - KAI Worlds
+v0.2.1 - KAI Worlds
 

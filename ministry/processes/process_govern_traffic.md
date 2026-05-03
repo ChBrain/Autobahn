@@ -22,4 +22,4 @@ A tenure ends. The minister leaves a network in better or worse condition than t
 ---
 
 *process_govern_traffic.md: 01.05.2026*
-*v0.2.0 - KAI Worlds*
+*v0.2.1 - KAI Worlds*

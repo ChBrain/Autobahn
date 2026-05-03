@@ -20,4 +20,4 @@ Einbeck and the Bockbier. Eight kilometres east - a Hanseatic town that in the 1
 
 ---
 
-v0.2.0 - KAI Worlds
+v0.2.1 - KAI Worlds

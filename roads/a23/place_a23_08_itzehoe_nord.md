@@ -23,5 +23,5 @@ In 809 Charlemagne ordered a fortress built here - the first Frankish fortificat
 
 ---
 
-v0.2.0 - KAI Worlds
+v0.2.1 - KAI Worlds
 

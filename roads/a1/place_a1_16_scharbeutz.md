@@ -22,4 +22,4 @@ Timmendorfer Strand's first visitor arrived in 1865 - a pastor named Friedrich A
 
 ---
 
-v0.2.0 - KAI Worlds
+v0.2.1 - KAI Worlds
