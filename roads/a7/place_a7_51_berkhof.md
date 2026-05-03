@@ -20,4 +20,4 @@ The end of the Kingdom of Hannover. On 20 September 1866, Prussia formally annex
 
 ---
 
-v0.2.0 - KAI Worlds
+v0.2.4 - KAI Worlds

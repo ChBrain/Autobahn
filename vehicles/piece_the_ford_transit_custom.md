@@ -24,4 +24,4 @@ Built in Turkey. On the Autobahn today not for the journey - for the delivery. T
 ---
 
 *piece_the_ford_transit_custom.md - 12.04.2026*
-*v0.2.0 - KAI Worlds / Autobahn Aktuell*
+*v0.2.4 - KAI Worlds / Autobahn Aktuell*

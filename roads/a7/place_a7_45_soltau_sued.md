@@ -20,4 +20,4 @@ The Böhme. The river leaves Soltau westward from this exit, running 65 kilometr
 
 ---
 
-v0.2.0 - KAI Worlds
+v0.2.4 - KAI Worlds

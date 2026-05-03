@@ -20,4 +20,4 @@ The Scorpions. Klaus Meine and Matthias Jabs - vocalist and lead guitarist of th
 
 ---
 
-v0.2.0 - KAI Worlds
+v0.2.4 - KAI Worlds

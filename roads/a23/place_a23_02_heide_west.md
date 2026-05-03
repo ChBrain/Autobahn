@@ -22,5 +22,5 @@ The North Frisian islands. North of here the B5 continues to Husum and the ferry
 
 ---
 
-v0.2.0 - KAI Worlds
+v0.2.4 - KAI Worlds
 

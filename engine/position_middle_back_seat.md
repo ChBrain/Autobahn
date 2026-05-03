@@ -20,4 +20,4 @@ On the loss of standing - asks are we nearly there.
 
 ---
 
-v0.2.0 - KAI Worlds
+v0.2.4 - KAI Worlds

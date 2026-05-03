@@ -22,5 +22,5 @@ The Eidelstedter Feldmark. An ancient farming landscape that survived the city g
 
 ---
 
-v0.2.0 - KAI Worlds
+v0.2.4 - KAI Worlds
 

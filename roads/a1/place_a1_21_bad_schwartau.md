@@ -23,4 +23,4 @@ The spa. Bad Schwartau is a Kurort - a designated spa town - for its brine sprin
 
 ---
 
-v0.2.0 - KAI Worlds
+v0.2.4 - KAI Worlds

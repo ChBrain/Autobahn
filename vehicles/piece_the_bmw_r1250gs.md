@@ -21,4 +21,4 @@ Built in Berlin since 1969. The most successful motorcycle in BMW Motorrad's lin
 
 ---
 
-v0.2.0 - KAI Worlds
+v0.2.4 - KAI Worlds

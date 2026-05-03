@@ -24,4 +24,4 @@ The deeper story runs forward from there. The Hanseatic League, led from Lübeck
 
 ---
 
-v0.2.0 - KAI Worlds
+v0.2.4 - KAI Worlds

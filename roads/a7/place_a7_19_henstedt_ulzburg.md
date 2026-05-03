@@ -20,4 +20,4 @@ Wakendorf II. Four kilometres north - a village containing a Hügelgrab field, B
 
 ---
 
-v0.2.0 - KAI Worlds
+v0.2.4 - KAI Worlds

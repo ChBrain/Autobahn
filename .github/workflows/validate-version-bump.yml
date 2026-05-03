@@ -1,0 +1,27 @@
+name: validate-version-bump
+
+on:
+  pull_request:
+    branches: [main]
+
+jobs:
+  validate-version:
+    name: Validate version bump
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Validate version bump
+        env:
+          GITHUB_EVENT_PATH: ${{ github.event_path }}
+        run: python scripts/validate_version_bump.py
+
+      - name: Validate no German language bleed
+        run: python scripts/validate_german_bleed.py

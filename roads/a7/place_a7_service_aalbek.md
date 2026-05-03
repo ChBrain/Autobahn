@@ -24,5 +24,5 @@ The Stör. The river passes through the outer districts of Neumünster, close to
 
 ---
 
-v0.2.0 - KAI Worlds
+v0.2.4 - KAI Worlds
 

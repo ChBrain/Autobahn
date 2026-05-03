@@ -20,4 +20,4 @@ The Haupthof Hittfeld. Two kilometres west - a farmstead recorded in the possess
 
 ---
 
-v0.2.0 - KAI Worlds
+v0.2.4 - KAI Worlds

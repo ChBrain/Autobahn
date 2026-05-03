@@ -20,4 +20,4 @@ The battle fought near this exit on 22 July 1227 is the reason Lübeck's indepen
 
 ---
 
-v0.2.0 - KAI Worlds
+v0.2.4 - KAI Worlds

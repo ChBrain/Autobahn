@@ -19,4 +19,4 @@ The distance is shorter. [the tank](piece_the_tank.md) is lower. The next proces
 
 ---
 
-v0.2.0 - KAI Worlds
+v0.2.4 - KAI Worlds

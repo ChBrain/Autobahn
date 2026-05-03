@@ -20,4 +20,4 @@ The Battle of Lutter am Barenberge. Ten kilometres east - on 27 August 1626, Til
 
 ---
 
-v0.2.0 - KAI Worlds
+v0.2.4 - KAI Worlds

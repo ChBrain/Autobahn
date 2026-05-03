@@ -23,5 +23,5 @@ The Klövensteen. The forest begins a few kilometres south - 580 hectares of mix
 
 ---
 
-v0.2.0 - KAI Worlds
+v0.2.4 - KAI Worlds
 

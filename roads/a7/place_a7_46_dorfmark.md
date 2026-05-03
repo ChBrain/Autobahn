@@ -20,4 +20,4 @@ The displaced villages. To the east, the Truppenübungsplatz Bergen - the larges
 
 ---
 
-v0.2.0 - KAI Worlds
+v0.2.4 - KAI Worlds

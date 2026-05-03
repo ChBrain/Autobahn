@@ -36,14 +36,37 @@ Every file closes with a version footer: `vX.Y.Z - KAI Worlds`.
 
 Versioning follows semantic versioning: `major.minor.patch`.
 
-File footer versions and release tag versions are separate concerns:
+**Intent-first workflow:**
 
-- **File footer patch** - incremented by an LLM for content edits to a single file (corrections, additions, rewrites within one place). Does not require a release.
-- **Patch release** - a GitHub release tag bump (`v0.1.X`). No file footer changes. User-triggered.
-- **Minor release** - bumps all file footers world-wide via `scripts/bump_version.py --minor`, then PR + tag.
-- **Major release** - bumps all file footers world-wide via `scripts/bump_version.py --major` for structural changes, then PR + tag.
+Every change declares its scope upfront to prevent scope creep. The workflow:
 
-All releases (patch, minor, major) are user-triggered.
+1. **Declare intent** - On first commit of a feature branch, create `.bump-type` file with PATCH, MINOR, or MAJOR
+2. **Make changes** - Edit content files as needed
+3. **Bump version** - Run `python scripts/bump_version.py --patch` (or --minor/--major) to update all file footers
+4. **Validate** - Pre-commit hook verifies that declared bump type matches actual version change
+5. **Commit & PR** - Commit to feature branch, open PR
+6. **CI validation** - GitHub Actions validates `.bump-type` declaration matches actual bump (prevents scope creep)
+7. **Merge** - Once approved, merge to main
+
+**For minor/major releases only:**
+- After merge to main, create a GitHub release with version tag (e.g., `v0.3.0` for minor, `v1.0.0` for major)
+- Release workflow detects bump type and syncs all file footers
+- Deployment runs automatically
+
+**Scope protection:**
+
+The pre-commit hook prevents scope creep by rejecting commits where:
+- Declared type does not match actual version change (e.g., declared PATCH but bumped MINOR)
+- Version was not bumped when content was changed
+- `.bump-type` is missing on first content commit
+
+**Files:**
+
+- `.bump-type` - Developer-created file declaring PATCH/MINOR/MAJOR intent (required on first content commit)
+- `scripts/bump_version.py` - Updates all version footers to match declared bump type
+- `.githooks/pre-commit` - Validates declared intent matches actual version change
+- `.github/workflows/validate-version-bump.yml` - CI validation of `.bump-type` on PR
+- `VERSIONING.md` - Complete workflow documentation with examples
 
 ---
 

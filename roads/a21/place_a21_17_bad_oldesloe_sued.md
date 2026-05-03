@@ -20,4 +20,4 @@ There is a secondary school in Bad Oldesloe named after Theodor Mommsen. He grew
 
 ---
 
-v0.2.0 - KAI Worlds
+v0.2.4 - KAI Worlds

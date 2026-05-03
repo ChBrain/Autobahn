@@ -20,4 +20,4 @@ In 1184 a monk named Meinhard left the Augustinian monastery at Segeberg - a few
 
 ---
 
-v0.2.0 - KAI Worlds
+v0.2.4 - KAI Worlds

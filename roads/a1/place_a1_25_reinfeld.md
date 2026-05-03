@@ -24,4 +24,4 @@ The eHighway. Between Kreuz Lübeck and Reinfeld a test section of overhead elec
 
 ---
 
-v0.2.0 - KAI Worlds
+v0.2.4 - KAI Worlds

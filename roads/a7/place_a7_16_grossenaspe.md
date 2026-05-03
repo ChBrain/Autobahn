@@ -20,4 +20,4 @@ Schmalfeld church. Three kilometres west, a 13th-century village church, the old
 
 ---
 
-v0.2.0 - KAI Worlds
+v0.2.4 - KAI Worlds

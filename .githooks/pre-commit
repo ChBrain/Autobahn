@@ -1,0 +1,145 @@
+#!/usr/bin/env python3
+"""Pre-commit hook: validate version bumps match declared intent.
+
+This hook ensures that:
+1. .bump-type is declared on first content commit
+2. Version bumps match the declared PATCH/MINOR/MAJOR intent
+3. No scope creep (can't declare PATCH and bump MINOR)
+"""
+from __future__ import annotations
+
+import re
+import subprocess
+import sys
+from pathlib import Path
+
+BUMP_TYPE_FILE = ".bump-type"
+CURRENT_VERSION_FILE = "autobahn.md"
+
+
+def run_git(*args: str) -> str:
+    """Run git command and return output."""
+    result = subprocess.run(
+        ["git", *args],
+        capture_output=True,
+        text=True,
+        check=False,
+    )
+    return result.stdout.strip()
+
+
+def get_version(text: str) -> str | None:
+    """Extract version from text."""
+    match = re.search(r"v(\d+\.\d+\.\d+)", text)
+    return match.group(1) if match else None
+
+
+def detect_bump_type(current: str, staged: str) -> str:
+    """Detect bump type by comparing versions."""
+    c_parts = tuple(map(int, current.split(".")))
+    s_parts = tuple(map(int, staged.split(".")))
+
+    if c_parts[0] != s_parts[0]:
+        return "MAJOR"
+    if c_parts[1] != s_parts[1]:
+        return "MINOR"
+    if c_parts[2] != s_parts[2]:
+        return "PATCH"
+    return "NONE"
+
+
+def main() -> int:
+    # Check if .bump-type exists
+    if not Path(BUMP_TYPE_FILE).exists():
+        # Check if content is being staged (besides .bump-type)
+        staged_files = run_git("diff", "--cached", "--name-only")
+        if staged_files and any(
+            line != BUMP_TYPE_FILE for line in staged_files.split("\n") if line
+        ):
+            print("✗ ERROR: You must declare bump intent first")
+            print("")
+            print("Create .bump-type with one of:")
+            print("  PATCH   - fix, small improvement, no breaking changes")
+            print("  MINOR   - new feature, backward compatible")
+            print("  MAJOR   - breaking changes, restructure")
+            print("")
+            print("Then commit: git add .bump-type && git commit -m 'chore: declare bump type'")
+            print("")
+            return 1
+        # .bump-type is being added, allow it
+        return 0
+
+    # Get declared bump type
+    declared = Path(BUMP_TYPE_FILE).read_text().strip()
+    if declared not in ("PATCH", "MINOR", "MAJOR"):
+        print(f"X ERROR: Invalid .bump-type: {declared}")
+        print("Must be: PATCH, MINOR, or MAJOR")
+        return 1
+
+    # Get current version
+    current_text = Path(CURRENT_VERSION_FILE).read_text()
+    current = get_version(current_text)
+    if not current:
+        print(f"X ERROR: Could not find version in {CURRENT_VERSION_FILE}")
+        return 1
+
+    # Get staged version change
+    diff = run_git("diff", "--cached", CURRENT_VERSION_FILE)
+    staged_match = re.search(r"^\+.*v(\d+\.\d+\.\d+)", diff, re.MULTILINE)
+    if not staged_match:
+        # No version change, that's ok
+        return 0
+
+    staged = staged_match.group(1)
+
+    # Detect actual bump type
+    actual_bump = detect_bump_type(current, staged)
+    if actual_bump == "NONE":
+        print("X ERROR: Version didn't change")
+        print("")
+        print("This typically means you ran: python scripts/bump_version.py --patch")
+        print("")
+        print("IMPORTANT: bump_version.py is CI-only and should NOT run locally.")
+        print("")
+        print("RECOVERY STEPS:")
+        print("  git reset HEAD")
+        print("  git checkout -- .")
+        print("  git add -A")
+        print("  git commit -m 'your change (WITHOUT version bump)'")
+        print("  git push -u origin <branch>")
+        print("")
+        print("CI will validate your .bump-type and bump version automatically on merge.")
+        print("")
+        return 1
+
+    # Validate declared matches actual
+    if declared != actual_bump:
+        print("X VALIDATION FAILED")
+        print(f"  Declared: {declared}")
+        print(f"  Actual:   {actual_bump}")
+        print(f"  Version:  v{current} → v{staged}")
+        print("")
+        print("Your bump doesn't match your declaration!")
+        print("This is a scope violation. Fix it:")
+        print("")
+
+        if actual_bump == "MINOR" and declared == "PATCH":
+            print("  You declared PATCH but are bumping MINOR (scope creep)")
+        elif actual_bump == "MAJOR":
+            print(f"  You declared {declared} but are bumping MAJOR (massive scope creep!)")
+        else:
+            print(
+                "  Edit .bump-type to match actual bump, or adjust your version bump"
+            )
+
+        return 1
+
+    print(f"+ Version bump validated")
+    print(f"  Type:    {declared}")
+    print(f"  Version: v{current} → v{staged}")
+
+    return 0
+
+
+if __name__ == "__main__":
+    sys.exit(main())

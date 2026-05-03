@@ -19,4 +19,4 @@ What moves on the tracks. The noise barrier withholds it in both directions.
 ---
 
 *place_a1_bridge_hengstey.md - 12.04.2026*
-*v0.2.0 - KAI Worlds / Autobahn Aktuell*
+*v0.2.4 - KAI Worlds / Autobahn Aktuell*

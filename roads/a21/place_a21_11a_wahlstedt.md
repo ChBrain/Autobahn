@@ -20,4 +20,4 @@ Vicelin, the Augustinian missionary who in 1149 became Bishop of Oldenburg, is t
 
 ---
 
-v0.2.0 - KAI Worlds
+v0.2.4 - KAI Worlds

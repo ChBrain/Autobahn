@@ -17,4 +17,4 @@ In a vehicle old enough to still have the slot. Played on journeys where the Dri
 
 ---
 
-v0.2.0 - KAI Worlds
+v0.2.4 - KAI Worlds

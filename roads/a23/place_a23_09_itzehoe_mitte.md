@@ -23,5 +23,5 @@ West of here, between the Stör and the Elbe, the Wilstermarsch - some of the lo
 
 ---
 
-v0.2.0 - KAI Worlds
+v0.2.4 - KAI Worlds
 

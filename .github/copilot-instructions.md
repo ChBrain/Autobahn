@@ -1,19 +1,5 @@
 # Autobahn - Copilot Instructions
 
-## Release Agent
-
-For releases, use the `@autobahn-release` agent instead of the default agent. It enforces approval gates and prevents accidental bypasses:
-
-```
-/autobahn-release
-@autobahn-release please release X.Y.Z
-```
-
-This agent requires explicit user approval before:
-- Merging any PR
-- Creating release tags
-- Creating GitHub Releases
-
 ## Git workflow
 
 **Before any file edit:**
@@ -31,23 +17,96 @@ Never commit or edit directly on `main`.
 
 ## Release procedure
 
-1. Work on a feature branch
-2. Run `python scripts/validate.py FILE...` on changed files - all must pass before opening a PR
-3. Run `python scripts/deploy.py --check <manifest>` on any manifest you touched - it must pass strict mode before opening a PR
-4. For minor or major releases only: run `python scripts/bump_version.py --minor` (or `--major`) and commit the result. Skip for patch releases.
-5. Open a PR - the PR template checklist must pass before merge
-6. Merge to `main` via PR only
-7. Create a GitHub release with a version tag to trigger the release workflow
-8. The workflow runs `scripts/deploy.py` on every manifest (`autobahn.md`, every `roads/*/place_*.md`, every `states/place_*.md`) and uploads each resulting zip as a release asset
+**See [VERSIONING.md](../VERSIONING.md) for complete workflow with examples.**
+
+Quick summary:
+
+1. **Create feature branch**
+   ```bash
+   git checkout -b feat/my-change
+   ```
+
+2. **Declare intent upfront** with `.bump-type`:
+   ```bash
+   echo "PATCH" > .bump-type  # or MINOR/MAJOR
+   git add .bump-type && git commit -m "chore: declare bump type"
+   ```
+
+3. **(Optional) Get ministerial review:**
+   ```bash
+   python scripts/minister_review.py
+   ```
+
+4. **Make changes and bump version**:
+   ```bash
+   # Edit files
+   nano roads/a20/place_a20.md
+   
+   # Bump version to match declared type
+   python scripts/bump_version.py --patch  # if declared PATCH
+   
+   # Commit
+   git add -A && git commit -m "feat: add new road"
+   ```
+
+5. **Pre-commit hook validates**:
+   - ✓ Version bump matches declared type (PATCH/MINOR/MAJOR)
+   - ✓ No German language bleed detected
+   - ✗ Rejects scope creep (declared PATCH, bumped MINOR)
+
+6. **Open PR and merge**:
+   ```bash
+   git push -u origin feat/my-change
+   ```
+   CI validates version bump rules, no German language bleed, all tests pass, merge to main.
+
+7. **Release ceremony** (after merge to main):
+   ```bash
+   gh release create v0.3.0 --title "v0.3.0" --notes "Release notes here"
+   ```
+   - For PATCH releases: tag is v0.X.Y (already merged)
+   - For MINOR/MAJOR releases: creates GitHub Release, which triggers release.yml
+   - Release workflow syncs versions, generates deployment assets, and deploys
 
 ## Versioning
 
-- **File footer patch** - LLM increments per file during content edits, by editing the footer in place. No release needed. `bump_version.py` does not offer this; it is per-file.
-- **Patch release** - user-triggered GitHub tag bump only. No file footer changes.
-- **Minor release** - user-triggered. Run `bump_version.py --minor` to update all file footers, then PR + tag.
-- **Major release** - user-triggered. Run `bump_version.py --major` for structural changes, then PR + tag.
+- **Intent-first model** - Every branch declares PATCH/MINOR/MAJOR upfront in `.bump-type` file
+- **Pre-commit hook** - Validates version bumps match declared type (prevents scope creep)
+- **CI validation** - Validates patch-only for work PRs, major/minor/patch for release PRs
+- **Version merges with code** - Not separate automation, version is part of the commit
+- **Minor/major via tags** - Only release tags trigger minor/major bumps and deployment
 
-Never run `bump_version.py` unless the user explicitly asks for a release.
+**Important:**
+- Always declare `.bump-type` on first commit of feature branch
+- Use `python scripts/bump_version.py --patch` (or --minor/--major) to bump
+- Hook prevents scope creep: can't declare PATCH and bump MINOR
+- CI validates: work PRs must be patch-only, release PRs can be major/minor
+- Minor/major bumps are release-only (via GitHub release tags)
+
+See [VERSIONING.md](../VERSIONING.md) for full details, examples, and minister reviews.
+
+## Version Bumping is CI-Only
+
+**CRITICAL:** Do not run `python scripts/bump_version.py` locally.
+
+This script only runs in GitHub Actions CI on merge to main. Running it locally causes the pre-commit hook to reject your commit with confusing errors.
+
+**Correct workflow:**
+1. Create `.bump-type` file with PATCH/MINOR/MAJOR on first commit
+2. Make content changes and commit normally (no manual version bump)
+3. Push and open PR
+4. CI validates `.bump-type` matches declared intent
+5. Merge to main → GitHub Actions automatically bumps version
+
+**If you accidentally ran bump_version.py locally:**
+```bash
+git reset HEAD
+git checkout -- .
+git add -A
+git commit -m "your change"
+git push -u origin <branch>
+```
+The pre-commit hook error message will guide recovery steps.
 
 ## Deployment
 
@@ -68,6 +127,18 @@ Single author-facing rule: **every file basename in the world is unique.**
 ## Style
 
 - Do not use em dashes anywhere in this repository (place files, ARCHITECTURE, README, copilot-instructions, anything else). Use a hyphen (`-`) or rephrase.
+
+## Content standards
+
+**Language:** All place files must be in English. German proper names (Eigenname) and place names are acceptable, but German language content (sentences, phrases, and German-specific terminology) is not.
+
+Examples:
+- ✓ Allowed: "Ratzeburg is a city on the border"
+- ✓ Allowed: "Named after Friedrich Franz I"
+- ✗ Not allowed: "1949 bis 1990 verlief die Grenze..." (German sentence)
+- ✗ Not allowed: "Der Krieg hat die Stadt..." (German language content)
+
+The validator (`scripts/validate_german_bleed.py`) detects German verb phrases and language-specific terms. It is run automatically on all PRs as part of CI validation.
 
 ## File standards
 

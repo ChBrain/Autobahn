@@ -26,4 +26,4 @@ The Golf replaced the Beetle as Volkswagen's volume car. The Beetle had a single
 ---
 
 *piece_vw_golf.md - 15.04.2026*
-*v0.2.0 - KAI Worlds / Autobahn*
+*v0.2.4 - KAI Worlds / Autobahn*

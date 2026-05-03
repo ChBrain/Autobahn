@@ -21,4 +21,4 @@ The TGX: flagship long-haul. D26 and D38 engines, 430 to 640 HP. TipMatic automa
 
 ---
 
-v0.2.0 - KAI Worlds
+v0.2.4 - KAI Worlds

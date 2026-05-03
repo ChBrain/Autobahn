@@ -23,5 +23,5 @@ The Elbe-Lübeck-Kanal. The canal connecting the Elbe to Lübeck crosses near he
 
 ---
 
-v0.2.0 - KAI Worlds
+v0.2.4 - KAI Worlds
 
