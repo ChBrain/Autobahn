@@ -19,9 +19,8 @@ Ausfahrt 16 - the exit ramp. The ordinary road below.
 
 
 ## Withheld
-The rose gardens. Two of them within a few kilometres of this road - the Rosarium in Uetersen, opened 1934, seven hectares, 900 varieties, built by Tantau and Kordes on a drained millpond; and the Rosengarten in Pinneberg, opened a year later, smaller, Art Deco, nearly lost after the war when the town turned it into a potato field. Both still open. The region around them produces around 20 million rose plants a year.
+Helgoland is in this district. The island sits 70 km west in the open North Sea - the only German territory in the open ocean - and is administered from the Landratsamt in Pinneberg. In April 1947 the Royal Navy detonated 6,700 tonnes of surplus explosives there to destroy the wartime U-boat bunkers, and by some accounts the island itself; the southern tip slid into the sea. Population around 1,300. Outside the EU customs union, duty-free. Not visible from any point on this road, or any other.
 
 ---
 
-v0.2.0 - KAI Worlds
-
+v0.2.1 - KAI Worlds
