@@ -13,7 +13,7 @@ Auffahrt Essen-Zentrum. Das Schild: Essen-Zentrum, Hauptbahnhof, B224.
 Lärmschutzwände links und rechts. Graffiti auf Beton. Zwei Spuren. 100 km/h. Auffahrt südlich des Hauptbahnhofs, Huyssenallee.
 
 ## Holds
-* [km 66.0](piece_the_kilometerstein.md): [Essen-Zentrum](place_a40_23_essen_zentrum.md).
+[km 66.0](piece_the_kilometerstein.md): Essen-Zentrum.
 
 Die kürzeste Strecke zwischen zwei Ausfahrten auf dieser Route. Essen-Zentrum und Essen-Huttrop liegen 1,8 km auseinander. Wer auffährt, sieht das nächste Schild sofort.
 
