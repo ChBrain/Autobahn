@@ -72,7 +72,7 @@ def main() -> int:
     # Get declared bump type
     declared = Path(BUMP_TYPE_FILE).read_text().strip()
     if declared not in ("PATCH", "MINOR", "MAJOR"):
-        print(f"✗ ERROR: Invalid .bump-type: {declared}")
+        print(f"X ERROR: Invalid .bump-type: {declared}")
         print("Must be: PATCH, MINOR, or MAJOR")
         return 1
 
@@ -80,7 +80,7 @@ def main() -> int:
     current_text = Path(CURRENT_VERSION_FILE).read_text()
     current = get_version(current_text)
     if not current:
-        print(f"✗ ERROR: Could not find version in {CURRENT_VERSION_FILE}")
+        print(f"X ERROR: Could not find version in {CURRENT_VERSION_FILE}")
         return 1
 
     # Get staged version change
@@ -95,12 +95,12 @@ def main() -> int:
     # Detect actual bump type
     actual_bump = detect_bump_type(current, staged)
     if actual_bump == "NONE":
-        print("✗ ERROR: Version didn't change")
+        print("X ERROR: Version didn't change")
         return 1
 
     # Validate declared matches actual
     if declared != actual_bump:
-        print("✗ VALIDATION FAILED")
+        print("X VALIDATION FAILED")
         print(f"  Declared: {declared}")
         print(f"  Actual:   {actual_bump}")
         print(f"  Version:  v{current} → v{staged}")
@@ -120,7 +120,7 @@ def main() -> int:
 
         return 1
 
-    print(f"✓ Version bump validated")
+    print(f"+ Version bump validated")
     print(f"  Type:    {declared}")
     print(f"  Version: v{current} → v{staged}")
 
