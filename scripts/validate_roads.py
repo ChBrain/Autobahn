@@ -42,6 +42,8 @@ PLACE_LINE_RE = re.compile(
     r"^\s*-\s*Place:\s*\[.+?\]\(place_[^)]+\.md\)\s+in\s+\[.+?\]\(place_[^)]+\.md\)",
     re.MULTILINE,
 )
+HOLDS_SECTION_RE = re.compile(r"## Holds\r?\n(.*?)(?=\r?\n##|\Z)", re.DOTALL)
+STATE_SUBSECTION_RE = re.compile(r"^###\s+(\w+(?:\s+\w+)*)\s*(?:\((.*?)\))?\s*$", re.MULTILINE)
 
 
 def classify(path: Path, root: Path) -> str:
@@ -100,6 +102,25 @@ def validate(path: Path, root: Path) -> list[Issue]:
             error="road index Owner must not contain a `- Place:` line",
             verdict="remove the `- Place:` line from the Owner block",
         ))
+
+    # Validate state backreferences in road index files
+    if kind == "road_index":
+        holds_match = HOLDS_SECTION_RE.search(text)
+        if holds_match:
+            holds_text = holds_match.group(1)
+            # Find all state subsections (lines starting with ###)
+            state_subsections = STATE_SUBSECTION_RE.findall(holds_text)
+            for state_name, backreference in state_subsections:
+                if not backreference:
+                    issues.append(Issue(
+                        error=f"state subsection '{state_name}' missing mandatory backreference",
+                        verdict=f"change `### {state_name}` to `### {state_name} (place_state.md)`",
+                    ))
+                elif not backreference.startswith("place_") or not backreference.endswith(".md"):
+                    issues.append(Issue(
+                        error=f"state subsection '{state_name}' has invalid backreference format: `({backreference})`",
+                        verdict=f"backreference must be `(place_state.md)` format",
+                    ))
 
     return issues
 
