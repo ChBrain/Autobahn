@@ -20,4 +20,4 @@ The Schmuggelstieg. An old smuggling path running north from Norderstedt toward 
 
 ---
 
-v0.2.1 - KAI Worlds
+v0.2.2 - KAI Worlds

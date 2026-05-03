@@ -21,4 +21,4 @@ The BallinStadt on the Veddel - 800 metres from the junction - was built in 1901
 ---
 ---
 
-v0.2.1 - KAI Worlds
+v0.2.2 - KAI Worlds

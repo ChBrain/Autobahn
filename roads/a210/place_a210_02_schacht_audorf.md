@@ -23,5 +23,5 @@ Until the 1890s Schacht-Audorf was two small farming villages on the Geest, firs
 
 ---
 
-v0.2.1 - KAI Worlds
+v0.2.2 - KAI Worlds
 

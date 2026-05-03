@@ -20,4 +20,4 @@ Expo 2000. The Hannover Fairground directly west - the largest in the world, exp
 
 ---
 
-v0.2.1 - KAI Worlds
+v0.2.2 - KAI Worlds

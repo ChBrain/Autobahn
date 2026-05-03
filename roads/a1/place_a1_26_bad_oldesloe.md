@@ -20,4 +20,4 @@ The area around Bad Oldesloe has been continuously inhabited since the Mesolithi
 
 ---
 
-v0.2.1 - KAI Worlds
+v0.2.2 - KAI Worlds

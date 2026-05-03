@@ -22,4 +22,4 @@ The junction sits on the Billwärder Marsch - the marsh island that the villages
 ---
 ---
 
-v0.2.1 - KAI Worlds
+v0.2.2 - KAI Worlds

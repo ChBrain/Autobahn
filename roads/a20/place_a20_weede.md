@@ -19,4 +19,4 @@ The salt beneath. The ground here sits above the Segeberg salt diapir - an ancie
 
 ---
 
-v0.2.1 - KAI Worlds
+v0.2.2 - KAI Worlds

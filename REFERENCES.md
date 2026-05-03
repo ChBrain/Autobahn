@@ -22,4 +22,4 @@ The personas, pieces, positions, and processes are fictional constructs built on
 
 ---
 
-*v0.2.1 - KAI Worlds - Kai Schlueter - April 2026*
+*v0.2.2 - KAI Worlds - Kai Schlueter - April 2026*

@@ -20,4 +20,4 @@ The Trabrennbahn. Hamburg's trotting track in Bahrenfeld - harness racing on thi
 
 ---
 
-v0.2.1 - KAI Worlds
+v0.2.2 - KAI Worlds

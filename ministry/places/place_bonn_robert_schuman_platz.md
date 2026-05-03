@@ -23,4 +23,4 @@ What the permanent staff knows and does not put in the briefing files. The infor
 ---
 
 *place_bonn_robert_schuman_platz.md: 01.05.2026*
-*v0.2.1 - KAI Worlds*
+*v0.2.2 - KAI Worlds*

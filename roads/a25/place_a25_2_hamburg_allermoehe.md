@@ -22,4 +22,4 @@ The name Allermöhe derives from "Anremutha" - "other mouth" - recorded in 1162,
 ---
 ---
 
-v0.2.1 - KAI Worlds
+v0.2.2 - KAI Worlds

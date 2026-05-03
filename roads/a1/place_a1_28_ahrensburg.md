@@ -22,4 +22,4 @@ Schloss Ahrensburg sits on an artificial island in a moat fed by the river Hunna
 
 ---
 
-v0.2.1 - KAI Worlds
+v0.2.2 - KAI Worlds

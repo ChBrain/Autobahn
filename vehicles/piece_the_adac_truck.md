@@ -21,4 +21,4 @@ On the Autobahn today for the fourth time this week. A flat tyre near one exit, 
 
 ---
 
-v0.2.1 - KAI Worlds
+v0.2.2 - KAI Worlds

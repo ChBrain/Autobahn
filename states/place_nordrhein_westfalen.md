@@ -20,4 +20,4 @@ The Zeche Zollverein in Essen - UNESCO World Heritage site, visible as a silhoue
 
 ---
 
-v0.2.1 - KAI Worlds
+v0.2.2 - KAI Worlds

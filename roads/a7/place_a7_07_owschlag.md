@@ -20,4 +20,4 @@ The Dannevirke. The earthwork system runs east-west through Schleswig-Holstein -
 
 ---
 
-v0.2.1 - KAI Worlds
+v0.2.2 - KAI Worlds

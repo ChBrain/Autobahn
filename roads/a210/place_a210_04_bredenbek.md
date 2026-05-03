@@ -23,5 +23,5 @@ A few kilometres south, on the old course of the Eider, stands the lock at Klein
 
 ---
 
-v0.2.1 - KAI Worlds
+v0.2.2 - KAI Worlds
 

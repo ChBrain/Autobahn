@@ -20,4 +20,4 @@ The Rantzau estate at Barmstedt. Ten kilometres west, a moated Renaissance manor
 
 ---
 
-v0.2.1 - KAI Worlds
+v0.2.2 - KAI Worlds

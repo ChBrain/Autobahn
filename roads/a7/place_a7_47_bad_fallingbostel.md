@@ -20,4 +20,4 @@ The grave of Hermann Löns. In the Tietlinger Wacholderhain near Walsrode - reac
 
 ---
 
-v0.2.1 - KAI Worlds
+v0.2.2 - KAI Worlds

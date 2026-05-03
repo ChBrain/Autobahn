@@ -22,4 +22,4 @@ A few kilometres east of this exit, inside the Bundeswehr training range at Putl
 
 ---
 
-v0.2.1 - KAI Worlds
+v0.2.2 - KAI Worlds

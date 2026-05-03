@@ -26,4 +26,4 @@ Das Gleisfeld des Hauptbahnhofs läuft parallel zur A40 nach Osten. Sechzehn Gle
 ---
 
 *place_a40_23_essen_zentrum.md - 14.04.2026*
-*v0.2.1 - KAI Worlds / Autobahn Aktuell*
+*v0.2.2 - KAI Worlds / Autobahn Aktuell*

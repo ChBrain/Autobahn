@@ -25,4 +25,4 @@ Auf dem Mittelstreifen der Potsdamer Chaussee, 300 Meter von dieser Rampe: ein E
 ---
 
 *place_a115_04_kreuz_zehlendorf.md - 13.04.2026*
-*v0.2.1 - KAI Worlds / Autobahn Aktuell*
+*v0.2.2 - KAI Worlds / Autobahn Aktuell*

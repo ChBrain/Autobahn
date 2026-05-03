@@ -22,5 +22,5 @@ In 1865 Alfred Nobel bought land on the Krümmel hill above Geesthacht and built
 
 ---
 
-v0.2.1 - KAI Worlds
+v0.2.2 - KAI Worlds
 

@@ -23,5 +23,5 @@ The old military road from Kiel to Rendsburg ran through here. Carters on that r
 
 ---
 
-v0.2.1 - KAI Worlds
+v0.2.2 - KAI Worlds
 

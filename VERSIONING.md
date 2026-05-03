@@ -1,6 +1,6 @@
 # Versioning Workflow with Intent Declaration
 
-*v0.2.1 - KAI Worlds*
+*v0.2.2 - KAI Worlds*
 
 ## Overview
 

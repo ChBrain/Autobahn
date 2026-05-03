@@ -21,4 +21,4 @@ The Horster Mühle. Two kilometres south - a watermill on the Seeve, first docum
 
 ---
 
-v0.2.1 - KAI Worlds
+v0.2.2 - KAI Worlds

@@ -21,4 +21,4 @@ Moorburg has belonged to Hamburg since 1375 - making it the oldest Hamburg distr
 ---
 ---
 
-v0.2.1 - KAI Worlds
+v0.2.2 - KAI Worlds
