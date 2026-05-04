@@ -8,6 +8,17 @@ The southwest corridor through Mecklenburg-Vorpommern. The A24 runs south from t
 
 ## Holds
 
+### Hamburg & Schleswig-Holstein (place_hamburg.md / place_schleswig_holstein.md)
+* [km 0.0](piece_the_kilometerstein.md): [Hamburg-Horn](place_a24_01_hamburg_horn.md).
+* [km 3.5](piece_the_kilometerstein.md): [Hamburg-Jenfeld](place_a24_02_hamburg_jenfeld.md).
+* [km 6.2](piece_the_kilometerstein.md): [Kreuz Hamburg-Ost](place_a24_03_kreuz_hamburg_ost.md).
+* [km 10.8](piece_the_kilometerstein.md): [Reinbek](place_a24_04_reinbek.md).
+* [km 17.4](piece_the_kilometerstein.md): [Witzhave](place_a24_05_witzhave.md).
+* [km 23.1](piece_the_kilometerstein.md): [Schwarzenbek/Grande](place_a24_06_schwarzenbek_grande.md).
+* [km 33.2](piece_the_kilometerstein.md): [Talkau](place_a24_07_talkau.md).
+* [km 39.2](piece_the_kilometerstein.md): [Hornbek](place_a24_08a_hornbek.md).
+* [km 45.1](piece_the_kilometerstein.md): [Gudow](place_a24_08b_gudow.md).
+
 ### Mecklenburg-Vorpommern (place_mecklenburg_vorpommern.md)
 * [km 56.4](piece_the_kilometerstein.md): [Zarrentin](place_a24_01_zarrentin.md).
 * [km 69.9](piece_the_kilometerstein.md): [Wittenburg](place_a24_02_wittenburg.md).
