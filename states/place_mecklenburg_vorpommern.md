@@ -5,7 +5,7 @@
 - Project: Autobahn
 
 ## Shown
-The Ostseeautobahn dominates the state. The A20 runs 282 kilometres east-west from Schleswig-Holstein to the Polish border at Ahlbeck. The road is the state's eastern backbone - 24 exits, 233 km within MV's boundaries. Well-surfaced, quiet by western standards. Unrestricted speed on most sections. The sky remains large.
+The Ostseeautobahn dominates the state. The A20 runs 322 kilometres east-west from Schleswig-Holstein to the Polish border at Ahlbeck. The road is the state's eastern backbone - 28 exits, 273 km within MV's boundaries. Well-surfaced, quiet by western standards. Unrestricted speed on most sections. The sky remains large.
 
 ## Holds
 
@@ -38,6 +38,10 @@ The Ostseeautobahn dominates the state. The A20 runs 282 kilometres east-west fr
 * [km 266](piece_the_kilometerstein.md): [Altentreptow](place_a20_30_altentreptow.md)
 * [km 272](piece_the_kilometerstein.md): [Neubrandenburg-Nord](place_a20_31_neubrandenburg_nord.md)
 * [km 282](piece_the_kilometerstein.md): [Neubrandenburg-Ost](place_a20_32_neubrandenburg_ost.md)
+* [km 293](piece_the_kilometerstein.md): [Friedland](place_a20_33_friedland.md)
+* [km 302](piece_the_kilometerstein.md): [Strasburg](place_a20_34_strasburg.md)
+* [km 317](piece_the_kilometerstein.md): [Pasewalk-Nord](place_a20_35_pasewalk_nord.md)
+* [km 322](piece_the_kilometerstein.md): [Pasewalk-Süd](place_a20_36_pasewalk_sued.md)
 
 ## Offers
 The A20 provides the state's primary backbone for east-west traffic. Low traffic density - among the lowest of any German state. Access to Baltic ferry connections at Rostock and Stralsund. The straightness of the road is matched only by the emptiness beyond it. Direct route to Poland.
