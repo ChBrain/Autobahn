@@ -49,7 +49,7 @@ This document sequences **all ~115 German Autobahnen** into operational phases. 
 |-------|----------|-------|-------|----------|-------|----------------|
 | **003** | **A20** | Mecklenburg-Vorpommern | MV section complete (28 exits), state file integrated, audit complete | 1-2 | ✓ COMPLETE: Exit 26 gap verified (proposed/unbuilt), 4 missing exits added (Friedland, Strasburg, Pasewalk-Nord/Süd) | Pasewalk-Süd → A19 |
 | **004** | **A19** | Mecklenburg-Vorpommern | Complete: Rostock (km 0.0) to Brandenburg border (km 128), 20 exits with full narrative content | 2-3 | ✓ COMPLETE: Warnowtunnel (only tolled Autobahn section), Kavelstorf sandsturm 2011 (8 dead), Röbel gap (24 km longest exit-free), Battle of Wittstock 1636, Jewish emancipation history | Röbel/Müritz (km 101) → Brandenburg border (km 128) |
-| **005** | **A11** | Mecklenburg-Vorpommern | Polish border, Pomellen + Penkun | 1 | 2 exits, pre-war Reichsautobahn surface, dismantled Politburo bunker roads | Penkun → A14 |
+| **005** | **A11** | Mecklenburg-Vorpommern | Polish border, Pomellen to Penkun (MV) + Schmölln (Brandenburg) | 1 | ✓ COMPLETE: 2 MV exits + 1 Brandenburg exit, pre-war Reichsautobahn surface rebuilt, Penkun castle museum (1190 Pomeranian fortress, restored 1992-2001) | Penkun → Schmölln → Kreuz Uckermark |
 | **006** | **A14** | Mecklenburg-Vorpommern | Schwerin loop, Dreieck Schwerin to Kreuz Wismar | 1 | 5 exits, Schwerin Schloss + Schweriner See | Kreuz Wismar → A24 |
 | **007** | **A24** | Mecklenburg-Vorpommern | Southwest corridor, Zarrentin through Suckow | 1-2 | 7 exits, DDR-built/West-paid, pre-war bridges replaced | **Mecklenburg-Vorpommern Complete** |
 
