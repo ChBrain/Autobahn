@@ -17,7 +17,7 @@ This document sequences **all ~115 German Autobahnen** into operational phases. 
 | Milestone | States | Phases | Status | Sessions | Target |
 |-----------|--------|--------|--------|----------|--------|
 | DONE | Schleswig-Holstein | — | Maintain only | 0 | Reference |
-| PARTIAL Complete | Hamburg | 1-2 | In Progress | 2 | Week 1 |
+| DONE | Hamburg | 1-2 | Complete | 2 | ✓ Merged |
 | STUB Complete | Mecklenburg-Vorpommern | 3-7 | Next | 6-8 | Week 2-3 |
 | STUB Complete | Berlin | 8-13 | Queued | 8-10 | Week 3-4 |
 | STUB Complete | Baden-Württemberg | 14-21 | Queued | 10-13 | Week 5-6 |
@@ -35,7 +35,7 @@ This document sequences **all ~115 German Autobahnen** into operational phases. 
 | Phase | Autobahn | State | Scope | Sessions | Notes | Next Junction |
 |-------|----------|-------|-------|----------|-------|----------------|
 | **001** | **A1** | Hamburg | Kreuz Hamburg-Ost through Hamburg-Billstedt | 1 | 3-5 exit files | Dreieck Hamburg-Ost → A26 |
-| **002** | **A26** | Hamburg | Neue Suderelbe crossing, partial completion | 1-2 | 5-8 exit files | A26-Süderelbe → **Hamburg Complete** |
+| **002** | **A26** | Hamburg/Niedersachsen | 8 exit files complete (Drochtersen, Stade-Süd/Ost, Dollern, Horneburg, Jork, Neu Wulmstorf, Buxtehude) | 1 | A26 section merged; Hamburg A1-A261 complete | **Hamburg Complete** |
 
 **Hamburg State Complete after Phase 002** ✓
 
