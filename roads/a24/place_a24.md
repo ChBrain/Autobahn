@@ -18,8 +18,8 @@ The southwest corridor from Hamburg through Schleswig-Holstein and Mecklenburg-V
 * [km 17.4](piece_the_kilometerstein.md): [Witzhave](place_a24_05_witzhave.md).
 * [km 23.1](piece_the_kilometerstein.md): [Schwarzenbek/Grande](place_a24_06_schwarzenbek_grande.md).
 * [km 33.2](piece_the_kilometerstein.md): [Talkau](place_a24_07_talkau.md).
-* [km 39.1](piece_the_kilometerstein.md): [Hornbek](place_a24_8a_hornbek.md).
-* [km 44.9](piece_the_kilometerstein.md): [Gudow](place_a24_8b_gudow.md).
+* [km 39.1](piece_the_kilometerstein.md): [Hornbek](place_a24_08a_hornbek.md).
+* [km 44.9](piece_the_kilometerstein.md): [Gudow](place_a24_08b_gudow.md).
 
 ### Mecklenburg-Vorpommern (place_mecklenburg_vorpommern.md)
 * [km 52.6](piece_the_kilometerstein.md): [Gallin](place_a24_9a_gallin.md).
