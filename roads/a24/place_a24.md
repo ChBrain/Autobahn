@@ -10,27 +10,27 @@ The southwest corridor from Hamburg through Schleswig-Holstein and Mecklenburg-V
 
 ### Hamburg (place_hamburg.md)
 * [km 0.0](piece_the_kilometerstein.md): [Hamburg-Horn](place_a24_01_hamburg_horn.md).
-* [km 3.5](piece_the_kilometerstein.md): [Hamburg-Jenfeld](place_a24_02_hamburg_jenfeld.md).
+* [km 3.6](piece_the_kilometerstein.md): [Hamburg-Jenfeld](place_a24_02_hamburg_jenfeld.md).
 
 ### Schleswig-Holstein (place_schleswig_holstein.md)
-* [km 6.2](piece_the_kilometerstein.md): [Kreuz Hamburg-Ost](place_a24_03_kreuz_hamburg_ost.md).
-* [km 10.8](piece_the_kilometerstein.md): [Reinbek](place_a24_04_reinbek.md).
+* [km 6.6](piece_the_kilometerstein.md): [Kreuz Hamburg-Ost](place_a24_03_kreuz_hamburg_ost.md).
+* [km 10.9](piece_the_kilometerstein.md): [Reinbek](place_a24_04_reinbek.md).
 * [km 17.4](piece_the_kilometerstein.md): [Witzhave](place_a24_05_witzhave.md).
 * [km 23.1](piece_the_kilometerstein.md): [Schwarzenbek/Grande](place_a24_06_schwarzenbek_grande.md).
 * [km 33.2](piece_the_kilometerstein.md): [Talkau](place_a24_07_talkau.md).
-* [km 39.2](piece_the_kilometerstein.md): [Hornbek](place_a24_8a_hornbek.md).
-* [km 45.1](piece_the_kilometerstein.md): [Gudow](place_a24_8b_gudow.md).
+* [km 39.1](piece_the_kilometerstein.md): [Hornbek](place_a24_8a_hornbek.md).
+* [km 44.9](piece_the_kilometerstein.md): [Gudow](place_a24_8b_gudow.md).
 
 ### Mecklenburg-Vorpommern (place_mecklenburg_vorpommern.md)
-* [km 52.8](piece_the_kilometerstein.md): [Gallin](place_a24_9a_gallin.md).
-* [km 56.4](piece_the_kilometerstein.md): [Zarrentin](place_a24_9b_zarrentin.md).
-* [km 69.9](piece_the_kilometerstein.md): [Wittenburg](place_a24_10_wittenburg.md).
-* [km 81.8](piece_the_kilometerstein.md): [Hagenow](place_a24_11_hagenow.md).
-* [km 98.5](piece_the_kilometerstein.md): [Wöbbelin](place_a24_12_woebbelin.md).
-* [km 100.6](piece_the_kilometerstein.md): [Kreuz Schwerin](place_a24_13_kreuz_schwerin.md).
-* [km 108.6](piece_the_kilometerstein.md): [Neustadt-Glewe](place_a24_14_neustadt_glewe.md).
-* [km 121.6](piece_the_kilometerstein.md): [Parchim](place_a24_15_parchim.md).
-* [km 135.5](piece_the_kilometerstein.md): [Suckow](place_a24_16_suckow.md).
+* [km 52.8](piece_the_kilometerstein.md): [Gallin](place_a24_01_gallin.md).
+* [km 56.4](piece_the_kilometerstein.md): [Zarrentin](place_a24_01_zarrentin.md).
+* [km 69.9](piece_the_kilometerstein.md): [Wittenburg](place_a24_02_wittenburg.md).
+* [km 81.8](piece_the_kilometerstein.md): [Hagenow](place_a24_03_hagenow.md).
+* [km 98.5](piece_the_kilometerstein.md): [Wöbbelin](place_a24_04_woebbelin.md).
+* [km 100.6](piece_the_kilometerstein.md): [Kreuz Schwerin](place_a24_05_kreuz_schwerin.md).
+* [km 108.6](piece_the_kilometerstein.md): [Neustadt-Glewe](place_a24_06_neustadt_glewe.md).
+* [km 121.6](piece_the_kilometerstein.md): [Parchim](place_a24_07_parchim.md).
+* [km 135.5](piece_the_kilometerstein.md): [Suckow](place_a24_08_suckow.md).
 
 ## Offers
 Direct connection Hamburg-Berlin through central MV. Access to regional centers (Zarrentin, Hagenow, Parchim). East-west traverse. Lakes landscape briefly visible - Schaalsee, Lewitz wetlands, regional access points.
