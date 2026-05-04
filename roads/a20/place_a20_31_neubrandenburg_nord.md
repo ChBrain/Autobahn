@@ -16,9 +16,9 @@ The sign: Neubrandenburg-Nord. The northern exit for the city of four gates - th
 Ausfahrt 31 - the exit ramp toward Neubrandenburg north.
 
 ## Withheld
-Am 29. April 1945 brannte Neubrandenburg. 80 Prozent der Innenstadt zerstört -- Rathaus, Palais, Kirche, Archive. Hunderte Menschen starben oder nahmen sich das Leben. Die vier mittelalterlichen Stadttore überlebten. Backstein brennt nicht.
+On April 29, 1945, Neubrandenburg burned. 80% of the city center destroyed - the Rathaus, Palais, church, archives. Hundreds died or took their own lives. Four medieval city gates survived. Brick does not burn.
 
-Sie stehen noch heute -- Stargarder Tor, Treptower Tor, Friedländer Tor, Neues Tor, alle aus dem 14. Jahrhundert, alle original. Die Stadt dahinter wurde neu gebaut. Die Tore nicht.
+They stand today still - Stargarder Tor, Treptower Tor, Friedländer Tor, Neues Tor, all from the 14th century, all original. The city behind them was rebuilt. The gates were not.
 
 ---
 

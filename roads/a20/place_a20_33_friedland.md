@@ -16,9 +16,9 @@ The sign: Friedland. A small town on the historical border between Mecklenburg a
 Ausfahrt 33 - the exit ramp toward Friedland.
 
 ## Withheld
-Friedland liegt an der historischen Grenze zwischen Mecklenburg und Pommern -- 1244 von brandenburgischen Markgrafen gegründet, genau auf der Linie wo zwei Länder aneinanderstießen. Der Name war Programm und Wunsch: Vredeland. Friedliches Land. Die Geschichte war es nicht -- zwölf Stadtbrände, Kriege, Seuchen, Belagerungen.
+Friedland lies on the historical border between Mecklenburg and Pomerania - founded in 1244 by Brandenburg margraves, precisely on the line where two territories met. The name was program and wish: Vredeland. Peaceful land. The history was not - twelve city fires, wars, plagues, sieges.
 
-Zwei mittelalterliche Stadttore stehen noch: das Anklamer Tor nach Osten, das Neubrandenburger Tor nach Westen. Zwei Richtungen, zwei Länder, eine kleine Stadt dazwischen.
+Two medieval city gates still stand: the Anklamer Tor to the east, the Neubrandenburger Tor to the west. Two directions, two lands, one small city in between.
 
 ---
 

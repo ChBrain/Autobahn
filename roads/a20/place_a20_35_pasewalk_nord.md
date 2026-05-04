@@ -16,7 +16,7 @@ The sign: Pasewalk-Nord. A town on the Uecker - the road here crossing into the 
 Ausfahrt 35 - the exit ramp toward Pasewalk north.
 
 ## Withheld
-Die mittelalterliche Stadtmauer war 2.488 Meter lang -- mit über 60 Wiekhäusern, Türmen und Toren. Davon stehen noch zwei Tore und zwei Türme. Der "Kiek in de Mark" -- "Schau ins Land" -- wurde 1445 erbaut, bezahlt vom Lösegeld für Gefangene aus einem Zug gegen Prenzlau. Die Pasewalker brachten etwa 200 Gefangene mit, kassierten das Lösegeld und bauten einen Turm davon. Backstein hält länger als Krieg.
+The medieval city wall was 2,488 metres long - with over 60 Wiekhäuser (watchtower houses), towers, and gates. Two gates and two towers still stand. The Kiek in de Mark - "Look into the Land" - was built in 1445, paid for by ransom money from prisoners taken in a raid against Prenzlau. The people of Pasewalk brought about 200 prisoners back, collected the ransom, and built a tower from it. Brick lasts longer than war.
 
 ---
 
