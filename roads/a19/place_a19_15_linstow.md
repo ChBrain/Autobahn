@@ -8,7 +8,7 @@
 A small village in the lakes district. Linstow, a place name with little significance on the motorway but familiar to those who know the lakes. The water landscape now fully adopted - the A19 passing through the leisure terrain of Mecklenburg-Vorpommern. North European lakes, the holiday culture, the summer traffic surge toward the beaches and the Müritz.
 
 ## Holds
-[km 54.2](piece_the_kilometerstein.md): Linstow.
+[km 68.8](piece_the_kilometerstein.md): Linstow.
 * [Krakow am See](place_a19_14_krakow_am_see.md) is north on [A19](place_a19.md).
 * [Malchow](place_a19_16_malchow.md) is south on [A19](place_a19.md).
 

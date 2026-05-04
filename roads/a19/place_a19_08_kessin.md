@@ -8,7 +8,7 @@
 Bundesstraße 103 junction in the outer Rostock region. Flat agricultural land. The first exit where the landscape is entirely rural - no city edge visible anymore. Forest to the east. Fields to the west. A19 now fully a regional connector.
 
 ## Holds
-[km 13.5](piece_the_kilometerstein.md): Kessin.
+[km 17.5](piece_the_kilometerstein.md): Kessin.
 * [Rostock-Süd](place_a19_07_rostock_sued.md) is north on [A19](place_a19.md).
 * [Kreuz Rostock](place_a19_09_kreuz_rostock.md) is south on [A19](place_a19.md).
 

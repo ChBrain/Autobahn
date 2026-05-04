@@ -8,7 +8,7 @@
 The southern exit from Rostock proper. Bundesstraße 110 junction. The city now definitively left behind. Rural landscape opens - fields, scattered forest, flat horizon uninterrupted. The A19 has crossed the city boundary and entered the regional motorway phase.
 
 ## Holds
-[km 9.8](piece_the_kilometerstein.md): Rostock-Süd.
+[km 13.9](piece_the_kilometerstein.md): Rostock-Süd.
 * [Rostock-Ost](place_a19_06_rostock_ost.md) is north on [A19](place_a19.md).
 * [Kessin](place_a19_08_kessin.md) is south on [A19](place_a19.md).
 

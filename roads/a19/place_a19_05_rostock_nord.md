@@ -8,7 +8,7 @@
 The exit into the northern residential districts of Rostock. Still within the city limits. The road separates port from city proper. Four-lane divided highway. The landscape has not changed - still flat, still open, still the North European plain. Another exit, another sign, another moment of choosing to leave the flow.
 
 ## Holds
-[km 3.2](piece_the_kilometerstein.md): Rostock-Nord.
+[km 8.5](piece_the_kilometerstein.md): Rostock-Nord.
 * [Rostock-Überseehafen](place_a19_04_rostock_uberseehafen.md) is north on [A19](place_a19.md).
 * [Rostock-Ost](place_a19_06_rostock_ost.md) is south on [A19](place_a19.md).
 

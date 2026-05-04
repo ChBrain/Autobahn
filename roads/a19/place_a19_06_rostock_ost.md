@@ -8,7 +8,7 @@
 The exit to B105 eastern ring road. Still Rostock. The landscape beginning to thin - city edge approached. The A19 now leaving the city behind. Flat, open land begins to dominate the view. The transition from urban to regional motorway imperceptible.
 
 ## Holds
-[km 6.5](piece_the_kilometerstein.md): Rostock-Ost.
+[km 10.7](piece_the_kilometerstein.md): Rostock-Ost.
 * [Rostock-Nord](place_a19_05_rostock_nord.md) is north on [A19](place_a19.md).
 * [Rostock-Süd](place_a19_07_rostock_sued.md) is south on [A19](place_a19.md).
 

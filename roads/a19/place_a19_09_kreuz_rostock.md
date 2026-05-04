@@ -8,7 +8,7 @@
 The junction where A19 crosses A20 - the north-south and east-west German motorway network meet. Europastraße 55 marking: traffic to Berlin below, traffic to Scandinavia above. Complex interchange geometry. The only four-level junction in Mecklenburg-Vorpommern. A moment of compression and uncompression - the full network option available to drivers in 4 seconds.
 
 ## Holds
-[km 16.8](piece_the_kilometerstein.md): Kreuz Rostock.
+[km 19.8](piece_the_kilometerstein.md): Kreuz Rostock.
 * [A20](place_a20.md) crosses here from [Schleswig-Holstein](place_schleswig_holstein.md) (west) to [Brandenburg](place_brandenburg.md) (east).
 * [Kessin](place_a19_08_kessin.md) is north on [A19](place_a19.md).
 * [Kavelstorf](place_a19_10_kavelstorf.md) is south on [A19](place_a19.md).

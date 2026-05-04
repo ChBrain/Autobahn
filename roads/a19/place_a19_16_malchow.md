@@ -8,7 +8,7 @@
 Bundesstraße 192 junction. Malchow is a lake town on the Malchow island - actually an island in the lakes. The motorway passes close but does not enter. The B192 carries traffic from the A19 to the island - a specific connection for specific tourism. The lake district in full. The water now constant in the landscape, even if not always visible from the road.
 
 ## Holds
-[km 61.0](piece_the_kilometerstein.md): Malchow.
+[km 85.4](piece_the_kilometerstein.md): Malchow.
 * [Linstow](place_a19_15_linstow.md) is north on [A19](place_a19.md).
 * [Waren (Müritz)](place_a19_17_waren_mueritz.md) is south on [A19](place_a19.md).
 
