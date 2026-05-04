@@ -4,7 +4,7 @@
 - Project: Autobahn
 
 ## Shown
-The southwest corridor through Mecklenburg-Vorpommern. The A24 runs south from the Schleswig-Holstein border through empty landscape toward Berlin. Eight exits from Zarrentin to Suckow - DDR-built infrastructure, West-financed, the road straight through lakes and forest. Pre-war bridge replacements throughout. Unrestricted speed across flat terrain. The road is freight axis and bypass, visible but not visited.
+The southwest corridor from Hamburg through Schleswig-Holstein and Mecklenburg-Vorpommern toward Berlin. The A24 runs south from the Hamburg border through empty landscape. Seventeen exits total: two in Hamburg, seven in Schleswig-Holstein, nine in Mecklenburg-Vorpommern (Gallin to Suckow). DDR-built infrastructure, West-financed, the road straight through lakes and forest. Pre-war bridge replacements throughout. Unrestricted speed across flat terrain. The road is freight axis and bypass, visible but not visited.
 
 ## Holds
 
@@ -18,18 +18,19 @@ The southwest corridor through Mecklenburg-Vorpommern. The A24 runs south from t
 * [km 17.4](piece_the_kilometerstein.md): [Witzhave](place_a24_05_witzhave.md).
 * [km 23.1](piece_the_kilometerstein.md): [Schwarzenbek/Grande](place_a24_06_schwarzenbek_grande.md).
 * [km 33.2](piece_the_kilometerstein.md): [Talkau](place_a24_07_talkau.md).
-* [km 39.2](piece_the_kilometerstein.md): [Hornbek](place_a24_08_hornbek.md).
-* [km 45.1](piece_the_kilometerstein.md): [Gudow](place_a24_09_gudow.md).
+* [km 39.2](piece_the_kilometerstein.md): [Hornbek](place_a24_8a_hornbek.md).
+* [km 45.1](piece_the_kilometerstein.md): [Gudow](place_a24_8b_gudow.md).
 
 ### Mecklenburg-Vorpommern (place_mecklenburg_vorpommern.md)
-* [km 56.4](piece_the_kilometerstein.md): [Zarrentin](place_a24_01_zarrentin.md).
-* [km 69.9](piece_the_kilometerstein.md): [Wittenburg](place_a24_02_wittenburg.md).
-* [km 81.8](piece_the_kilometerstein.md): [Hagenow](place_a24_03_hagenow.md).
-* [km 98.5](piece_the_kilometerstein.md): [Wöbbelin](place_a24_04_woebbelin.md).
-* [km 100.6](piece_the_kilometerstein.md): [Kreuz Schwerin](place_a24_05_kreuz_schwerin.md).
-* [km 108.6](piece_the_kilometerstein.md): [Neustadt-Glewe](place_a24_06_neustadt_glewe.md).
-* [km 121.6](piece_the_kilometerstein.md): [Parchim](place_a24_07_parchim.md).
-* [km 135.5](piece_the_kilometerstein.md): [Suckow](place_a24_08_suckow.md).
+* [km 52.8](piece_the_kilometerstein.md): [Gallin](place_a24_9a_gallin.md).
+* [km 56.4](piece_the_kilometerstein.md): [Zarrentin](place_a24_9b_zarrentin.md).
+* [km 69.9](piece_the_kilometerstein.md): [Wittenburg](place_a24_10_wittenburg.md).
+* [km 81.8](piece_the_kilometerstein.md): [Hagenow](place_a24_11_hagenow.md).
+* [km 98.5](piece_the_kilometerstein.md): [Wöbbelin](place_a24_12_woebbelin.md).
+* [km 100.6](piece_the_kilometerstein.md): [Kreuz Schwerin](place_a24_13_kreuz_schwerin.md).
+* [km 108.6](piece_the_kilometerstein.md): [Neustadt-Glewe](place_a24_14_neustadt_glewe.md).
+* [km 121.6](piece_the_kilometerstein.md): [Parchim](place_a24_15_parchim.md).
+* [km 135.5](piece_the_kilometerstein.md): [Suckow](place_a24_16_suckow.md).
 
 ## Offers
 Direct connection Hamburg-Berlin through central MV. Access to regional centers (Zarrentin, Hagenow, Parchim). East-west traverse. Lakes landscape briefly visible - Schaalsee, Lewitz wetlands, regional access points.
