@@ -39,14 +39,75 @@ def find_state_files(root: Path) -> list[Path]:
 
 
 def validate(path: Path, root: Path) -> list[Issue]:
-    """Per-state checks. Today: nothing beyond the general layer.
+    """Per-state checks: hierarchical Holds section structure.
 
-    Kept as a distinct sibling so future state-specific rules have an
-    obvious home and the DAG continues to express the layered shape.
+    Validates that IF a state file uses hierarchical road headers 
+    (- [RoadName](place_road.md) - description), then exits should be
+    nested underneath with indentation.
+    
+    Flexible to support multiple formats during migration. Only flags
+    inconsistent mixing of road headers with flat exit lists.
     """
     if not is_state_file(path, root):
         return []
-    return []
+
+    issues = []
+    try:
+        text = path.read_text(encoding="utf-8")
+    except Exception as e:
+        return [Issue(str(path), f"Failed to read: {e}")]
+
+    # Find Holds section
+    if "## Holds" not in text:
+        return issues
+
+    holds_start = text.find("## Holds")
+    holds_end = text.find("\n## ", holds_start + 1)
+    if holds_end == -1:
+        holds_end = len(text)
+    holds_section = text[holds_start:holds_end]
+
+    lines = holds_section.split("\n")[1:]  # Skip "## Holds" header
+
+    # Count structure patterns
+    road_headers = 0
+    nested_items = 0
+    flat_exits = 0
+    
+    prev_was_road = False
+    for line in lines:
+        if not line.strip() or line.strip().startswith("#"):
+            continue
+            
+        # Road header pattern: - [name](link) - description
+        if (
+            line.startswith("- [")
+            and "](place_" in line
+            and " - " in line
+            and not line.startswith("  ")
+        ):
+            road_headers += 1
+            prev_was_road = True
+        # Nested item (indented - or *)
+        elif (line.startswith("  ") or line.startswith("\t")) and line.lstrip().startswith(
+            ("- ", "* ")
+        ):
+            nested_items += 1
+            prev_was_road = False
+        # Flat exit at top level (not indented)
+        elif line.startswith("- [") and "](place_" in line and prev_was_road:
+            flat_exits += 1
+
+    # Only flag if clearly mixing: has road headers AND flat exits (no nesting)
+    if road_headers > 0 and flat_exits > 0 and nested_items == 0:
+        issues.append(
+            Issue(
+                str(path),
+                "Holds mixes road headers with flat exit list. Either use flat format throughout, or nest exits under road headers.",
+            )
+        )
+
+    return issues
 
 
 def main(argv: list[str]) -> int:

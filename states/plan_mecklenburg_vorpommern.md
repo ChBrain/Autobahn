@@ -2,14 +2,13 @@
 
 *v1.0 — 03.05.2026*
 
-## Status: STUB
+## Status: ACTIVE (A20 Complete)
 
-Holds says "No roads cross MV yet." Not true — A20 MV section is fully built.
-State file needs update. Four additional roads need building.
+Holds now includes full A20 MV section (28 exits, 273 km). State file validated and audited. Three additional roads remain: A19, A14, A24, A11.
 
 ## Autobahnen
 
-A11 (19 km in MV), A14, A19, A20 (done), A24
+A11 (19 km in MV), A14, A19, A20 (✓ complete - 28 exits), A24
 
 ## Phases
 
@@ -17,9 +16,9 @@ A11 (19 km in MV), A14, A19, A20 (done), A24
 Remove placeholder. Add A20 Holds section. Sharpen Withheld with the Robel gap and the empty villages.
 Files: 1 updated.
 
-### Phase 1 — A20 audit (1 session)
-Verify exit 26 gap (Greifswald-West — does it exist?). Confirm all 32 MV exits correctly chained.
-Files: 0-2 patches.
+### Phase 1 — A20 audit (1 session) ✓ COMPLETE
+Exit 26 gap verified (Dersekow proposed/unbuilt). All 28 MV exits confirmed, chained, and validated. 4 missing exits added to state file (Friedland, Strasburg, Pasewalk-Nord/Süd).
+Files: 2 updated, 0 patches needed.
 
 ### Phase 2 — A19 (2-3 sessions)
 Rostock to Brandenburg border. 15 exits in MV: Rostock-Uberseehafen through Robel/Muritz.
