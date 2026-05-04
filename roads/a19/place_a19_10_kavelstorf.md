@@ -16,7 +16,7 @@ The village exit. South of the Kreuz Rostock interchange, the A19 enters its tru
 Ausfahrt 10 - exit toward Kavelstorf and regional roads. Parking areas. The landscape appears peaceful from 100 km/h.
 
 ## Withheld
-The disaster itself - the specific moment when the weather weaponised the landscape. 2011: the sandsturm carrying North African dust across the Baltic to Germany, reducing visibility to 20 metres on this specific stretch, the timing perfect for catastrophe. The wreckage, the bodies, the 52 lightly injured, the trauma of watching 30 vehicles burn. The memorial on the shoulder that drivers pass at 130 km/h without slowing.
+Serfdom in Mecklenburg was abolished in 1820 -- thirteen years after Prussia, under sustained pressure. The peasants working the fields around Kavelstorf gained legal freedom and lost their subsistence in the same moment: the landlords who had been legally obliged to house and support their labourers were simultaneously freed of that obligation. The result was a class of day labourers with no right to marry or settle without the landowner's permission, working the same estates for starvation wages. Between 1850 and 1890, Mecklenburg with a population of only 420,000 lost 148,000 people, mostly to the United States. The flat fields visible from this exit are part of what they left.
 
 ---
 

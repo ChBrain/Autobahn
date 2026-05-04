@@ -16,7 +16,7 @@ The lake district begins. Krakow am See - water is now part of the landscape. Th
 Ausfahrt 14 - connection to Krakow am See and the lake district tourism infrastructure. Parking area.
 
 ## Withheld
-The lakes themselves - Krakower See, the system of interconnected lakes, the depth and opacity of the water. The villages on the shores, unreachable at highway speed. The tourist economy, summer weekends, the seasonal traffic surge.
+In 1325 the first host desecration trial in Mecklenburg took place in Krakow am See. Prince Johann II of Werle had several local Jews killed on the accusation of desecrating the Eucharist -- a charge used across medieval Europe to justify pogroms. The killing took place on the hill now called Jörnberg, which was named Judenberg at the time. A pilgrimage chapel was built on the site afterward. The hill is still there. The motorway passes it without a name.
 
 ---
 
