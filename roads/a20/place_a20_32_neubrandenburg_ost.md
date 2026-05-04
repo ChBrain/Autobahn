@@ -16,7 +16,7 @@ The sign: Neubrandenburg-Ost. The eastern exit for the city - the Tollensesee to
 Ausfahrt 32 - the exit ramp toward Neubrandenburg east and the Tollensesee.
 
 ## Withheld
-1941 errichteten Zwangsarbeiter eine Torpedoversuchsanstalt am Tollensesee -- mitten in der Stadt, unweit der Badestände. Die Kriegsmarine testete hier Unterwasserwaffen auf einem Binnensee, weit weg von jeder Küste. 1945 gesprengt, 1953 wiedergebaut: dieselben Hallen, jetzt für Panzer. Die DDR reparierte hier sowjetische T-34 auf denselben Fundamenten. Die Trümmerinsel liegt noch im See -- heute Vogelschutzgebiet. Taucher finden noch Torpedos auf dem Grund.
+In 1941, forced labourers erected a torpedo testing facility on the Tollensesee - in the middle of the city, near the bathing beaches. The Kriegsmarine tested underwater weapons on an inland lake, far from any coast. Destroyed in 1945, rebuilt in 1953: the same halls, now for tanks. The DDR repaired Soviet T-34 tanks here on the same foundations. The ruins island still lies in the lake - today a bird sanctuary. Divers still find torpedos on the bottom.
 
 ---
 

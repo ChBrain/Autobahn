@@ -16,7 +16,7 @@ The sign: Strasburg. A small town on the Uecker - flat agricultural land, the ro
 Ausfahrt 34 - the exit ramp toward Strasburg.
 
 ## Withheld
-Strasburg lag im Kleinstaat Mecklenburg-Strelitz -- einem der kleinsten deutschen Fürstentümer, 217 Jahre lang regiert von derselben Linie. Am 23. Februar 1918 wurde der letzte Großherzog, Adolf Friedrich VI., mit einem Schuss in der Brust im Kanal bei Neustrelitz aufgefunden. Abschiedsbrief vorhanden. Todesumstände bis heute ungeklärt. Neun Monate später endete die Monarchie. Das Fürstentum hatte zu diesem Zeitpunkt keinen Regenten mehr.
+Strasburg lay in the microstate of Mecklenburg-Strelitz - one of the smallest German principalities, ruled for 217 years by the same dynasty. On February 23, 1918, the last Grand Duke, Adolf Friedrich VI, was found with a bullet in his chest in a canal near Neustrelitz. A farewell letter was present. The circumstances of death remain unclear to this day. Nine months later the monarchy ended. The principality had no regent at that point.
 
 ---
 
