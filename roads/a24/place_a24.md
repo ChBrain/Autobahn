@@ -22,15 +22,18 @@ The southwest corridor from Hamburg through Schleswig-Holstein and Mecklenburg-V
 * [km 44.9](piece_the_kilometerstein.md): [Gudow](place_a24_8b_gudow.md).
 
 ### Mecklenburg-Vorpommern (place_mecklenburg_vorpommern.md)
-* [km 52.8](piece_the_kilometerstein.md): [Gallin](place_a24_9a_gallin.md).
-* [km 56.4](piece_the_kilometerstein.md): [Zarrentin](place_a24_9b_zarrentin.md).
-* [km 69.9](piece_the_kilometerstein.md): [Wittenburg](place_a24_10_wittenburg.md).
-* [km 81.8](piece_the_kilometerstein.md): [Hagenow](place_a24_11_hagenow.md).
-* [km 98.5](piece_the_kilometerstein.md): [Wöbbelin](place_a24_12_woebbelin.md).
-* [km 100.6](piece_the_kilometerstein.md): [Kreuz Schwerin](place_a24_13_kreuz_schwerin.md).
-* [km 108.6](piece_the_kilometerstein.md): [Neustadt-Glewe](place_a24_14_neustadt_glewe.md).
-* [km 121.6](piece_the_kilometerstein.md): [Parchim](place_a24_15_parchim.md).
-* [km 135.5](piece_the_kilometerstein.md): [Suckow](place_a24_16_suckow.md).
+* [km 52.6](piece_the_kilometerstein.md): [Gallin](place_a24_9a_gallin.md).
+* [km 56.5](piece_the_kilometerstein.md): [Zarrentin](place_a24_9b_zarrentin.md).
+* [km 69.7](piece_the_kilometerstein.md): [Wittenburg](place_a24_10_wittenburg.md).
+* [km 81.6](piece_the_kilometerstein.md): [Hagenow](place_a24_11_hagenow.md).
+* [km 98.3](piece_the_kilometerstein.md): [Wöbbelin](place_a24_12_woebbelin.md).
+* [km 100](piece_the_kilometerstein.md): [Kreuz Schwerin](place_a24_13_kreuz_schwerin.md).
+* [km 109](piece_the_kilometerstein.md): [Neustadt-Glewe](place_a24_14_neustadt_glewe.md).
+* [km 121](piece_the_kilometerstein.md): [Parchim](place_a24_15_parchim.md).
+* [km 135](piece_the_kilometerstein.md): [Suckow](place_a24_16_suckow.md).
+
+### Brandenburg (place_brandenburg.md)
+* [km 143](piece_the_kilometerstein.md): [Putlitz](place_a24_17_putliz.md).
 
 ## Offers
 Direct connection Hamburg-Berlin through central MV. Access to regional centers (Zarrentin, Hagenow, Parchim). East-west traverse. Lakes landscape briefly visible - Schaalsee, Lewitz wetlands, regional access points.
