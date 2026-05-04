@@ -16,7 +16,7 @@ A small village in the lakes district. Linstow, a place name with little signifi
 Ausfahrt 15 - connection to Linstow and surrounding lake villages.
 
 ## Withheld
-The specific lakes, the specific paths to them from this exit, the holiday homes, the seasonal life.
+The name Linstow derives from the Slavic "Linstav" -- tench pond. The tench is a freshwater fish. The pond the name recorded has been absorbed into the surrounding lake landscape, leaving only the word. The lakes themselves are older than the name -- formed 12,000 years ago when the last ice sheet retreated and its meltwater filled the basins it had carved. The holiday resort visible from the motorway was built on a landscape that ice made and Slavic speakers named and German settlers renamed and the DDR collectivised and reunification privatised. The tench pond is the oldest layer still audible.
 
 ---
 

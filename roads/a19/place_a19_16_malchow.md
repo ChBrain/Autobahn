@@ -16,7 +16,7 @@ Bundesstraße 192 junction. Malchow is a lake town on the Malchow island - actua
 Ausfahrt 16 - Bundesstraße 192 toward Malchow and the island tourism infrastructure. Parking area.
 
 ## Withheld
-The island itself. The specific vacation experience of Malchow - the island atmosphere, the lake restaurants, the boat rentals. The local economy.
+The Malchow monastery became a noble ladies' convent after the Reformation in 1572. The daughters of Mecklenburg noble families were enrolled shortly after birth -- the eldest to Dobbertin, the second to Malchow, the third to Ribnitz, then the sequence repeated. Noble ancestry on both sides had to be proven. A place only became available when another canoness died. Waiting times ran to forty or fifty years. A girl registered at birth might receive her apartment as an old woman. Between the late 17th century and 1918, 1,205 noble daughters were enrolled. The last conventual moved in in 1947. The island is still there. The monastery church now houses an organ museum.
 
 ---
 

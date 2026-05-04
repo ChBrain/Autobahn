@@ -16,7 +16,7 @@ Bundesstraße 198 junction. Röbel/Müritz is the last exit in Mecklenburg-Vorpo
 Ausfahrt 18 - Bundesstraße 198 toward Röbel and final Müritz access. The last exit before Brandenburg. The choice: leave now or commit to the 24 km gap.
 
 ## Withheld
-The planned Wredenhagen exit - announced, never built. The planning decision to leave that stretch empty. The traffic that cannot stop there. The geography that remains disconnected by motorway design.
+The half-timbered former synagogue in Röbel is one of the few in Mecklenburg still standing in its original form. It houses a permanent exhibition on Jewish history in the region. Among those commemorated is Israel Jacobson -- president of the Royal Westphalian Consistory of the Israelites under Napoleon, one of the pioneers of Reform Judaism. After Mecklenburg-Schwerin emancipated its Jewish subjects in 1813, Jacobson bought feudal estates nearby and in 1816 swore fealty to the Grand Duke of Mecklenburg-Schwerin, becoming the first Jew with a permanent seat and vote in the Estates of the Realm of any German state. The motorway passes four kilometres from the building. The last exit in Mecklenburg-Vorpommern before 24 kilometres with no way off the road.
 
 ---
 

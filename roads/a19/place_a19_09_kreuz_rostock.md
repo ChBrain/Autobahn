@@ -17,7 +17,7 @@ The junction where A19 crosses A20 - the north-south and east-west German motorw
 Exit 9 - Four-way interchange. E22 E55 routing. Connection to the entire German Autobahn network through A20. Choice: Berlin south, Baltic north, Hamburg west, or back to Rostock north.
 
 ## Withheld
-The geometr y of power: how the network is drawn, how the decision points are ordered, how the German state chose to connect its cities and coasts. The technical achievement of the four-level interchange. The traffic volume that justifies the cost.
+Rostock-Dierkow Primelberg: the oldest harbour on the lower Warnow, active from around 750 AD, a Viking-Slavic multiethnic trading post documented centuries before Rostock existed. It predates the city by 400 years. The junction stands at the edge of that sequence, pointing four directions without mentioning it.
 
 ---
 

@@ -16,7 +16,7 @@ Bundesstraße 192 junction. Waren is a larger lake town - the Müritz, Germany's
 Ausfahrt 17 - Bundesstraße 192 toward Waren and Müritz tourism. The primary beach destination from Berlin on this route.
 
 ## Withheld
-The Müritz itself - the size of the lake, the depth, the sailing culture, the specific beaches, the holiday houses, the seasonal population explosion.
+The names Waren, Warnow, and Warnemünde share a root running back through two layers. The West Slavic Warnabi tribe took their name from the river -- probably meaning crow river or black river in their language. The river may have taken its name from the earlier Germanic Warini, who had lived in the same territory before them. Whether the root is Germanic or Slavic, the same sound -- Warn, Warne, Wara -- attached itself to a river mouth on the Baltic, a river running south through Mecklenburg, and a town at the northern end of the Müritz. All three are on or near the A19. The Müritz itself splits into two shores: the western shore, where Waren sits, with its tourist infrastructure and boat rentals; and the eastern shore, closed to motor boats, part of the national park established in 1990. White-tailed eagles breed there. The exit serves one shore. The other is not reachable from this road.
 
 ---
 

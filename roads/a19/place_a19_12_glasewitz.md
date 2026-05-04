@@ -16,7 +16,7 @@ A small exit in forest country. Glasewitz is a village. The forest presses close
 Ausfahrt 12 - local connection to Glasewitz. Parking area.
 
 ## Withheld
-The forest. The villages within it. The local roads connecting them. The life that the motorway passes through without stopping.
+Between 1600 and 1678 the village of Glasewitz saw 27 witch trial proceedings and 7 executions. The records survive. In 1615, Ilse Vielhut -- 84 years old, known locally as "die Alte Polchow" -- was tried here. The University of Rostock's law faculty was consulted on whether to proceed. She denied all accusations under torture. The outcome is in the file. The forest presses close to the motorway at this exit. The village is three kilometres from the road.
 
 ---
 

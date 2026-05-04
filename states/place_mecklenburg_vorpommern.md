@@ -43,6 +43,27 @@ The Ostseeautobahn dominates the state. The A20 runs 322 kilometres east-west fr
   * [km 317](piece_the_kilometerstein.md): [Pasewalk-Nord](place_a20_35_pasewalk_nord.md)
   * [km 322](piece_the_kilometerstein.md): [Pasewalk-Süd](place_a20_36_pasewalk_sued.md)
 
+- [A19](place_a19.md) - Ostseeautobahn, Warnowallee to Dreieck Wittstock/Dosse
+  * [km 0.0](piece_the_kilometerstein.md): [Rostock-Warnowallee](place_a19_rostock_warnowallee.md)
+  * [km 1.1](piece_the_kilometerstein.md): [Rostock-Lütten-Klein](place_a19_rostock_luetten_klein.md)
+  * [km 2.1](piece_the_kilometerstein.md): [Rostock-Schmarl](place_a19_rostock_schmarl.md)
+  * [km 3.1](piece_the_kilometerstein.md): [Warnowtunnel](place_a19_warnowtunnel.md)
+  * [km 5.1](piece_the_kilometerstein.md): [Rostock-Überseehafen](place_a19_04_rostock_uberseehafen.md)
+  * [km 8.5](piece_the_kilometerstein.md): [Rostock-Nord](place_a19_05_rostock_nord.md)
+  * [km 10.7](piece_the_kilometerstein.md): [Rostock-Ost](place_a19_06_rostock_ost.md)
+  * [km 13.9](piece_the_kilometerstein.md): [Rostock-Süd](place_a19_07_rostock_sued.md)
+  * [km 17.5](piece_the_kilometerstein.md): [Kessin](place_a19_08_kessin.md)
+  * [km 19.8](piece_the_kilometerstein.md): [Kreuz Rostock](place_a19_09_kreuz_rostock.md)
+  * [km 21.7](piece_the_kilometerstein.md): [Kavelstorf](place_a19_10_kavelstorf.md)
+  * [km 36.4](piece_the_kilometerstein.md): [Laage](place_a19_11_laage.md)
+  * [km 44.3](piece_the_kilometerstein.md): [Glasewitz](place_a19_12_glasewitz.md)
+  * [km 50.3](piece_the_kilometerstein.md): [Güstrow](place_a19_13_guenstrow.md)
+  * [km 61.3](piece_the_kilometerstein.md): [Krakow am See](place_a19_14_krakow_am_see.md)
+  * [km 68.8](piece_the_kilometerstein.md): [Linstow](place_a19_15_linstow.md)
+  * [km 85.4](piece_the_kilometerstein.md): [Malchow](place_a19_16_malchow.md)
+  * [km 89.5](piece_the_kilometerstein.md): [Waren (Müritz)](place_a19_17_waren_mueritz.md)
+  * [km 101](piece_the_kilometerstein.md): [Röbel/Müritz](place_a19_18_roebel_mueritz.md)
+
 ## Offers
 The A20 provides the state's primary backbone for east-west traffic. Low traffic density - among the lowest of any German state. Access to Baltic ferry connections at Rostock and Stralsund. The straightness of the road is matched only by the emptiness beyond it. Direct route to Poland.
 
