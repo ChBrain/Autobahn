@@ -68,7 +68,15 @@ The Ostseeautobahn dominates the state. The A20 runs 322 kilometres east-west fr
   * [km 0.0](piece_the_kilometerstein.md): [Pomellen](place_a11_01_pomellen.md)
   * [km 9.3](piece_the_kilometerstein.md): [Penkun](place_a11_02_penkun.md)
 
-## Offers
+- [A14](place_a14.md) - Schwerin Region, Kritzow to Ludwigslust
+  * [km 0.0](piece_the_kilometerstein.md): [Kritzow](place_a14_01_kritzow.md)
+  * [km 1.6](piece_the_kilometerstein.md): [Kreuz Wismar](place_a14_02_kreuz_wismar.md)
+  * [km 12.5](piece_the_kilometerstein.md): [Jesendorf](place_a14_03_jesendorf.md)
+  * [km 28.0](piece_the_kilometerstein.md): [Schwerin-Nord](place_a14_04_schwerin_nord.md)
+  * [km 38.9](piece_the_kilometerstein.md): [Schwerin-Ost](place_a14_05_schwerin_ost.md)
+  * [km 59.1](piece_the_kilometerstein.md): [Kreuz Schwerin](place_a14_07_kreuz_schwerin.md)
+  * [km 68.1](piece_the_kilometerstein.md): [Ludwigslust](place_a14_08_ludwigslust.md)
+  * [km 73.5](piece_the_kilometerstein.md): [Grabow](place_a14_09_grabow.md)
 The A20 provides the state's primary backbone for east-west traffic. Low traffic density - among the lowest of any German state. Access to Baltic ferry connections at Rostock and Stralsund. The straightness of the road is matched only by the emptiness beyond it. Direct route to Poland.
 
 ## Withheld
