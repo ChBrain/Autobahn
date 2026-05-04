@@ -64,6 +64,10 @@ The Ostseeautobahn dominates the state. The A20 runs 322 kilometres east-west fr
   * [km 89.5](piece_the_kilometerstein.md): [Waren (Müritz)](place_a19_17_waren_mueritz.md)
   * [km 101](piece_the_kilometerstein.md): [Röbel/Müritz](place_a19_18_roebel_mueritz.md)
 
+- [A11](place_a11.md) - Polish Border, Pomellen to Penkun
+  * [km 0.0](piece_the_kilometerstein.md): [Pomellen](place_a11_01_pomellen.md)
+  * [km 9.3](piece_the_kilometerstein.md): [Penkun](place_a11_02_penkun.md)
+
 ## Offers
 The A20 provides the state's primary backbone for east-west traffic. Low traffic density - among the lowest of any German state. Access to Baltic ferry connections at Rostock and Stralsund. The straightness of the road is matched only by the emptiness beyond it. Direct route to Poland.
 
