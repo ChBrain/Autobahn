@@ -77,6 +77,8 @@ The Ostseeautobahn dominates the state. The A20 runs 322 kilometres east-west fr
   * [km 59.1](piece_the_kilometerstein.md): [Kreuz Schwerin](place_a14_07_kreuz_schwerin.md)
   * [km 68.1](piece_the_kilometerstein.md): [Ludwigslust](place_a14_08_ludwigslust.md)
   * [km 73.5](piece_the_kilometerstein.md): [Grabow](place_a14_09_grabow.md)
+
+## Offers
 The A20 provides the state's primary backbone for east-west traffic. Low traffic density - among the lowest of any German state. Access to Baltic ferry connections at Rostock and Stralsund. The straightness of the road is matched only by the emptiness beyond it. Direct route to Poland.
 
 ## Withheld
