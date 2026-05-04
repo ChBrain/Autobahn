@@ -1,17 +1,13 @@
 #!/usr/bin/env python3
 """Road architecture validation for place_*.md files in the Autobahn world.
 
-Checks compliance with ARCHITECTURE.md ## Roads:
-  - Every file Owner block contains `- Project: Autobahn`
-  - Road node files: Owner must contain
-      `- Place: [Road](place_road.md) in [Bundesland](place_bundesland.md)`
-  - Road index files: Owner must NOT contain a `- Place:` line
-  - Road index files: Must have all 5 required sections
-      (Owner, Shown, Holds, Offers, Withheld)
-  - Road index files: Must NOT contain forbidden sections
-      (Status, Planned Route, Plan, Future, TODO)
-  - Road index Holds: State subsections must have backreferences
-      (### StateName (place_state.md))
+STRICT ENFORCEMENT of ARCHITECTURE.md ## Roads:
+  - Road index Owner: ONLY `- Project: Autobahn` (no other items)
+  - Multi-state roads: MUST use state subsections (no flat mixing)
+  - State subsections: MUST have backreference (place_state.md)
+  - Entry format: STRICT `* [km X.X]: [PlaceName](place_file.md)` pattern
+  - Kilometres: STRICTLY ascending within each state
+  - No cross-state entry mixing
 
 File classification by path. Every road has its own folder at
 `roads/<road>/`. The road index file lives in that folder alongside its
@@ -49,7 +45,8 @@ PLACE_LINE_RE = re.compile(
     re.MULTILINE,
 )
 HOLDS_SECTION_RE = re.compile(r"## Holds\r?\n(.*?)(?=\r?\n##|\Z)", re.DOTALL)
-STATE_SUBSECTION_RE = re.compile(r"^###\s+(\w+(?:\s+\w+)*)\s*(?:\((.*?)\))?\s*$", re.MULTILINE)
+STATE_SUBSECTION_RE = re.compile(r"^###\s+(.+?)\s*\((place_[^)]+\.md)\)\s*$", re.MULTILINE)
+ENTRY_RE = re.compile(r"^\s*\*\s*\[km\s+([\d.]+)\]\s*:\s*\[.+?\]\(place_[^)]+\.md\)", re.MULTILINE)
 SECTION_RE = re.compile(r"^## (.+)$", re.MULTILINE)
 
 REQUIRED_SECTIONS = ["Owner", "Shown", "Holds", "Offers", "Withheld"]
@@ -113,41 +110,97 @@ def validate(path: Path, root: Path) -> list[Issue]:
             verdict="remove the `- Place:` line from the Owner block",
         ))
 
-    # Validate state backreferences in road index files
+    # Validate road index files (STRICT)
     if kind == "road_index":
-        holds_match = HOLDS_SECTION_RE.search(text)
-        if holds_match:
-            holds_text = holds_match.group(1)
-            # Find all state subsections (lines starting with ###)
-            state_subsections = STATE_SUBSECTION_RE.findall(holds_text)
-            for state_name, backreference in state_subsections:
-                if not backreference:
-                    issues.append(Issue(
-                        error=f"state subsection '{state_name}' missing mandatory backreference",
-                        verdict=f"change `### {state_name}` to `### {state_name} (place_state.md)`",
-                    ))
-                elif not backreference.startswith("place_") or not backreference.endswith(".md"):
-                    issues.append(Issue(
-                        error=f"state subsection '{state_name}' has invalid backreference format: `({backreference})`",
-                        verdict=f"backreference must be `(place_state.md)` format",
-                    ))
-        
-        # Check for forbidden sections
+        # STRICT: Owner must have ONLY `- Project: Autobahn` (no other bullets)
+        owner_lines = [line.strip() for line in owner_text.split('\n') if line.strip() and line.strip().startswith('-')]
+        if len(owner_lines) != 1 or owner_lines[0] != "- Project: Autobahn":
+            issues.append(Issue(
+                error="road index Owner must contain ONLY `- Project: Autobahn`",
+                verdict="remove any other bullet points from the Owner block",
+            ))
+
+        # Check for required sections
         found_sections = set(SECTION_RE.findall(text))
-        for forbidden in FORBIDDEN_SECTIONS:
-            if forbidden in found_sections:
-                issues.append(Issue(
-                    error=f"road index contains forbidden section `## {forbidden}`",
-                    verdict=f"merge {forbidden} content into Shown or Holds section; do not create custom sections",
-                ))
-        
-        # Check for missing required sections (road indexes must have them all)
         for required in REQUIRED_SECTIONS:
             if required not in found_sections:
                 issues.append(Issue(
                     error=f"road index missing required section `## {required}`",
                     verdict=f"add `## {required}` section following architecture pattern",
                 ))
+        
+        # Check for forbidden sections
+        for forbidden in FORBIDDEN_SECTIONS:
+            if forbidden in found_sections:
+                issues.append(Issue(
+                    error=f"road index contains forbidden section `## {forbidden}`",
+                    verdict=f"merge {forbidden} content into Shown or Holds section; do not create custom sections",
+                ))
+
+        # STRICT: Validate Holds section structure
+        holds_match = HOLDS_SECTION_RE.search(text)
+        if holds_match:
+            holds_text = holds_match.group(1)
+            
+            # Find all state subsections
+            state_subsections = STATE_SUBSECTION_RE.findall(holds_text)
+            
+            if state_subsections:
+                # Multi-state road: validate strict structure
+                # Extract state names and validate backreferences
+                for state_name, backreference in state_subsections:
+                    if not backreference.startswith("place_") or not backreference.endswith(".md"):
+                        issues.append(Issue(
+                            error=f"state subsection '{state_name}' has invalid backreference: `({backreference})`",
+                            verdict=f"use format `### {state_name} (place_state.md)`",
+                        ))
+                
+                # STRICT: Validate entries are only under state subsections (no flat mixing)
+                lines = holds_text.split('\n')
+                current_state = None
+                entry_line_num = 0
+                state_entries = {}  # Track entries per state
+                
+                for line in lines:
+                    # Check for state subsection header
+                    if line.strip().startswith('###'):
+                        match = re.match(r"^###\s+(.+?)\s*\(", line)
+                        if match:
+                            current_state = match.group(1).strip()
+                            state_entries[current_state] = []
+                    
+                    # Check for entries (lines starting with *)
+                    elif line.lstrip().startswith('*') and '[km' in line:
+                        # STRICT: All entries must be under a state subsection
+                        if not current_state:
+                            issues.append(Issue(
+                                error="entry in Holds appears before any state subsection",
+                                verdict="move all entries under proper `### StateName (place_state.md)` subsections",
+                            ))
+                        else:
+                            # Validate entry format: * [km X.X]: [Name](place_file.md)
+                            if not re.match(r"^\s*\*\s*\[km\s+[\d.]+\]\s*:\s*\[.+?\]\(place_[^)]+\.md\)", line):
+                                issues.append(Issue(
+                                    error=f"entry has invalid format: `{line.strip()}`",
+                                    verdict="use format: `* [km X.X]: [PlaceName](place_file.md)`",
+                                ))
+                            else:
+                                # Extract kilometre for ascending check
+                                km_match = re.search(r"\[km\s+([\d.]+)\]", line)
+                                if km_match:
+                                    try:
+                                        km = float(km_match.group(1))
+                                        state_entries[current_state].append(km)
+                                    except ValueError:
+                                        pass
+                
+                # STRICT: Check kilometres are strictly ascending within each state
+                for state_name, kms in state_entries.items():
+                    if kms != sorted(kms):
+                        issues.append(Issue(
+                            error=f"state '{state_name}' entries not in ascending kilometre order",
+                            verdict=f"reorder entries: {kms} should be {sorted(kms)}",
+                        ))
 
     return issues
 

@@ -100,7 +100,7 @@ Every road has its own folder at `roads/<road>/`. The road index file lives in t
 
 It holds child places in sequence along a kilometre chain. Each child place is a specific point or stretch on the road, connected to its neighbours and to the road that contains it. The result is a directed graph - each Place a node, the kilometre chain the edge set, direction encoded in the sequence.
 
-Road index files carry only `- Project: Autobahn` in Owner. Node files carry: `- Place: [Road](place_road.md) in [Bundesland](place_bundesland.md)` - the road index as structural parent, the bundesland as geographic container.
+**Road index files carry only `- Project: Autobahn` in Owner.** Node files carry: `- Place: [Road](place_road.md) in [Bundesland](place_bundesland.md)` - the road index as structural parent, the bundesland as geographic container.
 
 ### Index
 
@@ -116,29 +116,47 @@ A road index is the parent file for a motorway. It holds the complete kilometre 
 
 **Naming:** `roads/{road}/place_{road}.md`
 
-### Index Organization by State
+### Index Organization by State (Mandatory for Multi-State Roads)
 
-When a road spans multiple Bundesländer (states), the kilometre chain in **Holds** must be organized into subsections by state. Each subsection carries a state name and mandatory backreference: `### State Name (place_state.md)`.
+**STRICT REQUIREMENT:** When a road spans multiple Bundesländer (states), the kilometre chain in **Holds** MUST be organized into subsections by state. Flat lists with cross-state entries are rejected.
 
-Subsection order follows the road's direction from its starting terminus. Within each subsection, entries maintain kilometre sequence. State backreferences link the road to its geographic context and are required for validation.
+Each subsection:
+- Starts with `### State Name (place_state.md)` - state name followed by backreference to state file in parentheses
+- Contains only entries for that state
+- Entries maintain kilometre sequence (ascending order)
+- State backreferences must be valid and link to existing state files
 
-Example:
+Subsection order follows the road's direction from its starting terminus (first state → last state).
+
+**Single-state roads:** May use a single subsection or flat list format. Subsection format is recommended for consistency.
+
+**Entry format:** `* [km X.X]: [PlaceName](place_road_NN_name.md)` - kilometre marker (with decimals), colon, link to child file.
+
+**Example (multi-state, strict format):**
 ```
 ### Schleswig-Holstein (place_schleswig_holstein.md)
-* [km 0.0](...): [Dreieck Bad Segeberg-Nord](place_a20_dreieck_bad_segeberg_nord.md).
-...
-* [km 42.7](...): [Groß Sarau](place_a20_3_gross_sarau.md).
+* [km 0.0]: [Dreieck Bad Segeberg-Nord](place_a20_dreieck_bad_segeberg_nord.md)
+* [km 12.5]: [Bad Segeberg](place_a20_1_bad_segeberg.md)
+* [km 42.7]: [Groß Sarau](place_a20_3_gross_sarau.md)
 
 ### Mecklenburg-Vorpommern (place_mecklenburg_vorpommern.md)
-* [km 49.1](...): [Lüdersdorf](place_a20_4_luedersdorf.md).
-...
+* [km 49.1]: [Lüdersdorf](place_a20_4_luedersdorf.md)
+* [km 72.3]: [Schönberg](place_a20_5_schoenberg.md)
+* [km 322.0]: [Pasewalk-Süd](place_a20_36_pasewalk_sued.md)
 
 ### Brandenburg (place_brandenburg.md)
-* [km 335](...): [Prenzlau-Ost](place_a20_37_prenzlau_ost.md).
-...
+* [km 335.0]: [Prenzlau-Ost](place_a20_37_prenzlau_ost.md)
+* [km 348.0]: [Neubrandenburg-Ost](place_a20_39_neubrandenburg_ost.md)
 ```
 
-Validation enforced by `scripts/validate_roads.py`.
+**Validation (STRICT):** `scripts/validate_roads.py` enforces:
+- Road index files have `Owner: - Project: Autobahn` only (no other items)
+- Multi-state roads have subsections by state
+- Each subsection has state name header and backreference
+- State backreferences are valid (files exist)
+- Kilometre sequences within states are strictly ascending
+- No cross-state entry mixing (all entries for one state must be in its subsection)
+- Entry format matches: `* [km X.X]: [Name](place_file.md)`
 
 ---
 
