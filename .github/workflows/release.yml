@@ -38,6 +38,7 @@ jobs:
         run: python scripts/release.py --tag "${{ steps.version.outputs.tag }}" --commit-if-needed
 
       - name: Push version sync commit if created
+        continue-on-error: true
         run: |
           AHEAD=$(git log origin/main..HEAD --oneline 2>/dev/null | wc -l)
           if [ "$AHEAD" -gt 0 ]; then
