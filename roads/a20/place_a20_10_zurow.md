@@ -16,7 +16,7 @@ The sign: Zurow. A small exit east of Kreuz Wismar - flat land, the Baltic coast
 Ausfahrt 10 - the exit ramp.
 
 ## Withheld
-In 1895, there were 236 brick factories in Mecklenburg-Schwerin -- small operations scattered wherever glacial soils provided clay. Rostock, Wismar, the manor houses, the village churches: all built from the same earth. Through the 20th century they largely vanished -- industrial competition, then DDR consolidation. The clay pits became lakes. The buildings remain. The brick factories do not.
+In 1895, there were 236 brick factories in Mecklenburg-Schwerin - small operations scattered wherever glacial soils provided clay. Rostock, Wismar, the manor houses, the village churches: all built from the same earth. Through the 20th century they largely vanished - industrial competition, then DDR consolidation. The clay pits became lakes. The buildings remain. The brick factories do not.
 
 ---
 

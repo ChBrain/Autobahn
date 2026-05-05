@@ -16,7 +16,7 @@ The sign: Schönberg. A small town west of Grevesmühlen, close to the old inner
 Ausfahrt 5 - the exit ramp toward Schönberg and the Baltic coast.
 
 ## Withheld
-Schönberg was the capital of the Principality of Ratzeburg -- a tiny territory wedged between Lübeck, Holstein, and Mecklenburg-Schwerin that maintained its independence until 1918. The distinction: unlike the rest of Mecklenburg, there was no serfdom here, no manor economy, no large landowners. Only free farmers. The border ran thirty kilometers to the west. On this side: estates and control. On that side: freedom -- in the same land, at the same time.
+Schönberg was the capital of the Principality of Ratzeburg - a tiny territory wedged between Lübeck, Holstein, and Mecklenburg-Schwerin that maintained its independence until 1918. The distinction: unlike the rest of Mecklenburg, there was no serfdom here, no manor economy, no large landowners. Only free farmers. The border ran thirty kilometers to the west. On this side: estates and control. On that side: freedom - in the same land, at the same time.
 
 ---
 

@@ -73,6 +73,14 @@ The world holds it. It does not resolve.
 
 ---
 
+## How this is built
+
+Authored by Kai Schlüter (ChBrain) with AI-assisted drafting. The per-file workflow is: a model proposes several drafts, the facts are checked against authoritative sources, then the final voice is rewritten by hand. The aim is to use facts (not copyrightable) carried in the author's own expression.
+
+This is not an academic paper - the source list in [REFERENCES.md](REFERENCES.md) names the sources used most often, not all of them. If you spot a passage that closely paraphrases a specific source, or a factual error, please open an issue and link the source.
+
+---
+
 ## Sources
 
 See [REFERENCES.md](REFERENCES.md).

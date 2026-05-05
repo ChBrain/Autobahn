@@ -16,9 +16,9 @@ The sign: Sanitz. Open agricultural land east of Rostock - the road here running
 Ausfahrt 18 - the exit ramp toward Sanitz.
 
 ## Withheld
-In Teutendorf, heute ein Ortsteil von Sanitz, wurde 1812 Friedrich von Flotow geboren -- Komponist der Oper Martha, die in der zweiten Hälfte des 19. Jahrhunderts die meistgespielte Oper der Welt war. Paris, Wien, St. Petersburg -- er lebte auf den großen Bühnen. Der Anfang war hier, zwischen Rostock und der Seenplatte. Das Dorf weiß es kaum.
+Friedrich von Flotow was born in 1812 in Teutendorf, today a district of Sanitz - composer of the opera Martha, the most-performed opera in the world through the second half of the nineteenth century. Paris, Vienna, St Petersburg: he lived on the great stages. He started here, between Rostock and the lake plateau. The village barely knows it.
 
-Östlich beginnt die Mecklenburger Seenplatte -- über tausend natürliche Seen, das größte zusammenhängende Seengebiet Europas. Wer Mecklenburg hört denkt zuerst an Ostsee. Die Seenplatte liegt dahinter -- größer als die Küste, älter, und vollständig aus Eis gemacht.
+To the east the Mecklenburg lake plateau opens up - over a thousand natural lakes, the largest contiguous lake region in Europe. The mention of Mecklenburg first calls up the Baltic. The lake plateau lies behind it - larger than the coast, older, and entirely made of ice.
 
 ---
 

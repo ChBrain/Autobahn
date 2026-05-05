@@ -16,9 +16,9 @@ The sign: Kröpelin. A small town west of Bad Doberan - the road here running th
 Ausfahrt 12 - the exit ramp toward Kröpelin and the Baltic coast.
 
 ## Withheld
-Kröpelin liegt auf dem Baltischen Landrücken -- dem Rücken der letzten Eiszeit, der quer durch Mecklenburg läuft. Die Hügel sind Moränen, die Seen sind Toteislöcher, die Böden glazial. Alles was man sieht wurde vor zwölftausend Jahren abgelagert. Die Autobahn schneidet durch dasselbe Material.
+Kröpelin sits on the Baltic Ridge - the spine left by the last ice age, running diagonally across Mecklenburg. The hills are moraines, the lakes are kettle holes, the soils glacial. Everything visible was deposited twelve thousand years ago. The motorway cuts through the same material.
 
-Nördlich, ein paar Kilometer, liegt die Küste. In der DDR Sperrgebiet -- kein Zugang, keine Bebauung, überwachter Strand. Die Sperrzone hat die Küste konserviert. Kaum Infrastruktur, lange Abschnitte ohne Bebauung. Die Eiszeit hat sie geformt. Die DDR hat sie aufbewahrt.
+A few kilometres north lies the coast. Under the GDR a restricted zone - no access, no development, watched beach. The closure preserved the shore. Almost no infrastructure, long stretches without buildings. The ice age shaped it. The GDR kept it.
 
 ---
 

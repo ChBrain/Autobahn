@@ -16,7 +16,7 @@ The sign: Anklam. A Hanseatic town on the Peene - the road here moving through f
 Ausfahrt 29 - the exit ramp toward Anklam and Usedom.
 
 ## Withheld
-Otto Lilienthal wurde 1848 in Anklam geboren. Er baute Gleitflugzeuge aus Weidenruten und Baumwollstoff, sprang von Hügeln und flog -- hunderte Male, systematisch, dokumentiert. 1896 stürzte er ab und starb zwei Tage später. Die Wright Brothers nannten ihn als entscheidende Inspiration. Das erste Mal dass ein Mensch flog, war hier.
+Otto Lilienthal was born in Anklam in 1848. He built gliders out of willow rods and cotton fabric, jumped off hills, and flew - hundreds of times, systematic, documented. He crashed in 1896 and died two days later. The Wright brothers cited him as their decisive inspiration. The first time a human flew, it was here.
 
 ---
 

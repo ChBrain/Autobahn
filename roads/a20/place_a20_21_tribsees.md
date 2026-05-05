@@ -16,9 +16,9 @@ The sign: Tribsees. The road here crossing the Trebel - the river that marks the
 Ausfahrt 21 - the exit ramp toward Tribsees.
 
 ## Withheld
-Tribsees hatte 1285 Stadtrecht, Stadtmauer, Ratshaus, eine eigene Burg. Grenzort zwischen Mecklenburg und Pommern -- das Land wechselte mehrfach die Seite: Mecklenburg, Pommern, Schwedisch-Pommern ab 1638, Preußen ab 1815. 1702 brannte die Stadt fast vollständig. Der schwedische König half beim Wiederaufbau. Heute 800 Einwohner.
+Tribsees received its town rights in 1285, with town wall, council house, and its own castle. A border town between Mecklenburg and Pomerania - the territory changed hands repeatedly: Mecklenburg, Pomerania, Swedish Pomerania from 1638, Prussia from 1815. The town nearly burned down in 1702. The Swedish king helped pay for the rebuild. Today: 800 inhabitants.
 
-Die Trebel, die hier die Grenze zwischen Mecklenburg und Vorpommern bildet, fließt langsamer als ein Gehender durch ausgedehnte Niedermoore. Sie hat sich nie um die Grenzen gekümmert. Die Herrscher auch kaum.
+The Trebel, which here forms the border between Mecklenburg and Vorpommern, drifts slower than walking pace through wide low moorland. It has never paid attention to the borders. Neither, mostly, have the rulers.
 
 ---
 

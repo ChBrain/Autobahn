@@ -49,6 +49,7 @@ import validate_roads_km_math
 import validate_states
 import validate_navigation_links
 import validate_stop_naming
+import validate_german_bleed
 
 ROOT = HERE.parent
 
@@ -147,6 +148,8 @@ def run_index_siblings(index: Path) -> list[Finding]:
         out.append(Finding(index, "navigation", issue))
     for issue in validate_stop_naming.validate(index):
         out.append(Finding(index, "stop_naming", issue))
+    for issue in validate_german_bleed.validate(index):
+        out.append(Finding(index, "german_bleed", issue))
     return out
 
 
@@ -167,6 +170,8 @@ def run_node(node: Path) -> list[Finding]:
         findings.append(Finding(node, "navigation", issue))
     for issue in validate_stop_naming.validate(node):
         findings.append(Finding(node, "stop_naming", issue))
+    for issue in validate_german_bleed.validate(node):
+        findings.append(Finding(node, "german_bleed", issue))
     return findings
 
 
@@ -183,11 +188,19 @@ def run_state(path: Path) -> list[Finding]:
         findings.append(Finding(path, "navigation", issue))
     for issue in validate_stop_naming.validate(path):
         findings.append(Finding(path, "stop_naming", issue))
+    for issue in validate_german_bleed.validate(path):
+        findings.append(Finding(path, "german_bleed", issue))
     return findings
 
 
 def run_other(path: Path) -> list[Finding]:
-    return [Finding(path, "general", i) for i in validate_general.validate(path)]
+    findings: list[Finding] = []
+    for issue in validate_general.validate(path):
+        findings.append(Finding(path, "general", issue))
+    if path.name.startswith("place_"):
+        for issue in validate_german_bleed.validate(path):
+            findings.append(Finding(path, "german_bleed", issue))
+    return findings
 
 
 # ---------------------------------------------------------------------------
@@ -396,6 +409,7 @@ def render_checks(findings: list[Finding], skips: list[Skip]) -> None:
         ("states", "State file structure"),
         ("navigation", "Navigation link integrity"),
         ("stop_naming", "Stop naming conventions"),
+        ("german_bleed", "German language bleed in place files"),
     ]
     
     explicit_findings = [f for f in findings if not f.implicit]

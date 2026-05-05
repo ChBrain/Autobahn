@@ -16,9 +16,9 @@ The sign: Rostock-Südstadt. The southern city exit - the road here passing thro
 Ausfahrt 15 - the exit ramp toward Rostock Südstadt.
 
 ## Withheld
-1323 kaufte die Stadt Rostock das Fischerdorf Warnemünde -- um den direkten Zugang zur Ostsee zu sichern und niemand anderen die Kontrolle über die Hafeneinfahrt zu lassen. Der Stadtteil gehört noch heute zu Rostock. Der Kauf war strategisch, nicht sentimental.
+In 1323 the city of Rostock bought the fishing village of Warnemünde - to secure direct access to the Baltic and let no one else control the harbour entrance. The district is still part of Rostock today. The purchase was strategic, not sentimental.
 
-Auf der anderen Seite der Warnow liegt der Überseehafen -- in der DDR das Tor zur Welt für ein Land ohne Westanbindung. Alles was importiert wurde kam hier an. Die Kräne stehen noch. Die Flaggen sind andere geworden.
+On the other side of the Warnow lies the Überseehafen - under the GDR the gateway to the world for a country with no Western link. Everything imported arrived here. The cranes are still there. The flags have changed.
 
 ---
 

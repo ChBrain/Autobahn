@@ -16,7 +16,7 @@ The sign: Prenzlau-Ost. The first Brandenburg exit - the Unteruckersee visible t
 Ausfahrt 37 - the exit ramp toward Prenzlau east and the Unteruckersee.
 
 ## Withheld
-Das Dominikanerkloster steht seit 1275 -- ununterbrochen genutzt, nie zerstört. Während die Stadt Prenzlau im April 1945 schwer beschädigt wurde, überstand das Kloster unbeschadet. Es war nacheinander Kloster, Armenhaus, Gefängnis, Krankenhaus, DDR-Gesundheitseinrichtung, heute Museum und Kulturzentrum. Der fehlende vierte Kreuzgangflügel wurde 2023 ergänzt -- als moderner Glasbau. 750 Jahre Backstein, ein neuer Flügel aus Stahl und Glas. Das Kloster läuft noch.
+The Dominican monastery has stood since 1275 - in continuous use, never destroyed. While the town of Prenzlau was heavily damaged in April 1945, the monastery came through unscathed. It has served in turn as cloister, almshouse, prison, hospital, GDR public-health facility, and now museum and cultural centre. The missing fourth cloister wing was filled in during 2023 - a modern glass structure. 750 years of brick, one new wing of steel and glass. The monastery is still in use.
 
 ---
 

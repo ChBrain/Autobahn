@@ -16,9 +16,9 @@ The sign: Wismar-Mitte. The city exit for Wismar centre and the harbour. The A20
 Ausfahrt 8 - the exit ramp toward Wismar centre and harbour.
 
 ## Withheld
-Wismar baute im Mittelalter drei monumentale Backsteinkirchen -- St. Marien, St. Nikolai, St. Georgen. Alle drei gleichzeitig, alle drei auf Kosten einer Stadt von einigen tausend Menschen. St. Georgen wurde in der DDR als Lagerhalle genutzt. St. Marien wurde gesprengt. St. Nikolai steht vollständig. Drei Kirchen, drei Schicksale.
+In the Middle Ages Wismar built three monumental brick churches - St. Marien, St. Nikolai, St. Georgen. All three at the same time, all three at the cost of a town of a few thousand people. Under the GDR, St. Georgen served as a warehouse. St. Marien was blown up. St. Nikolai stands intact. Three churches, three fates.
 
-Dreizehn Kilometer nordwestlich liegt Poel. Eine flache Insel, ein Dorf, ein Damm seit 1932. In der DDR der einzige Ostseetraum den viele je sahen -- Zeltplätze, Bungalows, das Wasser vor der Tür. Wer hier abfährt und weiterfährt, ist in zwanzig Minuten drauf.
+Thirteen kilometres northwest lies Poel. A flat island, one village, a causeway since 1932. Under the GDR it was the only Baltic dream many people ever saw - campsites, bungalows, the water at the doorstep. Whoever leaves the motorway here and keeps going is on the island in twenty minutes.
 
 ---
 

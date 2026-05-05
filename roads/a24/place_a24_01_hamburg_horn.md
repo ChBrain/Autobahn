@@ -2,7 +2,7 @@
 
 ## Owner
 - Project: Autobahn
-- Place: [A24](place_a24.md) in [Schleswig-Holstein](place_schleswig_holstein.md)
+- Place: [A24](place_a24.md) in [Hamburg](place_hamburg.md)
 
 
 ## Shown
@@ -23,4 +23,3 @@ Horn was a border village for four centuries. From 1460, when Holstein became a 
 ---
 
 v0.2.4 - KAI Worlds
-

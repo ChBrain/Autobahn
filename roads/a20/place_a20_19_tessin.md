@@ -16,9 +16,9 @@ The sign: Tessin. A small town east of Sanitz - flat land, open fields, the road
 Ausfahrt 19 - the exit ramp toward Tessin.
 
 ## Withheld
-The Thirty Years War swept through this landscape like through few others in Germany -- imperial, Swedish, and Danish troops, plundering, plague. Mecklenburg lost a third of its population. The villages along the A20 still bear names older than the war. The people who inhabited them after 1648 were often different.
+The Thirty Years War swept through this landscape like through few others in Germany - imperial, Swedish, and Danish troops, plundering, plague. Mecklenburg lost a third of its population. The villages along the A20 still bear names older than the war. The people who inhabited them after 1648 were often different.
 
-Who rebuilt the land afterward was Friedrich Franz I. -- Duke from 1785, first Grand Duke from 1815, one of the most influential Mecklenburg rulers. He abolished serfdom, built roads, founded the first psychiatric clinic in Northern Europe. Today barely known outside Mecklenburg. The land hardly remembers him. Yet he shaped it.
+Who rebuilt the land afterward was Friedrich Franz I. - Duke from 1785, first Grand Duke from 1815, one of the most influential Mecklenburg rulers. He abolished serfdom, built roads, founded the first psychiatric clinic in Northern Europe. Today barely known outside Mecklenburg. The land hardly remembers him. Yet he shaped it.
 
 ---
 

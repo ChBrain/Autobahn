@@ -16,9 +16,9 @@ The sign: Altentreptow. A small town on the Tollense - the road here moving sout
 Ausfahrt 30 - the exit ramp toward Altentreptow and the Tollense valley.
 
 ## Withheld
-450 Tonnen Granit, 2 Milliarden Jahre alt, von schwedischen Gletschern hierher transportiert -- der Große Stein von Altentreptow ist der zweitgrößte Findling Deutschlands. 2021 hob die Stadt ihn mit Hydraulikpressen drei Meter an, damit man ihn ganz sehen kann. Er lag vorher einfach da, zur Hälfte vergraben, seit 25.000 Jahren.
+450 tonnes of granite, two billion years old, carried here by Swedish glaciers - the Großer Stein von Altentreptow is the second-largest erratic boulder in Germany. In 2021 the town raised it three metres on hydraulic presses so visitors could see all of it. Before that it had simply lain there, half buried, for 25,000 years.
 
-Nördlich der Stadt, im Tollensetal, fanden Archäologen seit 1996 die Überreste einer Massenschlacht -- 1250 v.Chr., tausende Krieger, ältester archäologisch nachgewiesener Krieg Mitteleuropas. Die Knochen lagen drei Jahrtausende im Flussbett. Der Stein kam mit dem Eis. Die Krieger kamen danach.
+North of the town, in the Tollense valley, archaeologists have been uncovering the remains of a mass battle since 1996 - 1250 BC, thousands of warriors, the oldest archaeologically documented war in Central Europe. The bones lay in the riverbed for three thousand years. The stone came with the ice. The warriors came after.
 
 ---
 

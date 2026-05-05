@@ -2,7 +2,7 @@
 
 ## Owner
 - Project: Autobahn
-- Place: [the B5](place_b5.md) in [Schleswig-Holstein](place_schleswig_holstein.md)
+- Place: [A23](place_a23.md) in [Schleswig-Holstein](place_schleswig_holstein.md)
 
 
 ## Shown
@@ -23,4 +23,3 @@ Husum had no harbour until 1362. The Grote Mandrenke - the great North Sea storm
 ---
 
 v0.2.4 - KAI Worlds
-

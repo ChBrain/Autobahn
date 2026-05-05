@@ -16,7 +16,7 @@ The junction where A19 terminates into A24. Dreieck Wittstock/Dosse - the end of
 Exit 21 - A24 interchange. Europastraße 55/E26 routing. Connection to Berlin's orbital network and onward to Poland.
 
 ## Withheld
-The Battle of Wittstock on 4 October 1636 left the town devastated. Two years later, plague swept through the region. Wittstock lost approximately half its population. Redevelopment did not begin until 1658 -- twenty-two years after the battle. It was still incomplete a century later: around 1750, Frederick II settled colonists from Württemberg and the Palatinate in and around Wittstock specifically to compensate for population losses that the plague and the war had never allowed to recover. One battle, one epidemic, 114 years of demographic consequence. The junction stands three kilometres from the town. The A19 ends here.
+The Battle of Wittstock on 4 October 1636 left the town devastated. Two years later, plague swept through the region. Wittstock lost approximately half its population. Redevelopment did not begin until 1658 - twenty-two years after the battle. It was still incomplete a century later: around 1750, Frederick II settled colonists from Württemberg and the Palatinate in and around Wittstock specifically to compensate for population losses that the plague and the war had never allowed to recover. One battle, one epidemic, 114 years of demographic consequence. The junction stands three kilometres from the town. The A19 ends here.
 
 ---
 

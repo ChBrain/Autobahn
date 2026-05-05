@@ -16,7 +16,7 @@ The sign: Prenzlau-Süd. The southern exit for Prenzlau - the Uckermark opening 
 Ausfahrt 38 - the exit ramp toward Prenzlau south.
 
 ## Withheld
-1687 kamen die ersten Hugenotten an den Unteruckersee -- französische Protestanten, auf der Flucht nach dem Widerruf des Edikts von Nantes. Prenzlau hatte die größte Hugenottenkolonie der Uckermark. Sie bekamen eigene Richter, eigene Kirche, 15 Freijahre. Ihre Kirchensprache blieb Französisch. Sie brachten den Tabakanbau mit. Manche Familiennamen in der Region sind bis heute französischen Ursprungs.
+The first Huguenots arrived at the Unteruckersee in 1687 - French Protestants in flight after the revocation of the Edict of Nantes. Prenzlau had the largest Huguenot colony in the Uckermark. They received their own judges, their own church, fifteen tax-free years. Their church language stayed French. They brought tobacco cultivation with them. Some family names in the region are still of French origin.
 
 ---
 

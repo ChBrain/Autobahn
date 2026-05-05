@@ -21,7 +21,7 @@ The Ostseeautobahn. The A20 runs east from its current western terminus at Weede
 
 ### Mecklenburg-Vorpommern (place_mecklenburg_vorpommern.md)
 * [km 49.1](piece_the_kilometerstein.md): [Lüdersdorf](place_a20_4_luedersdorf.md).
-* [km 58.1](piece_the_kilometerstein.md): [Schönberg](place_a20_5_schoenbert.md).
+* [km 58.1](piece_the_kilometerstein.md): [Schönberg](place_a20_5_schoenberg.md).
 * [km 74.5](piece_the_kilometerstein.md): [Grevesmühlen](place_a20_6_grevesmuehlen.md).
 * [km 83.1](piece_the_kilometerstein.md): [Bobitz](place_a20_7_bobitz.md).
 * [km 92.3](piece_the_kilometerstein.md): [Wismar-Mitte](place_a20_8_wismar_mitte.md).
