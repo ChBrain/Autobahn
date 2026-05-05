@@ -16,7 +16,7 @@ Bundesstraße 103 junction. Laage is a small town south of Rostock. The motorway
 Ausfahrt 11 - Bundesstraße 103 connection. Rest stop Recknitznierung. Petrol, food, facilities. The brief pause in motion.
 
 ## Withheld
-The early Gothic church in Laage was begun in the 13th century. The tower was not completed until the 15th -- two hundred years between foundation and finish, not ruin but the pace of a small medieval town accumulating what it needed. The church is still in use. For twenty-five years during the DDR, Joachim Gauck served as a Lutheran pastor in Laage. The Stasi kept a file on him and described him as an "incorrigible anti-communist." After reunification he became the first Federal Commissioner to open the Stasi files to their subjects -- four million people discovering what had been written about them. In 2012 he was elected President of Germany. The motorway passes the church without a sign.
+The early Gothic church in Laage was begun in the 13th century. The tower was not completed until the 15th - two hundred years between foundation and finish, not ruin but the pace of a small medieval town accumulating what it needed. The church is still in use. For twenty-five years during the DDR, Joachim Gauck served as a Lutheran pastor in Laage. The Stasi kept a file on him and described him as an "incorrigible anti-communist." After reunification he became the first Federal Commissioner to open the Stasi files to their subjects - four million people discovering what had been written about them. In 2012 he was elected President of Germany. The motorway passes the church without a sign.
 
 ---
 

@@ -16,7 +16,7 @@ Bundesstraße 103 junction in the outer Rostock region. Flat agricultural land. 
 Ausfahrt 8 - Bundesstraße 103, connection toward outer regional districts and small towns.
 
 ## Withheld
-The Kessiner tribe -- a West Slavic people whose territory ran forty kilometres south along the Warnow corridor, exactly the route the A19 now follows. Their capital fortress, documented in 1121 at Schlossberg near Fresendorf, stood in the land this road crosses. The Kessiner lost significance after Rostock rose in 1218 and are not mentioned again. The A19 from Rostock to Güstrow runs through their former heartland end to end.
+The Kessiner tribe - a West Slavic people whose territory ran forty kilometres south along the Warnow corridor, exactly the route the A19 now follows. Their capital fortress, documented in 1121 at Schlossberg near Fresendorf, stood in the land this road crosses. The Kessiner lost significance after Rostock rose in 1218 and are not mentioned again. The A19 from Rostock to Güstrow runs through their former heartland end to end.
 
 ---
 
