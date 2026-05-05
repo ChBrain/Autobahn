@@ -16,9 +16,9 @@ The sign: Greifswald. A university city on the Baltic coast - the road here movi
 Ausfahrt 25 - the exit ramp toward Greifswald.
 
 ## Withheld
-Caspar David Friedrich was born in Greifswald in 1774. The Wanderer above the Sea of Fog, the chalk cliffs on Rügen, the Sea of Ice -- he painted the landscape you see from the A20. The Baltic coast as an interior image. He studied here, then left, and never returned.
+Caspar David Friedrich was born in Greifswald in 1774. The Wanderer above the Sea of Fog, the chalk cliffs on Rügen, the Sea of Ice - he painted the landscape you see from the A20. The Baltic coast as an interior image. He studied here, then left, and never returned.
 
-Ernst Moritz Arndt was born on Rügen in 1769 and taught in Greifswald -- his poem "Was ist des Deutschen Vaterland?" served as an unofficial national anthem through the nineteenth century. The university carried his name from 1933 until 2018. Then it dropped it.
+Ernst Moritz Arndt was born on Rügen in 1769 and taught in Greifswald - his poem "Was ist des Deutschen Vaterland?" served as an unofficial national anthem through the nineteenth century. The university carried his name from 1933 until 2018. Then it dropped it.
 
 ---
 

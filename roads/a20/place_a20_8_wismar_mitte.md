@@ -16,9 +16,9 @@ The sign: Wismar-Mitte. The city exit for Wismar centre and the harbour. The A20
 Ausfahrt 8 - the exit ramp toward Wismar centre and harbour.
 
 ## Withheld
-In the Middle Ages Wismar built three monumental brick churches -- St. Marien, St. Nikolai, St. Georgen. All three at the same time, all three at the cost of a town of a few thousand people. Under the GDR, St. Georgen served as a warehouse. St. Marien was blown up. St. Nikolai stands intact. Three churches, three fates.
+In the Middle Ages Wismar built three monumental brick churches - St. Marien, St. Nikolai, St. Georgen. All three at the same time, all three at the cost of a town of a few thousand people. Under the GDR, St. Georgen served as a warehouse. St. Marien was blown up. St. Nikolai stands intact. Three churches, three fates.
 
-Thirteen kilometres northwest lies Poel. A flat island, one village, a causeway since 1932. Under the GDR it was the only Baltic dream many people ever saw -- campsites, bungalows, the water at the doorstep. Whoever leaves the motorway here and keeps going is on the island in twenty minutes.
+Thirteen kilometres northwest lies Poel. A flat island, one village, a causeway since 1932. Under the GDR it was the only Baltic dream many people ever saw - campsites, bungalows, the water at the doorstep. Whoever leaves the motorway here and keeps going is on the island in twenty minutes.
 
 ---
 

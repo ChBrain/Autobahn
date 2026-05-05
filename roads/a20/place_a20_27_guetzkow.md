@@ -16,7 +16,7 @@ The sign: Gützkow. A small town south of Greifswald on the north bank of the Pe
 Ausfahrt 27 - the exit ramp toward Gützkow and the Peene valley.
 
 ## Withheld
-Bevor Gützkow eine Stadt war, war es ein Heiligtum. Slawischer Tempel, Fürstensitz, Wallfahrtsort -- Zentrum eines weiträumigen Kultbereichs. 1128 kam Bischof Otto von Bamberg auf seiner Missionsreise und traf hier Fürst Mitzlaw. Der Tempel verschwand. Der Schlossberg blieb -- heute Bodendenkmal, archäologisch untersucht, zur Besichtigung freigegeben. Die Slawen kamen zum Beten. Die Autobahn fährt vorbei.
+Before Gützkow was a town it was a sanctuary. A Slavic temple, a princely seat, a place of pilgrimage - the centre of a wide cult area. In 1128 Bishop Otto of Bamberg arrived on his missionary journey and met Prince Mitzlaw here. The temple disappeared. The Schlossberg remained - now a protected archaeological site, excavated, open to visitors. The Slavs came here to pray. The motorway drives past.
 
 ---
 

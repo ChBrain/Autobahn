@@ -16,7 +16,7 @@ The sign: Jarmen. A small town on the south bank of the Peene - the A20 crossing
 Ausfahrt 28 - the exit ramp toward Jarmen and the Peene valley.
 
 ## Withheld
-From 1720 to 1815 Jarmen was a Prussian border town -- the Peene separated Prussian Pomerania to the south from Swedish Pomerania to the north. Two countries, one river, one ferry. The ferry ran anyway. From 1368 onward it crossed the Peene -- nearly 500 years, through war, occupation, and changes of sovereignty. The first bridge came in 1863. The border is gone. The crossing remained.
+From 1720 to 1815 Jarmen was a Prussian border town - the Peene separated Prussian Pomerania to the south from Swedish Pomerania to the north. Two countries, one river, one ferry. The ferry ran anyway. From 1368 onward it crossed the Peene - nearly 500 years, through war, occupation, and changes of sovereignty. The first bridge came in 1863. The border is gone. The crossing remained.
 
 ---
 

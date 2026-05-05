@@ -16,7 +16,7 @@ The sign: Pasewalk-Süd. The southern exit for Pasewalk - the road here moving t
 Ausfahrt 36 - the exit ramp toward Pasewalk south.
 
 ## Withheld
-The Nikolaikirche has stood since the twelfth century -- the largest fieldstone church in Mecklenburg-Vorpommern, built from regularly coursed granite blocks rather than brick. In a coastal region that builds almost exclusively in brick, that is an exception. Karl Friedrich Schinkel reworked the interior between 1824 and 1826. The tower was destroyed in 1945 and never rebuilt. The church stands towerless. It still draws the eye.
+The Nikolaikirche has stood since the twelfth century - the largest fieldstone church in Mecklenburg-Vorpommern, built from regularly coursed granite blocks rather than brick. In a coastal region that builds almost exclusively in brick, that is an exception. Karl Friedrich Schinkel reworked the interior between 1824 and 1826. The tower was destroyed in 1945 and never rebuilt. The church stands towerless. It still draws the eye.
 
 ---
 

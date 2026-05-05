@@ -16,7 +16,7 @@ The sign: Grevesmühlen. A small town between Wismar and the Klützer Ecke - the
 Ausfahrt 6 - the exit ramp toward Grevesmühlen and the Klützer Ecke.
 
 ## Withheld
-Four kilometres west stands Schloss Bothmer -- one of the most significant Baroque country houses in northern Germany, completed in 1726, built by a Mecklenburg nobleman after an English model. The ensemble is intact: main building, cavalier houses, moat, park. Almost unknown outside the region. The exit leads past it without naming it.
+Four kilometres west stands Schloss Bothmer - one of the most significant Baroque country houses in northern Germany, completed in 1726, built by a Mecklenburg nobleman after an English model. The ensemble is intact: main building, cavalier houses, moat, park. Almost unknown outside the region. The exit leads past it without naming it.
 
 ---
 
