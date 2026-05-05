@@ -17,7 +17,12 @@ import re
 import sys
 from pathlib import Path
 
-ROOT = Path(__file__).resolve().parent.parent
+HERE = Path(__file__).resolve().parent
+sys.path.insert(0, str(HERE))
+
+from findings import Issue
+
+ROOT = HERE.parent
 
 # German language bleed detection
 # Only phrases and constructions that are UNAMBIGUOUSLY German
@@ -50,7 +55,7 @@ GERMAN_PHRASES = {
 
 def has_german_bleed(text: str) -> tuple[bool, str]:
     """Check if text contains German language bleed.
-    
+
     Returns (has_german, reason)
     Only detects unambiguous German phrases, not common words that appear in English.
     """
@@ -58,8 +63,21 @@ def has_german_bleed(text: str) -> tuple[bool, str]:
     for phrase in GERMAN_PHRASES:
         if phrase in text_lower:
             return True, f"German phrase found: '{phrase}'"
-    
+
     return False, ""
+
+
+def validate(path: Path) -> list[Issue]:
+    """Per-file entry for the orchestrator. Returns one Issue per file
+    that contains a phrase from GERMAN_PHRASES anywhere in its text."""
+    try:
+        text = path.read_text(encoding="utf-8")
+    except (UnicodeDecodeError, OSError):
+        return []
+    has_german, reason = has_german_bleed(text)
+    if has_german:
+        return [Issue(error=reason, verdict="rewrite the German passage in English")]
+    return []
 
 
 def main() -> int:
