@@ -15,7 +15,9 @@ The Elbtunnel: the descent from Hamburg-Othmarschen. Daylight gone. Tile walls. 
 - [the A1](place_a1.md) - **Hamburg-Ost section:** Kreuz Hamburg-Ost through Hamburg-Harburg (Norderelbbrücke crossing)
 - [the A7](place_a7.md) - **Hamburg section:** Hamburg-Schnelsen-Nord to Hamburg-Waltershof (Elbtunnel)
 - [the A23](place_a23.md) - **Hamburg section:** Hamburg-Eidelstedt to Dreieck Hamburg-Nordwest
-- [the A24](place_a24.md) - **Hamburg section:** Hamburg-Horn, Hamburg-Jenfeld, Kreuz Hamburg-Ost
+- [the A24](place_a24.md) - **Hamburg section:** Hamburg-Horn to Hamburg-Jenfeld
+  * [km 0.0](piece_the_kilometerstein.md): [Hamburg-Horn](place_a24_01_hamburg_horn.md)
+  * [km 3.6](piece_the_kilometerstein.md): [Hamburg-Jenfeld](place_a24_02_hamburg_jenfeld.md)
 - [the A25](place_a25.md) - **Hamburg section:** Dreieck Hamburg-Südost to Hamburg-Neuallermöhe-West
 - [the A255](../roads/a255/place_a255.md) - **Hamburg section:** Neue Elbbrücken to Kreuz Hamburg-Süd
 - [the A261](../roads/a261/place_a261.md) - **Hamburg section:** Dreieck Hamburg-Südwest to Hamburg-Marmstorf/Lürade
