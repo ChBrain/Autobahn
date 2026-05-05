@@ -29,6 +29,8 @@ Access to Schwerin city centre and the Schloss. The Schweriner See recreational 
 ## Withheld
 The Schloss itself - visible but not visited. Its history: the ducal seat since 1471, rebuilt and expanded through centuries, the seat of power for the Mecklenburg state that no longer exists. The DDR's relationship to it: expropriated, used as a state archive, then as a technical college. The private beach areas on Schweriner See, visible from the road but not accessible. The city centre's medieval character, 3 kilometres from the motorway but invisible.
 
+AS 6, between Schwerin-Ost and Kreuz Schwerin, is reserved for the planned Schwerin-Süd junction - the connector to Industriepark Schwerin Süd. In planning since 2008, repeatedly delayed for funding; construction now expected from 2027. The number is held. The exit is not yet built.
+
 ---
 
 v0.2.9 - KAI Worlds
