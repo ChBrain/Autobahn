@@ -1,0 +1,61 @@
+name: audit-withheld
+
+# Spot-checks 5 random Withheld blocks against the live web on every PR.
+# Read-only; posts a sticky comment with the report. Does not gate the merge.
+
+on:
+  pull_request:
+    branches: [main]
+    types: [opened, synchronize, reopened]
+  workflow_dispatch:
+    inputs:
+      count:
+        description: "Number of Withheld blocks to audit"
+        required: false
+        default: "5"
+      seed:
+        description: "Random seed (defaults to PR number)"
+        required: false
+
+permissions:
+  pull-requests: write
+  contents: read
+
+jobs:
+  audit:
+    runs-on: ubuntu-latest
+    # Skip on forks - they don't have access to the org secret.
+    if: github.event.pull_request.head.repo.full_name == github.repository || github.event_name == 'workflow_dispatch'
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Install dependencies
+        run: pip install --quiet anthropic pydantic
+
+      - name: Run audit
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+          PR_NUMBER: ${{ github.event.pull_request.number }}
+        run: |
+          python scripts/audit_withheld.py \
+            --count "${{ inputs.count || 5 }}" \
+            ${{ inputs.seed && format('--seed {0}', inputs.seed) || '' }} \
+            --output audit-report.md
+
+      - name: Post sticky PR comment
+        if: github.event_name == 'pull_request'
+        uses: marocchino/sticky-pull-request-comment@v2
+        with:
+          header: withheld-audit
+          path: audit-report.md
+
+      - name: Upload report as artifact
+        uses: actions/upload-artifact@v4
+        with:
+          name: withheld-audit-report
+          path: audit-report.md
+          if-no-files-found: warn

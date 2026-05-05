@@ -10,6 +10,8 @@ Authored by Kai Schlüter (ChBrain) with AI-assisted drafting. The per-file work
 
 The intent is to use facts (which are not copyrightable) carried in the author's own expression. Occasional close-paraphrase or factual drift may slip through; if you spot it, please open an issue and link the source.
 
+The audit is partly automated. `scripts/audit_withheld.py` runs on every pull request: it picks five random Withheld blocks (deterministic per PR number), uses Claude Sonnet 4.6 with web search to verify factual claims and detect close paraphrase, and posts the report as a comment on the PR. The script does not gate merging; it is a human-review aid.
+
 ---
 
 ## Primary sources
