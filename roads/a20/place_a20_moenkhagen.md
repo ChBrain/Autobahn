@@ -16,7 +16,7 @@ The sign: Mönkhagen. A small exit between the Segeberger Forst and Lübeck. Ope
 The exit ramp. The ordinary road below.
 
 ## Withheld
-The name means the monks' enclosure - a medieval clearing settlement, hedged and worked by a religious community. Whether the Cistercians from the monastery at Reinfeld founded it is not certain, but they likely held it. In the garden of the old Gutshaus there is a boundary stone that stood for centuries in the nearby fields marking the border between Oldenburg and Lübeck. Two territories, one stone, protected now as a monument.
+Mönkhagen names its keepers - 'monks' enclosure', a hedged clearing held by a religious community. The Cistercians of Reinfeld held land throughout this corner of Stormarn from the 13th century; whether they founded the village is undocumented, but the surrounding fields were theirs. A boundary stone stands in the manor garden today, brought in from the fields where it once marked the line between Oldenburg and Lübeck. The territories are gone. The stone is indoors.
 
 ---
 
