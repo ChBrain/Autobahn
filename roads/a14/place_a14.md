@@ -9,12 +9,12 @@ The Schwerin loop. The A14 runs north from the A20/A24 junction near Schwerin, c
 ## Holds
 
 ### Mecklenburg-Vorpommern (place_mecklenburg_vorpommern.md)
-* [km 0.0](piece_the_kilometerstein.md): [Kritzow](place_a14_1_Kritzow.md).
+* [km 0.0](piece_the_kilometerstein.md): [Kritzow](place_a14_01_kritzow.md).
 * [km 1.6](piece_the_kilometerstein.md): [Kreuz Wismar](place_a14_02_kreuz_wismar.md).
 * [km 12.5](piece_the_kilometerstein.md): [Jesendorf](place_a14_03_jesendorf.md).
 * [km 28.0](piece_the_kilometerstein.md): [Schwerin-Nord](place_a14_04_schwerin_nord.md).
 * [km 38.9](piece_the_kilometerstein.md): [Schwerin-Ost](place_a14_05_schwerin_ost.md).
-* [km 59.1](piece_the_kilometerstein.md): [Schwerin-Ost](place_a14_07_kreuz_schwerin.md).
+* [km 59.1](piece_the_kilometerstein.md): [Kreuz Schwerin](place_a14_07_kreuz_schwerin.md).
 * [km 68.1](piece_the_kilometerstein.md): [Ludwigslust](place_a14_08_ludwigslust.md).
 * [km 73.5](piece_the_kilometerstein.md): [Grabow](place_a14_09_grabow.md).
 

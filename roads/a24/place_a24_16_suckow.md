@@ -10,7 +10,7 @@ The sign: Suckow. The last exit in Mecklenburg-Vorpommern. Flat wooded landscape
 ## Holds
 [km 135.0](piece_the_kilometerstein.md): Suckow.
 * [Parchim](place_a24_15_parchim.md) is next on [A24](place_a24.md) going west.
-* [Putlitz](place_a24_17_putliz.md) is next on [A24](place_a24.md) going east.
+* [Putlitz](place_a24_17_putlitz.md) is next on [A24](place_a24.md) going east.
 
 ## Offers
 Ausfahrt 16 - the exit ramp. Access to Suckow village and the Ruhner Berge.

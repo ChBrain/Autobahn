@@ -16,7 +16,7 @@ Direction is in the Driver, not the place. The road goes both ways. The world pi
 
 ## Downloads
 
-**Quality**: Schleswig-Holstein and Hamburg are ready for release. Other regions are in development.
+**Quality**: Schleswig-Holstein, Hamburg, and Mecklenburg-Vorpommern are complete. Other regions are in development.
 
 ### Modules
 
@@ -25,6 +25,7 @@ Direction is in the Driver, not the place. The road goes both ways. The world pi
 ### By Bundesland
 
 - **Hamburg** [Zip ↓](https://github.com/ChBrain/Autobahn/releases/latest/download/autobahn-hamburg.zip) | [PDF ↓](https://github.com/ChBrain/Autobahn/releases/latest/download/autobahn-hamburg.pdf)
+- **Mecklenburg-Vorpommern** [Zip ↓](https://github.com/ChBrain/Autobahn/releases/latest/download/autobahn-mecklenburg-vorpommern.zip) | [PDF ↓](https://github.com/ChBrain/Autobahn/releases/latest/download/autobahn-mecklenburg-vorpommern.pdf)
 - **Schleswig-Holstein** [Zip ↓](https://github.com/ChBrain/Autobahn/releases/latest/download/autobahn-schleswig-holstein.zip) | [PDF ↓](https://github.com/ChBrain/Autobahn/releases/latest/download/autobahn-schleswig-holstein.pdf)
 
 ### By Road
@@ -33,10 +34,13 @@ Direction is in the Driver, not the place. The road goes both ways. The world pi
 |------|-----------|
 | **A1** - Heiligenhafen - Lübeck - Vogelfluglinie | [Zip ↓](https://github.com/ChBrain/Autobahn/releases/latest/download/autobahn-a1.zip) · [PDF ↓](https://github.com/ChBrain/Autobahn/releases/latest/download/autobahn-a1.pdf) |
 | **A7** - Flensburg - Hamburg - 31 exits, Elbtunnel | [Zip ↓](https://github.com/ChBrain/Autobahn/releases/latest/download/autobahn-a7.zip) · [PDF ↓](https://github.com/ChBrain/Autobahn/releases/latest/download/autobahn-a7.pdf) |
+| **A11** - Berlin - Stettin, Pomellen border crossing | [Zip ↓](https://github.com/ChBrain/Autobahn/releases/latest/download/autobahn-a11.zip) · [PDF ↓](https://github.com/ChBrain/Autobahn/releases/latest/download/autobahn-a11.pdf) |
+| **A14** - Schwerin loop, Kritzow - Grabow | [Zip ↓](https://github.com/ChBrain/Autobahn/releases/latest/download/autobahn-a14.zip) · [PDF ↓](https://github.com/ChBrain/Autobahn/releases/latest/download/autobahn-a14.pdf) |
+| **A19** - Rostock - Wittstock/Dosse, Warnowtunnel | [Zip ↓](https://github.com/ChBrain/Autobahn/releases/latest/download/autobahn-a19.zip) · [PDF ↓](https://github.com/ChBrain/Autobahn/releases/latest/download/autobahn-a19.pdf) |
 | **A20** - Weede - Kreuz Lübeck | [Zip ↓](https://github.com/ChBrain/Autobahn/releases/latest/download/autobahn-a20.zip) · [PDF ↓](https://github.com/ChBrain/Autobahn/releases/latest/download/autobahn-a20.pdf) |
 | **A21** - Nettelsee - Kreuz Bargteheide - 52 km | [Zip ↓](https://github.com/ChBrain/Autobahn/releases/latest/download/autobahn-a21.zip) · [PDF ↓](https://github.com/ChBrain/Autobahn/releases/latest/download/autobahn-a21.pdf) |
 | **A23** - Heide - Dreieck Hamburg-Nordwest | [Zip ↓](https://github.com/ChBrain/Autobahn/releases/latest/download/autobahn-a23.zip) · [PDF ↓](https://github.com/ChBrain/Autobahn/releases/latest/download/autobahn-a23.pdf) |
-| **A24** - Hamburg-Horn - Gudow | [Zip ↓](https://github.com/ChBrain/Autobahn/releases/latest/download/autobahn-a24.zip) · [PDF ↓](https://github.com/ChBrain/Autobahn/releases/latest/download/autobahn-a24.pdf) |
+| **A24** - Hamburg-Horn - Putlitz, 19 exits across 4 states | [Zip ↓](https://github.com/ChBrain/Autobahn/releases/latest/download/autobahn-a24.zip) · [PDF ↓](https://github.com/ChBrain/Autobahn/releases/latest/download/autobahn-a24.pdf) |
 | **A25** - Dreieck Hamburg-Südost - Neuallermöhe-West | [Zip ↓](https://github.com/ChBrain/Autobahn/releases/latest/download/autobahn-a25.zip) · [PDF ↓](https://github.com/ChBrain/Autobahn/releases/latest/download/autobahn-a25.pdf) |
 | **A255** - Neue Elbbrücken - Kreuz Hamburg-Süd | [Zip ↓](https://github.com/ChBrain/Autobahn/releases/latest/download/autobahn-a255.zip) · [PDF ↓](https://github.com/ChBrain/Autobahn/releases/latest/download/autobahn-a255.pdf) |
 | **A261** - Dreieck Hamburg-Südwest - Hamburg-Marmstorf | [Zip ↓](https://github.com/ChBrain/Autobahn/releases/latest/download/autobahn-a261.zip) · [PDF ↓](https://github.com/ChBrain/Autobahn/releases/latest/download/autobahn-a261.pdf) |

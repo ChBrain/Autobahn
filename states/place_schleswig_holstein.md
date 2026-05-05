@@ -112,7 +112,7 @@ Northbound from Hamburg: the Schnelsen tunnels end. The density drops immediatel
   - [Pinneberg-Süd](place_a23_18_pinneberg_sued.md)
   - [Halstenbek/Rellingen](place_a23_19_halstenbek_rellingen.md)
   - [Halstenbek-Krupunder](place_a23_20_halstenbek_krupunder.md)
-- [A24](place_a24.md) - Hamburg-Horn to Gudow, Hamburg-Berlin Corridor
+- [A24](place_a24.md) - Kreuz Hamburg-Ost to Gudow (SH section, Hamburg-Berlin Corridor)
   * [km 6.6](piece_the_kilometerstein.md): [Kreuz Hamburg-Ost](place_a24_03_kreuz_hamburg_ost.md)
   * [km 10.9](piece_the_kilometerstein.md): [Reinbek](place_a24_04_reinbek.md)
   * [km 17.4](piece_the_kilometerstein.md): [Witzhave](place_a24_05_witzhave.md)

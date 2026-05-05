@@ -93,7 +93,7 @@ The Ostseeautobahn dominates the state. The A20 runs 322 kilometres east-west fr
 The A20 provides the state's primary backbone for east-west traffic. Low traffic density - among the lowest of any German state. Access to Baltic ferry connections at Rostock and Stralsund. The straightness of the road is matched only by the emptiness beyond it. Direct route to Poland.
 
 ## Withheld
-The Baltic coast - within 30 km of most of the A20, not visible from it. The Robel gap: 24 km between Kröpelin (km 126) and Bad Doberan (km 137) with no exits, crossing the Muritz Lake region. The Bodden lagoons east of Stralsund: the road crosses the Stralsund bridge and the water is briefly present. The depopulation since 1990 - villages 5 km from exits where population declined and has not returned. Ferry terminals at Rostock and Stralsund: reachable but not visible from the motorway.
+The Baltic coast - within 30 km of most of the A20, not visible from it. The Bodden lagoons east of Stralsund: the road crosses the Stralsund bridge and the water is briefly present. The depopulation since 1990 - villages 5 km from exits where population declined and has not returned. Ferry terminals at Rostock and Stralsund: reachable but not visible from the motorway. The A19's 24 km exit-free stretch between Röbel/Müritz and the Brandenburg border - the longest in Germany - crossed in silence.
 
 ---
 
