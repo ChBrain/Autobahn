@@ -14,6 +14,7 @@ The Polish border approach. The A11 runs north-south from the Polish border at P
 
 ### Brandenburg (place_brandenburg.md)
 * [km 20.0](piece_the_kilometerstein.md): [Schmölln](place_a11_03_schmoelln.md).
+* [km 37](piece_the_kilometerstein.md): [Kreuz Uckermark](place_a11_kreuz_uckermark.md).
 
 ## Offers
 Direct access to Poland and the Oder river crossing. The border infrastructure and the roads built over dismantled bunker networks. The landscape where division created infrastructure from military fortification.
