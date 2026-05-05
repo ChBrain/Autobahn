@@ -10,7 +10,7 @@ Bundesstraße 189 junction. Wittstock: the end of the 24-kilometre gap, the Bran
 ## Holds
 [km 125.0](piece_the_kilometerstein.md): Wittstock.
 * Gap: 24 km from [Röbel/Müritz](place_a19_18_roebel_mueritz.md) in Mecklenburg-Vorpommern.
-* [Dreieck Wittstock/Dosse](place_a19_21_dreieck_wittstock_dose.md) is immediately south on [A19](place_a19.md).
+* [Dreieck Wittstock/Dosse](place_a19_21_dreieck_wittstock_dosse.md) is immediately south on [A19](place_a19.md).
 
 ## Offers
 Ausfahrt 20 - Bundesstraße 189 toward Wittstock/Dosse and Brandenburg interior. The choice to leave the motorway after the gap. Regional connection to A24 interchange ahead.

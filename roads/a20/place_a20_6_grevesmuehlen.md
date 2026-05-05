@@ -10,7 +10,7 @@ The sign: Grevesmühlen. A small town between Wismar and the Klützer Ecke - the
 ## Holds
 [km 74.5](piece_the_kilometerstein.md): Grevesmühlen.
 * [Bobitz](place_a20_7_bobitz.md) is east on [A20](place_a20.md).
-* [Schönberg](place_a20_5_schoenbert.md) is west on [A20](place_a20.md).
+* [Schönberg](place_a20_5_schoenberg.md) is west on [A20](place_a20.md).
 
 ## Offers
 Ausfahrt 6 - the exit ramp toward Grevesmühlen and the Klützer Ecke.
