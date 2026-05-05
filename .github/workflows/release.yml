@@ -39,8 +39,9 @@ jobs:
 
       - name: Push version sync commit if created
         run: |
-          if [ "$(git log -1 --oneline)" != "$(git log -2 --oneline | tail -1)" ]; then
-            git push
+          AHEAD=$(git log origin/main..HEAD --oneline 2>/dev/null | wc -l)
+          if [ "$AHEAD" -gt 0 ]; then
+            git push origin HEAD:main
             echo "✓ Version sync pushed"
           else
             echo "No version sync needed"

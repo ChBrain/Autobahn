@@ -10,7 +10,7 @@ The junction where A19 terminates into A24. Dreieck Wittstock/Dosse - the end of
 ## Holds
 [km 128](piece_the_kilometerstein.md): Dreieck Wittstock/Dosse.
 * [A24](place_a24.md) connects here to Berlin.
-* [Wittstock](place_a19_20_wittstock.md) is north on [A19](place_a19.md).
+* [Wittstock](place_a19_20_wittstock_dosse.md) is north on [A19](place_a19.md).
 
 ## Offers
 Exit 21 - A24 interchange. Europastraße 55/E26 routing. Connection to Berlin's orbital network and onward to Poland.

@@ -10,7 +10,7 @@ Bundesstraße 198 junction. Röbel/Müritz is the last exit in Mecklenburg-Vorpo
 ## Holds
 [km 101](piece_the_kilometerstein.md): Röbel/Müritz.
 * [Waren (Müritz)](place_a19_17_waren_mueritz.md) is north on [A19](place_a19.md).
-* Gap: 24 km to [Wittstock](place_a19_20_wittstock.md) in Brandenburg.
+* Gap: 24 km to [Wittstock](place_a19_20_wittstock_dosse.md) in Brandenburg.
 
 ## Offers
 Ausfahrt 18 - Bundesstraße 198 toward Röbel and final Müritz access. The last exit before Brandenburg. The choice: leave now or commit to the 24 km gap.
