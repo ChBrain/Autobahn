@@ -16,9 +16,9 @@ The sign: Grimmen-Ost. The eastern exit for Grimmen - the road here moving throu
 Ausfahrt 23 - the exit ramp toward Grimmen east and Greifswald.
 
 ## Withheld
-In einer Tongrube bei Klein Lehmhagen, direkt vor der Stadt, fanden Arbeiter 1963 die Überreste eines gepanzerten Dinosauriers -- Emausaurus ernsti, früher Jura, 180 Millionen Jahre alt. Weltweit der erste Fund dieser Art. Die Tongrube ist heute ein Baggersee. Der Dinosaurier liegt in Greifswald.
+In 1963 workers in a clay pit at Klein Lehmhagen, just outside the town, found the remains of an armoured dinosaur -- Emausaurus ernsti, Early Jurassic, 180 million years old. The first specimen of its kind anywhere. The clay pit has since become a flooded lake. The dinosaur is now in Greifswald.
 
-Was ihn hierherbrachte: die Eiszeit. Die Gletscher schoben einen riesigen Tonsedimentkörper mit jurassischen Ablagerungen über diese Landschaft. Die Trebel, die hier entspringt, fließt durch dasselbe Material.
+What brought it here was the ice age. The glaciers pushed a vast body of clay sediment with Jurassic deposits across this landscape. The Trebel, which rises near here, drains the same material.
 
 ---
 

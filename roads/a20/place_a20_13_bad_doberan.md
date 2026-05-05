@@ -16,9 +16,9 @@ The sign: Bad Doberan. A small spa town between Rostock and Kröpelin - the road
 Ausfahrt 13 - the exit ramp toward Bad Doberan and the Doberaner Münster.
 
 ## Withheld
-Der Doberaner Münster steht seit 1368 -- ehemaliges Zisterzienserkloster, Grablege der mecklenburgischen Herzöge, einer der bedeutendsten Backsteinbauten des Ostseeraums. 85 Prozent der mittelalterlichen Originalausstattung sind erhalten. Im Dreißigjährigen Krieg als Stall genutzt -- ein Herzog intervenierte und rettete die Grablege seiner Vorfahren. Die Kirche steht noch. Die Herzöge nicht.
+The Doberaner Münster has stood since 1368 -- former Cistercian abbey, burial place of the Mecklenburg dukes, one of the most significant brick buildings on the Baltic. Eighty-five percent of the medieval original fittings have survived. During the Thirty Years' War the church was used as a stable -- one duke intervened and saved his ancestors' tombs. The church remains. The dukes do not.
 
-Wenige Kilometer nördlich liegt Heiligendamm -- 1793 das erste Seebad Deutschlands, angelegt vom Großherzog für den Adel der Kurstadt. Die weiße Villenreihe an der Küste steht noch. Der Adel ist weg.
+A few kilometres north lies Heiligendamm -- founded 1793 as the first seaside resort in Germany, laid out by the grand duke for the nobility of the spa town. The white row of villas along the coast is intact. The nobility is gone.
 
 ---
 

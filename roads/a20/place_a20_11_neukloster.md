@@ -16,9 +16,9 @@ The sign: Neukloster. A small town east of Wismar - the road here running throug
 Ausfahrt 11 - the exit ramp toward Neukloster.
 
 ## Withheld
-Der Ort heißt nach dem Kloster. 1219 gegründet, Zisterzienser, auf Initiative der Herzogin Anastasia -- einer russischen Fürstin aus Nowgorod, die ihre Frömmigkeit in die gerade christianisierte Mecklenburger Landschaft einschrieb. 1552 aufgelöst, Besitz an den Herzog, Nonnen ausgezahlt. Die Kirche steht noch.
+The town takes its name from the abbey. Founded 1219, Cistercian, on the initiative of Duchess Anastasia -- a Russian princess from Novgorod who wrote her piety into a just-Christianised Mecklenburg landscape. Dissolved in 1552; the estate passed to the duke, the nuns were paid off. The church survives.
 
-Was weniger sichtbar ist: die Zisterzienser haben die Landschaft hier gemacht. Sümpfe entwässert, Teiche angelegt, Wälder gerodet -- systematische Landschaftsveränderung als Ordensregel. Was heute als typisch mecklenburgisch gilt, ist teilweise ihre Ingenieursarbeit aus dem 13. Jahrhundert.
+Less visible: the Cistercians made this landscape. They drained marshes, laid out ponds, cleared forests -- systematic land engineering as part of the order's rule. Much of what reads as typically Mecklenburgish today is in part their thirteenth-century work.
 
 ---
 

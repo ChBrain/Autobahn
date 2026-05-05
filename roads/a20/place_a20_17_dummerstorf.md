@@ -16,7 +16,7 @@ The sign: Dummerstorf. A small community east of Rostock - flat agricultural lan
 Ausfahrt 17 - the exit ramp toward Dummerstorf.
 
 ## Withheld
-Das Gutshaus steht seit 1717 -- gebaut von der Familie von Preen, einem der alten mecklenburgischen Adelsgeschlechter. 1905 verkauft aus wirtschaftlicher Not an einen peruanischen Diplomaten. 1933 zwangsverkauft an den NS-Staat. In der DDR Sitz der Gemeindeverwaltung, Sparkasse, Post. Seit 2007 saniert und bewohnt. Vier Systeme sind durch dieses Haus gegangen. Das Haus steht noch.
+The manor house has been here since 1717 -- built by the von Preen family, one of the old Mecklenburg noble lines. Sold in 1905 under financial pressure to a Peruvian diplomat. Force-sold to the Nazi state in 1933. Under the GDR it housed the municipal administration, the savings bank, the post office. Renovated and reoccupied since 2007. Four systems have passed through this house. The house remains.
 
 ---
 

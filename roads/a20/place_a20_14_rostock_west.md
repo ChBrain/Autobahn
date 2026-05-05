@@ -16,7 +16,7 @@ The sign: Rostock-West. The western approach to the city - the road here enterin
 Ausfahrt 14 - the exit ramp toward Rostock city centre.
 
 ## Withheld
-Rostock war Hansestadt und blieb Hafenstadt. Im Mittelalter eine der bedeutendsten Handelsstädte der Ostsee -- eigene Münze, älteste Universität Nordeuropas, drittgrößte Segelschiff-Flotte Deutschlands noch Mitte des 19. Jahrhunderts. In der DDR dann das Gegenteil von Hanse: kein freier Handel, aber der einzige große Seehafen des Landes. Alles was rein und raus musste, lief hier durch. Die Stadt hatte keine Wahl. Der Hafen auch nicht.
+Rostock was a Hanseatic city and remained a port. In the Middle Ages one of the most important trading cities on the Baltic -- its own coinage, the oldest university in northern Europe, the third-largest sailing fleet in Germany as late as the mid-nineteenth century. Under the GDR the opposite of the Hanse: no free trade, but the country's only large seaport. Everything that had to come in or go out passed through here. The city had no choice. The port had none either.
 
 ---
 

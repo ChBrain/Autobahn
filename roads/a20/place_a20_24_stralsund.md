@@ -16,9 +16,9 @@ The sign: Stralsund. The road here approaching the Hanseatic city - the Baltic a
 Ausfahrt 24 - the exit ramp toward Stralsund and the Rügendamm.
 
 ## Withheld
-1628 belagerte Wallenstein Stralsund mit 30.000 Mann -- und scheiterte. Die Stadt hielt, mit schwedischer Hilfe. Wallenstein soll gesagt haben, er wolle sie nehmen wäre sie mit Ketten an den Himmel gebunden. Er kam nicht rein. Stralsund wurde danach schwedisch und blieb es 167 Jahre.
+In 1628 Wallenstein laid siege to Stralsund with 30,000 men -- and failed. The town held, with Swedish help. Wallenstein is said to have declared he would take it even if it were chained to the sky. He never got in. Stralsund became Swedish afterwards and stayed Swedish for 167 years.
 
-Von hier führt der Rügendamm auf die größte deutsche Insel. Wer hier abfährt ist in zwanzig Minuten auf Rügen. Die A20 läuft weiter nach Osten. Die meisten biegen ab.
+From here the Rügendamm leads onto Germany's largest island. Anyone leaving the motorway is on Rügen in twenty minutes. The A20 runs on east. Most drivers turn off.
 
 ---
 
