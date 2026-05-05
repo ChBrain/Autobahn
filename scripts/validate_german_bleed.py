@@ -76,6 +76,16 @@ WEAK_TOKENS = [
 ]
 WEAK_TOKEN_THRESHOLD = 3
 
+# Regions flagged "in development" in README.md. Their files are exempt
+# from German-bleed validation until the region is finished and rewritten
+# into English alongside the rest of its bundle. Drop a directory from
+# this set when its English pass is complete.
+EXEMPT_DIRS = {
+    "roads/a111",   # Berlin, in development
+    "roads/a115",   # Berlin, in development
+    "roads/a40",    # Nordrhein-Westfalen, in development
+}
+
 SECTION_RE = re.compile(
     r"^##\s+(\S.*?)\r?\n(.*?)(?=^##\s+|\Z)",
     re.MULTILINE | re.DOTALL,
@@ -114,8 +124,20 @@ def has_german_bleed(text: str) -> tuple[bool, str]:
     return False, ""
 
 
+def _is_exempt(path: Path) -> bool:
+    """Return True when path falls inside an in-development region."""
+    try:
+        rel = path.resolve().relative_to(ROOT.resolve())
+    except ValueError:
+        return False
+    rel_str = rel.as_posix()
+    return any(rel_str.startswith(d + "/") for d in EXEMPT_DIRS)
+
+
 def validate(path: Path) -> list[Issue]:
     """Per-file entry for the orchestrator. Returns at most one Issue."""
+    if _is_exempt(path):
+        return []
     try:
         text = path.read_text(encoding="utf-8")
     except (UnicodeDecodeError, OSError):
@@ -133,6 +155,8 @@ def main() -> int:
     try:
         for place_file in sorted(ROOT.rglob("place_*.md")):
             if ".git" in place_file.parts:
+                continue
+            if _is_exempt(place_file):
                 continue
             try:
                 text = place_file.read_text(encoding="utf-8")
