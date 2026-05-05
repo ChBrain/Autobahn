@@ -31,7 +31,7 @@ The tolled tunnel: 790 metres under the Warnow, the only section of German Autob
 * [km 101](piece_the_kilometerstein.md): [Röbel/Müritz](place_a19_18_roebel_mueritz.md).
 
 ### Brandenburg (place_brandenburg.md)
-* [km 125.0](piece_the_kilometerstein.md): [Wittstock](place_a19_20_wittstock.md).
+* [km 125.0](piece_the_kilometerstein.md): [Wittstock](place_a19_20_wittstock_dosse.md).
 * [km 128](piece_the_kilometerstein.md): [Dreieck Wittstock/Dosse](place_a19_21_dreieck_wittstock_dose.md).
 
 
