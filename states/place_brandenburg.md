@@ -12,6 +12,9 @@ The Berliner Ring - the A10 - circling the invisible city through Brandenburg. F
 ## Holds
 - [the A115](../roads/a115/place_the_a115.md) crosses briefly into Brandenburg at its southern end - Dreieck Nuthetal lies 600 metres beyond the Berlin border
 
+- [the A24](place_a24.md) - Hamburg-Berlin Corridor, Brandenburg section
+  * [km 143.0](piece_the_kilometerstein.md): [Putlitz](place_a24_17_putlitz.md)
+
 ## Offers
 Mostly unrestricted speed outside the Berlin ring. Low traffic density compared to western states. Good road surface on the A10/A11 ring routes. The road quiet enough that the distance becomes abstract.
 

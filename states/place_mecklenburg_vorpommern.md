@@ -78,6 +78,17 @@ The Ostseeautobahn dominates the state. The A20 runs 322 kilometres east-west fr
   * [km 68.1](piece_the_kilometerstein.md): [Ludwigslust](place_a14_08_ludwigslust.md)
   * [km 73.5](piece_the_kilometerstein.md): [Grabow](place_a14_09_grabow.md)
 
+- [A24](place_a24.md) - Hamburg-Berlin Corridor, Gallin to Suckow (MV section)
+  * [km 52.6](piece_the_kilometerstein.md): [Gallin](place_a24_9a_gallin.md)
+  * [km 56.5](piece_the_kilometerstein.md): [Zarrentin](place_a24_9b_zarrentin.md)
+  * [km 69.7](piece_the_kilometerstein.md): [Wittenburg](place_a24_10_wittenburg.md)
+  * [km 81.6](piece_the_kilometerstein.md): [Hagenow](place_a24_11_hagenow.md)
+  * [km 98.3](piece_the_kilometerstein.md): [Wöbbelin](place_a24_12_woebbelin.md)
+  * [km 100.0](piece_the_kilometerstein.md): [Kreuz Schwerin](place_a24_13_kreuz_schwerin.md)
+  * [km 109.0](piece_the_kilometerstein.md): [Neustadt-Glewe](place_a24_14_neustadt_glewe.md)
+  * [km 121.0](piece_the_kilometerstein.md): [Parchim](place_a24_15_parchim.md)
+  * [km 135.0](piece_the_kilometerstein.md): [Suckow](place_a24_16_suckow.md)
+
 ## Offers
 The A20 provides the state's primary backbone for east-west traffic. Low traffic density - among the lowest of any German state. Access to Baltic ferry connections at Rostock and Stralsund. The straightness of the road is matched only by the emptiness beyond it. Direct route to Poland.
 
