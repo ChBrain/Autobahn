@@ -51,7 +51,7 @@ This document sequences **all ~115 German Autobahnen** into operational phases. 
 | **004** | **A19** | Mecklenburg-Vorpommern | Complete: Rostock (km 0.0) to Brandenburg border (km 128), 20 exits with full narrative content | 2-3 | ✓ COMPLETE: Warnowtunnel (only tolled Autobahn section), Kavelstorf sandsturm 2011 (8 dead), Röbel gap (24 km longest exit-free), Battle of Wittstock 1636, Jewish emancipation history | Röbel/Müritz (km 101) → Brandenburg border (km 128) |
 | **005** | **A11** | Mecklenburg-Vorpommern | Polish border, Pomellen to Penkun (MV) + Schmölln (Brandenburg) | 1 | ✓ COMPLETE: 2 MV exits + 1 Brandenburg exit, pre-war Reichsautobahn surface rebuilt, Penkun castle museum (1190 Pomeranian fortress, restored 1992-2001) | Penkun → Schmölln → Kreuz Uckermark |
 | **006** | **A14** | Mecklenburg-Vorpommern | Schwerin region, Kritzow to Ludwigslust (MV) + Gross Warnow (Brandenburg) | 1 | ✓ COMPLETE: 8 MV exits + 1 Brandenburg exit, Schwerin Schloss (ducal palace 1471+, DDR expropriation to 1990s), Schweriner See | Ludwigslust → Grabow → Gross Warnow |
-| **007** | **A24** | Mecklenburg-Vorpommern | Southwest corridor, Zarrentin through Suckow | 1-2 | 7 exits, DDR-built/West-paid, pre-war bridges replaced | **Mecklenburg-Vorpommern Complete** |
+| **007** | **A24** | Multi-state | Southwest corridor Hamburg-Berlin, 19 exits across all 4 states: 2 Hamburg + 7 Schleswig-Holstein + 9 Mecklenburg-Vorpommern + 1 Brandenburg (Gallin to Putlitz) | 1-2 | ✓ COMPLETE: Hamburg/SH/MV/Brandenburg sections integrated, all 19 exits with full narrative content, DDR-built/West-paid, pre-war bridges replaced | **Mecklenburg-Vorpommern Complete** |
 
 **Mecklenburg-Vorpommern State Complete after Phase 007** ✓
 
