@@ -16,9 +16,9 @@ The sign: Neukloster. A small town east of Wismar - the road here running throug
 Ausfahrt 11 - the exit ramp toward Neukloster.
 
 ## Withheld
-The town takes its name from the abbey. Founded 1219, Cistercian, on the initiative of Duchess Anastasia -- a Russian princess from Novgorod who wrote her piety into a just-Christianised Mecklenburg landscape. Dissolved in 1552; the estate passed to the duke, the nuns were paid off. The church survives.
+The town takes its name from the abbey. Founded 1219, Cistercian, on the initiative of Duchess Anastasia - a Russian princess from Novgorod who wrote her piety into a just-Christianised Mecklenburg landscape. Dissolved in 1552; the estate passed to the duke, the nuns were paid off. The church survives.
 
-Less visible: the Cistercians made this landscape. They drained marshes, laid out ponds, cleared forests -- systematic land engineering as part of the order's rule. Much of what reads as typically Mecklenburgish today is in part their thirteenth-century work.
+Less visible: the Cistercians made this landscape. They drained marshes, laid out ponds, cleared forests - systematic land engineering as part of the order's rule. Much of what reads as typically Mecklenburgish today is in part their thirteenth-century work.
 
 ---
 

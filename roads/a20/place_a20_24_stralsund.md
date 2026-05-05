@@ -16,7 +16,7 @@ The sign: Stralsund. The road here approaching the Hanseatic city - the Baltic a
 Ausfahrt 24 - the exit ramp toward Stralsund and the Rügendamm.
 
 ## Withheld
-In 1628 Wallenstein laid siege to Stralsund with 30,000 men -- and failed. The town held, with Swedish help. Wallenstein is said to have declared he would take it even if it were chained to the sky. He never got in. Stralsund became Swedish afterwards and stayed Swedish for 167 years.
+In 1628 Wallenstein laid siege to Stralsund with 30,000 men - and failed. The town held, with Swedish help. Wallenstein is said to have declared he would take it even if it were chained to the sky. He never got in. Stralsund became Swedish afterwards and stayed Swedish for 167 years.
 
 From here the Rügendamm leads onto Germany's largest island. Anyone leaving the motorway is on Rügen in twenty minutes. The A20 runs on east. Most drivers turn off.
 

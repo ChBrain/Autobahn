@@ -16,9 +16,9 @@ The sign: Sanitz. Open agricultural land east of Rostock - the road here running
 Ausfahrt 18 - the exit ramp toward Sanitz.
 
 ## Withheld
-Friedrich von Flotow was born in 1812 in Teutendorf, today a district of Sanitz -- composer of the opera Martha, the most-performed opera in the world through the second half of the nineteenth century. Paris, Vienna, St Petersburg: he lived on the great stages. He started here, between Rostock and the lake plateau. The village barely knows it.
+Friedrich von Flotow was born in 1812 in Teutendorf, today a district of Sanitz - composer of the opera Martha, the most-performed opera in the world through the second half of the nineteenth century. Paris, Vienna, St Petersburg: he lived on the great stages. He started here, between Rostock and the lake plateau. The village barely knows it.
 
-To the east the Mecklenburg lake plateau opens up -- over a thousand natural lakes, the largest contiguous lake region in Europe. The mention of Mecklenburg first calls up the Baltic. The lake plateau lies behind it -- larger than the coast, older, and entirely made of ice.
+To the east the Mecklenburg lake plateau opens up - over a thousand natural lakes, the largest contiguous lake region in Europe. The mention of Mecklenburg first calls up the Baltic. The lake plateau lies behind it - larger than the coast, older, and entirely made of ice.
 
 ---
 

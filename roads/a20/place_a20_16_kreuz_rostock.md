@@ -16,7 +16,7 @@ AS 16. Junction of the A20 and the A19. The A19 runs south toward Berlin. The A2
 Ausfahrt 16 - the junction with [A19](place_a19.md) toward Berlin.
 
 ## Withheld
-Until 1265 Rostock was three separate cities -- Altstadt, Mittelstadt, Neustadt -- each with its own markets, churches, rules. Then they joined together and drew a common wall around the lot. What grew together was not a homogeneous city but a pact between three communities that decided to become one. The wall held. So did the differences, for a long time.
+Until 1265 Rostock was three separate cities - Altstadt, Mittelstadt, Neustadt - each with its own markets, churches, rules. Then they joined together and drew a common wall around the lot. What grew together was not a homogeneous city but a pact between three communities that decided to become one. The wall held. So did the differences, for a long time.
 
 ---
 

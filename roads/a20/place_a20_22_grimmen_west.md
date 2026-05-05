@@ -16,9 +16,9 @@ The sign: Grimmen-West. A small town on the Trebel - the road here moving throug
 Ausfahrt 22 - the exit ramp toward Grimmen centre.
 
 ## Withheld
-Grimmen still has three intact medieval brick gates -- the Stralsund Gate, the Mill Gate, the Greifswald Gate, all from the 14th century. The war spared the old town. What the flames did not take still stands.
+Grimmen still has three intact medieval brick gates - the Stralsund Gate, the Mill Gate, the Greifswald Gate, all from the 14th century. The war spared the old town. What the flames did not take still stands.
 
-From 1695-1697, Mayor Johannes Flittner pursued women for witchcraft -- at least seven were burned. Not in the Middle Ages: in the Age of Enlightenment, while other cities had long since stopped. A memorial plaque hangs there today. The gates stand. The women do not.
+From 1695-1697, Mayor Johannes Flittner pursued women for witchcraft - at least seven were burned. Not in the Middle Ages: in the Age of Enlightenment, while other cities had long since stopped. A memorial plaque hangs there today. The gates stand. The women do not.
 
 ---
 

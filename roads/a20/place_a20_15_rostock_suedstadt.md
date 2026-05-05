@@ -16,9 +16,9 @@ The sign: Rostock-Südstadt. The southern city exit - the road here passing thro
 Ausfahrt 15 - the exit ramp toward Rostock Südstadt.
 
 ## Withheld
-In 1323 the city of Rostock bought the fishing village of Warnemünde -- to secure direct access to the Baltic and let no one else control the harbour entrance. The district is still part of Rostock today. The purchase was strategic, not sentimental.
+In 1323 the city of Rostock bought the fishing village of Warnemünde - to secure direct access to the Baltic and let no one else control the harbour entrance. The district is still part of Rostock today. The purchase was strategic, not sentimental.
 
-On the other side of the Warnow lies the Überseehafen -- under the GDR the gateway to the world for a country with no Western link. Everything imported arrived here. The cranes are still there. The flags have changed.
+On the other side of the Warnow lies the Überseehafen - under the GDR the gateway to the world for a country with no Western link. Everything imported arrived here. The cranes are still there. The flags have changed.
 
 ---
 

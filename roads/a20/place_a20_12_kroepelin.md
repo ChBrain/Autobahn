@@ -16,9 +16,9 @@ The sign: Kröpelin. A small town west of Bad Doberan - the road here running th
 Ausfahrt 12 - the exit ramp toward Kröpelin and the Baltic coast.
 
 ## Withheld
-Kröpelin sits on the Baltic Ridge -- the spine left by the last ice age, running diagonally across Mecklenburg. The hills are moraines, the lakes are kettle holes, the soils glacial. Everything visible was deposited twelve thousand years ago. The motorway cuts through the same material.
+Kröpelin sits on the Baltic Ridge - the spine left by the last ice age, running diagonally across Mecklenburg. The hills are moraines, the lakes are kettle holes, the soils glacial. Everything visible was deposited twelve thousand years ago. The motorway cuts through the same material.
 
-A few kilometres north lies the coast. Under the GDR a restricted zone -- no access, no development, watched beach. The closure preserved the shore. Almost no infrastructure, long stretches without buildings. The ice age shaped it. The GDR kept it.
+A few kilometres north lies the coast. Under the GDR a restricted zone - no access, no development, watched beach. The closure preserved the shore. Almost no infrastructure, long stretches without buildings. The ice age shaped it. The GDR kept it.
 
 ---
 

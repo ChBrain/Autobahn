@@ -16,7 +16,7 @@ The sign: Grimmen-Ost. The eastern exit for Grimmen - the road here moving throu
 Ausfahrt 23 - the exit ramp toward Grimmen east and Greifswald.
 
 ## Withheld
-In 1963 workers in a clay pit at Klein Lehmhagen, just outside the town, found the remains of an armoured dinosaur -- Emausaurus ernsti, Early Jurassic, 180 million years old. The first specimen of its kind anywhere. The clay pit has since become a flooded lake. The dinosaur is now in Greifswald.
+In 1963 workers in a clay pit at Klein Lehmhagen, just outside the town, found the remains of an armoured dinosaur - Emausaurus ernsti, Early Jurassic, 180 million years old. The first specimen of its kind anywhere. The clay pit has since become a flooded lake. The dinosaur is now in Greifswald.
 
 What brought it here was the ice age. The glaciers pushed a vast body of clay sediment with Jurassic deposits across this landscape. The Trebel, which rises near here, drains the same material.
 
