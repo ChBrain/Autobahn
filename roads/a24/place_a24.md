@@ -33,7 +33,7 @@ The southwest corridor from Hamburg through Schleswig-Holstein and Mecklenburg-V
 * [km 135](piece_the_kilometerstein.md): [Suckow](place_a24_16_suckow.md).
 
 ### Brandenburg (place_brandenburg.md)
-* [km 143](piece_the_kilometerstein.md): [Putlitz](place_a24_17_putliz.md).
+* [km 143](piece_the_kilometerstein.md): [Putlitz](place_a24_17_putlitz.md).
 
 ## Offers
 Direct connection Hamburg-Berlin through central MV. Access to regional centers (Zarrentin, Hagenow, Parchim). East-west traverse. Lakes landscape briefly visible - Schaalsee, Lewitz wetlands, regional access points.
